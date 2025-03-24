@@ -5,9 +5,18 @@
             "tournament_id": 0,
             "name": "BC* Gaming SA",
             "players": [
-                "BC* |Doritos",
-                "BC* | Loko",
-                "BC* | Derrp"
+                {
+                    "name": "BC*|Doritos",
+                    "gamerTag": "#202GJJR28"
+                },
+                {
+                    "name": "BC*|Loko",
+                    "gamerTag": "#YQLP8LP8"
+                },
+                {
+                    "name": "BC*|Derrp",
+                    "gamerTag": "#2QG9LQQC8Y"
+                }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/BC* Gaming SA.png"
         },
@@ -16,9 +25,18 @@
             "tournament_id": 0,
             "name": "Olimpo Squad",
             "players": [
-                "OS|Cauebr",
-                "IceCrow 🐐",
-                "OS|Wesley"
+                {
+                    "name": "OS|Cauebr",
+                    "gamerTag": "#JQ8L0YYL"
+                },
+                {
+                    "name": "OS|IceCrow",
+                    "gamerTag": "#9CPYUCGQC"
+                },
+                {
+                    "name": "OS|Wesley",
+                    "gamerTag": "#PLLRJC2V"
+                }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Olimpo Squad.png"
         },
@@ -27,9 +45,18 @@
             "tournament_id": 0,
             "name": "Alguém Segura",
             "players": [
-                "KING BRABO🎩",
-                "REI DO FUT 🏆",
-                "Golden Nasa💜"
+                {
+                    "name": "AS|BrabaoBS",
+                    "gamerTag": "#L9PQUV0YC"
+                },
+                {
+                    "name": "AS|REI DO FUT",
+                    "gamerTag": "#RVL0RPR9"
+                },
+                {
+                    "name": "AS|Golden",
+                    "gamerTag": "#9QCJPL20"
+                }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
@@ -38,9 +65,18 @@
             "tournament_id": 0,
             "name": "LOUD",
             "players": [
-                "LOUD|KaioDog",
-                "LOUD|Edinho",
-                "LOUD|FireCrow"
+                {
+                    "name": "LOUD|KaioDog",
+                    "gamerTag": "#GGUQCG0G"
+                },
+                {
+                    "name": "LOUD|Edinho",
+                    "gamerTag": "#QJULVGU"
+                },
+                {
+                    "name": "LOUD|FireCrow",
+                    "gamerTag": "#JQ8LLLY"
+                }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/LOUD.png"
         },
@@ -49,9 +85,18 @@
             "tournament_id": 0,
             "name": "SKCalalas SA",
             "players": [
-                "SKC | Dembele",
-                "SKC | Balotelli",
-                "SKC | Pogba"
+                {
+                    "name": "SKC|Rhz",
+                    "gamerTag": "#89PVJG9R0"
+                },
+                {
+                    "name": "SKC|Bryan",
+                    "gamerTag": "#9JYG98GG"
+                },
+                {
+                    "name": "SKC|Kristian",
+                    "gamerTag": "#PR0P8QVQ"
+                }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/SKCalalas SA.png"
         },
@@ -60,9 +105,18 @@
             "tournament_id": 0,
             "name": "Zurita Gang",
             "players": [
-                "Senbazuru",
-                "nadie me quiere",
-                "exic"
+                {
+                    "name": "ZRT|Jxcr",
+                    "gamerTag": "#820JCJJG"
+                },
+                {
+                    "name": "ZRT|Prozy",
+                    "gamerTag": "#GYCYCLRJL"
+                },
+                {
+                    "name": "ZRT|Exic",
+                    "gamerTag": "#RCYQUJU0"
+                }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Zurita Gang.png"
         },
@@ -71,9 +125,18 @@
             "tournament_id": 0,
             "name": "Legión Otaku",
             "players": [
-                "ポルトックス.",
-                "バスティアン",
-                "デイコン"
+                {
+                    "name": "LO|PortoxOwO",
+                    "gamerTag": "#YGQYGCR"
+                },
+                {
+                    "name": "LO|Bast",
+                    "gamerTag": "#2CJ0RCJ"
+                },
+                {
+                    "name": "LO|Deykonn",
+                    "gamerTag": "#GJPVYUQG"
+                }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Legión Otaku.png"
         },
@@ -82,9 +145,18 @@
             "tournament_id": 0,
             "name": "CASA BRAWL",
             "players": [
-                "CASA|Mohtep",
-                "CASA|Pekka",
-                "CASA|Jubileubr"
+                {
+                    "name": "CASA|Mohtep",
+                    "gamerTag": "#R2LR2QLG"
+                },
+                {
+                    "name": "CASA|Pekka",
+                    "gamerTag": "#JVRCVJ9Q"
+                },
+                {
+                    "name": "CASA|Jubileubr",
+                    "gamerTag": "#GVYLVUGR"
+                }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/CASA BRAWL.png"
         }
@@ -139,18 +211,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
                 "name": "BC* Gaming SA",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "261af00a-fd35-11ef-b782-92da91b7d15f",
                 "name": "Olimpo Squad",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261af00a-fd35-11ef-b782-92da91b7d15f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "261af00a-fd35-11ef-b782-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261af00a-fd35-11ef-b782-92da91b7d15f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "261af00a-fd35-11ef-b782-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261af00a-fd35-11ef-b782-92da91b7d15f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -159,18 +311,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "261d5390-fd35-11ef-aecc-92da91b7d15f",
                 "name": "Alguém Segura",
-                "seed": 4
+                "seed": 4,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "261c2394-fd35-11ef-b895-92da91b7d15f",
                 "name": "LOUD",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261d5390-fd35-11ef-aecc-92da91b7d15f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "261c2394-fd35-11ef-b895-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261d5390-fd35-11ef-aecc-92da91b7d15f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "261c2394-fd35-11ef-b895-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261d5390-fd35-11ef-aecc-92da91b7d15f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "261c2394-fd35-11ef-b895-92da91b7d15f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -179,18 +381,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
                 "name": "SKCalalas SA",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2619b06e-fd35-11ef-99f0-92da91b7d15f",
                 "name": "Zurita Gang",
-                "seed": 7
+                "seed": 7,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2619b06e-fd35-11ef-99f0-92da91b7d15f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2619b06e-fd35-11ef-99f0-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2619b06e-fd35-11ef-99f0-92da91b7d15f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2619b06e-fd35-11ef-99f0-92da91b7d15f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -199,18 +466,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "2618d446-fd35-11ef-86f6-92da91b7d15f",
                 "name": "Legión Otaku",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
                 "name": "CASA BRAWL",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "2618d446-fd35-11ef-86f6-92da91b7d15f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "2618d446-fd35-11ef-86f6-92da91b7d15f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "2618d446-fd35-11ef-86f6-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "2618d446-fd35-11ef-86f6-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "2618d446-fd35-11ef-86f6-92da91b7d15f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -219,14 +566,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
-                "id": null
+                "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                "name": "BC* Gaming SA",
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
-                "id": null
+                "id": "261c2394-fd35-11ef-b895-92da91b7d15f",
+                "name": "LOUD",
+                "seed": 5,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261c2394-fd35-11ef-b895-92da91b7d15f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "261c2394-fd35-11ef-b895-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "261c2394-fd35-11ef-b895-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261c2394-fd35-11ef-b895-92da91b7d15f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261c2394-fd35-11ef-b895-92da91b7d15f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -235,14 +666,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
-                "id": null
+                "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                "name": "SKCalalas SA",
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
-                "id": null
+                "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
+                "name": "CASA BRAWL",
+                "seed": 6,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261b8b5a-fd35-11ef-9411-92da91b7d15f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -251,14 +751,83 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
-                "id": null
+                "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                "name": "BC* Gaming SA",
+                "seed": 1,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
-                "id": null
+                "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                "name": "SKCalalas SA",
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "261cb598-fd35-11ef-bb3f-92da91b7d15f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "261a5500-fd35-11ef-8080-92da91b7d15f",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
