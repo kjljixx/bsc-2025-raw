@@ -25,6 +25,7 @@ jobs:
           fileName: 'ordo-linux64'
       - name: Run Elo Calculations
         run: |
+          mv ordo-linux64 ordo
           cd src
           python main.py ea
           python main.py emea
