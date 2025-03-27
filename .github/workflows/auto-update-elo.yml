@@ -4,7 +4,7 @@ on:
   push
 
 jobs:
-  commit:
+  auto-update-elo:
     permissions: write-all
     runs-on: 'ubuntu-22.04'
     steps:
@@ -23,7 +23,7 @@ jobs:
           repository: 'michiguel/Ordo'
           tag: '1.0'
           fileName: 'ordo-linux64'
-      - name: Rerun Elo Calculations
+      - name: Run Elo Calculations
         run: |
           cd src
           python main.py ea
@@ -34,6 +34,6 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: '-u'
-          message: 'Rerun Elo Calculations'
+          message: 'Update Elo Calculation Results'
           committer_name: 'GitHub Actions'
           committer_email: 'actions@github.com'
