@@ -26,6 +26,7 @@ jobs:
       - name: Run Elo Calculations
         run: |
           mv ordo-linux64 ordo
+          chmod +x ordo
           cd src
           python main.py ea
           python main.py emea
