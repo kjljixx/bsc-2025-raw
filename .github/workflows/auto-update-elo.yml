@@ -13,7 +13,7 @@ jobs:
         with:
           repository: 'kjljixx/BrawlElo'
           token: '${{secrets.BRAWLELO_WRITE}}'
-      - name: Checkout Data Repository
+      - name: Checkout Data Repository (This Repository)
         uses: actions/checkout@v4
         with:
           path: 'bsc-2025-raw'
