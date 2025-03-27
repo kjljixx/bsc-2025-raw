@@ -1,7 +1,8 @@
 name: auto-update-elo
 
 on:
-  push
+  push:
+  workflow_dispatch:
 
 jobs:
   auto-update-elo:
