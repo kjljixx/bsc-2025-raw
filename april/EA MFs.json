@@ -676,18 +676,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "62b5ded6-18e1-11f0-ac42-dac8117857b2",
                 "name": "NAVI",
-                "seed": 4
+                "seed": 4,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "62b557b8-18e1-11f0-ae71-dac8117857b2",
                 "name": "ZETA DIVISION",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "62b5ded6-18e1-11f0-ac42-dac8117857b2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "62b557b8-18e1-11f0-ae71-dac8117857b2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "62b5ded6-18e1-11f0-ac42-dac8117857b2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "62b557b8-18e1-11f0-ae71-dac8117857b2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "62b5ded6-18e1-11f0-ac42-dac8117857b2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "62b557b8-18e1-11f0-ae71-dac8117857b2",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
