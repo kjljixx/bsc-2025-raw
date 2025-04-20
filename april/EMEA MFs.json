@@ -481,18 +481,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "898b6a6a-1889-11f0-a2ec-22bce017ccff",
                 "name": "FUT Esports",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "898bed1e-1889-11f0-a2dd-22bce017ccff",
                 "name": "Eclipsar Esport",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "898b6a6a-1889-11f0-a2ec-22bce017ccff",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "898bed1e-1889-11f0-a2dd-22bce017ccff",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "898b6a6a-1889-11f0-a2ec-22bce017ccff",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "898bed1e-1889-11f0-a2dd-22bce017ccff",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "898b6a6a-1889-11f0-a2ec-22bce017ccff",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "898bed1e-1889-11f0-a2dd-22bce017ccff",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -501,7 +551,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "898c8526-1889-11f0-b201-22bce017ccff",
                 "name": "SK Gaming",
@@ -528,7 +578,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "898b6a6a-1889-11f0-a2ec-22bce017ccff",
+                "name": "FUT Esports",
+                "seed": 3
             },
             "match_games": []
         },
