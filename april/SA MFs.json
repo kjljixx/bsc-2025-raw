@@ -311,18 +311,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
                 "name": "Zurita Gang",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "de47b764-18a4-11f0-9f62-0eb5b2e69d7f",
                 "name": "SKCalalas SA",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "de47b764-18a4-11f0-9f62-0eb5b2e69d7f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "de47b764-18a4-11f0-9f62-0eb5b2e69d7f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "de47b764-18a4-11f0-9f62-0eb5b2e69d7f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de47b764-18a4-11f0-9f62-0eb5b2e69d7f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "de47b764-18a4-11f0-9f62-0eb5b2e69d7f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -378,7 +458,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                "name": "Zurita Gang",
+                "seed": 4
             },
             "match_games": []
         },
