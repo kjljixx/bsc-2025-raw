@@ -766,18 +766,98 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
                 "name": "Zurita Gang",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "de499db8-18a4-11f0-90a2-0eb5b2e69d7f",
                 "name": "LOUD",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "de499db8-18a4-11f0-90a2-0eb5b2e69d7f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "de499db8-18a4-11f0-90a2-0eb5b2e69d7f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de499db8-18a4-11f0-90a2-0eb5b2e69d7f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de499db8-18a4-11f0-90a2-0eb5b2e69d7f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de471d9a-18a4-11f0-b39d-0eb5b2e69d7f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de499db8-18a4-11f0-90a2-0eb5b2e69d7f",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
