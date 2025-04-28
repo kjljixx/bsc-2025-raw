@@ -666,18 +666,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ea9723ee-18c0-11f0-9437-42706e72cf32",
                 "name": "BC* Gaming",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ea97efb8-18c0-11f0-8386-42706e72cf32",
                 "name": "Pioneers",
-                "seed": 3
+                "seed": 3,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ea9723ee-18c0-11f0-9437-42706e72cf32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ea97efb8-18c0-11f0-8386-42706e72cf32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ea9723ee-18c0-11f0-9437-42706e72cf32",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ea97efb8-18c0-11f0-8386-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ea9723ee-18c0-11f0-9437-42706e72cf32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ea97efb8-18c0-11f0-8386-42706e72cf32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ea9723ee-18c0-11f0-9437-42706e72cf32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ea97efb8-18c0-11f0-8386-42706e72cf32",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -693,7 +758,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "ea9723ee-18c0-11f0-9437-42706e72cf32",
+                "name": "BC* Gaming",
+                "seed": 2
             },
             "match_games": []
         }
