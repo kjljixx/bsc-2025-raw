@@ -43798,18 +43798,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c8b13bc-3bea-11f0-9458-6eac04d6613b",
                 "name": "M2 Demons",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8d06969a-3bea-11f0-9a1e-6eac04d6613b",
                 "name": "Oxsis",
-                "seed": 73
+                "seed": 73,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8c8b13bc-3bea-11f0-9458-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8d06969a-3bea-11f0-9a1e-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8c8b13bc-3bea-11f0-9458-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8d06969a-3bea-11f0-9a1e-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 968,
@@ -44578,18 +44613,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ec44b92a-3da7-11f0-b128-6eac04d6613b",
                 "name": "Grank",
-                "seed": 515
+                "seed": 515,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8c4f1eca-3bea-11f0-9dda-6eac04d6613b",
                 "name": "TGS",
-                "seed": 67
+                "seed": 67,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "ec44b92a-3da7-11f0-b128-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8c4f1eca-3bea-11f0-9dda-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "ec44b92a-3da7-11f0-b128-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8c4f1eca-3bea-11f0-9dda-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 986,
@@ -44973,7 +45043,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8d06969a-3bea-11f0-9a1e-6eac04d6613b",
+                "name": "Oxsis",
+                "seed": 73
             },
             "opponent2": {
                 "id": null
@@ -45137,10 +45209,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ec44b92a-3da7-11f0-b128-6eac04d6613b",
+                "name": "Grank",
+                "seed": 515
             },
             "opponent2": {
-                "id": null
+                "id": "270a8742-3f29-11f0-8e8a-6eac04d6613b",
+                "name": "Real Ones",
+                "seed": 355
             },
             "match_games": []
         },
