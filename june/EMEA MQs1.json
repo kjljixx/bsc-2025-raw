@@ -95647,18 +95647,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f1d7e2bc-3e25-11f0-9f5e-6eac04d6613b",
                 "name": "LUX Gaming",
-                "seed": 992
+                "seed": 992,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0120e2e2-417c-11f0-9877-6a2ecef9ff2d",
                 "name": "GTL PARLIAMENT",
-                "seed": 736
+                "seed": 736,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f1d7e2bc-3e25-11f0-9f5e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0120e2e2-417c-11f0-9877-6a2ecef9ff2d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "f1d7e2bc-3e25-11f0-9f5e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0120e2e2-417c-11f0-9877-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1800,
@@ -96147,18 +96182,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e4542134-4067-11f0-a8eb-6a2ecef9ff2d",
                 "name": "Goldmine",
-                "seed": 1416
+                "seed": 1416,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3ef33bb2-3e23-11f0-a143-6eac04d6613b",
                 "name": "OFE-Gaming",
-                "seed": 648
+                "seed": 648,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e4542134-4067-11f0-a8eb-6a2ecef9ff2d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3ef33bb2-3e23-11f0-a143-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e4542134-4067-11f0-a8eb-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ef33bb2-3e23-11f0-a143-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "e4542134-4067-11f0-a8eb-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ef33bb2-3e23-11f0-a143-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1811,
@@ -96953,18 +97038,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b6d9486-430f-11f0-a7f1-827ca9af2553",
                 "name": "Bulgarian Talents",
-                "seed": 1572
+                "seed": 1572,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4c0adf30-3be9-11f0-b730-6eac04d6613b",
                 "name": "FecondaTORI",
-                "seed": 221
+                "seed": 221,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "0b6d9486-430f-11f0-a7f1-827ca9af2553",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4c0adf30-3be9-11f0-b730-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0b6d9486-430f-11f0-a7f1-827ca9af2553",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4c0adf30-3be9-11f0-b730-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "0b6d9486-430f-11f0-a7f1-827ca9af2553",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4c0adf30-3be9-11f0-b730-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1832,
@@ -97504,18 +97639,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5c48f58a-3be9-11f0-bac8-6eac04d6613b",
                 "name": "Lonely Stars",
-                "seed": 453
+                "seed": 453,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5f3ed804-3da1-11f0-b6cf-0ab646d3248d",
                 "name": "Mazalandia",
-                "seed": 828
+                "seed": 828,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5c48f58a-3be9-11f0-bac8-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5f3ed804-3da1-11f0-b6cf-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5c48f58a-3be9-11f0-bac8-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5f3ed804-3da1-11f0-b6cf-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1844,
@@ -98329,18 +98499,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5baa5c04-3be9-11f0-8156-6eac04d6613b",
                 "name": "Wstawiam Jedynke",
-                "seed": 1599
+                "seed": 1599,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "58fa9e4c-3be9-11f0-8587-6eac04d6613b",
                 "name": "Shadow Flux",
-                "seed": 194
+                "seed": 194,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5baa5c04-3be9-11f0-8156-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "58fa9e4c-3be9-11f0-8587-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5baa5c04-3be9-11f0-8156-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "58fa9e4c-3be9-11f0-8587-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "5baa5c04-3be9-11f0-8156-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "58fa9e4c-3be9-11f0-8587-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1860,
@@ -101114,10 +101334,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f1d7e2bc-3e25-11f0-9f5e-6eac04d6613b",
+                "name": "LUX Gaming",
+                "seed": 992
             },
             "opponent2": {
-                "id": null
+                "id": "8ba67b8e-4370-11f0-bbcf-d6bd8b774a58",
+                "name": "Don’t loose first r1",
+                "seed": 417
             },
             "match_games": []
         },
@@ -101406,10 +101630,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0b6d9486-430f-11f0-a7f1-827ca9af2553",
+                "name": "Bulgarian Talents",
+                "seed": 1572
             },
             "opponent2": {
-                "id": null
+                "id": "5d51b534-3be9-11f0-8690-6eac04d6613b",
+                "name": "Nemesis",
+                "seed": 93
             },
             "match_games": []
         },
@@ -101514,10 +101742,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5f3ed804-3da1-11f0-b6cf-0ab646d3248d",
+                "name": "Mazalandia",
+                "seed": 828
             },
             "opponent2": {
-                "id": null
+                "id": "c2e8d4e0-4260-11f0-b311-6a2ecef9ff2d",
+                "name": "vMoove Clown",
+                "seed": 444
             },
             "match_games": []
         },
@@ -101668,10 +101900,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5baa5c04-3be9-11f0-8156-6eac04d6613b",
+                "name": "Wstawiam Jedynke",
+                "seed": 1599
             },
             "opponent2": {
-                "id": null
+                "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
+                "name": "Amnesia E-Sport",
+                "seed": 66
             },
             "match_games": []
         },
