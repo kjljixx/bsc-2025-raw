@@ -35056,18 +35056,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8d64d05c-3bea-11f0-b749-6eac04d6613b",
                 "name": "Cobra Jets",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "27d54d60-3dda-11f0-b3ee-6eac04d6613b",
                 "name": "THE NERD SQUAD",
-                "seed": 233
+                "seed": 233,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "8d64d05c-3bea-11f0-b749-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27d54d60-3dda-11f0-b3ee-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8d64d05c-3bea-11f0-b749-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27d54d60-3dda-11f0-b3ee-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 798,
@@ -35676,18 +35711,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aec61e90-3d98-11f0-b049-0ab646d3248d",
                 "name": "WRM Clan",
-                "seed": 485
+                "seed": 485,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a0de864a-43a7-11f0-93a8-d6bd8b774a58",
                 "name": "PEREGRINE FALCONS",
-                "seed": 284
+                "seed": 284,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "aec61e90-3d98-11f0-b049-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a0de864a-43a7-11f0-93a8-d6bd8b774a58",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "aec61e90-3d98-11f0-b049-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a0de864a-43a7-11f0-93a8-d6bd8b774a58",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 822,
@@ -36256,18 +36326,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "926e640a-3bea-11f0-b0dc-6eac04d6613b",
                 "name": "Team Wolvate NA",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8e316eb4-3bea-11f0-87bc-6eac04d6613b",
                 "name": "Chejobs🧸",
-                "seed": 207
+                "seed": 207,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "926e640a-3bea-11f0-b0dc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e316eb4-3bea-11f0-87bc-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "926e640a-3bea-11f0-b0dc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e316eb4-3bea-11f0-87bc-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 844,
@@ -36276,18 +36381,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "90158922-3bea-11f0-9f72-6eac04d6613b",
                 "name": "Eternal Esports",
-                "seed": 79
+                "seed": 79,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cc6176d6-3ef9-11f0-97e7-6eac04d6613b",
                 "name": "Radiant Starlight",
-                "seed": 335
+                "seed": 335,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "90158922-3bea-11f0-9f72-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cc6176d6-3ef9-11f0-97e7-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "90158922-3bea-11f0-9f72-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cc6176d6-3ef9-11f0-97e7-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 845,
@@ -36656,11 +36796,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8cd18c7a-3bea-11f0-9c73-6eac04d6613b",
                 "name": "Royals",
-                "seed": 90
+                "seed": 90,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "8f613e7c-3bea-11f0-88c2-6eac04d6613b",
@@ -36967,18 +37108,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c4f1eca-3bea-11f0-9dda-6eac04d6613b",
                 "name": "TGS",
-                "seed": 67
+                "seed": 67,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3271cb4e-4321-11f0-9089-e6756ed475df",
                 "name": "ADNAAAN",
-                "seed": 190
+                "seed": 190,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "8c4f1eca-3bea-11f0-9dda-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3271cb4e-4321-11f0-9089-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8c4f1eca-3bea-11f0-9dda-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3271cb4e-4321-11f0-9089-e6756ed475df",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 869,
@@ -37557,18 +37733,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c6774f2-3bea-11f0-b25e-6eac04d6613b",
                 "name": "War Bringers",
-                "seed": 38
+                "seed": 38,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1e81848a-43b7-11f0-aaeb-aa240157cd11",
                 "name": "yEaH",
-                "seed": 294
+                "seed": 294,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "8c6774f2-3bea-11f0-b25e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e81848a-43b7-11f0-aaeb-aa240157cd11",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8c6774f2-3bea-11f0-b25e-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1e81848a-43b7-11f0-aaeb-aa240157cd11",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8c6774f2-3bea-11f0-b25e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e81848a-43b7-11f0-aaeb-aa240157cd11",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 888,
@@ -37697,18 +37923,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "92902dc4-3bea-11f0-8062-6eac04d6613b",
                 "name": "Fishi",
-                "seed": 107
+                "seed": 107,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e5eda36a-3f38-11f0-b5c8-0ab646d3248d",
                 "name": "Destiny",
-                "seed": 363
+                "seed": 363,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "92902dc4-3bea-11f0-8062-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e5eda36a-3f38-11f0-b5c8-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "92902dc4-3bea-11f0-8062-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e5eda36a-3f38-11f0-b5c8-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 895,
@@ -38001,7 +38262,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8d64d05c-3bea-11f0-b749-6eac04d6613b",
+                "name": "Cobra Jets",
+                "seed": 24
             },
             "opponent2": {
                 "id": null
@@ -38199,7 +38462,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a0de864a-43a7-11f0-93a8-d6bd8b774a58",
+                "name": "PEREGRINE FALCONS",
+                "seed": 284
             },
             "opponent2": {
                 "id": null
@@ -38379,10 +38644,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "926e640a-3bea-11f0-b0dc-6eac04d6613b",
+                "name": "Team Wolvate NA",
+                "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "cc6176d6-3ef9-11f0-97e7-6eac04d6613b",
+                "name": "Radiant Starlight",
+                "seed": 335
             },
             "match_games": []
         },
@@ -38484,7 +38753,9 @@
                 "seed": 39
             },
             "opponent2": {
-                "id": null
+                "id": "8f613e7c-3bea-11f0-88c2-6eac04d6613b",
+                "name": "515",
+                "seed": 167
             },
             "match_games": []
         },
@@ -38753,7 +39024,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8c6774f2-3bea-11f0-b25e-6eac04d6613b",
+                "name": "War Bringers",
+                "seed": 38
             },
             "opponent2": {
                 "id": null
