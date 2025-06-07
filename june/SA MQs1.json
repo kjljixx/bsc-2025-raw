@@ -39760,18 +39760,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c60f830-3bea-11f0-af8e-6eac04d6613b",
                 "name": "Luminary",
-                "seed": 159
+                "seed": 159,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "288a617e-3bea-11f0-81cb-6eac04d6613b",
                 "name": "Amostradinhos",
-                "seed": 95
+                "seed": 95,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2c60f830-3bea-11f0-af8e-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "288a617e-3bea-11f0-81cb-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2c60f830-3bea-11f0-af8e-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "288a617e-3bea-11f0-81cb-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 979,
