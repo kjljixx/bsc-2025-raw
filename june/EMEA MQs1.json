@@ -102996,18 +102996,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4b56a272-3be9-11f0-b56d-6eac04d6613b",
                 "name": "Eepy Cars",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e4542134-4067-11f0-a8eb-6a2ecef9ff2d",
                 "name": "Goldmine",
-                "seed": 1416
+                "seed": 1416,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "4b56a272-3be9-11f0-b56d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4542134-4067-11f0-a8eb-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "4b56a272-3be9-11f0-b56d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4542134-4067-11f0-a8eb-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1930,
@@ -103471,18 +103506,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
                 "name": "Okatsuta",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ade76970-3f14-11f0-b7bf-0ab646d3248d",
                 "name": "Wild Crew",
-                "seed": 941
+                "seed": 941,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ade76970-3f14-11f0-b7bf-0ab646d3248d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ade76970-3f14-11f0-b7bf-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1945,
@@ -104416,18 +104486,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f0e27f3a-3eb0-11f0-9144-0ab646d3248d",
                 "name": "Spiuk Friends",
-                "seed": 1510
+                "seed": 1510,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
                 "name": "FingerSleeves Gaming",
-                "seed": 102
+                "seed": 102,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "f0e27f3a-3eb0-11f0-9144-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "f0e27f3a-3eb0-11f0-9144-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1980,
@@ -104602,7 +104707,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4b56a272-3be9-11f0-b56d-6eac04d6613b",
+                "name": "Eepy Cars",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -105018,7 +105125,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
+                "name": "FingerSleeves Gaming",
+                "seed": 102
             },
             "opponent2": {
                 "id": null
