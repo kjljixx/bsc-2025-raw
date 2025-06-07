@@ -43928,18 +43928,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d072dfa0-4037-11f0-ac60-168de864875a",
                 "name": "GREG ESPORTS",
-                "seed": 484
+                "seed": 484,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "924f0970-3bea-11f0-a896-6eac04d6613b",
                 "name": "Emerald Entrails",
-                "seed": 221
+                "seed": 221,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "d072dfa0-4037-11f0-ac60-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "924f0970-3bea-11f0-a896-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "d072dfa0-4037-11f0-ac60-168de864875a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "924f0970-3bea-11f0-a896-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d072dfa0-4037-11f0-ac60-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "924f0970-3bea-11f0-a896-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 971,
@@ -45101,7 +45151,9 @@
                 "seed": 516
             },
             "opponent2": {
-                "id": null
+                "id": "d072dfa0-4037-11f0-ac60-168de864875a",
+                "name": "GREG ESPORTS",
+                "seed": 484
             },
             "match_games": []
         },
