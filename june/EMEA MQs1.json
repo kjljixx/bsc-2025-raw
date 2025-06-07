@@ -97338,18 +97338,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5366584a-3be9-11f0-bef0-6eac04d6613b",
                 "name": "Russian Grandmothers",
-                "seed": 45
+                "seed": 45,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
                 "name": "Okatsuta",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5366584a-3be9-11f0-bef0-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5366584a-3be9-11f0-bef0-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "5366584a-3be9-11f0-bef0-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1840,
@@ -97694,18 +97744,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5d333ed8-3be9-11f0-8935-6eac04d6613b",
                 "name": "NANI ACADEMY",
-                "seed": 92
+                "seed": 92,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4ded4f54-3be9-11f0-ac01-6eac04d6613b",
                 "name": "Infinity Gaming",
-                "seed": 165
+                "seed": 165,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5d333ed8-3be9-11f0-8935-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ded4f54-3be9-11f0-ac01-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5d333ed8-3be9-11f0-8935-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ded4f54-3be9-11f0-ac01-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1849,
@@ -101393,10 +101478,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
+                "name": "Okatsuta",
+                "seed": 301
             },
             "opponent2": {
-                "id": null
+                "id": "ade76970-3f14-11f0-b7bf-0ab646d3248d",
+                "name": "Wild Crew",
+                "seed": 941
             },
             "match_games": []
         },
@@ -101466,7 +101555,9 @@
                 "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "5d333ed8-3be9-11f0-8935-6eac04d6613b",
+                "name": "NANI ACADEMY",
+                "seed": 92
             },
             "match_games": []
         },
