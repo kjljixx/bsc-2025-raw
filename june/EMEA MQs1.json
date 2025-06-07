@@ -83771,18 +83771,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4e1ecae8-3be9-11f0-ba2d-6eac04d6613b",
                 "name": "JBK Esports 1",
-                "seed": 80
+                "seed": 80,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "39612756-3df4-11f0-ba76-0ab646d3248d",
                 "name": "LOVERZZ",
-                "seed": 592
+                "seed": 592,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "4e1ecae8-3be9-11f0-ba2d-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "39612756-3df4-11f0-ba76-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4e1ecae8-3be9-11f0-ba2d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39612756-3df4-11f0-ba76-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "4e1ecae8-3be9-11f0-ba2d-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "39612756-3df4-11f0-ba76-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1560,
@@ -92269,18 +92319,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5c5a8de0-3be9-11f0-885d-6eac04d6613b",
                 "name": "𝚂𝚊𝚖𝚋𝚊 𝚃𝚎𝚊𝚖",
-                "seed": 206
+                "seed": 206,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2b3bde4e-3d6f-11f0-936e-0ab646d3248d",
                 "name": "les zeub humides",
-                "seed": 1331
+                "seed": 1331,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "5c5a8de0-3be9-11f0-885d-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2b3bde4e-3d6f-11f0-936e-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "5c5a8de0-3be9-11f0-885d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b3bde4e-3d6f-11f0-936e-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5c5a8de0-3be9-11f0-885d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b3bde4e-3d6f-11f0-936e-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1751,
@@ -94553,7 +94653,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "39612756-3df4-11f0-ba76-0ab646d3248d",
+                "name": "LOVERZZ",
+                "seed": 592
             },
             "opponent2": {
                 "id": null
@@ -96406,7 +96508,9 @@
                 "seed": 1075
             },
             "opponent2": {
-                "id": null
+                "id": "5c5a8de0-3be9-11f0-885d-6eac04d6613b",
+                "name": "𝚂𝚊𝚖𝚋𝚊 𝚃𝚎𝚊𝚖",
+                "seed": 206
             },
             "match_games": []
         },
