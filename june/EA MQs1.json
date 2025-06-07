@@ -10254,18 +10254,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c7ace7da-3d71-11f0-bfc2-6eac04d6613b",
                 "name": "T.Res",
-                "seed": 197
+                "seed": 197,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
                 "name": "足羽組",
-                "seed": 188
+                "seed": 188,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "c7ace7da-3d71-11f0-bfc2-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c7ace7da-3d71-11f0-bfc2-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 155,
@@ -12010,7 +12045,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
+                "name": "足羽組",
+                "seed": 188
             },
             "match_games": []
         },
