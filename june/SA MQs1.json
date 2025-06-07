@@ -25434,18 +25434,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b75092fe-3e2c-11f0-b8f8-0ab646d3248d",
                 "name": "UpDyna",
-                "seed": 243
+                "seed": 243,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a5da4f20-4303-11f0-afab-0abc5cfa3912",
                 "name": "Pioneiros",
-                "seed": 270
+                "seed": 270,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "b75092fe-3e2c-11f0-b8f8-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a5da4f20-4303-11f0-afab-0abc5cfa3912",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "b75092fe-3e2c-11f0-b8f8-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a5da4f20-4303-11f0-afab-0abc5cfa3912",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 723,
