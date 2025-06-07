@@ -87859,18 +87859,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4bb4a8cc-3be9-11f0-a098-6eac04d6613b",
                 "name": "Eternality Gaming",
-                "seed": 101
+                "seed": 101,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c64ff110-4097-11f0-9b9d-168de864875a",
                 "name": "Invincible",
-                "seed": 1436
+                "seed": 1436,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "4bb4a8cc-3be9-11f0-a098-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c64ff110-4097-11f0-9b9d-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4bb4a8cc-3be9-11f0-a098-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c64ff110-4097-11f0-9b9d-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1644,
@@ -95974,10 +96009,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4bb4a8cc-3be9-11f0-a098-6eac04d6613b",
+                "name": "Eternality Gaming",
+                "seed": 101
             },
             "opponent2": {
-                "id": null
+                "id": "349b6096-3eea-11f0-b40a-0ab646d3248d",
+                "name": "Jam",
+                "seed": 869
             },
             "match_games": []
         },
