@@ -96682,18 +96682,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4b9f579c-3be9-11f0-8de6-6eac04d6613b",
                 "name": "ESP/YKings",
-                "seed": 597
+                "seed": 597,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fca40a20-3d73-11f0-b30d-6eac04d6613b",
                 "name": "GPE",
-                "seed": 1365
+                "seed": 1365,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4b9f579c-3be9-11f0-8de6-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fca40a20-3d73-11f0-b30d-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4b9f579c-3be9-11f0-8de6-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fca40a20-3d73-11f0-b30d-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1857,
