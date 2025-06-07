@@ -103396,18 +103396,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4e8f42d2-3be9-11f0-a8a3-6eac04d6613b",
                 "name": "Kit Too Far",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "63ba52fc-4079-11f0-92e3-168de864875a",
                 "name": "Skibidi",
-                "seed": 1420
+                "seed": 1420,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "4e8f42d2-3be9-11f0-a8a3-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "63ba52fc-4079-11f0-92e3-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "4e8f42d2-3be9-11f0-a8a3-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "63ba52fc-4079-11f0-92e3-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1950,
@@ -103556,18 +103591,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6af62e38-3bec-11f0-8055-6eac04d6613b",
                 "name": "FUT Academy",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0c19deaa-3fe3-11f0-839a-168de864875a",
                 "name": "Mood Gaming",
-                "seed": 1394
+                "seed": 1394,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "6af62e38-3bec-11f0-8055-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0c19deaa-3fe3-11f0-839a-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "6af62e38-3bec-11f0-8055-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0c19deaa-3fe3-11f0-839a-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1958,
@@ -104342,7 +104412,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4e8f42d2-3be9-11f0-a8a3-6eac04d6613b",
+                "name": "Kit Too Far",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
@@ -104406,7 +104478,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6af62e38-3bec-11f0-8055-6eac04d6613b",
+                "name": "FUT Academy",
+                "seed": 15
             },
             "opponent2": {
                 "id": null
