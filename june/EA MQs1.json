@@ -4893,11 +4893,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d440a336-3e04-11f0-be98-0ab646d3248d",
                 "name": "エース山﨑🎾",
-                "seed": 128
+                "seed": 128,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "718be658-3ebb-11f0-8941-0ab646d3248d",
@@ -4913,11 +4914,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f7b2a80-3ef2-11f0-8479-0ab646d3248d",
                 "name": "鳳中數資有個電競夢",
-                "seed": 64
+                "seed": 64,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "e0bb62b8-3d6e-11f0-9645-6eac04d6613b",
@@ -4933,7 +4935,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4db00270-3f7c-11f0-b699-6eac04d6613b",
                 "name": "INUYAN",
@@ -4942,7 +4944,8 @@
             "opponent2": {
                 "id": "6a6ce9a8-3f5b-11f0-81b6-6eac04d6613b",
                 "name": "D4C",
-                "seed": 192
+                "seed": 192,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -5213,11 +5216,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e89a6a74-3be8-11f0-8304-6eac04d6613b",
                 "name": "BEAST",
-                "seed": 49
+                "seed": 49,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "7fda9a48-3fff-11f0-9c43-6a2ecef9ff2d",
@@ -5233,7 +5237,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7a9571a-3be8-11f0-8142-6eac04d6613b",
                 "name": "ぶたぶす",
@@ -5242,7 +5246,8 @@
             "opponent2": {
                 "id": "83733996-3d64-11f0-9951-0ab646d3248d",
                 "name": "MKLPDJIUY",
-                "seed": 177
+                "seed": 177,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -5253,18 +5258,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e728daa4-3be8-11f0-b94b-6eac04d6613b",
                 "name": "HiHiHiHA",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "01c26766-42f3-11f0-a4b7-76ef1be9ccda",
                 "name": "地面師集団",
-                "seed": 240
+                "seed": 240,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e728daa4-3be8-11f0-b94b-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "01c26766-42f3-11f0-a4b7-76ef1be9ccda",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e728daa4-3be8-11f0-b94b-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "01c26766-42f3-11f0-a4b7-76ef1be9ccda",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 14,
@@ -5328,7 +5368,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e865b978-3be8-11f0-9042-6eac04d6613b",
                 "name": "Xtreme Gaming Nexus",
@@ -5337,7 +5377,8 @@
             "opponent2": {
                 "id": "9f180922-3db6-11f0-97dd-0ab646d3248d",
                 "name": "Miro",
-                "seed": 209
+                "seed": 209,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -5444,7 +5485,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e680d750-3be8-11f0-a995-6eac04d6613b",
                 "name": "SILENCE",
@@ -5453,7 +5494,8 @@
             "opponent2": {
                 "id": "874158d2-420f-11f0-9acb-6a2ecef9ff2d",
                 "name": "Melodious mellow",
-                "seed": 232
+                "seed": 232,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -5575,18 +5617,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33f42bf4-3df6-11f0-a6d1-6eac04d6613b",
                 "name": "Leaf tempo sea",
-                "seed": 120
+                "seed": 120,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6ca0fdac-3edb-11f0-8203-6eac04d6613b",
                 "name": "Blitzkrieg",
-                "seed": 137
+                "seed": 137,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "33f42bf4-3df6-11f0-a6d1-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ca0fdac-3edb-11f0-8203-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "33f42bf4-3df6-11f0-a6d1-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ca0fdac-3edb-11f0-8203-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 27,
@@ -5595,7 +5672,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29f526c0-4135-11f0-bf43-6a2ecef9ff2d",
                 "name": "チョンゲーミング",
@@ -5604,7 +5681,8 @@
             "opponent2": {
                 "id": "ba913108-3d78-11f0-9f25-0ab646d3248d",
                 "name": "JKS",
-                "seed": 201
+                "seed": 201,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -5615,7 +5693,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e88fd8d4-3be8-11f0-82a0-6eac04d6613b",
                 "name": "維維我偶像",
@@ -5624,7 +5702,8 @@
             "opponent2": {
                 "id": "628503ee-3ef5-11f0-af24-0ab646d3248d",
                 "name": "中軽米家",
-                "seed": 184
+                "seed": 184,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -5690,11 +5769,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b2befec2-3e10-11f0-b763-0ab646d3248d",
                 "name": "cosθ",
-                "seed": 105
+                "seed": 105,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
@@ -5730,11 +5810,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "78018d82-3f63-11f0-bd5a-6eac04d6613b",
                 "name": "ルッキーズ",
-                "seed": 88
+                "seed": 88,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "07382b86-3d62-11f0-94f3-0ab646d3248d",
@@ -5766,7 +5847,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "67e9554e-3ea8-11f0-a6b7-6eac04d6613b",
                 "name": "Tempura break",
@@ -5775,7 +5856,8 @@
             "opponent2": {
                 "id": "58b7c2b0-3e10-11f0-abe6-0ab646d3248d",
                 "name": "team@AKATEN",
-                "seed": 132
+                "seed": 132,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -5786,11 +5868,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e731be62-3be8-11f0-a353-6eac04d6613b",
                 "name": "APPLE",
-                "seed": 61
+                "seed": 61,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "8a8e9880-3f6f-11f0-8790-6eac04d6613b",
@@ -5806,7 +5889,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f7bcd346-3f69-11f0-a86f-6eac04d6613b",
                 "name": "Cucumber Brothers",
@@ -5815,7 +5898,8 @@
             "opponent2": {
                 "id": "ebd4dd5e-3d6a-11f0-ac52-0ab646d3248d",
                 "name": "光生",
-                "seed": 189
+                "seed": 189,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -5936,7 +6020,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e72304bc-3be8-11f0-8f1f-6eac04d6613b",
                 "name": "隨便湊一隊",
@@ -5945,7 +6029,8 @@
             "opponent2": {
                 "id": "4613a5d4-3dc5-11f0-b7f2-0ab646d3248d",
                 "name": "HKのもみあげ隊",
-                "seed": 221
+                "seed": 221,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -5956,18 +6041,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd525e32-3df6-11f0-a35d-6eac04d6613b",
                 "name": "Mr.ヤマル",
-                "seed": 93
+                "seed": 93,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8b638da6-3eac-11f0-9451-0ab646d3248d",
                 "name": "チームちげ",
-                "seed": 164
+                "seed": 164,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dd525e32-3df6-11f0-a35d-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8b638da6-3eac-11f0-9451-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "dd525e32-3df6-11f0-a35d-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8b638da6-3eac-11f0-9451-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -5992,11 +6112,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b1379ac-3df0-11f0-9cd6-0ab646d3248d",
                 "name": "RR",
-                "seed": 116
+                "seed": 116,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "43faa64e-3ee2-11f0-849c-6eac04d6613b",
@@ -6012,7 +6133,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8dc73ce-3be8-11f0-bd84-6eac04d6613b",
                 "name": "しゅどぅんカート8DX",
@@ -6021,7 +6142,8 @@
             "opponent2": {
                 "id": "fd269c8e-3d7c-11f0-98c1-0ab646d3248d",
                 "name": "Apex",
-                "seed": 205
+                "seed": 205,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6032,7 +6154,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16cdf280-3e28-11f0-a629-0ab646d3248d",
                 "name": "KMZ",
@@ -6041,7 +6163,8 @@
             "opponent2": {
                 "id": "b7227cdc-3ee2-11f0-901d-6eac04d6613b",
                 "name": "TEAM ED",
-                "seed": 180
+                "seed": 180,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6162,11 +6285,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7ce2c3e-3be8-11f0-88b5-6eac04d6613b",
                 "name": "Blizzard Elite",
-                "seed": 45
+                "seed": 45,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "c6a1dca6-4032-11f0-9bc7-6a2ecef9ff2d",
@@ -6182,7 +6306,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "48a56a2a-3ef7-11f0-88c9-0ab646d3248d",
                 "name": "おーい",
@@ -6191,7 +6315,8 @@
             "opponent2": {
                 "id": "75aad9a6-3d62-11f0-a8c5-6eac04d6613b",
                 "name": "高木隊",
-                "seed": 173
+                "seed": 173,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6238,11 +6363,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8da388e-3be8-11f0-b1f7-6eac04d6613b",
                 "name": "MMB",
-                "seed": 60
+                "seed": 60,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "c7ace7da-3d71-11f0-bfc2-6eac04d6613b",
@@ -6258,11 +6384,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7ddb456-3be8-11f0-95bd-6eac04d6613b",
                 "name": "KtkR",
-                "seed": 69
+                "seed": 69,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
@@ -6333,11 +6460,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "25230fd2-3e0a-11f0-a9a2-0ab646d3248d",
                 "name": "あーるてぃの逆襲",
-                "seed": 101
+                "seed": 101,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "755434b6-3e7a-11f0-9dbe-0ab646d3248d",
@@ -6479,11 +6607,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "981b42ea-3e71-11f0-912e-0ab646d3248d",
                 "name": "かむかむれもん",
-                "seed": 117
+                "seed": 117,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "a695f7de-3e1c-11f0-87b9-0ab646d3248d",
@@ -6519,7 +6648,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5493b766-41c6-11f0-8531-168de864875a",
                 "name": "すくすく",
@@ -6528,7 +6657,8 @@
             "opponent2": {
                 "id": "98119026-3d66-11f0-a727-6eac04d6613b",
                 "name": "チーム一階",
-                "seed": 181
+                "seed": 181,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6579,7 +6709,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7c93300-3be8-11f0-b2b7-6eac04d6613b",
                 "name": "XUN打爆DDD",
@@ -6588,7 +6718,8 @@
             "opponent2": {
                 "id": "e6f2b4de-3dc2-11f0-ae02-6eac04d6613b",
                 "name": "キタダ",
-                "seed": 213
+                "seed": 213,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6599,7 +6730,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a243b212-3de4-11f0-9202-6eac04d6613b",
                 "name": "しげこ",
@@ -6608,7 +6739,8 @@
             "opponent2": {
                 "id": "cec28342-3ecd-11f0-a0cf-6eac04d6613b",
                 "name": "BananaMilk",
-                "seed": 172
+                "seed": 172,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6635,11 +6767,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "26729ffc-3eb8-11f0-b073-6eac04d6613b",
                 "name": "てぃんポテ",
-                "seed": 127
+                "seed": 127,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "1bc3a5b4-3e0f-11f0-b032-6eac04d6613b",
@@ -6730,7 +6863,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e892dab6-3be8-11f0-9191-6eac04d6613b",
                 "name": "まるちゃんず",
@@ -6739,7 +6872,8 @@
             "opponent2": {
                 "id": "44948dfa-41ac-11f0-aac6-168de864875a",
                 "name": "キムチを食べてキムチくなる",
-                "seed": 226
+                "seed": 226,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6750,7 +6884,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a33df34-4033-11f0-86ca-168de864875a",
                 "name": "陽明代表じゅんぺい",
@@ -6759,7 +6893,8 @@
             "opponent2": {
                 "id": "3f351db8-3d59-11f0-8f23-0ab646d3248d",
                 "name": "Spirit of WjH",
-                "seed": 159
+                "seed": 159,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6825,7 +6960,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5faed630-3df7-11f0-b9ec-6eac04d6613b",
                 "name": "team紅葉棟",
@@ -6834,7 +6969,8 @@
             "opponent2": {
                 "id": "d47a5874-3e9a-11f0-8ea2-6eac04d6613b",
                 "name": "Eram",
-                "seed": 162
+                "seed": 162,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6881,7 +7017,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8bf82d2-3be8-11f0-bc43-6eac04d6613b",
                 "name": "ANB",
@@ -6890,7 +7026,8 @@
             "opponent2": {
                 "id": "0322e1d0-3db2-11f0-a439-6eac04d6613b",
                 "name": "自称進学校",
-                "seed": 207
+                "seed": 207,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6901,7 +7038,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ccda622c-3e35-11f0-8846-0ab646d3248d",
                 "name": "C.A.P",
@@ -6910,7 +7047,8 @@
             "opponent2": {
                 "id": "4251a21c-3ee1-11f0-af03-6eac04d6613b",
                 "name": "Jurassic",
-                "seed": 178
+                "seed": 178,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6921,11 +7059,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e73f30a6-3be8-11f0-a372-6eac04d6613b",
                 "name": "ボリビア軍団",
-                "seed": 18
+                "seed": 18,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "0d53c444-3ddf-11f0-aa0a-6eac04d6613b",
@@ -7087,11 +7226,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5360eee0-3df7-11f0-a2cd-0ab646d3248d",
                 "name": "TeamIface",
-                "seed": 122
+                "seed": 122,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "cb1c91fe-3ecf-11f0-8693-0ab646d3248d",
@@ -7127,11 +7267,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8a1b252-3be8-11f0-8c17-6eac04d6613b",
                 "name": "@SBsc",
-                "seed": 71
+                "seed": 71,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "b6fbd332-3efd-11f0-b557-6eac04d6613b",
@@ -7147,7 +7288,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6cba97e-3be8-11f0-9483-6eac04d6613b",
                 "name": "Aiya",
@@ -7156,7 +7297,8 @@
             "opponent2": {
                 "id": "b99af5b6-3dd4-11f0-8f75-6eac04d6613b",
                 "name": "スクスクー",
-                "seed": 231
+                "seed": 231,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -7167,7 +7309,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f8c3e88-3e0f-11f0-bf12-0ab646d3248d",
                 "name": "準備放暑假",
@@ -7176,7 +7318,8 @@
             "opponent2": {
                 "id": "700f976a-3e6c-11f0-b998-0ab646d3248d",
                 "name": "Money",
-                "seed": 154
+                "seed": 154,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -7242,7 +7385,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb6be60a-3f6f-11f0-bc1a-0ab646d3248d",
                 "name": "までぃてんきゅ",
@@ -7251,7 +7394,8 @@
             "opponent2": {
                 "id": "9b146dde-3d5c-11f0-a9b0-0ab646d3248d",
                 "name": "Quiet Please",
-                "seed": 167
+                "seed": 167,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -7333,11 +7477,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "98462afc-41f8-11f0-b769-168de864875a",
                 "name": "Prime Rage",
-                "seed": 55
+                "seed": 55,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "a9890138-3f99-11f0-b03a-168de864875a",
@@ -7353,11 +7498,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b3f1f78-408e-11f0-b231-168de864875a",
                 "name": "やまだけいご",
-                "seed": 74
+                "seed": 74,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "f029d1a8-3d69-11f0-9fcc-6eac04d6613b",
@@ -7373,7 +7519,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8abf2bc-3be8-11f0-8284-6eac04d6613b",
                 "name": "Hiyoura",
@@ -7382,7 +7528,8 @@
             "opponent2": {
                 "id": "60283120-421a-11f0-908d-168de864875a",
                 "name": "ポニョ😝",
-                "seed": 234
+                "seed": 234,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -7564,11 +7711,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e88b4bd4-3be8-11f0-8679-6eac04d6613b",
                 "name": "NPK",
-                "seed": 30
+                "seed": 30,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "b8ac8680-3dc8-11f0-aba2-6eac04d6613b",
@@ -7584,11 +7732,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ad8f7776-3e04-11f0-8990-6eac04d6613b",
                 "name": "ゆうた",
-                "seed": 99
+                "seed": 99,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "7d69c5b4-3e91-11f0-8440-0ab646d3248d",
@@ -7604,7 +7753,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e70e2c36-3be8-11f0-bcf3-6eac04d6613b",
                 "name": "사엄",
@@ -7613,7 +7762,8 @@
             "opponent2": {
                 "id": "585380b2-4134-11f0-9977-6a2ecef9ff2d",
                 "name": "幻影旅団",
-                "seed": 222
+                "seed": 222,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -7860,11 +8010,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7a69ab6-3be8-11f0-b93d-6eac04d6613b",
                 "name": "ちょっと旬なバナナ",
-                "seed": 19
+                "seed": 19,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "820ff458-4251-11f0-8e83-6a2ecef9ff2d",
@@ -7880,7 +8031,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4715a25e-4228-11f0-8406-168de864875a",
                 "name": "SR Gaming",
@@ -7889,7 +8040,8 @@
             "opponent2": {
                 "id": "8d10a96e-3d52-11f0-b149-0ab646d3248d",
                 "name": "あいあむあとみっく",
-                "seed": 147
+                "seed": 147,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -7900,11 +8052,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7efd622-3be8-11f0-ab9e-6eac04d6613b",
                 "name": "Ok..",
-                "seed": 46
+                "seed": 46,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "e4f9c700-3db6-11f0-a61d-0ab646d3248d",
@@ -7920,11 +8073,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a90e3090-3e48-11f0-a5c9-0ab646d3248d",
                 "name": "Team sinners",
-                "seed": 83
+                "seed": 83,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "78e86e14-3ed2-11f0-9cd2-0ab646d3248d",
@@ -7956,7 +8110,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "912c2774-3e99-11f0-807f-0ab646d3248d",
                 "name": "まるまつ",
@@ -7965,7 +8119,8 @@
             "opponent2": {
                 "id": "fdd339f4-3e11-11f0-a9ab-6eac04d6613b",
                 "name": "3arrows",
-                "seed": 134
+                "seed": 134,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -7976,7 +8131,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8b7f8952-3f56-11f0-9e93-6eac04d6613b",
                 "name": "X-ray",
@@ -7985,7 +8140,8 @@
             "opponent2": {
                 "id": "e12bce78-3f7a-11f0-8ac8-6eac04d6613b",
                 "name": "DO NOT REEDEM",
-                "seed": 198
+                "seed": 198,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -8051,7 +8207,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e70e93ba-3be8-11f0-958c-6eac04d6613b",
                 "name": "YK",
@@ -8060,7 +8216,8 @@
             "opponent2": {
                 "id": "2b18e200-41ec-11f0-9fbb-6a2ecef9ff2d",
                 "name": "ワサビーム",
-                "seed": 230
+                "seed": 230,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -8071,7 +8228,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0536f1c6-40d4-11f0-a3ea-168de864875a",
                 "name": "天才",
@@ -8080,7 +8237,8 @@
             "opponent2": {
                 "id": "63257bfc-3d57-11f0-b5b2-0ab646d3248d",
                 "name": "LAX",
-                "seed": 155
+                "seed": 155,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -8111,11 +8269,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "18e03086-3df3-11f0-ae5f-6eac04d6613b",
                 "name": "INCEPTION",
-                "seed": 91
+                "seed": 91,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "246c5ec6-3eba-11f0-b945-0ab646d3248d",
@@ -8167,11 +8326,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "110571e2-42bb-11f0-a4f8-6a2ecef9ff2d",
                 "name": "TEAM A",
-                "seed": 54
+                "seed": 54,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "fcfb64ce-3d7c-11f0-a022-6eac04d6613b",
@@ -8187,7 +8347,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e88d03ac-3be8-11f0-81db-6eac04d6613b",
                 "name": "SRD",
@@ -8196,7 +8356,8 @@
             "opponent2": {
                 "id": "758c3aaa-3ef2-11f0-a79b-0ab646d3248d",
                 "name": "Ice",
-                "seed": 182
+                "seed": 182,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -8227,11 +8388,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "86ac2ec4-3e13-11f0-b0ab-0ab646d3248d",
                 "name": "PDS",
-                "seed": 107
+                "seed": 107,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "583789d6-3e49-11f0-bd5e-6eac04d6613b",
@@ -8364,7 +8526,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "718be658-3ebb-11f0-8941-0ab646d3248d",
+                "name": "NAGOYA",
+                "seed": 129
             },
             "match_games": []
         },
@@ -8377,10 +8541,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e0bb62b8-3d6e-11f0-9645-6eac04d6613b",
+                "name": "林晔帅哥4000+",
+                "seed": 193
             },
             "opponent2": {
-                "id": null
+                "id": "4db00270-3f7c-11f0-b699-6eac04d6613b",
+                "name": "INUYAN",
+                "seed": 65
             },
             "match_games": []
         },
@@ -8449,10 +8617,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7fda9a48-3fff-11f0-9c43-6a2ecef9ff2d",
+                "name": "オンラインカジノ",
+                "seed": 208
             },
             "opponent2": {
-                "id": null
+                "id": "e7a9571a-3be8-11f0-8142-6eac04d6613b",
+                "name": "ぶたぶす",
+                "seed": 80
             },
             "match_games": []
         },
@@ -8465,10 +8637,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "01c26766-42f3-11f0-a4b7-76ef1be9ccda",
+                "name": "地面師集団",
+                "seed": 240
             },
             "opponent2": {
-                "id": null
+                "id": "bbb12652-3e49-11f0-ac74-0ab646d3248d",
+                "name": "そたは個人配信者",
+                "seed": 112
             },
             "match_games": []
         },
@@ -8481,7 +8657,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e865b978-3be8-11f0-9042-6eac04d6613b",
+                "name": "Xtreme Gaming Nexus",
+                "seed": 48
             },
             "opponent2": {
                 "id": null
@@ -8531,10 +8709,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e680d750-3be8-11f0-a995-6eac04d6613b",
+                "name": "SILENCE",
+                "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "9de09ad4-3d56-11f0-b4ee-0ab646d3248d",
+                "name": "真東海林",
+                "seed": 153
             },
             "match_games": []
         },
@@ -8568,7 +8750,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "33f42bf4-3df6-11f0-a6d1-6eac04d6613b",
+                "name": "Leaf tempo sea",
+                "seed": 120
             },
             "match_games": []
         },
@@ -8581,10 +8765,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "29f526c0-4135-11f0-bf43-6a2ecef9ff2d",
+                "name": "チョンゲーミング",
+                "seed": 56
             },
             "opponent2": {
-                "id": null
+                "id": "e88fd8d4-3be8-11f0-82a0-6eac04d6613b",
+                "name": "維維我偶像",
+                "seed": 73
             },
             "match_games": []
         },
@@ -8602,7 +8790,9 @@
                 "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
+                "name": "Team MUS",
+                "seed": 152
             },
             "match_games": []
         },
@@ -8636,7 +8826,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "67e9554e-3ea8-11f0-a6b7-6eac04d6613b",
+                "name": "Tempura break",
+                "seed": 125
             },
             "match_games": []
         },
@@ -8649,10 +8841,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8a8e9880-3f6f-11f0-8790-6eac04d6613b",
+                "name": "Ni gigi how da",
+                "seed": 196
             },
             "opponent2": {
-                "id": null
+                "id": "f7bcd346-3f69-11f0-a86f-6eac04d6613b",
+                "name": "Cucumber Brothers",
+                "seed": 68
             },
             "match_games": []
         },
@@ -8685,10 +8881,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e72304bc-3be8-11f0-8f1f-6eac04d6613b",
+                "name": "隨便湊一隊",
+                "seed": 36
             },
             "opponent2": {
-                "id": null
+                "id": "8b638da6-3eac-11f0-9451-0ab646d3248d",
+                "name": "チームちげ",
+                "seed": 164
             },
             "match_games": []
         },
@@ -8706,7 +8906,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "43faa64e-3ee2-11f0-849c-6eac04d6613b",
+                "name": "YANG",
+                "seed": 141
             },
             "match_games": []
         },
@@ -8719,10 +8921,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e8dc73ce-3be8-11f0-bd84-6eac04d6613b",
+                "name": "しゅどぅんカート8DX",
+                "seed": 52
             },
             "opponent2": {
-                "id": null
+                "id": "16cdf280-3e28-11f0-a629-0ab646d3248d",
+                "name": "KMZ",
+                "seed": 77
             },
             "match_games": []
         },
@@ -8755,10 +8961,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c6a1dca6-4032-11f0-9bc7-6a2ecef9ff2d",
+                "name": "Ken Dra",
+                "seed": 212
             },
             "opponent2": {
-                "id": null
+                "id": "48a56a2a-3ef7-11f0-88c9-0ab646d3248d",
+                "name": "おーい",
+                "seed": 84
             },
             "match_games": []
         },
@@ -8789,10 +8999,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c7ace7da-3d71-11f0-bfc2-6eac04d6613b",
+                "name": "T.Res",
+                "seed": 197
             },
             "opponent2": {
-                "id": null
+                "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
+                "name": "足羽組",
+                "seed": 188
             },
             "match_games": []
         },
@@ -8810,7 +9024,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "755434b6-3e7a-11f0-9dbe-0ab646d3248d",
+                "name": "ダグトリオ",
+                "seed": 156
             },
             "match_games": []
         },
@@ -8848,7 +9064,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "a695f7de-3e1c-11f0-87b9-0ab646d3248d",
+                "name": "TX GAMING",
+                "seed": 140
             },
             "match_games": []
         },
@@ -8893,10 +9111,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e7c93300-3be8-11f0-b2b7-6eac04d6613b",
+                "name": "XUN打爆DDD",
+                "seed": 44
             },
             "opponent2": {
-                "id": null
+                "id": "a243b212-3de4-11f0-9202-6eac04d6613b",
+                "name": "しげこ",
+                "seed": 85
             },
             "match_games": []
         },
@@ -8914,7 +9136,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "1bc3a5b4-3e0f-11f0-b032-6eac04d6613b",
+                "name": "ぶたごりら",
+                "seed": 130
             },
             "match_games": []
         },
@@ -8943,10 +9167,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e892dab6-3be8-11f0-9191-6eac04d6613b",
+                "name": "まるちゃんず",
+                "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "8a33df34-4033-11f0-86ca-168de864875a",
+                "name": "陽明代表じゅんぺい",
+                "seed": 98
             },
             "match_games": []
         },
@@ -8964,7 +9192,9 @@
                 "seed": 34
             },
             "opponent2": {
-                "id": null
+                "id": "5faed630-3df7-11f0-b9ec-6eac04d6613b",
+                "name": "team紅葉棟",
+                "seed": 95
             },
             "match_games": []
         },
@@ -8995,10 +9225,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e8bf82d2-3be8-11f0-bc43-6eac04d6613b",
+                "name": "ANB",
+                "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "ccda622c-3e35-11f0-8846-0ab646d3248d",
+                "name": "C.A.P",
+                "seed": 79
             },
             "match_games": []
         },
@@ -9011,7 +9245,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0d53c444-3ddf-11f0-aa0a-6eac04d6613b",
+                "name": "연초킹",
+                "seed": 239
             },
             "opponent2": {
                 "id": null
@@ -9052,7 +9288,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "cb1c91fe-3ecf-11f0-8693-0ab646d3248d",
+                "name": "AOT",
+                "seed": 135
             },
             "match_games": []
         },
@@ -9081,10 +9319,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6cba97e-3be8-11f0-9483-6eac04d6613b",
+                "name": "Aiya",
+                "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "4f8c3e88-3e0f-11f0-bf12-0ab646d3248d",
+                "name": "準備放暑假",
+                "seed": 103
             },
             "match_games": []
         },
@@ -9102,7 +9344,9 @@
                 "seed": 218
             },
             "opponent2": {
-                "id": null
+                "id": "cb6be60a-3f6f-11f0-bc1a-0ab646d3248d",
+                "name": "までぃてんきゅ",
+                "seed": 90
             },
             "match_games": []
         },
@@ -9135,10 +9379,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9890138-3f99-11f0-b03a-168de864875a",
+                "name": "隨便玩玩",
+                "seed": 202
             },
             "opponent2": {
-                "id": null
+                "id": "f029d1a8-3d69-11f0-9fcc-6eac04d6613b",
+                "name": "ちんちゃマスター",
+                "seed": 183
             },
             "match_games": []
         },
@@ -9151,7 +9399,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e8abf2bc-3be8-11f0-8284-6eac04d6613b",
+                "name": "Hiyoura",
+                "seed": 23
             },
             "opponent2": {
                 "id": null
@@ -9217,10 +9467,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b8ac8680-3dc8-11f0-aba2-6eac04d6613b",
+                "name": "TMDG",
+                "seed": 227
             },
             "opponent2": {
-                "id": null
+                "id": "7d69c5b4-3e91-11f0-8440-0ab646d3248d",
+                "name": "ここ大事",
+                "seed": 158
             },
             "match_games": []
         },
@@ -9233,10 +9487,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e70e2c36-3be8-11f0-bcf3-6eac04d6613b",
+                "name": "사엄",
+                "seed": 35
             },
             "opponent2": {
-                "id": null
+                "id": "721643ea-3d5b-11f0-8791-6eac04d6613b",
+                "name": "ヤギックス",
+                "seed": 163
             },
             "match_games": []
         },
@@ -9289,10 +9547,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "820ff458-4251-11f0-8e83-6a2ecef9ff2d",
+                "name": "Utappe People",
+                "seed": 238
             },
             "opponent2": {
-                "id": null
+                "id": "4715a25e-4228-11f0-8406-168de864875a",
+                "name": "SR Gaming",
+                "seed": 110
             },
             "match_games": []
         },
@@ -9305,10 +9567,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e4f9c700-3db6-11f0-a61d-0ab646d3248d",
+                "name": "ナニー特戦隊",
+                "seed": 211
             },
             "opponent2": {
-                "id": null
+                "id": "78e86e14-3ed2-11f0-9cd2-0ab646d3248d",
+                "name": "オレオ",
+                "seed": 174
             },
             "match_games": []
         },
@@ -9326,7 +9592,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "912c2774-3e99-11f0-807f-0ab646d3248d",
+                "name": "まるまつ",
+                "seed": 123
             },
             "match_games": []
         },
@@ -9339,10 +9607,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8b7f8952-3f56-11f0-9e93-6eac04d6613b",
+                "name": "X-ray",
+                "seed": 59
             },
             "opponent2": {
-                "id": null
+                "id": "6b33c20e-3f9b-11f0-94ad-168de864875a",
+                "name": "ミツキを世界へ👆👑",
+                "seed": 70
             },
             "match_games": []
         },
@@ -9355,10 +9627,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e70e93ba-3be8-11f0-958c-6eac04d6613b",
+                "name": "YK",
+                "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "0536f1c6-40d4-11f0-a3ea-168de864875a",
+                "name": "天才",
+                "seed": 102
             },
             "match_games": []
         },
@@ -9405,10 +9681,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fcfb64ce-3d7c-11f0-a022-6eac04d6613b",
+                "name": "NO NAME 🇰🇷",
+                "seed": 203
             },
             "opponent2": {
-                "id": null
+                "id": "e88d03ac-3be8-11f0-81db-6eac04d6613b",
+                "name": "SRD",
+                "seed": 75
             },
             "match_games": []
         },
