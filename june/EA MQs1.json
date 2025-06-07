@@ -5856,18 +5856,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7bfdadd6-3df0-11f0-9fc2-0ab646d3248d",
                 "name": "ZEALOUS",
-                "seed": 89
+                "seed": 89,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fa7ebea6-3ec3-11f0-915b-6eac04d6613b",
                 "name": "PHYSICS",
-                "seed": 168
+                "seed": 168,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7bfdadd6-3df0-11f0-9fc2-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa7ebea6-3ec3-11f0-915b-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7bfdadd6-3df0-11f0-9fc2-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fa7ebea6-3ec3-11f0-915b-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7bfdadd6-3df0-11f0-9fc2-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa7ebea6-3ec3-11f0-915b-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -9616,7 +9666,9 @@
                 "seed": 40
             },
             "opponent2": {
-                "id": null
+                "id": "7bfdadd6-3df0-11f0-9fc2-0ab646d3248d",
+                "name": "ZEALOUS",
+                "seed": 89
             },
             "match_games": []
         },
