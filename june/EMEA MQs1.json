@@ -96442,18 +96442,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c2e8d4e0-4260-11f0-b311-6a2ecef9ff2d",
                 "name": "vMoove Clown",
-                "seed": 444
+                "seed": 444,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "995ed0c8-3d71-11f0-bb49-0ab646d3248d",
                 "name": "Luminous Lumen",
-                "seed": 1349
+                "seed": 1349,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c2e8d4e0-4260-11f0-b311-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "995ed0c8-3d71-11f0-bb49-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c2e8d4e0-4260-11f0-b311-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "995ed0c8-3d71-11f0-bb49-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1845,
@@ -97832,18 +97867,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
                 "name": "FingerSleeves Gaming",
-                "seed": 102
+                "seed": 102,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6ec7655c-3e19-11f0-ad8a-0ab646d3248d",
                 "name": "Esn Esport",
-                "seed": 358
+                "seed": 358,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ec7655c-3e19-11f0-ad8a-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ec7655c-3e19-11f0-ad8a-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1911,
