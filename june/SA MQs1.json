@@ -39440,11 +39440,12 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28b4083a-3bea-11f0-9446-6eac04d6613b",
                 "name": "Genial",
-                "seed": 97
+                "seed": 97,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "c924f3a8-3dbe-11f0-a5c5-0ab646d3248d",
@@ -39820,11 +39821,12 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27baca9a-3bea-11f0-8c0d-6eac04d6613b",
                 "name": "Shock Gaming",
-                "seed": 4
+                "seed": 4,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "210f8c12-3f46-11f0-9ba7-6eac04d6613b",
@@ -40041,7 +40043,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a3e53e56-3f51-11f0-83cf-0ab646d3248d",
                 "name": "EncardidosFC",
@@ -40050,7 +40052,8 @@
             "opponent2": {
                 "id": "15b01cac-3e64-11f0-a64d-0ab646d3248d",
                 "name": "Equipo|VMY",
-                "seed": 348
+                "seed": 348,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -40186,7 +40189,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9f936f8-3bec-11f0-9ec0-6eac04d6613b",
                 "name": "The Becas",
@@ -40195,7 +40198,8 @@
             "opponent2": {
                 "id": "397ad53a-434d-11f0-982e-726cccf66275",
                 "name": "DSGOD",
-                "seed": 578
+                "seed": 578,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -40261,7 +40265,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "de568004-405f-11f0-b3b9-168de864875a",
                 "name": "2026",
@@ -40270,7 +40274,8 @@
             "opponent2": {
                 "id": "28b09b5a-3bea-11f0-b6dc-6eac04d6613b",
                 "name": "GE4R",
-                "seed": 50
+                "seed": 50,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -41001,7 +41006,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27bdc506-3bea-11f0-95b9-6eac04d6613b",
                 "name": "🔥Orden Fenix🔥",
@@ -41010,7 +41015,8 @@
             "opponent2": {
                 "id": "a7912e26-3dc0-11f0-8fa7-6eac04d6613b",
                 "name": "Argentine Crew",
-                "seed": 555
+                "seed": 555,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -41028,7 +41034,9 @@
                 "seed": 449
             },
             "opponent2": {
-                "id": null
+                "id": "c924f3a8-3dbe-11f0-a5c5-0ab646d3248d",
+                "name": "THBS",
+                "seed": 545
             },
             "match_games": []
         },
@@ -41101,10 +41109,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "210f8c12-3f46-11f0-9ba7-6eac04d6613b",
+                "name": "Artisan Esports",
+                "seed": 452
             },
             "opponent2": {
-                "id": null
+                "id": "a4eb572a-4309-11f0-ab2e-629fe8985574",
+                "name": "Ice Shot",
+                "seed": 164
             },
             "match_games": []
         },
@@ -41142,7 +41154,9 @@
                 "seed": 572
             },
             "opponent2": {
-                "id": null
+                "id": "a3e53e56-3f51-11f0-83cf-0ab646d3248d",
+                "name": "EncardidosFC",
+                "seed": 156
             },
             "match_games": []
         },
@@ -41175,10 +41189,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e9f936f8-3bec-11f0-9ec0-6eac04d6613b",
+                "name": "The Becas",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "288a617e-3bea-11f0-81cb-6eac04d6613b",
+                "name": "Amostradinhos",
+                "seed": 95
             },
             "match_games": []
         },
@@ -41191,10 +41209,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "de568004-405f-11f0-b3b9-168de864875a",
+                "name": "2026",
+                "seed": 498
             },
             "opponent2": {
-                "id": null
+                "id": "19cfe042-3f3b-11f0-8998-6eac04d6613b",
+                "name": "Farofeiros F/A",
+                "seed": 210
             },
             "match_games": []
         },
@@ -41312,7 +41334,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "27bdc506-3bea-11f0-95b9-6eac04d6613b",
+                "name": "🔥Orden Fenix🔥",
+                "seed": 22
             },
             "match_games": []
         }
