@@ -91791,18 +91791,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "496fca38-3be9-11f0-a542-6eac04d6613b",
                 "name": "Brevnov Gaming",
-                "seed": 131
+                "seed": 131,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "577b3838-3d51-11f0-a265-6eac04d6613b",
                 "name": "Pinspammers",
-                "seed": 643
+                "seed": 643,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "496fca38-3be9-11f0-a542-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "577b3838-3d51-11f0-a265-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "496fca38-3be9-11f0-a542-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "577b3838-3d51-11f0-a265-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "496fca38-3be9-11f0-a542-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "577b3838-3d51-11f0-a265-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1733,
@@ -95089,7 +95139,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "59ec422e-3be9-11f0-bd41-6eac04d6613b",
+                "name": "Blue Hearts 🩵",
+                "seed": 264
             },
             "match_games": []
         },
@@ -96691,7 +96743,9 @@
                 "seed": 126
             },
             "opponent2": {
-                "id": null
+                "id": "496fca38-3be9-11f0-a542-6eac04d6613b",
+                "name": "Brevnov Gaming",
+                "seed": 131
             },
             "match_games": []
         },
