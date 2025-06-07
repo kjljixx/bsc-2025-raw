@@ -6115,16 +6115,20 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8ee3064-3be8-11f0-bc08-6eac04d6613b",
                 "name": "黒毛",
-                "seed": 41
+                "seed": 41,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e27b25cc-4064-11f0-8a58-168de864875a",
                 "name": "Gay",
-                "seed": 216
+                "seed": 216,
+                "score": 0,
+                "result": "loss"
             },
             "match_games": []
         },
@@ -9791,10 +9795,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e8ee3064-3be8-11f0-bc08-6eac04d6613b",
+                "name": "黒毛",
+                "seed": 41
             },
             "opponent2": {
-                "id": null
+                "id": "07382b86-3d62-11f0-94f3-0ab646d3248d",
+                "name": "south新城🪭👑🦎",
+                "seed": 169
             },
             "match_games": []
         },
