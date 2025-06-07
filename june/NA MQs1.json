@@ -45588,18 +45588,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "50ff06d0-43b2-11f0-b121-827ca9af2553",
                 "name": "TEAM|DrKNA",
-                "seed": 202
+                "seed": 202,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c0556e74-427d-11f0-a5d5-168de864875a",
                 "name": "Junnie.K",
-                "seed": 151
+                "seed": 151,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "50ff06d0-43b2-11f0-b121-827ca9af2553",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c0556e74-427d-11f0-a5d5-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "50ff06d0-43b2-11f0-b121-827ca9af2553",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c0556e74-427d-11f0-a5d5-168de864875a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1005,
