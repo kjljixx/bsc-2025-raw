@@ -33175,18 +33175,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0ddd80cc-3e01-11f0-9a07-6eac04d6613b",
                 "name": "MMM",
-                "seed": 608
+                "seed": 608,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "63bfe740-3d80-11f0-8634-6eac04d6613b",
                 "name": "Gatoros",
-                "seed": 1441
+                "seed": 1441,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "0ddd80cc-3e01-11f0-9a07-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "63bfe740-3d80-11f0-8634-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0ddd80cc-3e01-11f0-9a07-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "63bfe740-3d80-11f0-8634-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 61,
@@ -33503,18 +33538,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "30ff2f80-3eef-11f0-b0d5-0ab646d3248d",
                 "name": "Checkmate",
-                "seed": 881
+                "seed": 881,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "46149706-3ed2-11f0-a71f-6eac04d6613b",
                 "name": "RCR Gaming",
-                "seed": 1168
+                "seed": 1168,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "30ff2f80-3eef-11f0-b0d5-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "46149706-3ed2-11f0-a71f-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "30ff2f80-3eef-11f0-b0d5-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "46149706-3ed2-11f0-a71f-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 79,
@@ -37987,18 +38057,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4ad452c2-3be9-11f0-9ff6-6eac04d6613b",
                 "name": "Die Banausen",
-                "seed": 605
+                "seed": 605,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "371a602c-40ae-11f0-9d06-6a2ecef9ff2d",
                 "name": "Furia salvaje",
-                "seed": 1444
+                "seed": 1444,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4ad452c2-3be9-11f0-9ff6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "371a602c-40ae-11f0-9d06-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4ad452c2-3be9-11f0-9ff6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "371a602c-40ae-11f0-9d06-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 317,
@@ -39005,18 +39110,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "60590f9e-3e31-11f0-9603-0ab646d3248d",
                 "name": "DreiBeiner007",
-                "seed": 660
+                "seed": 660,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "db2ef446-3d77-11f0-94e1-0ab646d3248d",
                 "name": "ZENIX",
-                "seed": 1389
+                "seed": 1389,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "60590f9e-3e31-11f0-9603-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db2ef446-3d77-11f0-94e1-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "60590f9e-3e31-11f0-9603-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db2ef446-3d77-11f0-94e1-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 369,
@@ -40028,18 +40168,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9da312b4-3d96-11f0-a7ec-6eac04d6613b",
                 "name": "Trigger discipline",
-                "seed": 796
+                "seed": 796,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "daf23bd4-3d66-11f0-98a0-6eac04d6613b",
                 "name": "Smart Fox Esport",
-                "seed": 1253
+                "seed": 1253,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "9da312b4-3d96-11f0-a7ec-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "daf23bd4-3d66-11f0-98a0-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9da312b4-3d96-11f0-a7ec-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "daf23bd4-3d66-11f0-98a0-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 423,
@@ -44215,18 +44390,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28866efe-3e36-11f0-af86-6eac04d6613b",
                 "name": "MMG",
-                "seed": 1018
+                "seed": 1018,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
                 "name": "Nokron",
-                "seed": 1031
+                "seed": 1031,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "28866efe-3e36-11f0-af86-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "28866efe-3e36-11f0-af86-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 643,
@@ -46696,18 +46906,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4ed3c600-3be9-11f0-88ee-6eac04d6613b",
                 "name": "Luminocte E-sport",
-                "seed": 515
+                "seed": 515,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1c7c1c44-3ec7-11f0-adec-0ab646d3248d",
                 "name": "HM/gaming",
-                "seed": 1534
+                "seed": 1534,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4ed3c600-3be9-11f0-88ee-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1c7c1c44-3ec7-11f0-adec-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4ed3c600-3be9-11f0-88ee-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1c7c1c44-3ec7-11f0-adec-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 773,
@@ -49535,18 +49780,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ce138754-3d90-11f0-82db-0ab646d3248d",
                 "name": "Krokodilbäcker",
-                "seed": 827
+                "seed": 827,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "27f23c64-3ef6-11f0-b1c0-0ab646d3248d",
                 "name": "Red Kings",
-                "seed": 1222
+                "seed": 1222,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ce138754-3d90-11f0-82db-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27f23c64-3ef6-11f0-b1c0-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ce138754-3d90-11f0-82db-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27f23c64-3ef6-11f0-b1c0-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 919,
@@ -52076,7 +52356,9 @@
                 "seed": 417
             },
             "opponent2": {
-                "id": null
+                "id": "0ddd80cc-3e01-11f0-9a07-6eac04d6613b",
+                "name": "MMM",
+                "seed": 608
             },
             "match_games": []
         },
@@ -52236,7 +52518,9 @@
                 "seed": 144
             },
             "opponent2": {
-                "id": null
+                "id": "46149706-3ed2-11f0-a71f-6eac04d6613b",
+                "name": "RCR Gaming",
+                "seed": 1168
             },
             "match_games": []
         },
@@ -52804,7 +53088,9 @@
                 "seed": 136
             },
             "opponent2": {
-                "id": null
+                "id": "acefb474-3ecd-11f0-8141-6eac04d6613b",
+                "name": "Frozen Strikeforce",
+                "seed": 1160
             },
             "match_games": []
         },
@@ -54354,7 +54640,9 @@
                 "seed": 420
             },
             "opponent2": {
-                "id": null
+                "id": "4ad452c2-3be9-11f0-9ff6-6eac04d6613b",
+                "name": "Die Banausen",
+                "seed": 605
             },
             "match_games": []
         },
@@ -55302,7 +55590,9 @@
                 "seed": 229
             },
             "opponent2": {
-                "id": null
+                "id": "daf23bd4-3d66-11f0-98a0-6eac04d6613b",
+                "name": "Smart Fox Esport",
+                "seed": 1253
             },
             "match_games": []
         },
@@ -57266,7 +57556,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
+                "name": "Nokron",
+                "seed": 1031
             },
             "match_games": []
         },
@@ -59730,7 +60022,9 @@
                 "seed": 198
             },
             "opponent2": {
-                "id": null
+                "id": "ce138754-3d90-11f0-82db-0ab646d3248d",
+                "name": "Krokodilbäcker",
+                "seed": 827
             },
             "match_games": []
         },
