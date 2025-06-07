@@ -34316,18 +34316,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "031badba-3f2f-11f0-a3be-0ab646d3248d",
                 "name": "THE GOONERS",
-                "seed": 416
+                "seed": 416,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "91cd1a28-3bea-11f0-89a0-6eac04d6613b",
                 "name": "No Meta",
-                "seed": 160
+                "seed": 160,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "031badba-3f2f-11f0-a3be-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "91cd1a28-3bea-11f0-89a0-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "031badba-3f2f-11f0-a3be-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "91cd1a28-3bea-11f0-89a0-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "031badba-3f2f-11f0-a3be-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "91cd1a28-3bea-11f0-89a0-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 775,
@@ -36486,18 +36536,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c4a73a2-3bea-11f0-9d28-6eac04d6613b",
                 "name": "Legacy",
-                "seed": 53
+                "seed": 53,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a1535b72-3e85-11f0-85e6-6eac04d6613b",
                 "name": "Fuego Maya",
-                "seed": 309
+                "seed": 309,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "8c4a73a2-3bea-11f0-9d28-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a1535b72-3e85-11f0-85e6-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8c4a73a2-3bea-11f0-9d28-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a1535b72-3e85-11f0-85e6-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8c4a73a2-3bea-11f0-9d28-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a1535b72-3e85-11f0-85e6-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 828,
@@ -39544,7 +39644,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a1535b72-3e85-11f0-85e6-6eac04d6613b",
+                "name": "Fuego Maya",
+                "seed": 309
             },
             "opponent2": {
                 "id": null
