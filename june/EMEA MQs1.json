@@ -18038,7 +18038,7 @@
                     "gamerTag": "#2LLRJGPVV8"
                 }
             ],
-            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/FUT Academy.webp"
         },
         {
             "id": "70fa7d0e-3e33-11f0-9b48-6eac04d6613b",
@@ -18978,7 +18978,7 @@
                     "gamerTag": "#2GRRC8L9P"
                 }
             ],
-            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/LLC Academy.png"
         },
         {
             "id": "951fdbbc-3fe5-11f0-844c-168de864875a",
@@ -106575,18 +106575,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
                 "name": "LEW’S",
-                "seed": 909
+                "seed": 909,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
                 "name": "CHN|",
-                "seed": 77
+                "seed": 77,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1996,
@@ -106655,18 +106690,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4e8f42d2-3be9-11f0-a8a3-6eac04d6613b",
                 "name": "Kit Too Far",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7f5154c0-3fa7-11f0-9b04-6a2ecef9ff2d",
                 "name": "I Distributori",
-                "seed": 1356
+                "seed": 1356,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "4e8f42d2-3be9-11f0-a8a3-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f5154c0-3fa7-11f0-9b04-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4e8f42d2-3be9-11f0-a8a3-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f5154c0-3fa7-11f0-9b04-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2000,
@@ -106875,18 +106945,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d8a6721e-3e4c-11f0-9d74-0ab646d3248d",
                 "name": "Sub0Zer0",
-                "seed": 1054
+                "seed": 1054,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4851a162-3be9-11f0-bb15-6eac04d6613b",
                 "name": "ASMBL",
-                "seed": 94
+                "seed": 94,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "d8a6721e-3e4c-11f0-9d74-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4851a162-3be9-11f0-bb15-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "d8a6721e-3e4c-11f0-9d74-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4851a162-3be9-11f0-bb15-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2011,
@@ -107097,7 +107202,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                "name": "LEW’S",
+                "seed": 909
             },
             "opponent2": {
                 "id": null
@@ -107129,7 +107236,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4e8f42d2-3be9-11f0-a8a3-6eac04d6613b",
+                "name": "Kit Too Far",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
