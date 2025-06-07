@@ -5772,18 +5772,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7c4227a-3be8-11f0-8772-6eac04d6613b",
                 "name": "Riberte",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b411d2b0-3ddc-11f0-9326-6eac04d6613b",
                 "name": "ksgi division",
-                "seed": 237
+                "seed": 237,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e7c4227a-3be8-11f0-8772-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b411d2b0-3ddc-11f0-9326-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e7c4227a-3be8-11f0-8772-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b411d2b0-3ddc-11f0-9326-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -5928,18 +5963,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e83a1eda-3be8-11f0-9f87-6eac04d6613b",
                 "name": "迷子のろいろい",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8391ff46-3dcf-11f0-b936-0ab646d3248d",
                 "name": "フィサーロ",
-                "seed": 229
+                "seed": 229,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e83a1eda-3be8-11f0-9f87-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8391ff46-3dcf-11f0-b936-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e83a1eda-3be8-11f0-9f87-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8391ff46-3dcf-11f0-b936-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 54,
@@ -6662,18 +6732,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8ce9088-3be8-11f0-a910-6eac04d6613b",
                 "name": "バレたら退学",
-                "seed": 39
+                "seed": 39,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "34bd11f2-4082-11f0-8519-6a2ecef9ff2d",
                 "name": "はぬかだダディダディ",
-                "seed": 218
+                "seed": 218,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e8ce9088-3be8-11f0-a910-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "34bd11f2-4082-11f0-8519-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e8ce9088-3be8-11f0-a910-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "34bd11f2-4082-11f0-8519-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 88,
@@ -7105,18 +7210,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6415b758-421a-11f0-9776-6a2ecef9ff2d",
                 "name": "たーにー",
-                "seed": 78
+                "seed": 78,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6ee81968-3d66-11f0-9718-0ab646d3248d",
                 "name": "クリーミーヨーグルトボール",
-                "seed": 179
+                "seed": 179,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6415b758-421a-11f0-9776-6a2ecef9ff2d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6ee81968-3d66-11f0-9718-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6415b758-421a-11f0-9776-6a2ecef9ff2d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6ee81968-3d66-11f0-9718-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 109,
@@ -7883,7 +8023,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e7c4227a-3be8-11f0-8772-6eac04d6613b",
+                "name": "Riberte",
+                "seed": 20
             },
             "opponent2": {
                 "id": null
@@ -7949,7 +8091,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e83a1eda-3be8-11f0-9f87-6eac04d6613b",
+                "name": "迷子のろいろい",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
@@ -8231,7 +8375,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "34bd11f2-4082-11f0-8519-6a2ecef9ff2d",
+                "name": "はぬかだダディダディ",
+                "seed": 218
             },
             "opponent2": {
                 "id": null
