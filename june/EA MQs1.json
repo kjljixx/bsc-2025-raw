@@ -10009,18 +10009,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e67d2a38-3be8-11f0-b572-6eac04d6613b",
                 "name": "DAEAN FAMILY",
-                "seed": 24
+                "seed": 24,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
                 "name": "Team MUS",
-                "seed": 152
+                "seed": 152,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "e67d2a38-3be8-11f0-b572-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e67d2a38-3be8-11f0-b572-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e67d2a38-3be8-11f0-b572-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 144,
@@ -11135,18 +11185,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6cba97e-3be8-11f0-9483-6eac04d6613b",
                 "name": "Aiya",
-                "seed": 26
+                "seed": 26,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4f8c3e88-3e0f-11f0-bf12-0ab646d3248d",
                 "name": "準備放暑假",
-                "seed": 103
+                "seed": 103,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "e6cba97e-3be8-11f0-9483-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f8c3e88-3e0f-11f0-bf12-0ab646d3248d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e6cba97e-3be8-11f0-9483-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f8c3e88-3e0f-11f0-bf12-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e6cba97e-3be8-11f0-9483-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4f8c3e88-3e0f-11f0-bf12-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 172,
@@ -11982,7 +12082,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e70ce236-3be8-11f0-984f-6eac04d6613b",
                 "name": "Opkids",
@@ -11991,7 +12091,8 @@
             "opponent2": {
                 "id": "2b18b3ea-3f47-11f0-9e7d-6eac04d6613b",
                 "name": "JHB",
-                "seed": 86
+                "seed": 86,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -12140,10 +12241,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
+                "name": "Team MUS",
+                "seed": 152
             },
             "opponent2": {
-                "id": null
+                "id": "e8ee3064-3be8-11f0-bc08-6eac04d6613b",
+                "name": "黒毛",
+                "seed": 41
             },
             "match_games": []
         },
@@ -12414,10 +12519,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f8c3e88-3e0f-11f0-bf12-0ab646d3248d",
+                "name": "準備放暑假",
+                "seed": 103
             },
             "opponent2": {
-                "id": null
+                "id": "34bd11f2-4082-11f0-8519-6a2ecef9ff2d",
+                "name": "はぬかだダディダディ",
+                "seed": 218
             },
             "match_games": []
         },
@@ -12613,7 +12722,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "e70ce236-3be8-11f0-984f-6eac04d6613b",
+                "name": "Opkids",
+                "seed": 43
             },
             "match_games": []
         },
