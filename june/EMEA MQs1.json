@@ -36187,18 +36187,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a55117ec-3e1b-11f0-8ded-6eac04d6613b",
                 "name": "No Mate",
-                "seed": 968
+                "seed": 968,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7502175c-3d59-11f0-89ce-0ab646d3248d",
                 "name": "GoPro Gaming",
-                "seed": 1081
+                "seed": 1081,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a55117ec-3e1b-11f0-8ded-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7502175c-3d59-11f0-89ce-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a55117ec-3e1b-11f0-8ded-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7502175c-3d59-11f0-89ce-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 147,
