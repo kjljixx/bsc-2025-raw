@@ -16741,18 +16741,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c62691d2-3da2-11f0-8697-6eac04d6613b",
                 "name": "Sale Brawl",
-                "seed": 463
+                "seed": 463,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "abec804c-4310-11f0-974d-122e933edcb2",
                 "name": "Come.trava",
-                "seed": 562
+                "seed": 562,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c62691d2-3da2-11f0-8697-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "abec804c-4310-11f0-974d-122e933edcb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c62691d2-3da2-11f0-8697-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "abec804c-4310-11f0-974d-122e933edcb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 299,
@@ -17272,18 +17307,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d4389e6a-3d9c-11f0-881f-0ab646d3248d",
                 "name": "Os resenhudos",
-                "seed": 455
+                "seed": 455,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7dd4975a-4331-11f0-8b43-aa741b89633f",
                 "name": "Dragons E-Sports",
-                "seed": 570
+                "seed": 570,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "d4389e6a-3d9c-11f0-881f-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7dd4975a-4331-11f0-8b43-aa741b89633f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d4389e6a-3d9c-11f0-881f-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7dd4975a-4331-11f0-8b43-aa741b89633f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 331,
@@ -21782,7 +21852,9 @@
                 "seed": 68
             },
             "opponent2": {
-                "id": null
+                "id": "490405e6-435a-11f0-ba22-86efe11c2309",
+                "name": "OS LENDARIOS",
+                "seed": 580
             },
             "match_games": []
         },
@@ -23330,7 +23402,9 @@
                 "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "c62691d2-3da2-11f0-8697-6eac04d6613b",
+                "name": "Sale Brawl",
+                "seed": 463
             },
             "match_games": []
         },
@@ -23648,7 +23722,9 @@
                 "seed": 58
             },
             "opponent2": {
-                "id": null
+                "id": "7dd4975a-4331-11f0-8b43-aa741b89633f",
+                "name": "Dragons E-Sports",
+                "seed": 570
             },
             "match_games": []
         },
