@@ -24096,7 +24096,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "51356792-4313-11f0-8c35-726cccf66275",
                 "name": "Calçadão",
@@ -24105,7 +24105,8 @@
             "opponent2": {
                 "id": "cd95acf2-3e22-11f0-bb41-6eac04d6613b",
                 "name": "Punta-taco|ABS",
-                "seed": 308
+                "seed": 308,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -30929,7 +30930,11 @@
                 "name": "Desertados",
                 "seed": 564
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "51356792-4313-11f0-8c35-726cccf66275",
+                "name": "Calçadão",
+                "seed": 205
+            },
             "match_games": []
         },
         {
