@@ -103271,18 +103271,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c356aa06-3f13-11f0-80f9-6eac04d6613b",
                 "name": "NightSky",
-                "seed": 1268
+                "seed": 1268,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
                 "name": "LEW’S",
-                "seed": 909
+                "seed": 909,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "c356aa06-3f13-11f0-80f9-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "c356aa06-3f13-11f0-80f9-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1942,
@@ -104056,18 +104091,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
                 "name": "chippy chips",
-                "seed": 750
+                "seed": 750,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4ee69d3e-3be9-11f0-a53a-6eac04d6613b",
                 "name": "New Gen",
-                "seed": 110
+                "seed": 110,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ee69d3e-3be9-11f0-a53a-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ee69d3e-3be9-11f0-a53a-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1976,
@@ -104420,7 +104490,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                "name": "LEW’S",
+                "seed": 909
             },
             "opponent2": {
                 "id": null
@@ -104698,7 +104770,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                "name": "chippy chips",
+                "seed": 750
             },
             "opponent2": {
                 "id": null
