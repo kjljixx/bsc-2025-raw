@@ -45532,18 +45532,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "39af0114-40b6-11f0-84cb-6a2ecef9ff2d",
                 "name": "VilaBoss",
-                "seed": 716
+                "seed": 716,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cb21c036-3d6f-11f0-863c-6eac04d6613b",
                 "name": "AT | GAMER 98",
-                "seed": 1333
+                "seed": 1333,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "39af0114-40b6-11f0-84cb-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb21c036-3d6f-11f0-863c-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "39af0114-40b6-11f0-84cb-6a2ecef9ff2d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cb21c036-3d6f-11f0-863c-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "39af0114-40b6-11f0-84cb-6a2ecef9ff2d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cb21c036-3d6f-11f0-863c-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 473,
@@ -66202,7 +66252,9 @@
                 "seed": 309
             },
             "opponent2": {
-                "id": null
+                "id": "cb21c036-3d6f-11f0-863c-6eac04d6613b",
+                "name": "AT | GAMER 98",
+                "seed": 1333
             },
             "match_games": []
         },
