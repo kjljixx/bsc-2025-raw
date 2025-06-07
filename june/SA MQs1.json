@@ -39485,18 +39485,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29a0ee2a-3bea-11f0-bca7-6eac04d6613b",
                 "name": "Space Division",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bcbe6e7e-3f20-11f0-840a-0ab646d3248d",
                 "name": "LosDocs🩺",
-                "seed": 345
+                "seed": 345,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "29a0ee2a-3bea-11f0-bca7-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bcbe6e7e-3f20-11f0-840a-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "29a0ee2a-3bea-11f0-bca7-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bcbe6e7e-3f20-11f0-840a-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 967,
@@ -39835,18 +39870,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2aadb6cc-3bea-11f0-ae3c-6eac04d6613b",
                 "name": "ECLIPSE",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "19cfe042-3f3b-11f0-8998-6eac04d6613b",
                 "name": "Farofeiros F/A",
-                "seed": 210
+                "seed": 210,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2aadb6cc-3bea-11f0-ae3c-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "19cfe042-3f3b-11f0-8998-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2aadb6cc-3bea-11f0-ae3c-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "19cfe042-3f3b-11f0-8998-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 981,
@@ -39970,18 +40040,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "559ffce2-3e46-11f0-94d5-6eac04d6613b",
                 "name": "Thunder Brawl",
-                "seed": 259
+                "seed": 259,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2a2fbaba-3bea-11f0-859a-6eac04d6613b",
                 "name": "STR Academy eSports",
-                "seed": 67
+                "seed": 67,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "559ffce2-3e46-11f0-94d5-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2a2fbaba-3bea-11f0-859a-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "559ffce2-3e46-11f0-94d5-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2a2fbaba-3bea-11f0-859a-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 986,
@@ -40359,7 +40464,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2a2fbaba-3bea-11f0-859a-6eac04d6613b",
+                "name": "STR Academy eSports",
+                "seed": 67
             },
             "opponent2": {
                 "id": null
