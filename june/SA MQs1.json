@@ -18101,18 +18101,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e8a48d6-40c2-11f0-971b-6a2ecef9ff2d",
                 "name": "TEAM WUSHU",
-                "seed": 510
+                "seed": 510,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "143600f4-3db4-11f0-873b-0ab646d3248d",
                 "name": "Dojo'of Dragons",
-                "seed": 515
+                "seed": 515,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3e8a48d6-40c2-11f0-971b-6a2ecef9ff2d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "143600f4-3db4-11f0-873b-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3e8a48d6-40c2-11f0-971b-6a2ecef9ff2d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "143600f4-3db4-11f0-873b-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 387,
@@ -23946,7 +23981,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "143600f4-3db4-11f0-873b-0ab646d3248d",
+                "name": "Dojo'of Dragons",
+                "seed": 515
             },
             "match_games": []
         },
