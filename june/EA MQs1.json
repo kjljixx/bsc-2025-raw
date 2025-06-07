@@ -12318,7 +12318,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e849b7e6-3be8-11f0-8a4d-6eac04d6613b",
                 "name": "Go To Street",
@@ -12327,7 +12327,8 @@
             "opponent2": {
                 "id": "4db00270-3f7c-11f0-b699-6eac04d6613b",
                 "name": "INUYAN",
-                "seed": 65
+                "seed": 65,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -12558,7 +12559,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9de09ad4-3d56-11f0-b4ee-0ab646d3248d",
                 "name": "真東海林",
@@ -12567,7 +12568,8 @@
             "opponent2": {
                 "id": "e8d3f5d2-3be8-11f0-a5f2-6eac04d6613b",
                 "name": "ＫＫ",
-                "seed": 40
+                "seed": 40,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -12908,18 +12910,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c42fe2e-3bec-11f0-8e32-6eac04d6613b",
                 "name": "NANRYU",
-                "seed": 5
+                "seed": 5,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
                 "name": "足羽組",
-                "seed": 188
+                "seed": 188,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "1c42fe2e-3bec-11f0-8e32-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "1c42fe2e-3bec-11f0-8e32-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "1c42fe2e-3bec-11f0-8e32-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 206,
@@ -13368,11 +13420,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f8c3e88-3e0f-11f0-bf12-0ab646d3248d",
                 "name": "準備放暑假",
-                "seed": 103
+                "seed": 103,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "34bd11f2-4082-11f0-8519-6a2ecef9ff2d",
@@ -13921,10 +13974,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e849b7e6-3be8-11f0-8a4d-6eac04d6613b",
+                "name": "Go To Street",
+                "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "e905f3a2-3be8-11f0-b2db-6eac04d6613b",
+                "name": "Ace King",
+                "seed": 33
             },
             "match_games": []
         },
@@ -13962,7 +14019,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "9de09ad4-3d56-11f0-b4ee-0ab646d3248d",
+                "name": "真東海林",
+                "seed": 153
             },
             "match_games": []
         },
@@ -14035,10 +14094,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
+                "name": "足羽組",
+                "seed": 188
             },
             "opponent2": {
-                "id": null
+                "id": "e83a1eda-3be8-11f0-9f87-6eac04d6613b",
+                "name": "迷子のろいろい",
+                "seed": 28
             },
             "match_games": []
         },
@@ -14116,7 +14179,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "34bd11f2-4082-11f0-8519-6a2ecef9ff2d",
+                "name": "はぬかだダディダディ",
+                "seed": 218
             },
             "match_games": []
         },
