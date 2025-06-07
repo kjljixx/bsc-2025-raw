@@ -94242,18 +94242,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "484fcb08-3be9-11f0-bade-6eac04d6613b",
                 "name": "Askeldodo",
-                "seed": 155
+                "seed": 155,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6ec7655c-3e19-11f0-ad8a-0ab646d3248d",
                 "name": "Esn Esport",
-                "seed": 358
+                "seed": 358,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "484fcb08-3be9-11f0-bade-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ec7655c-3e19-11f0-ad8a-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "484fcb08-3be9-11f0-bade-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6ec7655c-3e19-11f0-ad8a-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "484fcb08-3be9-11f0-bade-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6ec7655c-3e19-11f0-ad8a-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1773,
@@ -97581,7 +97631,9 @@
                 "seed": 102
             },
             "opponent2": {
-                "id": null
+                "id": "6ec7655c-3e19-11f0-ad8a-0ab646d3248d",
+                "name": "Esn Esport",
+                "seed": 358
             },
             "match_games": []
         },
