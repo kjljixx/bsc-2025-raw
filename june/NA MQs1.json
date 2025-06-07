@@ -12357,18 +12357,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ac9e11a6-3d8c-11f0-b0be-0ab646d3248d",
                 "name": "Invictus Splash",
-                "seed": 449
+                "seed": 449,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e2fdf5e8-4392-11f0-9bf5-aa741b89633f",
                 "name": "Toxic Drip",
-                "seed": 576
+                "seed": 576,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ac9e11a6-3d8c-11f0-b0be-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e2fdf5e8-4392-11f0-9bf5-aa741b89633f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ac9e11a6-3d8c-11f0-b0be-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e2fdf5e8-4392-11f0-9bf5-aa741b89633f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -14474,18 +14509,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4156cfac-3fec-11f0-ba61-6a2ecef9ff2d",
                 "name": "MLA",
-                "seed": 472
+                "seed": 472,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "27274b0a-3db9-11f0-9e25-6eac04d6613b",
                 "name": "W the Greats",
-                "seed": 553
+                "seed": 553,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4156cfac-3fec-11f0-ba61-6a2ecef9ff2d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "27274b0a-3db9-11f0-9e25-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4156cfac-3fec-11f0-ba61-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27274b0a-3db9-11f0-9e25-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4156cfac-3fec-11f0-ba61-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27274b0a-3db9-11f0-9e25-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 123,
@@ -21602,7 +21687,9 @@
                 "seed": 64
             },
             "opponent2": {
-                "id": null
+                "id": "e2fdf5e8-4392-11f0-9bf5-aa741b89633f",
+                "name": "Toxic Drip",
+                "seed": 576
             },
             "match_games": []
         },
@@ -22696,7 +22783,9 @@
                 "seed": 41
             },
             "opponent2": {
-                "id": null
+                "id": "4156cfac-3fec-11f0-ba61-6a2ecef9ff2d",
+                "name": "MLA",
+                "seed": 472
             },
             "match_games": []
         },
