@@ -103071,18 +103071,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f5423d6-3be9-11f0-9e9a-6eac04d6613b",
                 "name": "Lgd",
-                "seed": 232
+                "seed": 232,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5db592d4-3be9-11f0-9738-6eac04d6613b",
                 "name": "NANI ABUSERS",
-                "seed": 153
+                "seed": 153,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "4f5423d6-3be9-11f0-9e9a-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5db592d4-3be9-11f0-9738-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "4f5423d6-3be9-11f0-9e9a-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5db592d4-3be9-11f0-9738-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1932,
@@ -103731,18 +103766,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "92492516-4327-11f0-a005-726cccf66275",
                 "name": "F/a cherki",
-                "seed": 1589
+                "seed": 1589,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7f5154c0-3fa7-11f0-9b04-6a2ecef9ff2d",
                 "name": "I Distributori",
-                "seed": 1356
+                "seed": 1356,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "92492516-4327-11f0-a005-726cccf66275",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7f5154c0-3fa7-11f0-9b04-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "92492516-4327-11f0-a005-726cccf66275",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7f5154c0-3fa7-11f0-9b04-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1951,
@@ -104101,18 +104171,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ba1f650e-3e5f-11f0-a53b-0ab646d3248d",
                 "name": "F/A Lithuania",
-                "seed": 759
+                "seed": 759,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4f841d98-3be9-11f0-9c2b-6eac04d6613b",
                 "name": "Loco-Poco",
-                "seed": 138
+                "seed": 138,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "ba1f650e-3e5f-11f0-a53b-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f841d98-3be9-11f0-9c2b-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "ba1f650e-3e5f-11f0-a53b-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f841d98-3be9-11f0-9c2b-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1966,
@@ -104725,7 +104830,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5db592d4-3be9-11f0-9738-6eac04d6613b",
+                "name": "NANI ABUSERS",
+                "seed": 153
             },
             "opponent2": {
                 "id": null
@@ -104882,7 +104989,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "7f5154c0-3fa7-11f0-9b04-6a2ecef9ff2d",
+                "name": "I Distributori",
+                "seed": 1356
             },
             "match_games": []
         },
@@ -105009,7 +105118,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ba1f650e-3e5f-11f0-a53b-0ab646d3248d",
+                "name": "F/A Lithuania",
+                "seed": 759
             },
             "opponent2": {
                 "id": null
