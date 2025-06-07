@@ -36566,18 +36566,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "90b96ace-3bea-11f0-a84f-6eac04d6613b",
                 "name": "Invencibles",
-                "seed": 101
+                "seed": 101,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6e5225dc-3f2f-11f0-9a0f-6eac04d6613b",
                 "name": "REV",
-                "seed": 357
+                "seed": 357,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "90b96ace-3bea-11f0-a84f-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6e5225dc-3f2f-11f0-9a0f-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "90b96ace-3bea-11f0-a84f-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6e5225dc-3f2f-11f0-9a0f-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "90b96ace-3bea-11f0-a84f-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6e5225dc-3f2f-11f0-9a0f-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 823,
@@ -39284,18 +39334,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "909a8f00-3bea-11f0-9ae5-6eac04d6613b",
                 "name": "Team KRYEN",
-                "seed": 123
+                "seed": 123,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "927c2112-3bea-11f0-b086-6eac04d6613b",
                 "name": "Crow’s Nest Legacy",
-                "seed": 134
+                "seed": 134,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "909a8f00-3bea-11f0-9ae5-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "927c2112-3bea-11f0-b086-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "909a8f00-3bea-11f0-9ae5-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "927c2112-3bea-11f0-b086-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "909a8f00-3bea-11f0-9ae5-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "927c2112-3bea-11f0-b086-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 883,
@@ -40473,7 +40573,9 @@
                 "seed": 284
             },
             "opponent2": {
-                "id": null
+                "id": "90b96ace-3bea-11f0-a84f-6eac04d6613b",
+                "name": "Invencibles",
+                "seed": 101
             },
             "match_games": []
         },
@@ -41027,7 +41129,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "927c2112-3bea-11f0-b086-6eac04d6613b",
+                "name": "Crow’s Nest Legacy",
+                "seed": 134
             },
             "match_games": []
         },
