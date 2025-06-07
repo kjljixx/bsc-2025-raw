@@ -39525,18 +39525,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1337f5fa-3f11-11f0-9b5e-0ab646d3248d",
                 "name": "The Nameless",
-                "seed": 408
+                "seed": 408,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "db54e94a-3d8a-11f0-9fb8-0ab646d3248d",
                 "name": "RWB",
-                "seed": 425
+                "seed": 425,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1337f5fa-3f11-11f0-9b5e-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "db54e94a-3d8a-11f0-9fb8-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "1337f5fa-3f11-11f0-9b5e-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "db54e94a-3d8a-11f0-9fb8-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 969,
