@@ -40716,18 +40716,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e78399e-3fd6-11f0-be02-168de864875a",
                 "name": "Faze clan",
-                "seed": 464
+                "seed": 464,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9219a94c-3bea-11f0-8b90-6eac04d6613b",
                 "name": "LOS CARAMELITOS",
-                "seed": 80
+                "seed": 80,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "3e78399e-3fd6-11f0-be02-168de864875a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9219a94c-3bea-11f0-8b90-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3e78399e-3fd6-11f0-be02-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9219a94c-3bea-11f0-8b90-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3e78399e-3fd6-11f0-be02-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9219a94c-3bea-11f0-8b90-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 903,
@@ -43114,7 +43164,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "3e78399e-3fd6-11f0-be02-168de864875a",
+                "name": "Faze clan",
+                "seed": 464
             },
             "match_games": []
         },
