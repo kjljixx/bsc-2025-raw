@@ -32656,18 +32656,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "8c749fba-3bea-11f0-8ea7-6eac04d6613b",
                 "name": "Acoustic Guys",
-                "seed": 54
+                "seed": 54,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
                 "name": "Dookie Butt",
-                "seed": 566
+                "seed": 566,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "8c749fba-3bea-11f0-8ea7-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8c749fba-3bea-11f0-8ea7-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "8c749fba-3bea-11f0-8ea7-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 758,
@@ -35252,7 +35302,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                "name": "Dookie Butt",
+                "seed": 566
             },
             "opponent2": {
                 "id": null
