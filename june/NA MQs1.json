@@ -32437,18 +32437,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc987052-3e34-11f0-a9c0-0ab646d3248d",
                 "name": "No mercy squad",
-                "seed": 251
+                "seed": 251,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07697bf8-42fa-11f0-a707-dea0bdc78efb",
                 "name": "Touch Grass Later",
-                "seed": 262
+                "seed": 262,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "cc987052-3e34-11f0-a9c0-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07697bf8-42fa-11f0-a707-dea0bdc78efb",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cc987052-3e34-11f0-a9c0-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "07697bf8-42fa-11f0-a707-dea0bdc78efb",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "cc987052-3e34-11f0-a9c0-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07697bf8-42fa-11f0-a707-dea0bdc78efb",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 739,
@@ -35944,7 +35994,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "cc987052-3e34-11f0-a9c0-0ab646d3248d",
+                "name": "No mercy squad",
+                "seed": 251
             },
             "match_games": []
         },
