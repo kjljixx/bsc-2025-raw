@@ -27825,18 +27825,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "8e4b0022-3bea-11f0-aa60-6eac04d6613b",
                 "name": "Itagui",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e9fca5c0-42ec-11f0-aa78-0abc5cfa3912",
                 "name": "Lightning Straw",
-                "seed": 538
+                "seed": 538,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "8e4b0022-3bea-11f0-aa60-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9fca5c0-42ec-11f0-aa78-0abc5cfa3912",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8e4b0022-3bea-11f0-aa60-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9fca5c0-42ec-11f0-aa78-0abc5cfa3912",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 682,
@@ -31958,7 +31993,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8e4b0022-3bea-11f0-aa60-6eac04d6613b",
+                "name": "Itagui",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
