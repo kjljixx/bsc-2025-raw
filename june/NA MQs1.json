@@ -12528,18 +12528,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "77c4ce06-3d97-11f0-a931-6eac04d6613b",
                 "name": "MirosBirds",
-                "seed": 481
+                "seed": 481,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c0744364-430c-11f0-b7cf-ea665beda487",
                 "name": "The Ohio Bluds",
-                "seed": 544
+                "seed": 544,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "77c4ce06-3d97-11f0-a931-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0744364-430c-11f0-b7cf-ea665beda487",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "77c4ce06-3d97-11f0-a931-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0744364-430c-11f0-b7cf-ea665beda487",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 19,
@@ -21610,7 +21645,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "77c4ce06-3d97-11f0-a931-6eac04d6613b",
+                "name": "MirosBirds",
+                "seed": 481
             },
             "match_games": []
         },
