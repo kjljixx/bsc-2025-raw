@@ -39995,18 +39995,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2d797ef4-3db6-11f0-993f-0ab646d3248d",
                 "name": "Ahjin",
-                "seed": 519
+                "seed": 519,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2ae6aed2-3bea-11f0-a04d-6eac04d6613b",
                 "name": "GTA",
-                "seed": 71
+                "seed": 71,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2d797ef4-3db6-11f0-993f-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2ae6aed2-3bea-11f0-a04d-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2d797ef4-3db6-11f0-993f-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2ae6aed2-3bea-11f0-a04d-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 982,
@@ -40504,10 +40539,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d797ef4-3db6-11f0-993f-0ab646d3248d",
+                "name": "Ahjin",
+                "seed": 519
             },
             "opponent2": {
-                "id": null
+                "id": "269972ce-3bea-11f0-a7e5-6eac04d6613b",
+                "name": "MEDELIN",
+                "seed": 167
             },
             "match_games": []
         },
