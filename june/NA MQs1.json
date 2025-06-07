@@ -45143,18 +45143,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa68756a-4198-11f0-abb1-6a2ecef9ff2d",
                 "name": "🙂‍↔️",
-                "seed": 246
+                "seed": 246,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
                 "name": "Dookie Butt",
-                "seed": 566
+                "seed": 566,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fa68756a-4198-11f0-abb1-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "fa68756a-4198-11f0-abb1-6a2ecef9ff2d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fa68756a-4198-11f0-abb1-6a2ecef9ff2d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 992,
@@ -45514,10 +45564,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                "name": "Dookie Butt",
+                "seed": 566
             },
             "opponent2": {
-                "id": null
+                "id": "e5eda36a-3f38-11f0-b5c8-0ab646d3248d",
+                "name": "Destiny",
+                "seed": 363
             },
             "match_games": []
         }
