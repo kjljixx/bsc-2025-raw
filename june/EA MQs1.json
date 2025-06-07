@@ -12186,15 +12186,49 @@
             "opponent1": {
                 "id": "e70ce236-3be8-11f0-984f-6eac04d6613b",
                 "name": "Opkids",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2b18b3ea-3f47-11f0-9e7d-6eac04d6613b",
                 "name": "JHB",
                 "seed": 86,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "e70ce236-3be8-11f0-984f-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b18b3ea-3f47-11f0-9e7d-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e70ce236-3be8-11f0-984f-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b18b3ea-3f47-11f0-9e7d-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 193,
