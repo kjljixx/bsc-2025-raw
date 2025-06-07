@@ -39445,18 +39445,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b77278c-3bea-11f0-8cf7-6eac04d6613b",
                 "name": "Os pinguins",
-                "seed": 273
+                "seed": 273,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "285bfeec-3bea-11f0-87c8-6eac04d6613b",
                 "name": "Los EX-Meg Ma",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2b77278c-3bea-11f0-8cf7-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "285bfeec-3bea-11f0-87c8-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2b77278c-3bea-11f0-8cf7-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "285bfeec-3bea-11f0-87c8-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 965,
