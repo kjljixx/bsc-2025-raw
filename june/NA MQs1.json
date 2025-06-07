@@ -16129,11 +16129,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e231a030-4192-11f0-b752-6a2ecef9ff2d",
                 "name": "NGE",
-                "seed": 508
+                "seed": 508,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "00abc840-3da8-11f0-83f8-6eac04d6613b",
@@ -16379,11 +16380,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "92fe404a-3f5d-11f0-a5c8-6eac04d6613b",
                 "name": "The lads",
-                "seed": 444
+                "seed": 444,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "fe22cf64-3dc6-11f0-8503-6eac04d6613b",
@@ -22279,11 +22281,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c707dc2-3fe1-11f0-a943-6a2ecef9ff2d",
                 "name": "Jps",
-                "seed": 470
+                "seed": 470,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "f6851660-3dba-11f0-adb8-6eac04d6613b",
@@ -24326,7 +24329,11 @@
                 "name": "Stanley Steemers",
                 "seed": 5
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "00abc840-3da8-11f0-83f8-6eac04d6613b",
+                "name": "Manojlovic",
+                "seed": 517
+            },
             "match_games": []
         },
         {
@@ -24442,7 +24449,11 @@
                 "name": "maestros del caos👻",
                 "seed": 69
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "fe22cf64-3dc6-11f0-8503-6eac04d6613b",
+                "name": "TRIPLE JJJ",
+                "seed": 581
+            },
             "match_games": []
         },
         {
@@ -27310,7 +27321,11 @@
                 "name": "W boys",
                 "seed": 43
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "f6851660-3dba-11f0-adb8-6eac04d6613b",
+                "name": "Doug’s Wieners",
+                "seed": 555
+            },
             "match_games": []
         },
         {
