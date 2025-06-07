@@ -62022,18 +62022,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4905bf58-3be9-11f0-9753-6eac04d6613b",
                 "name": "Bla-bla",
-                "seed": 288
+                "seed": 288,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "06b760ec-3e51-11f0-8713-0ab646d3248d",
                 "name": "Win Lane Win Game",
-                "seed": 737
+                "seed": 737,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "4905bf58-3be9-11f0-9753-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "06b760ec-3e51-11f0-8713-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4905bf58-3be9-11f0-9753-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "06b760ec-3e51-11f0-8713-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1045,
@@ -66227,18 +66262,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a7fc70b4-3d6b-11f0-b440-6eac04d6613b",
                 "name": "ZoschiTM",
-                "seed": 476
+                "seed": 476,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2dee9b38-41f0-11f0-90b7-168de864875a",
                 "name": "F/A Pigs",
-                "seed": 1500
+                "seed": 1500,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "a7fc70b4-3d6b-11f0-b440-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2dee9b38-41f0-11f0-90b7-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a7fc70b4-3d6b-11f0-b440-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2dee9b38-41f0-11f0-90b7-168de864875a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1243,
