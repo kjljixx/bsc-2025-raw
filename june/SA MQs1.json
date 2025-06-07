@@ -37321,18 +37321,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5078c888-3f46-11f0-94b7-0ab646d3248d",
                 "name": "Capivara Team",
-                "seed": 218
+                "seed": 218,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "269972ce-3bea-11f0-a7e5-6eac04d6613b",
                 "name": "MEDELIN",
-                "seed": 167
+                "seed": 167,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5078c888-3f46-11f0-94b7-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "269972ce-3bea-11f0-a7e5-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5078c888-3f46-11f0-94b7-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "269972ce-3bea-11f0-a7e5-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 941,
@@ -37451,7 +37486,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b84e9dbc-3e64-11f0-be34-0ab646d3248d",
                 "name": "SAL STARS",
@@ -37460,7 +37495,8 @@
             "opponent2": {
                 "id": "63e9e492-3e79-11f0-9d7f-0ab646d3248d",
                 "name": "Hijos de chuan",
-                "seed": 362
+                "seed": 362,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -37566,18 +37602,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c16bb446-4267-11f0-a30b-6a2ecef9ff2d",
                 "name": "Rage",
-                "seed": 542
+                "seed": 542,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "28f2f95a-3bea-11f0-ac75-6eac04d6613b",
                 "name": "REC ON",
-                "seed": 99
+                "seed": 99,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c16bb446-4267-11f0-a30b-6a2ecef9ff2d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "28f2f95a-3bea-11f0-ac75-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c16bb446-4267-11f0-a30b-6a2ecef9ff2d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "28f2f95a-3bea-11f0-ac75-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 948,
@@ -38454,10 +38525,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b84e9dbc-3e64-11f0-be34-0ab646d3248d",
+                "name": "SAL STARS",
+                "seed": 279
             },
             "opponent2": {
-                "id": null
+                "id": "271c5216-3bea-11f0-aec2-6eac04d6613b",
+                "name": "E$PARTANOS",
+                "seed": 87
             },
             "match_games": []
         },
@@ -38486,10 +38561,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "28f2f95a-3bea-11f0-ac75-6eac04d6613b",
+                "name": "REC ON",
+                "seed": 99
             },
             "opponent2": {
-                "id": null
+                "id": "aac8744c-3d88-11f0-a46c-0ab646d3248d",
+                "name": "Strike PhantomX",
+                "seed": 419
             },
             "match_games": []
         },
