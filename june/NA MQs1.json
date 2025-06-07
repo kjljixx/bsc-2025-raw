@@ -43543,18 +43543,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8de51582-3bea-11f0-baa7-6eac04d6613b",
                 "name": "🤡",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3e78399e-3fd6-11f0-be02-168de864875a",
                 "name": "Faze clan",
-                "seed": 464
+                "seed": 464,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8de51582-3bea-11f0-baa7-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e78399e-3fd6-11f0-be02-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8de51582-3bea-11f0-baa7-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e78399e-3fd6-11f0-be02-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 964,
@@ -43663,18 +43698,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
                 "name": "Patata Sports",
-                "seed": 516
+                "seed": 516,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9251a1f8-3bea-11f0-8b36-6eac04d6613b",
                 "name": "ISK",
-                "seed": 61
+                "seed": 61,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9251a1f8-3bea-11f0-8b36-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9251a1f8-3bea-11f0-8b36-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 970,
@@ -44161,7 +44231,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8de51582-3bea-11f0-baa7-6eac04d6613b",
+                "name": "🤡",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
@@ -44209,7 +44281,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
+                "name": "Patata Sports",
+                "seed": 516
             },
             "opponent2": {
                 "id": null
