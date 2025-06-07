@@ -96522,18 +96522,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "54761d74-3be9-11f0-a366-6eac04d6613b",
                 "name": "sosa4life🤑💸",
-                "seed": 40
+                "seed": 40,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4fe57c00-3be9-11f0-a9a4-6eac04d6613b",
                 "name": "Lost Time🍭",
-                "seed": 296
+                "seed": 296,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "54761d74-3be9-11f0-a366-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4fe57c00-3be9-11f0-a9a4-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "54761d74-3be9-11f0-a366-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4fe57c00-3be9-11f0-a9a4-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "54761d74-3be9-11f0-a366-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4fe57c00-3be9-11f0-a9a4-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1816,
@@ -102010,7 +102060,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4fe57c00-3be9-11f0-a9a4-6eac04d6613b",
+                "name": "Lost Time🍭",
+                "seed": 296
             },
             "opponent2": {
                 "id": null
