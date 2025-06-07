@@ -14072,18 +14072,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16cdf280-3e28-11f0-a629-0ab646d3248d",
                 "name": "KMZ",
-                "seed": 77
+                "seed": 77,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e7c4227a-3be8-11f0-8772-6eac04d6613b",
                 "name": "Riberte",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "16cdf280-3e28-11f0-a629-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e7c4227a-3be8-11f0-8772-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "16cdf280-3e28-11f0-a629-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e7c4227a-3be8-11f0-8772-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 231,
@@ -14172,18 +14207,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c42a1d6-3bec-11f0-aa00-6eac04d6613b",
                 "name": "”‬FCサジアキ‪”",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "34bd11f2-4082-11f0-8519-6a2ecef9ff2d",
                 "name": "はぬかだダディダディ",
-                "seed": 218
+                "seed": 218,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "1c42a1d6-3bec-11f0-aa00-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34bd11f2-4082-11f0-8519-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1c42a1d6-3bec-11f0-aa00-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34bd11f2-4082-11f0-8519-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 236,
