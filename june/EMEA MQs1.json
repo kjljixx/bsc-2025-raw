@@ -91641,18 +91641,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6ddc2d56-3ef2-11f0-ac3e-0ab646d3248d",
                 "name": "those who zeno",
-                "seed": 1214
+                "seed": 1214,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7fb938ca-3d71-11f0-b2c6-6eac04d6613b",
                 "name": "HARIBOO",
-                "seed": 1347
+                "seed": 1347,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "6ddc2d56-3ef2-11f0-ac3e-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fb938ca-3d71-11f0-b2c6-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "6ddc2d56-3ef2-11f0-ac3e-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fb938ca-3d71-11f0-b2c6-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1737,
@@ -96235,7 +96270,9 @@
                 "seed": 579
             },
             "opponent2": {
-                "id": null
+                "id": "6ddc2d56-3ef2-11f0-ac3e-0ab646d3248d",
+                "name": "those who zeno",
+                "seed": 1214
             },
             "match_games": []
         },
