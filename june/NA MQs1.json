@@ -12225,7 +12225,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6c61a204-41b2-11f0-b38c-6a2ecef9ff2d",
                 "name": "ᴰᵸ|downhill",
@@ -12234,7 +12234,8 @@
             "opponent2": {
                 "id": "8db21f9c-3da7-11f0-88d7-0ab646d3248d",
                 "name": "ZETA",
-                "seed": 513
+                "seed": 513,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -17322,18 +17323,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "df8caae4-3f46-11f0-bbc5-6eac04d6613b",
                 "name": "hardstuck mythic",
-                "seed": 428
+                "seed": 428,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b4d8eef8-3dc9-11f0-945c-0ab646d3248d",
                 "name": "Mortis Game",
-                "seed": 597
+                "seed": 597,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "df8caae4-3f46-11f0-bbc5-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b4d8eef8-3dc9-11f0-945c-0ab646d3248d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "df8caae4-3f46-11f0-bbc5-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b4d8eef8-3dc9-11f0-945c-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "df8caae4-3f46-11f0-bbc5-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b4d8eef8-3dc9-11f0-945c-0ab646d3248d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 255,
@@ -22289,7 +22340,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "6c61a204-41b2-11f0-b38c-6a2ecef9ff2d",
+                "name": "ᴰᵸ|downhill",
+                "seed": 512
             },
             "match_games": []
         },
@@ -24765,7 +24818,9 @@
                 "seed": 85
             },
             "opponent2": {
-                "id": null
+                "id": "df8caae4-3f46-11f0-bbc5-6eac04d6613b",
+                "name": "hardstuck mythic",
+                "seed": 428
             },
             "match_games": []
         },
