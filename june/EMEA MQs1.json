@@ -97774,18 +97774,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ceeaa572-3d5e-11f0-8087-6eac04d6613b",
                 "name": "Quick?",
-                "seed": 1151
+                "seed": 1151,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6ec169f6-3d90-11f0-9888-6eac04d6613b",
                 "name": "SYLOS",
-                "seed": 1154
+                "seed": 1154,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "ceeaa572-3d5e-11f0-8087-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ec169f6-3d90-11f0-9888-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ceeaa572-3d5e-11f0-8087-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ec169f6-3d90-11f0-9888-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1859,
@@ -100513,7 +100548,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "ceeaa572-3d5e-11f0-8087-6eac04d6613b",
+                "name": "Quick?",
+                "seed": 1151
             },
             "match_games": []
         },
