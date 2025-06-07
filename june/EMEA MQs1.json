@@ -62005,18 +62005,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6afaa9ae-3bec-11f0-ac9c-6eac04d6613b",
                 "name": "Code : Gas",
-                "seed": 32
+                "seed": 32,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8a8e519a-3f42-11f0-b069-6eac04d6613b",
                 "name": "Lamix à la vaisselle",
-                "seed": 993
+                "seed": 993,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "6afaa9ae-3bec-11f0-ac9c-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8a8e519a-3f42-11f0-b069-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "6afaa9ae-3bec-11f0-ac9c-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8a8e519a-3f42-11f0-b069-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1042,
@@ -62401,18 +62436,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "529fb762-3be9-11f0-bb09-6eac04d6613b",
                 "name": "Promachus",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "84bcce02-3f8a-11f0-b5ba-0ab646d3248d",
                 "name": "MGM",
-                "seed": 1009
+                "seed": 1009,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "529fb762-3be9-11f0-bb09-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "84bcce02-3f8a-11f0-b5ba-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "529fb762-3be9-11f0-bb09-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "84bcce02-3f8a-11f0-b5ba-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1058,
@@ -64337,18 +64407,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "59be8014-3be9-11f0-a45b-6eac04d6613b",
                 "name": "F/A CAL",
-                "seed": 73
+                "seed": 73,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e17099c6-3e13-11f0-9219-6eac04d6613b",
                 "name": "Gurtof",
-                "seed": 952
+                "seed": 952,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "59be8014-3be9-11f0-a45b-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e17099c6-3e13-11f0-9219-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "59be8014-3be9-11f0-a45b-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e17099c6-3e13-11f0-9219-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1134,
@@ -64576,18 +64681,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5d8f0f56-3be9-11f0-b257-6eac04d6613b",
                 "name": "Clap Crew",
-                "seed": 152
+                "seed": 152,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f24c2c8c-3eeb-11f0-81a5-6eac04d6613b",
                 "name": "Liquid",
-                "seed": 873
+                "seed": 873,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "5d8f0f56-3be9-11f0-b257-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f24c2c8c-3eeb-11f0-81a5-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "5d8f0f56-3be9-11f0-b257-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f24c2c8c-3eeb-11f0-81a5-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1144,
@@ -64813,18 +64953,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "536a5ef4-3be9-11f0-8f0c-6eac04d6613b",
                 "name": "RVP Gaming",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "387a2498-3e3d-11f0-8983-0ab646d3248d",
                 "name": "DNA-Gaming",
-                "seed": 1028
+                "seed": 1028,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "536a5ef4-3be9-11f0-8f0c-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "387a2498-3e3d-11f0-8983-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "536a5ef4-3be9-11f0-8f0c-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "387a2498-3e3d-11f0-8983-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1154,
@@ -64950,18 +65125,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28cf2b18-3e35-11f0-a0d6-0ab646d3248d",
                 "name": "Unknown Talents",
-                "seed": 388
+                "seed": 388,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "37c422ac-3d51-11f0-b558-6eac04d6613b",
                 "name": "🦋🥀ḅઽ🥀🦋",
-                "seed": 637
+                "seed": 637,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "28cf2b18-3e35-11f0-a0d6-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37c422ac-3d51-11f0-b558-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "28cf2b18-3e35-11f0-a0d6-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37c422ac-3d51-11f0-b558-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1159,
@@ -65666,18 +65876,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5a707a6c-3be9-11f0-a72a-6eac04d6613b",
                 "name": "ZOR Esports",
-                "seed": 269
+                "seed": 269,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "57a4cb48-3d6b-11f0-935e-0ab646d3248d",
                 "name": "Toxico",
-                "seed": 1293
+                "seed": 1293,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "5a707a6c-3be9-11f0-a72a-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "57a4cb48-3d6b-11f0-935e-0ab646d3248d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "5a707a6c-3be9-11f0-a72a-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "57a4cb48-3d6b-11f0-935e-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1189,
@@ -65851,18 +66096,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
                 "name": "CHN|",
-                "seed": 77
+                "seed": 77,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "75a2e69e-3d5b-11f0-8538-0ab646d3248d",
                 "name": "NLJ|ESPORTS",
-                "seed": 1101
+                "seed": 1101,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "75a2e69e-3d5b-11f0-8538-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "75a2e69e-3d5b-11f0-8538-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1198,
@@ -65968,18 +66248,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "51744f2e-3be9-11f0-9ee5-6eac04d6613b",
                 "name": "NoN-eSports",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a3d5a27c-3f86-11f0-9410-0ab646d3248d",
                 "name": "Fallen Titans",
-                "seed": 1005
+                "seed": 1005,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "51744f2e-3be9-11f0-9ee5-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3d5a27c-3f86-11f0-9410-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "51744f2e-3be9-11f0-9ee5-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3d5a27c-3f86-11f0-9410-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1202,
@@ -66192,18 +66507,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
                 "name": "Okatsuta",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "004db384-3d6e-11f0-b491-0ab646d3248d",
                 "name": "SyZe Gaming",
-                "seed": 1325
+                "seed": 1325,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "004db384-3d6e-11f0-b491-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "51ba0258-3be9-11f0-b82d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "004db384-3d6e-11f0-b491-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1213,
@@ -66456,18 +66806,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "49310794-3be9-11f0-abec-6eac04d6613b",
                 "name": "BNDZ",
-                "seed": 60
+                "seed": 60,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e3a2ba78-3f24-11f0-bccb-6eac04d6613b",
                 "name": "MISTOLF",
-                "seed": 965
+                "seed": 965,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "49310794-3be9-11f0-abec-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3a2ba78-3f24-11f0-bccb-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "49310794-3be9-11f0-abec-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3a2ba78-3f24-11f0-bccb-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1226,
@@ -67842,18 +68227,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "57ed14f8-3be9-11f0-a6bd-6eac04d6613b",
                 "name": "Zaio Baio",
-                "seed": 258
+                "seed": 258,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6a2d4506-3f1e-11f0-99b6-0ab646d3248d",
                 "name": "G2-Esports",
-                "seed": 1282
+                "seed": 1282,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "57ed14f8-3be9-11f0-a6bd-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6a2d4506-3f1e-11f0-99b6-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "57ed14f8-3be9-11f0-a6bd-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6a2d4506-3f1e-11f0-99b6-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1285,
@@ -68060,18 +68480,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
                 "name": "Amnesia E-Sport",
-                "seed": 66
+                "seed": 66,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4bccd4c2-3f1f-11f0-be70-0ab646d3248d",
                 "name": "Vortex Zero",
-                "seed": 959
+                "seed": 959,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4bccd4c2-3f1f-11f0-be70-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4bccd4c2-3f1f-11f0-be70-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1294,
@@ -69698,18 +70153,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
                 "name": "Smeltro Academy",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "245c5934-3f70-11f0-a681-6eac04d6613b",
                 "name": "JJD Berlin",
-                "seed": 999
+                "seed": 999,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "245c5934-3f70-11f0-a681-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "245c5934-3f70-11f0-a681-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1362,
@@ -69780,18 +70270,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4c47bf68-3be9-11f0-88d0-6eac04d6613b",
                 "name": "FMU|Esports",
-                "seed": 103
+                "seed": 103,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "57dbbb9a-3be9-11f0-b727-6eac04d6613b",
                 "name": "YouchTeam",
-                "seed": 1127
+                "seed": 1127,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "4c47bf68-3be9-11f0-88d0-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "57dbbb9a-3be9-11f0-b727-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4c47bf68-3be9-11f0-88d0-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "57dbbb9a-3be9-11f0-b727-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1366,
@@ -73973,10 +74498,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6afaa9ae-3bec-11f0-ac9c-6eac04d6613b",
+                "name": "Code : Gas",
+                "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "53c899d4-430e-11f0-a33e-ea665beda487",
+                "name": "Fear Us",
+                "seed": 544
             },
             "match_games": []
         },
@@ -74109,7 +74638,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "529fb762-3be9-11f0-bb09-6eac04d6613b",
+                "name": "Promachus",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
@@ -74781,10 +75312,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "59be8014-3be9-11f0-a45b-6eac04d6613b",
+                "name": "F/A CAL",
+                "seed": 73
             },
             "opponent2": {
-                "id": null
+                "id": "af0d7026-4188-11f0-bc9e-168de864875a",
+                "name": "IR34L",
+                "seed": 440
             },
             "match_games": []
         },
@@ -74865,7 +75400,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f24c2c8c-3eeb-11f0-81a5-6eac04d6613b",
+                "name": "Liquid",
+                "seed": 873
             },
             "opponent2": {
                 "id": null
@@ -74951,7 +75488,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "536a5ef4-3be9-11f0-8f0c-6eac04d6613b",
+                "name": "RVP Gaming",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -74992,7 +75531,9 @@
                 "seed": 900
             },
             "opponent2": {
-                "id": null
+                "id": "28cf2b18-3e35-11f0-a0d6-0ab646d3248d",
+                "name": "Unknown Talents",
+                "seed": 388
             },
             "match_games": []
         },
@@ -75250,7 +75791,9 @@
                 "seed": 1268
             },
             "opponent2": {
-                "id": null
+                "id": "5a707a6c-3be9-11f0-a72a-6eac04d6613b",
+                "name": "ZOR Esports",
+                "seed": 269
             },
             "match_games": []
         },
@@ -75333,10 +75876,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
+                "name": "CHN|",
+                "seed": 77
             },
             "opponent2": {
-                "id": null
+                "id": "7c641b90-4136-11f0-9ac7-168de864875a",
+                "name": "OneShot",
+                "seed": 1460
             },
             "match_games": []
         },
@@ -75369,10 +75916,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "51744f2e-3be9-11f0-9ee5-6eac04d6613b",
+                "name": "NoN-eSports",
+                "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "ccab4e8e-42f3-11f0-a8ad-e6756ed475df",
+                "name": "E-Скунс",
+                "seed": 1556
             },
             "match_games": []
         },
@@ -75569,10 +76120,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "49310794-3be9-11f0-abec-6eac04d6613b",
+                "name": "BNDZ",
+                "seed": 60
             },
             "opponent2": {
-                "id": null
+                "id": "5c48f58a-3be9-11f0-bac8-6eac04d6613b",
+                "name": "Lonely Stars",
+                "seed": 453
             },
             "match_games": []
         },
@@ -76169,10 +76724,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
+                "name": "Amnesia E-Sport",
+                "seed": 66
             },
             "opponent2": {
-                "id": null
+                "id": "147f5308-3daa-11f0-8c72-0ab646d3248d",
+                "name": "Bubin stan",
+                "seed": 578
             },
             "match_games": []
         },
@@ -76773,10 +77332,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
+                "name": "Smeltro Academy",
+                "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "5ae9ee92-3be9-11f0-a3bc-6eac04d6613b",
+                "name": "xqw",
+                "seed": 1511
             },
             "match_games": []
         },
@@ -76807,10 +77370,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4c47bf68-3be9-11f0-88d0-6eac04d6613b",
+                "name": "FMU|Esports",
+                "seed": 103
             },
             "opponent2": {
-                "id": null
+                "id": "499f87c8-3be9-11f0-b11a-6eac04d6613b",
+                "name": "BWB Esports",
+                "seed": 615
             },
             "match_games": []
         },
