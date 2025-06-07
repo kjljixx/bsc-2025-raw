@@ -40591,18 +40591,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8de51582-3bea-11f0-baa7-6eac04d6613b",
                 "name": "🤡",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "900be674-3bea-11f0-8437-6eac04d6613b",
                 "name": "Pretty Girls",
-                "seed": 144
+                "seed": 144,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8de51582-3bea-11f0-baa7-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "900be674-3bea-11f0-8437-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8de51582-3bea-11f0-baa7-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "900be674-3bea-11f0-8437-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 902,
@@ -40768,18 +40803,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "933a1848-3bea-11f0-9581-6eac04d6613b",
                 "name": "Squishy",
-                "seed": 40
+                "seed": 40,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c2c863fa-3dcd-11f0-9f5c-0ab646d3248d",
                 "name": "Jackpot",
-                "seed": 601
+                "seed": 601,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "933a1848-3bea-11f0-9581-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c2c863fa-3dcd-11f0-9f5c-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "933a1848-3bea-11f0-9581-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c2c863fa-3dcd-11f0-9f5c-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 909,
@@ -42471,7 +42541,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8de51582-3bea-11f0-baa7-6eac04d6613b",
+                "name": "🤡",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
@@ -42528,7 +42600,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "c2c863fa-3dcd-11f0-9f5c-0ab646d3248d",
+                "name": "Jackpot",
+                "seed": 601
             },
             "match_games": []
         },
