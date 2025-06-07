@@ -41082,18 +41082,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "04dd0dcc-3f36-11f0-b10f-0ab646d3248d",
                 "name": "COSMIC",
-                "seed": 208
+                "seed": 208,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "285bfeec-3bea-11f0-87c8-6eac04d6613b",
                 "name": "Los EX-Meg Ma",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "04dd0dcc-3f36-11f0-b10f-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "285bfeec-3bea-11f0-87c8-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "04dd0dcc-3f36-11f0-b10f-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "285bfeec-3bea-11f0-87c8-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 995,

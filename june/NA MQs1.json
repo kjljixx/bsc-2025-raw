@@ -22490,18 +22490,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "1b8c9ae8-4269-11f0-8227-168de864875a",
                 "name": "D-Day",
-                "seed": 256
+                "seed": 256,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f7ef3ec0-3e43-11f0-87b7-0ab646d3248d",
                 "name": "Latinos_HN",
-                "seed": 257
+                "seed": 257,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "1b8c9ae8-4269-11f0-8227-168de864875a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f7ef3ec0-3e43-11f0-87b7-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "1b8c9ae8-4269-11f0-8227-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f7ef3ec0-3e43-11f0-87b7-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "1b8c9ae8-4269-11f0-8227-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f7ef3ec0-3e43-11f0-87b7-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 515,
@@ -26145,18 +26195,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "92b258e0-3bea-11f0-8b63-6eac04d6613b",
                 "name": "PEH",
-                "seed": 109
+                "seed": 109,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "49939f98-3f0a-11f0-b151-6eac04d6613b",
                 "name": "Panda toxico",
-                "seed": 404
+                "seed": 404,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "92b258e0-3bea-11f0-8b63-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "49939f98-3f0a-11f0-b151-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "92b258e0-3bea-11f0-8b63-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "49939f98-3f0a-11f0-b151-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 604,
@@ -32506,7 +32591,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "5e029632-3f5f-11f0-b639-0ab646d3248d",
                 "name": "Edgar Repellent",
@@ -32515,7 +32600,8 @@
             "opponent2": {
                 "id": "167d1cd4-3f4f-11f0-bfa7-6eac04d6613b",
                 "name": "Lovehack",
-                "seed": 299
+                "seed": 299,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -32573,7 +32659,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "1b8c9ae8-4269-11f0-8227-168de864875a",
+                "name": "D-Day",
+                "seed": 256
             },
             "match_games": []
         },
@@ -33370,10 +33458,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "49939f98-3f0a-11f0-b151-6eac04d6613b",
+                "name": "Panda toxico",
+                "seed": 404
             },
             "opponent2": {
-                "id": null
+                "id": "92981566-3bea-11f0-9d46-6eac04d6613b",
+                "name": "Pogging Piggies",
+                "seed": 148
             },
             "match_games": []
         },
@@ -34813,7 +34905,9 @@
                 "seed": 43
             },
             "opponent2": {
-                "id": null
+                "id": "5e029632-3f5f-11f0-b639-0ab646d3248d",
+                "name": "Edgar Repellent",
+                "seed": 214
             },
             "match_games": []
         },
