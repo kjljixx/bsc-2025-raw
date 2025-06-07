@@ -40807,18 +40807,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d894bef2-3dd9-11f0-8b9f-6eac04d6613b",
                 "name": "Stellar Universe",
-                "seed": 304
+                "seed": 304,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dada3d8e-40d3-11f0-91f9-168de864875a",
                 "name": "Eternal Havoc",
-                "seed": 176
+                "seed": 176,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "d894bef2-3dd9-11f0-8b9f-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dada3d8e-40d3-11f0-91f9-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d894bef2-3dd9-11f0-8b9f-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dada3d8e-40d3-11f0-91f9-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "d894bef2-3dd9-11f0-8b9f-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dada3d8e-40d3-11f0-91f9-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 905,
@@ -43219,7 +43269,9 @@
                 "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "d894bef2-3dd9-11f0-8b9f-6eac04d6613b",
+                "name": "Stellar Universe",
+                "seed": 304
             },
             "match_games": []
         },
