@@ -44383,18 +44383,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8fcc0dc4-3bea-11f0-94fd-6eac04d6613b",
                 "name": "TB GAMING",
-                "seed": 98
+                "seed": 98,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "439ff94a-3dd1-11f0-be5f-0ab646d3248d",
                 "name": "Arepa Sports",
-                "seed": 607
+                "seed": 607,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8fcc0dc4-3bea-11f0-94fd-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "439ff94a-3dd1-11f0-be5f-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8fcc0dc4-3bea-11f0-94fd-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "439ff94a-3dd1-11f0-be5f-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "8fcc0dc4-3bea-11f0-94fd-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "439ff94a-3dd1-11f0-be5f-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 979,
@@ -45231,7 +45281,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "8fcc0dc4-3bea-11f0-94fd-6eac04d6613b",
+                "name": "TB GAMING",
+                "seed": 98
             },
             "match_games": []
         },
