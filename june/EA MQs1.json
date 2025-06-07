@@ -12563,18 +12563,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
                 "name": "Team MUS",
-                "seed": 152
+                "seed": 152,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e8ee3064-3be8-11f0-bc08-6eac04d6613b",
                 "name": "黒毛",
-                "seed": 41
+                "seed": 41,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8ee3064-3be8-11f0-bc08-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8ee3064-3be8-11f0-bc08-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 201,
@@ -13822,7 +13857,9 @@
                 "seed": 73
             },
             "opponent2": {
-                "id": null
+                "id": "b2d1b56c-3e5b-11f0-8a24-6eac04d6613b",
+                "name": "Team MUS",
+                "seed": 152
             },
             "match_games": []
         },
