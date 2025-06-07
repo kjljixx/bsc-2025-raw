@@ -90440,18 +90440,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "579a98ae-3be9-11f0-9994-6eac04d6613b",
                 "name": "WTW",
-                "seed": 58
+                "seed": 58,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fa559e44-436f-11f0-bdbc-6a83d9bede70",
                 "name": "RG|Esports",
-                "seed": 1594
+                "seed": 1594,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "579a98ae-3be9-11f0-9994-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa559e44-436f-11f0-bdbc-6a83d9bede70",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "579a98ae-3be9-11f0-9994-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fa559e44-436f-11f0-bdbc-6a83d9bede70",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "579a98ae-3be9-11f0-9994-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fa559e44-436f-11f0-bdbc-6a83d9bede70",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1702,
@@ -90570,18 +90620,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a4d3a95e-3eef-11f0-badf-6eac04d6613b",
                 "name": "MLN_Icy",
-                "seed": 1210
+                "seed": 1210,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0b888ad4-4062-11f0-bd8b-168de864875a",
                 "name": "FURIA ESPAÑOLA",
-                "seed": 698
+                "seed": 698,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a4d3a95e-3eef-11f0-badf-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0b888ad4-4062-11f0-bd8b-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "a4d3a95e-3eef-11f0-badf-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b888ad4-4062-11f0-bd8b-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a4d3a95e-3eef-11f0-badf-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0b888ad4-4062-11f0-bd8b-168de864875a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1705,
@@ -96674,10 +96774,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fa559e44-436f-11f0-bdbc-6a83d9bede70",
+                "name": "RG|Esports",
+                "seed": 1594
             },
             "opponent2": {
-                "id": null
+                "id": "5a2c3dd4-3be9-11f0-ade6-6eac04d6613b",
+                "name": "Nomads team",
+                "seed": 199
             },
             "match_games": []
         },
@@ -96695,7 +96799,9 @@
                 "seed": 71
             },
             "opponent2": {
-                "id": null
+                "id": "0b888ad4-4062-11f0-bd8b-168de864875a",
+                "name": "FURIA ESPAÑOLA",
+                "seed": 698
             },
             "match_games": []
         },
