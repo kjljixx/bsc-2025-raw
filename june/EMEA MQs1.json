@@ -108396,18 +108396,68 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "536a5ef4-3be9-11f0-8f0c-6eac04d6613b",
                 "name": "RVP Gaming",
-                "seed": 4
+                "seed": 4,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5d51b534-3be9-11f0-8690-6eac04d6613b",
                 "name": "Nemesis",
-                "seed": 93
+                "seed": 93,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "536a5ef4-3be9-11f0-8f0c-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5d51b534-3be9-11f0-8690-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "536a5ef4-3be9-11f0-8f0c-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5d51b534-3be9-11f0-8690-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "536a5ef4-3be9-11f0-8f0c-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5d51b534-3be9-11f0-8690-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2022,
