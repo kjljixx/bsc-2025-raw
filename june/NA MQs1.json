@@ -12730,18 +12730,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a416594-4022-11f0-8cd1-168de864875a",
                 "name": "LOS BODRIOS",
-                "seed": 480
+                "seed": 480,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9a96a8f4-3db6-11f0-99a4-6eac04d6613b",
                 "name": "Team BGC",
-                "seed": 545
+                "seed": 545,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7a416594-4022-11f0-8cd1-168de864875a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9a96a8f4-3db6-11f0-99a4-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7a416594-4022-11f0-8cd1-168de864875a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9a96a8f4-3db6-11f0-99a4-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 27,
@@ -21917,7 +21952,9 @@
                 "seed": 33
             },
             "opponent2": {
-                "id": null
+                "id": "9a96a8f4-3db6-11f0-99a4-6eac04d6613b",
+                "name": "Team BGC",
+                "seed": 545
             },
             "match_games": []
         },
