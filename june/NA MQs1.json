@@ -19508,18 +19508,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b803fe56-3d92-11f0-8a45-6eac04d6613b",
                 "name": "Hijos del Lag",
-                "seed": 471
+                "seed": 471,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8626c0aa-4326-11f0-898d-726cccf66275",
                 "name": "Ghoul",
-                "seed": 554
+                "seed": 554,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b803fe56-3d92-11f0-8a45-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8626c0aa-4326-11f0-898d-726cccf66275",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "b803fe56-3d92-11f0-8a45-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8626c0aa-4326-11f0-898d-726cccf66275",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 379,
@@ -20986,18 +21021,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e93ce7b6-3d89-11f0-a233-0ab646d3248d",
                 "name": "Seats",
-                "seed": 443
+                "seed": 443,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ce84dc22-43a5-11f0-97f6-aa2d419e951d",
                 "name": "Privetbrst",
-                "seed": 582
+                "seed": 582,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e93ce7b6-3d89-11f0-a233-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ce84dc22-43a5-11f0-97f6-aa2d419e951d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e93ce7b6-3d89-11f0-a233-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ce84dc22-43a5-11f0-97f6-aa2d419e951d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e93ce7b6-3d89-11f0-a233-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ce84dc22-43a5-11f0-97f6-aa2d419e951d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 463,
@@ -25597,7 +25682,9 @@
                 "seed": 42
             },
             "opponent2": {
-                "id": null
+                "id": "b803fe56-3d92-11f0-8a45-6eac04d6613b",
+                "name": "Hijos del Lag",
+                "seed": 471
             },
             "match_games": []
         },
@@ -26409,7 +26496,9 @@
                 "seed": 70
             },
             "opponent2": {
-                "id": null
+                "id": "e93ce7b6-3d89-11f0-a233-0ab646d3248d",
+                "name": "Seats",
+                "seed": 443
             },
             "match_games": []
         },
