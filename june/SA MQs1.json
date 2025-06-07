@@ -41102,18 +41102,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "27d6eef0-3bea-11f0-a785-6eac04d6613b",
                 "name": "Digital Monsters",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "29a0ee2a-3bea-11f0-bca7-6eac04d6613b",
                 "name": "Space Division",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "27d6eef0-3bea-11f0-a785-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "29a0ee2a-3bea-11f0-bca7-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "27d6eef0-3bea-11f0-a785-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "29a0ee2a-3bea-11f0-bca7-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 996,
@@ -41242,18 +41277,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "de568004-405f-11f0-b3b9-168de864875a",
                 "name": "2026",
-                "seed": 498
+                "seed": 498,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "19cfe042-3f3b-11f0-8998-6eac04d6613b",
                 "name": "Farofeiros F/A",
-                "seed": 210
+                "seed": 210,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "de568004-405f-11f0-b3b9-168de864875a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "19cfe042-3f3b-11f0-8998-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "de568004-405f-11f0-b3b9-168de864875a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "19cfe042-3f3b-11f0-8998-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1003,
