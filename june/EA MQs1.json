@@ -10314,18 +10314,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c6a1dca6-4032-11f0-9bc7-6a2ecef9ff2d",
                 "name": "Ken Dra",
-                "seed": 212
+                "seed": 212,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "48a56a2a-3ef7-11f0-88c9-0ab646d3248d",
                 "name": "おーい",
-                "seed": 84
+                "seed": 84,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "c6a1dca6-4032-11f0-9bc7-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48a56a2a-3ef7-11f0-88c9-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c6a1dca6-4032-11f0-9bc7-6a2ecef9ff2d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "48a56a2a-3ef7-11f0-88c9-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "c6a1dca6-4032-11f0-9bc7-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48a56a2a-3ef7-11f0-88c9-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 153,
@@ -12171,7 +12221,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "c6a1dca6-4032-11f0-9bc7-6a2ecef9ff2d",
+                "name": "Ken Dra",
+                "seed": 212
             },
             "match_games": []
         },
