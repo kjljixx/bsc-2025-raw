@@ -45705,18 +45705,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b5f463fe-3d55-11f0-b047-6eac04d6613b",
                 "name": "ASTRAL TEAM",
-                "seed": 703
+                "seed": 703,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d700bc90-3f9a-11f0-ae6d-168de864875a",
                 "name": "ASTROM",
-                "seed": 1346
+                "seed": 1346,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b5f463fe-3d55-11f0-b047-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d700bc90-3f9a-11f0-ae6d-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "b5f463fe-3d55-11f0-b047-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d700bc90-3f9a-11f0-ae6d-168de864875a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b5f463fe-3d55-11f0-b047-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d700bc90-3f9a-11f0-ae6d-168de864875a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 545,
@@ -67157,7 +67207,9 @@
                 "seed": 358
             },
             "opponent2": {
-                "id": null
+                "id": "71bd5bfa-3fd0-11f0-8f73-6a2ecef9ff2d",
+                "name": "NoSkillJustLuck",
+                "seed": 1382
             },
             "match_games": []
         },
