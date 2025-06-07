@@ -12090,7 +12090,7 @@
                     "gamerTag": "#8YVGR2Y8U"
                 },
                 {
-                    "name": "DDS❤️🤖BṎtGṎd🤖",
+                    "name": "Назар Піздохват",
                     "gamerTag": "#8GCL28GLV"
                 },
                 {
@@ -14633,18 +14633,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d072dfa0-4037-11f0-ac60-168de864875a",
                 "name": "GREG ESPORTS",
-                "seed": 484
+                "seed": 484,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bf96485a-3db4-11f0-ab19-0ab646d3248d",
                 "name": "GooeyBBCS",
-                "seed": 541
+                "seed": 541,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "d072dfa0-4037-11f0-ac60-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf96485a-3db4-11f0-ab19-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d072dfa0-4037-11f0-ac60-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf96485a-3db4-11f0-ab19-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 147,
@@ -22176,7 +22211,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "d072dfa0-4037-11f0-ac60-168de864875a",
+                "name": "GREG ESPORTS",
+                "seed": 484
             },
             "match_games": []
         },
