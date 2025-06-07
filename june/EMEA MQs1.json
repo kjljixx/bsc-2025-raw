@@ -96782,18 +96782,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "57377328-3be9-11f0-90aa-6eac04d6613b",
                 "name": "Virosh",
-                "seed": 120
+                "seed": 120,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a6febbd0-4177-11f0-9aad-168de864875a",
                 "name": "Illyrian🇦🇱",
-                "seed": 376
+                "seed": 376,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "57377328-3be9-11f0-90aa-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a6febbd0-4177-11f0-9aad-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "57377328-3be9-11f0-90aa-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a6febbd0-4177-11f0-9aad-168de864875a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "57377328-3be9-11f0-90aa-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a6febbd0-4177-11f0-9aad-168de864875a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1819,
@@ -100850,18 +100900,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5dc92f42-3be9-11f0-91ae-6eac04d6613b",
                 "name": "Zira PRIME 🦖",
-                "seed": 579
+                "seed": 579,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6ddc2d56-3ef2-11f0-ac3e-0ab646d3248d",
                 "name": "those who zeno",
-                "seed": 1214
+                "seed": 1214,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5dc92f42-3be9-11f0-91ae-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6ddc2d56-3ef2-11f0-ac3e-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5dc92f42-3be9-11f0-91ae-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6ddc2d56-3ef2-11f0-ac3e-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1893,
@@ -103354,7 +103439,9 @@
                 "seed": 62
             },
             "opponent2": {
-                "id": null
+                "id": "6ddc2d56-3ef2-11f0-ac3e-0ab646d3248d",
+                "name": "those who zeno",
+                "seed": 1214
             },
             "match_games": []
         },
