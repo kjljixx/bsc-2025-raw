@@ -14427,18 +14427,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6a98f7e-3be8-11f0-94ac-6eac04d6613b",
                 "name": "サ終",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a5c5943c-3e39-11f0-b4a6-6eac04d6613b",
                 "name": "Tweetbot division",
-                "seed": 146
+                "seed": 146,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e6a98f7e-3be8-11f0-94ac-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a5c5943c-3e39-11f0-b4a6-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e6a98f7e-3be8-11f0-94ac-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a5c5943c-3e39-11f0-b4a6-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "e6a98f7e-3be8-11f0-94ac-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a5c5943c-3e39-11f0-b4a6-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 235,
