@@ -29061,18 +29061,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "926e640a-3bea-11f0-b0dc-6eac04d6613b",
                 "name": "Team Wolvate NA",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d08ef24e-434d-11f0-9b5c-d6bd8b774a58",
                 "name": "JTD Team",
-                "seed": 562
+                "seed": 562,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "926e640a-3bea-11f0-b0dc-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d08ef24e-434d-11f0-9b5c-d6bd8b774a58",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "926e640a-3bea-11f0-b0dc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d08ef24e-434d-11f0-9b5c-d6bd8b774a58",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "926e640a-3bea-11f0-b0dc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d08ef24e-434d-11f0-9b5c-d6bd8b774a58",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 662,
@@ -35031,10 +35081,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "926e640a-3bea-11f0-b0dc-6eac04d6613b",
+                "name": "Team Wolvate NA",
+                "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "8e316eb4-3bea-11f0-87bc-6eac04d6613b",
+                "name": "Chejobs🧸",
+                "seed": 207
             },
             "match_games": []
         },
