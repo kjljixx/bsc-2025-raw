@@ -22875,18 +22875,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "9219a94c-3bea-11f0-8b90-6eac04d6613b",
                 "name": "LOS CARAMELITOS",
-                "seed": 80
+                "seed": 80,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5e68566e-3d86-11f0-b612-0ab646d3248d",
                 "name": "TEAM KRIPTA",
-                "seed": 433
+                "seed": 433,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "9219a94c-3bea-11f0-8b90-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5e68566e-3d86-11f0-b612-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "9219a94c-3bea-11f0-8b90-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5e68566e-3d86-11f0-b612-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 536,
@@ -23805,18 +23840,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "e260be7e-3e36-11f0-a276-0ab646d3248d",
                 "name": "Oe Foca Sport",
-                "seed": 253
+                "seed": 253,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ae93e1da-42ea-11f0-884e-122e933edcb2",
                 "name": "CarWash Tijuana 🫧🧽",
-                "seed": 260
+                "seed": 260,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "e260be7e-3e36-11f0-a276-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae93e1da-42ea-11f0-884e-122e933edcb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e260be7e-3e36-11f0-a276-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae93e1da-42ea-11f0-884e-122e933edcb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 579,
@@ -27796,7 +27866,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8ca0e520-3bea-11f0-8478-6eac04d6613b",
+                "name": "Aminos",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
@@ -27908,7 +27980,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9219a94c-3bea-11f0-8b90-6eac04d6613b",
+                "name": "LOS CARAMELITOS",
+                "seed": 80
             },
             "opponent2": {
                 "id": null
@@ -28251,7 +28325,9 @@
                 "seed": 516
             },
             "opponent2": {
-                "id": null
+                "id": "ae93e1da-42ea-11f0-884e-122e933edcb2",
+                "name": "CarWash Tijuana 🫧🧽",
+                "seed": 260
             },
             "match_games": []
         },
