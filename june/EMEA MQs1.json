@@ -103111,18 +103111,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "57ff08c0-3be9-11f0-b806-6eac04d6613b",
                 "name": "Zennox Gaming",
-                "seed": 17
+                "seed": 17,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "50c7da64-3be9-11f0-84a0-6eac04d6613b",
                 "name": "Montanus",
-                "seed": 112
+                "seed": 112,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "57ff08c0-3be9-11f0-b806-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "50c7da64-3be9-11f0-84a0-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "57ff08c0-3be9-11f0-b806-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50c7da64-3be9-11f0-84a0-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "57ff08c0-3be9-11f0-b806-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "50c7da64-3be9-11f0-84a0-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1928,
@@ -105078,18 +105128,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
                 "name": "Smeltro Academy",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "499f87c8-3be9-11f0-b11a-6eac04d6613b",
                 "name": "BWB Esports",
-                "seed": 615
+                "seed": 615,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "499f87c8-3be9-11f0-b11a-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "499f87c8-3be9-11f0-b11a-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "499f87c8-3be9-11f0-b11a-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1964,
@@ -106271,10 +106371,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "50c7da64-3be9-11f0-84a0-6eac04d6613b",
+                "name": "Montanus",
+                "seed": 112
             },
             "opponent2": {
-                "id": null
+                "id": "d02bd882-3f72-11f0-bc90-6eac04d6613b",
+                "name": "Silent Storm",
+                "seed": 1328
             },
             "match_games": []
         },
@@ -106627,10 +106731,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
+                "name": "Smeltro Academy",
+                "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
+                "name": "CDA Esports",
+                "seed": 90
             },
             "match_games": []
         },
