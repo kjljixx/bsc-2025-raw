@@ -96667,7 +96667,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5ebcebd4-3fcf-11f0-867a-168de864875a",
                 "name": "3 Left",
@@ -96676,7 +96676,8 @@
             "opponent2": {
                 "id": "a195f35e-41d9-11f0-8cb2-168de864875a",
                 "name": "KODIAK",
-                "seed": 740
+                "seed": 740,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -96912,18 +96913,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
                 "name": "CHN|",
-                "seed": 77
+                "seed": 77,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "49b2cad6-3d92-11f0-944b-6eac04d6613b",
                 "name": "CI Team",
-                "seed": 845
+                "seed": 845,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "49b2cad6-3d92-11f0-944b-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "49b2cad6-3d92-11f0-944b-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1837,
@@ -97137,7 +97173,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5b6d5c32-3be9-11f0-a920-6eac04d6613b",
                 "name": "Feel The Revenge",
@@ -97146,7 +97182,8 @@
             "opponent2": {
                 "id": "dd09bea8-3d96-11f0-923c-0ab646d3248d",
                 "name": "Roman Empire",
-                "seed": 380
+                "seed": 380,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -98632,7 +98669,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6af82eb8-3bec-11f0-b317-6eac04d6613b",
                 "name": "DPB|Esport",
@@ -98641,7 +98678,8 @@
             "opponent2": {
                 "id": "503e7a30-3be9-11f0-9864-6eac04d6613b",
                 "name": "Iq dvesta",
-                "seed": 298
+                "seed": 298,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -98937,7 +98975,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4cda28da-3be9-11f0-bbea-6eac04d6613b",
                 "name": "Gigampfii",
@@ -98946,7 +98984,8 @@
             "opponent2": {
                 "id": "f1f0fb22-431a-11f0-a581-aa240157cd11",
                 "name": "Zieke Kraai Knakkers",
-                "seed": 782
+                "seed": 782,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -100079,10 +100118,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5ebcebd4-3fcf-11f0-867a-168de864875a",
+                "name": "3 Left",
+                "seed": 1053
             },
             "opponent2": {
-                "id": null
+                "id": "19c2412a-3d61-11f0-a081-6eac04d6613b",
+                "name": "Ballers",
+                "seed": 1181
             },
             "match_games": []
         },
@@ -100132,7 +100175,9 @@
                 "seed": 461
             },
             "opponent2": {
-                "id": null
+                "id": "4a09ab58-3be9-11f0-aafd-6eac04d6613b",
+                "name": "CHN|",
+                "seed": 77
             },
             "match_games": []
         },
@@ -100573,7 +100618,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6af82eb8-3bec-11f0-b317-6eac04d6613b",
+                "name": "DPB|Esport",
+                "seed": 42
             },
             "opponent2": {
                 "id": null
@@ -100653,10 +100700,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4cda28da-3be9-11f0-bbea-6eac04d6613b",
+                "name": "Gigampfii",
+                "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "f1062d42-3d78-11f0-81e7-6eac04d6613b",
+                "name": "WCB eSports",
+                "seed": 1395
             },
             "match_games": []
         },
