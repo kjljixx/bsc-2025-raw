@@ -95567,18 +95567,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5191e3b8-3be9-11f0-9e2b-6eac04d6613b",
                 "name": "Team Astro",
-                "seed": 113
+                "seed": 113,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f1ae537e-3d77-11f0-9699-6eac04d6613b",
                 "name": "VoideX",
-                "seed": 1393
+                "seed": 1393,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5191e3b8-3be9-11f0-9e2b-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f1ae537e-3d77-11f0-9699-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5191e3b8-3be9-11f0-9e2b-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f1ae537e-3d77-11f0-9699-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1803,
@@ -97127,18 +97162,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
                 "name": "CDA Esports",
-                "seed": 90
+                "seed": 90,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f09a39e4-3dc7-11f0-ad12-0ab646d3248d",
                 "name": "SopotDoTokija",
-                "seed": 858
+                "seed": 858,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f09a39e4-3dc7-11f0-ad12-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f09a39e4-3dc7-11f0-ad12-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1881,
