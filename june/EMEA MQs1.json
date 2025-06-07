@@ -100801,18 +100801,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70da808a-3f19-11f0-aafa-6eac04d6613b",
                 "name": "Hyper Gvng🦋",
-                "seed": 947
+                "seed": 947,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "544935a2-3be9-11f0-898d-6eac04d6613b",
                 "name": "Slimie_apsi",
-                "seed": 179
+                "seed": 179,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "70da808a-3f19-11f0-aafa-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "544935a2-3be9-11f0-898d-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "70da808a-3f19-11f0-aafa-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "544935a2-3be9-11f0-898d-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "70da808a-3f19-11f0-aafa-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "544935a2-3be9-11f0-898d-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1901,
@@ -101661,18 +101711,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "52a3bb14-3be9-11f0-b751-6eac04d6613b",
                 "name": "TC|Esport",
-                "seed": 22
+                "seed": 22,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d2a26976-4370-11f0-86aa-dea0bdc78efb",
                 "name": "CEOs of Brawlstars",
-                "seed": 790
+                "seed": 790,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "52a3bb14-3be9-11f0-b751-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d2a26976-4370-11f0-86aa-dea0bdc78efb",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "52a3bb14-3be9-11f0-b751-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d2a26976-4370-11f0-86aa-dea0bdc78efb",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "52a3bb14-3be9-11f0-b751-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d2a26976-4370-11f0-86aa-dea0bdc78efb",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1918,
@@ -102869,7 +102969,9 @@
                 "seed": 206
             },
             "opponent2": {
-                "id": null
+                "id": "70da808a-3f19-11f0-aafa-6eac04d6613b",
+                "name": "Hyper Gvng🦋",
+                "seed": 947
             },
             "match_games": []
         },
@@ -103036,10 +103138,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "52a3bb14-3be9-11f0-b751-6eac04d6613b",
+                "name": "TC|Esport",
+                "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "5a9c2de2-3be9-11f0-bf76-6eac04d6613b",
+                "name": "ImMoRtAlYy",
+                "seed": 150
             },
             "match_games": []
         },
