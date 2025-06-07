@@ -95807,18 +95807,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "529fb762-3be9-11f0-bb09-6eac04d6613b",
                 "name": "Promachus",
-                "seed": 16
+                "seed": 16,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e4247ad8-431e-11f0-a761-629fe8985574",
                 "name": "Dusty Yutes",
-                "seed": 784
+                "seed": 784,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "529fb762-3be9-11f0-bb09-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4247ad8-431e-11f0-a761-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "529fb762-3be9-11f0-bb09-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e4247ad8-431e-11f0-a761-629fe8985574",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "529fb762-3be9-11f0-bb09-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e4247ad8-431e-11f0-a761-629fe8985574",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1802,
@@ -97848,18 +97898,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "587b250e-3be9-11f0-b6fe-6eac04d6613b",
                 "name": "Invictus Mente",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a2787112-42dc-11f0-b8d6-6a2ecef9ff2d",
                 "name": "Thx free elo",
-                "seed": 764
+                "seed": 764,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "587b250e-3be9-11f0-b6fe-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a2787112-42dc-11f0-b8d6-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "587b250e-3be9-11f0-b6fe-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a2787112-42dc-11f0-b8d6-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1842,
@@ -100976,18 +101061,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4ee69d3e-3be9-11f0-a53a-6eac04d6613b",
                 "name": "New Gen",
-                "seed": 110
+                "seed": 110,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8a67aa70-3fda-11f0-92fa-6a2ecef9ff2d",
                 "name": "EG|Esport 🦅",
-                "seed": 1390
+                "seed": 1390,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4ee69d3e-3be9-11f0-a53a-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8a67aa70-3fda-11f0-92fa-6a2ecef9ff2d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4ee69d3e-3be9-11f0-a53a-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8a67aa70-3fda-11f0-92fa-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "4ee69d3e-3be9-11f0-a53a-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8a67aa70-3fda-11f0-92fa-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1903,
@@ -102078,10 +102213,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e4247ad8-431e-11f0-a761-629fe8985574",
+                "name": "Dusty Yutes",
+                "seed": 784
             },
             "opponent2": {
-                "id": null
+                "id": "5191e3b8-3be9-11f0-9e2b-6eac04d6613b",
+                "name": "Team Astro",
+                "seed": 113
             },
             "match_games": []
         },
@@ -102458,10 +102597,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a2787112-42dc-11f0-b8d6-6a2ecef9ff2d",
+                "name": "Thx free elo",
+                "seed": 764
             },
             "opponent2": {
-                "id": null
+                "id": "5b6d5c32-3be9-11f0-a920-6eac04d6613b",
+                "name": "Feel The Revenge",
+                "seed": 124
             },
             "match_games": []
         },
@@ -103041,7 +103184,9 @@
                 "seed": 750
             },
             "opponent2": {
-                "id": null
+                "id": "4ee69d3e-3be9-11f0-a53a-6eac04d6613b",
+                "name": "New Gen",
+                "seed": 110
             },
             "match_games": []
         },
