@@ -25625,18 +25625,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "0b6f3c00-40bc-11f0-9faa-168de864875a",
                 "name": "NABoys",
-                "seed": 236
+                "seed": 236,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "23a23b7e-3e69-11f0-b733-6eac04d6613b",
                 "name": "TEAM VH",
-                "seed": 277
+                "seed": 277,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "0b6f3c00-40bc-11f0-9faa-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23a23b7e-3e69-11f0-b733-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "0b6f3c00-40bc-11f0-9faa-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23a23b7e-3e69-11f0-b733-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 635,
@@ -26115,18 +26150,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "8f366468-3bea-11f0-bd70-6eac04d6613b",
                 "name": "Deadly Ducks",
-                "seed": 95
+                "seed": 95,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "439ff94a-3dd1-11f0-be5f-0ab646d3248d",
                 "name": "Arepa Sports",
-                "seed": 607
+                "seed": 607,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "8f366468-3bea-11f0-bd70-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "439ff94a-3dd1-11f0-be5f-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8f366468-3bea-11f0-bd70-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "439ff94a-3dd1-11f0-be5f-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 656,
@@ -30226,7 +30296,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "0b6f3c00-40bc-11f0-9faa-168de864875a",
+                "name": "NABoys",
+                "seed": 236
             },
             "match_games": []
         },
@@ -30403,7 +30475,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "439ff94a-3dd1-11f0-be5f-0ab646d3248d",
+                "name": "Arepa Sports",
+                "seed": 607
             },
             "opponent2": {
                 "id": null
