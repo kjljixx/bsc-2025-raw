@@ -40848,18 +40848,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c6cb294e-3f47-11f0-9ac3-0ab646d3248d",
                 "name": "Real Team",
-                "seed": 297
+                "seed": 297,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8cf072e8-3bea-11f0-991d-6eac04d6613b",
                 "name": "Lost origins",
-                "seed": 169
+                "seed": 169,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c6cb294e-3f47-11f0-9ac3-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8cf072e8-3bea-11f0-991d-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c6cb294e-3f47-11f0-9ac3-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8cf072e8-3bea-11f0-991d-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 913,
@@ -41414,18 +41449,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8dc8749a-3bea-11f0-b857-6eac04d6613b",
                 "name": "🏀🦐🔥",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "93136dce-3bea-11f0-8a8e-6eac04d6613b",
                 "name": "PYACHI",
-                "seed": 143
+                "seed": 143,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8dc8749a-3bea-11f0-b857-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "93136dce-3bea-11f0-8a8e-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8dc8749a-3bea-11f0-b857-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "93136dce-3bea-11f0-8a8e-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 934,
@@ -42465,10 +42535,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8dc8749a-3bea-11f0-b857-6eac04d6613b",
+                "name": "🏀🦐🔥",
+                "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "cc6176d6-3ef9-11f0-97e7-6eac04d6613b",
+                "name": "Radiant Starlight",
+                "seed": 335
             },
             "match_games": []
         },
