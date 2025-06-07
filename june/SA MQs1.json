@@ -26720,11 +26720,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b0f1cb4-3bea-11f0-92b1-6eac04d6613b",
                 "name": "Brawl Lock",
-                "seed": 175
+                "seed": 175,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "f6bcc4ae-3e4e-11f0-b769-6eac04d6613b",
@@ -31661,7 +31662,9 @@
                 "seed": 431
             },
             "opponent2": {
-                "id": null
+                "id": "f6bcc4ae-3e4e-11f0-b769-6eac04d6613b",
+                "name": "LatPulse",
+                "seed": 338
             },
             "match_games": []
         },
