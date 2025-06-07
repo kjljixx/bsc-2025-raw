@@ -18650,18 +18650,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "616703d4-3d99-11f0-8adc-0ab646d3248d",
                 "name": "GTD",
-                "seed": 487
+                "seed": 487,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e9fca5c0-42ec-11f0-aa78-0abc5cfa3912",
                 "name": "Lightning Straw",
-                "seed": 538
+                "seed": 538,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "616703d4-3d99-11f0-8adc-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9fca5c0-42ec-11f0-aa78-0abc5cfa3912",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "616703d4-3d99-11f0-8adc-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e9fca5c0-42ec-11f0-aa78-0abc5cfa3912",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "616703d4-3d99-11f0-8adc-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e9fca5c0-42ec-11f0-aa78-0abc5cfa3912",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 339,
@@ -25081,7 +25131,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "e9fca5c0-42ec-11f0-aa78-0abc5cfa3912",
+                "name": "Lightning Straw",
+                "seed": 538
             },
             "match_games": []
         },
