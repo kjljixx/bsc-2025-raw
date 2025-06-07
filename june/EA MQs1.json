@@ -10717,18 +10717,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7c93300-3be8-11f0-b2b7-6eac04d6613b",
                 "name": "XUN打爆DDD",
-                "seed": 44
+                "seed": 44,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a243b212-3de4-11f0-9202-6eac04d6613b",
                 "name": "しげこ",
-                "seed": 85
+                "seed": 85,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "e7c93300-3be8-11f0-b2b7-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a243b212-3de4-11f0-9202-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e7c93300-3be8-11f0-b2b7-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a243b212-3de4-11f0-9202-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e7c93300-3be8-11f0-b2b7-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a243b212-3de4-11f0-9202-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 161,
@@ -12406,7 +12456,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "a243b212-3de4-11f0-9202-6eac04d6613b",
+                "name": "しげこ",
+                "seed": 85
             },
             "match_games": []
         },
