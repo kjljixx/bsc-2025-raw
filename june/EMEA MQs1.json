@@ -55856,18 +55856,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a1f290e-3ef4-11f0-81fc-6eac04d6613b",
                 "name": "SG",
-                "seed": 891
+                "seed": 891,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53b08b96-3d91-11f0-8575-6eac04d6613b",
                 "name": "FeBuJa",
-                "seed": 1158
+                "seed": 1158,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7a1f290e-3ef4-11f0-81fc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53b08b96-3d91-11f0-8575-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7a1f290e-3ef4-11f0-81fc-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53b08b96-3d91-11f0-8575-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7a1f290e-3ef4-11f0-81fc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53b08b96-3d91-11f0-8575-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 911,
@@ -59355,7 +59405,9 @@
                 "seed": 193
             },
             "opponent2": {
-                "id": null
+                "id": "d6f0cf76-3d63-11f0-93fc-0ab646d3248d",
+                "name": "|ZASD ESPORTS|",
+                "seed": 1217
             },
             "match_games": []
         },
@@ -65330,10 +65382,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6c907d12-3d94-11f0-aa40-0ab646d3248d",
+                "name": "SGA",
+                "seed": 1583
             },
             "opponent2": {
-                "id": null
+                "id": "e62c3332-3dfd-11f0-94dc-0ab646d3248d",
+                "name": "CTR GAMING",
+                "seed": 559
             },
             "match_games": []
         },
@@ -65887,7 +65943,9 @@
                 "seed": 410
             },
             "opponent2": {
-                "id": null
+                "id": "499f87c8-3be9-11f0-b11a-6eac04d6613b",
+                "name": "BWB Esports",
+                "seed": 615
             },
             "match_games": []
         },
@@ -68125,7 +68183,9 @@
                 "seed": 134
             },
             "opponent2": {
-                "id": null
+                "id": "7a1f290e-3ef4-11f0-81fc-6eac04d6613b",
+                "name": "SG",
+                "seed": 891
             },
             "match_games": []
         },
