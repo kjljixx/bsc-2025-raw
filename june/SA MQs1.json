@@ -37726,18 +37726,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "68235a68-3d96-11f0-8aee-0ab646d3248d",
                 "name": "CONTRA SQUAD UI",
-                "seed": 451
+                "seed": 451,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2a2fbaba-3bea-11f0-859a-6eac04d6613b",
                 "name": "STR Academy eSports",
-                "seed": 67
+                "seed": 67,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "68235a68-3d96-11f0-8aee-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2a2fbaba-3bea-11f0-859a-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "68235a68-3d96-11f0-8aee-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2a2fbaba-3bea-11f0-859a-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 947,
