@@ -40535,18 +40535,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8d0593c6-3bea-11f0-91cb-6eac04d6613b",
                 "name": "OneTrickRegrigorator",
-                "seed": 33
+                "seed": 33,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8f75966a-3bea-11f0-bc53-6eac04d6613b",
                 "name": "ZestyFest",
-                "seed": 96
+                "seed": 96,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8d0593c6-3bea-11f0-91cb-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8f75966a-3bea-11f0-bc53-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8d0593c6-3bea-11f0-91cb-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8f75966a-3bea-11f0-bc53-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 901,
@@ -41485,18 +41520,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0c8c94c2-3dd6-11f0-984e-6eac04d6613b",
                 "name": "Fs|FinalStand",
-                "seed": 298
+                "seed": 298,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6590fa90-3f43-11f0-8323-6eac04d6613b",
                 "name": "TBS| Esports",
-                "seed": 426
+                "seed": 426,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "0c8c94c2-3dd6-11f0-984e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6590fa90-3f43-11f0-8323-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0c8c94c2-3dd6-11f0-984e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6590fa90-3f43-11f0-8323-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 945,
