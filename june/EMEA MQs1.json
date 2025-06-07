@@ -32659,18 +32659,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "51343b04-3da2-11f0-8452-0ab646d3248d",
                 "name": "SILUR",
-                "seed": 832
+                "seed": 832,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d6f0cf76-3d63-11f0-93fc-0ab646d3248d",
                 "name": "|ZASD ESPORTS|",
-                "seed": 1217
+                "seed": 1217,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "51343b04-3da2-11f0-8452-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6f0cf76-3d63-11f0-93fc-0ab646d3248d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "51343b04-3da2-11f0-8452-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d6f0cf76-3d63-11f0-93fc-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "51343b04-3da2-11f0-8452-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d6f0cf76-3d63-11f0-93fc-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -32967,18 +33017,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a8e519a-3f42-11f0-b069-6eac04d6613b",
                 "name": "Lamix à la vaisselle",
-                "seed": 993
+                "seed": 993,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0ae00bd2-3e4d-11f0-b109-6eac04d6613b",
                 "name": "Strikers",
-                "seed": 1056
+                "seed": 1056,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "8a8e519a-3f42-11f0-b069-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0ae00bd2-3e4d-11f0-b109-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8a8e519a-3f42-11f0-b069-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0ae00bd2-3e4d-11f0-b109-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "8a8e519a-3f42-11f0-b069-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0ae00bd2-3e4d-11f0-b109-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -38095,18 +38195,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "499a20da-3be9-11f0-8607-6eac04d6613b",
                 "name": "Burger Team",
-                "seed": 617
+                "seed": 617,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d9c6370e-4092-11f0-9aae-168de864875a",
                 "name": "LLG",
-                "seed": 1432
+                "seed": 1432,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "499a20da-3be9-11f0-8607-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d9c6370e-4092-11f0-9aae-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "499a20da-3be9-11f0-8607-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d9c6370e-4092-11f0-9aae-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "499a20da-3be9-11f0-8607-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d9c6370e-4092-11f0-9aae-168de864875a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 237,
@@ -48459,18 +48609,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "56a69d30-3be9-11f0-8474-6eac04d6613b",
                 "name": "Cpl",
-                "seed": 466
+                "seed": 466,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6c907d12-3d94-11f0-aa40-0ab646d3248d",
                 "name": "SGA",
-                "seed": 1583
+                "seed": 1583,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "56a69d30-3be9-11f0-8474-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c907d12-3d94-11f0-aa40-0ab646d3248d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "56a69d30-3be9-11f0-8474-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6c907d12-3d94-11f0-aa40-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "56a69d30-3be9-11f0-8474-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6c907d12-3d94-11f0-aa40-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 628,
@@ -50015,18 +50215,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "499f87c8-3be9-11f0-b11a-6eac04d6613b",
                 "name": "BWB Esports",
-                "seed": 615
+                "seed": 615,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4b5b7a6c-4095-11f0-a14f-168de864875a",
                 "name": "BirietaSigarieta🍺🚬",
-                "seed": 1434
+                "seed": 1434,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "499f87c8-3be9-11f0-b11a-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4b5b7a6c-4095-11f0-a14f-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "499f87c8-3be9-11f0-b11a-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4b5b7a6c-4095-11f0-a14f-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "499f87c8-3be9-11f0-b11a-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4b5b7a6c-4095-11f0-a14f-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 685,
@@ -59523,7 +59773,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "8a8e519a-3f42-11f0-b069-6eac04d6613b",
+                "name": "Lamix à la vaisselle",
+                "seed": 993
             },
             "match_games": []
         },
@@ -61519,7 +61771,9 @@
                 "seed": 408
             },
             "opponent2": {
-                "id": null
+                "id": "499a20da-3be9-11f0-8607-6eac04d6613b",
+                "name": "Burger Team",
+                "seed": 617
             },
             "match_games": []
         },
