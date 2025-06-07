@@ -13992,18 +13992,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7a9571a-3be8-11f0-8142-6eac04d6613b",
                 "name": "ぶたぶす",
-                "seed": 80
+                "seed": 80,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "eda4c636-3edb-11f0-89c0-0ab646d3248d",
                 "name": "BO",
-                "seed": 176
+                "seed": 176,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e7a9571a-3be8-11f0-8142-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "eda4c636-3edb-11f0-89c0-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e7a9571a-3be8-11f0-8142-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "eda4c636-3edb-11f0-89c0-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 227,
@@ -14127,18 +14162,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
                 "name": "足羽組",
-                "seed": 188
+                "seed": 188,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e83a1eda-3be8-11f0-9f87-6eac04d6613b",
                 "name": "迷子のろいろい",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e83a1eda-3be8-11f0-9f87-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "cbae358e-3f40-11f0-881b-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e83a1eda-3be8-11f0-9f87-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 232,
@@ -14147,18 +14217,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c463ad0-3bec-11f0-82a0-6eac04d6613b",
                 "name": "RedBull",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1c44f90e-3bec-11f0-b7d5-6eac04d6613b",
                 "name": "623",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "1c463ad0-3bec-11f0-82a0-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1c44f90e-3bec-11f0-b7d5-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1c463ad0-3bec-11f0-82a0-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1c44f90e-3bec-11f0-b7d5-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 233,
@@ -14302,18 +14407,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c4425e2-3bec-11f0-8892-6eac04d6613b",
                 "name": "Dear My Friends",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "820ff458-4251-11f0-8e83-6a2ecef9ff2d",
                 "name": "Utappe People",
-                "seed": 238
+                "seed": 238,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "1c4425e2-3bec-11f0-8892-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "820ff458-4251-11f0-8e83-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1c4425e2-3bec-11f0-8892-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "820ff458-4251-11f0-8e83-6a2ecef9ff2d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 239,
