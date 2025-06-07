@@ -8870,7 +8870,7 @@
                     "gamerTag": "#8UL0U08V"
                 },
                 {
-                    "name": "Junky🦋",
+                    "name": "Junnie🦋",
                     "gamerTag": "#PL0GRVJRJ"
                 },
                 {
@@ -21686,7 +21686,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e9bc120-3d93-11f0-8c7f-0ab646d3248d",
                 "name": "INSANITOS",
@@ -21695,7 +21695,8 @@
             "opponent2": {
                 "id": "f897f9ca-4320-11f0-9648-fa51d9c6f50d",
                 "name": "Padrinos BS",
-                "seed": 550
+                "seed": 550,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -21857,11 +21858,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb31cc74-4113-11f0-aeb7-168de864875a",
                 "name": "The Goat",
-                "seed": 502
+                "seed": 502,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "eb5b39a4-3dab-11f0-abae-0ab646d3248d",
@@ -25542,7 +25544,11 @@
                 "name": "Master of caos",
                 "seed": 47
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "fd7cdaf6-3dbb-11f0-8aa0-0ab646d3248d",
+                "name": "MIS",
+                "seed": 559
+            },
             "match_games": []
         },
         {
@@ -27074,7 +27080,11 @@
                 "name": "War Bringers",
                 "seed": 38
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "2e9bc120-3d93-11f0-8c7f-0ab646d3248d",
+                "name": "INSANITOS",
+                "seed": 475
+            },
             "match_games": []
         },
         {
@@ -27150,7 +27160,11 @@
                 "name": "SVA | 就将",
                 "seed": 11
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "eb5b39a4-3dab-11f0-abae-0ab646d3248d",
+                "name": "Team VC",
+                "seed": 523
+            },
             "match_games": []
         },
         {
