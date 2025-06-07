@@ -107145,18 +107145,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
                 "name": "Smeltro Academy",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
                 "name": "CDA Esports",
-                "seed": 90
+                "seed": 90,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4997f396-3be9-11f0-86a4-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2007,
@@ -107370,7 +107405,7 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
                 "name": "chippy chips",
@@ -107791,7 +107826,9 @@
                 "seed": 1031
             },
             "opponent2": {
-                "id": null
+                "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
+                "name": "CDA Esports",
+                "seed": 90
             },
             "match_games": []
         },
