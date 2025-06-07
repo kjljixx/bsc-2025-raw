@@ -32434,18 +32434,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a3f5448-3bea-11f0-b1bb-6eac04d6613b",
                 "name": "CODE ATA",
-                "seed": 37
+                "seed": 37,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4639820e-3f4b-11f0-9b49-0ab646d3248d",
                 "name": "A2E UFF",
-                "seed": 220
+                "seed": 220,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "2a3f5448-3bea-11f0-b1bb-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4639820e-3f4b-11f0-9b49-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "2a3f5448-3bea-11f0-b1bb-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4639820e-3f4b-11f0-9b49-0ab646d3248d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2a3f5448-3bea-11f0-b1bb-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4639820e-3f4b-11f0-9b49-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 824,
@@ -36279,10 +36329,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2a3f5448-3bea-11f0-b1bb-6eac04d6613b",
+                "name": "CODE ATA",
+                "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "15b01cac-3e64-11f0-a64d-0ab646d3248d",
+                "name": "Equipo|VMY",
+                "seed": 348
             },
             "match_games": []
         },
