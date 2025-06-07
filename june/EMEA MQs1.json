@@ -103131,18 +103131,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a6509dfa-3d87-11f0-8f62-6eac04d6613b",
                 "name": "loli's monkeys",
-                "seed": 1481
+                "seed": 1481,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "59be8014-3be9-11f0-a45b-6eac04d6613b",
                 "name": "F/A CAL",
-                "seed": 73
+                "seed": 73,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a6509dfa-3d87-11f0-8f62-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "59be8014-3be9-11f0-a45b-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "a6509dfa-3d87-11f0-8f62-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "59be8014-3be9-11f0-a45b-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1935,
@@ -103171,18 +103206,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6afa0f9e-3bec-11f0-9cb3-6eac04d6613b",
                 "name": "Izana is bad",
-                "seed": 41
+                "seed": 41,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "57fe68fc-3be9-11f0-af7d-6eac04d6613b",
                 "name": "AM UN GRATAR",
-                "seed": 88
+                "seed": 88,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "6afa0f9e-3bec-11f0-9cb3-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "57fe68fc-3be9-11f0-af7d-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "6afa0f9e-3bec-11f0-9cb3-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "57fe68fc-3be9-11f0-af7d-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1937,
@@ -103756,18 +103826,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2144b25c-3f00-11f0-bd89-6eac04d6613b",
                 "name": "LePafDeZenythh",
-                "seed": 1234
+                "seed": 1234,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "51ed5dd8-3be9-11f0-8763-6eac04d6613b",
                 "name": "Own Close Team",
-                "seed": 82
+                "seed": 82,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2144b25c-3f00-11f0-bd89-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "51ed5dd8-3be9-11f0-8763-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2144b25c-3f00-11f0-bd89-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "51ed5dd8-3be9-11f0-8763-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1961,
@@ -103916,18 +104021,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6af82eb8-3bec-11f0-b317-6eac04d6613b",
                 "name": "DPB|Esport",
-                "seed": 42
+                "seed": 42,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c4d88e98-3d5c-11f0-96e5-0ab646d3248d",
                 "name": "Solarius",
-                "seed": 1111
+                "seed": 1111,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "6af82eb8-3bec-11f0-b317-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c4d88e98-3d5c-11f0-96e5-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "6af82eb8-3bec-11f0-b317-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c4d88e98-3d5c-11f0-96e5-0ab646d3248d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1969,
@@ -104429,7 +104569,9 @@
                 "seed": 760
             },
             "opponent2": {
-                "id": null
+                "id": "59be8014-3be9-11f0-a45b-6eac04d6613b",
+                "name": "F/A CAL",
+                "seed": 73
             },
             "match_games": []
         },
