@@ -96922,18 +96922,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d817b964-4371-11f0-8843-dea0bdc78efb",
                 "name": "MT MENTAL",
-                "seed": 1597
+                "seed": 1597,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ca45c620-3d70-11f0-afc5-6eac04d6613b",
                 "name": "NYGUSY",
-                "seed": 1341
+                "seed": 1341,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "d817b964-4371-11f0-8843-dea0bdc78efb",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ca45c620-3d70-11f0-afc5-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d817b964-4371-11f0-8843-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ca45c620-3d70-11f0-afc5-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "d817b964-4371-11f0-8843-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ca45c620-3d70-11f0-afc5-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1828,
@@ -99274,18 +99324,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53c717d4-3be9-11f0-81f8-6eac04d6613b",
                 "name": "SHADOW",
-                "seed": 71
+                "seed": 71,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0b888ad4-4062-11f0-bd8b-168de864875a",
                 "name": "FURIA ESPAÑOLA",
-                "seed": 698
+                "seed": 698,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "53c717d4-3be9-11f0-81f8-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0b888ad4-4062-11f0-bd8b-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "53c717d4-3be9-11f0-81f8-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b888ad4-4062-11f0-bd8b-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "53c717d4-3be9-11f0-81f8-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b888ad4-4062-11f0-bd8b-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1877,
@@ -100336,18 +100436,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "50cfb0cc-3be9-11f0-b626-6eac04d6613b",
                 "name": "Mortal Dance",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
                 "name": "chippy chips",
-                "seed": 750
+                "seed": 750,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "50cfb0cc-3be9-11f0-b626-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "50cfb0cc-3be9-11f0-b626-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1902,
@@ -101594,7 +101729,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d817b964-4371-11f0-8843-dea0bdc78efb",
+                "name": "MT MENTAL",
+                "seed": 1597
             },
             "opponent2": {
                 "id": null
@@ -102290,7 +102427,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                "name": "chippy chips",
+                "seed": 750
             },
             "opponent2": {
                 "id": null
