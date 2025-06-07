@@ -15606,18 +15606,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9cf568c-3f4b-11f0-8080-0ab646d3248d",
                 "name": "Team OG",
-                "seed": 460
+                "seed": 460,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4235cdde-3dc5-11f0-baa8-0ab646d3248d",
                 "name": "The Fox Crew",
-                "seed": 565
+                "seed": 565,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e9cf568c-3f4b-11f0-8080-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4235cdde-3dc5-11f0-baa8-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e9cf568c-3f4b-11f0-8080-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4235cdde-3dc5-11f0-baa8-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 235,
@@ -16407,18 +16442,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a36c63c2-3da9-11f0-8e0e-0ab646d3248d",
                 "name": "SZH",
-                "seed": 479
+                "seed": 479,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "550fc164-4291-11f0-a240-168de864875a",
                 "name": "União Monkeys",
-                "seed": 546
+                "seed": 546,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a36c63c2-3da9-11f0-8e0e-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "550fc164-4291-11f0-a240-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a36c63c2-3da9-11f0-8e0e-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "550fc164-4291-11f0-a240-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 283,
@@ -17338,18 +17408,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d53ae4cc-3daa-11f0-b15f-0ab646d3248d",
                 "name": "ANTIMETA",
-                "seed": 487
+                "seed": 487,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "331ddf38-422c-11f0-b6b8-6a2ecef9ff2d",
                 "name": "INTZ",
-                "seed": 538
+                "seed": 538,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "d53ae4cc-3daa-11f0-b15f-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "331ddf38-422c-11f0-b6b8-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d53ae4cc-3daa-11f0-b15f-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "331ddf38-422c-11f0-b6b8-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 339,
@@ -22589,7 +22694,9 @@
                 "seed": 53
             },
             "opponent2": {
-                "id": null
+                "id": "4235cdde-3dc5-11f0-baa8-0ab646d3248d",
+                "name": "The Fox Crew",
+                "seed": 565
             },
             "match_games": []
         },
@@ -23065,7 +23172,9 @@
                 "seed": 34
             },
             "opponent2": {
-                "id": null
+                "id": "a36c63c2-3da9-11f0-8e0e-0ab646d3248d",
+                "name": "SZH",
+                "seed": 479
             },
             "match_games": []
         },
@@ -23615,7 +23724,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "331ddf38-422c-11f0-b6b8-6a2ecef9ff2d",
+                "name": "INTZ",
+                "seed": 538
             },
             "match_games": []
         },
