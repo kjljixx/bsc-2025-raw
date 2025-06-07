@@ -83841,18 +83841,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a4a48556-3dab-11f0-95e8-6eac04d6613b",
                 "name": "Fullnatillas🍻",
-                "seed": 848
+                "seed": 848,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5a490d06-3be9-11f0-89f9-6eac04d6613b",
                 "name": "Sarrasin esports",
-                "seed": 336
+                "seed": 336,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a4a48556-3dab-11f0-95e8-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5a490d06-3be9-11f0-89f9-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "a4a48556-3dab-11f0-95e8-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5a490d06-3be9-11f0-89f9-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a4a48556-3dab-11f0-95e8-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5a490d06-3be9-11f0-89f9-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1561,
@@ -95363,7 +95413,9 @@
                 "seed": 592
             },
             "opponent2": {
-                "id": null
+                "id": "a4a48556-3dab-11f0-95e8-6eac04d6613b",
+                "name": "Fullnatillas🍻",
+                "seed": 848
             },
             "match_games": []
         },
