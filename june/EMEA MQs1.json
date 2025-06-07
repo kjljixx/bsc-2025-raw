@@ -88111,18 +88111,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1350dd96-3e02-11f0-88fd-0ab646d3248d",
                 "name": "CFH|Esports",
-                "seed": 908
+                "seed": 908,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "63ba52fc-4079-11f0-92e3-168de864875a",
                 "name": "Skibidi",
-                "seed": 1420
+                "seed": 1420,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "1350dd96-3e02-11f0-88fd-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "63ba52fc-4079-11f0-92e3-168de864875a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "1350dd96-3e02-11f0-88fd-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "63ba52fc-4079-11f0-92e3-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "1350dd96-3e02-11f0-88fd-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "63ba52fc-4079-11f0-92e3-168de864875a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1652,
@@ -95696,10 +95746,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "63ba52fc-4079-11f0-92e3-168de864875a",
+                "name": "Skibidi",
+                "seed": 1420
             },
             "opponent2": {
-                "id": null
+                "id": "be348c12-3ecf-11f0-b905-6eac04d6613b",
+                "name": "Tarpaqs",
+                "seed": 1164
             },
             "match_games": []
         },
