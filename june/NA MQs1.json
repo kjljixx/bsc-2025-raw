@@ -23715,18 +23715,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "8c9644c6-3bea-11f0-984c-6eac04d6613b",
                 "name": "Triunfadores",
-                "seed": 4
+                "seed": 4,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
                 "name": "Patata Sports",
-                "seed": 516
+                "seed": 516,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "8c9644c6-3bea-11f0-984c-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8c9644c6-3bea-11f0-984c-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 578,
@@ -28069,7 +28104,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
+                "name": "Patata Sports",
+                "seed": 516
             },
             "opponent2": {
                 "id": null
