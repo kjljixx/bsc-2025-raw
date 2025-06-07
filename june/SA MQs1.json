@@ -14477,18 +14477,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c8629016-406a-11f0-90cd-168de864875a",
                 "name": "royalsalute",
-                "seed": 500
+                "seed": 500,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "be750f30-3db7-11f0-9bec-0ab646d3248d",
                 "name": "The New Legacy",
-                "seed": 525
+                "seed": 525,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c8629016-406a-11f0-90cd-168de864875a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "be750f30-3db7-11f0-9bec-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c8629016-406a-11f0-90cd-168de864875a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "be750f30-3db7-11f0-9bec-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 163,
@@ -15313,18 +15348,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bcaf019a-3daa-11f0-ad93-0ab646d3248d",
                 "name": "PORTO FELIZ",
-                "seed": 485
+                "seed": 485,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9d3eac68-4249-11f0-980a-168de864875a",
                 "name": "GCX",
-                "seed": 540
+                "seed": 540,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "bcaf019a-3daa-11f0-ad93-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d3eac68-4249-11f0-980a-168de864875a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "bcaf019a-3daa-11f0-ad93-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d3eac68-4249-11f0-980a-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 211,
@@ -20357,18 +20427,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "25ce6be0-3d9f-11f0-bf31-6eac04d6613b",
                 "name": "⚡️ZONA DE CHOQUE⚡️",
-                "seed": 459
+                "seed": 459,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "388a9e6e-4323-11f0-b1c1-aa741b89633f",
                 "name": "Jet force gemini",
-                "seed": 566
+                "seed": 566,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "25ce6be0-3d9f-11f0-bf31-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "388a9e6e-4323-11f0-b1c1-aa741b89633f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "25ce6be0-3d9f-11f0-bf31-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "388a9e6e-4323-11f0-b1c1-aa741b89633f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 491,
@@ -22334,7 +22439,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "be750f30-3db7-11f0-9bec-0ab646d3248d",
+                "name": "The New Legacy",
+                "seed": 525
             },
             "match_games": []
         },
@@ -22812,7 +22919,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "bcaf019a-3daa-11f0-ad93-0ab646d3248d",
+                "name": "PORTO FELIZ",
+                "seed": 485
             },
             "match_games": []
         },
@@ -25602,7 +25711,9 @@
                 "seed": 54
             },
             "opponent2": {
-                "id": null
+                "id": "388a9e6e-4323-11f0-b1c1-aa741b89633f",
+                "name": "Jet force gemini",
+                "seed": 566
             },
             "match_games": []
         },
