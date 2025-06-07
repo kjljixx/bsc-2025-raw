@@ -33891,18 +33891,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2bf7fc32-3d92-11f0-9a4b-0ab646d3248d",
                 "name": "AGUILA PODEROSA",
-                "seed": 443
+                "seed": 443,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2be65ca6-3bea-11f0-93f5-6eac04d6613b",
                 "name": "Master Franco",
-                "seed": 187
+                "seed": 187,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "2bf7fc32-3d92-11f0-9a4b-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2be65ca6-3bea-11f0-93f5-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "2bf7fc32-3d92-11f0-9a4b-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2be65ca6-3bea-11f0-93f5-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 885,
@@ -35340,7 +35375,9 @@
                 "seed": 571
             },
             "opponent2": {
-                "id": null
+                "id": "2bf7fc32-3d92-11f0-9a4b-0ab646d3248d",
+                "name": "AGUILA PODEROSA",
+                "seed": 443
             },
             "match_games": []
         },
