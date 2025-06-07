@@ -23345,11 +23345,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "274a2fd8-3bea-11f0-8f4d-6eac04d6613b",
                 "name": "Perna Haters",
-                "seed": 88
+                "seed": 88,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "db54e94a-3d8a-11f0-9fb8-0ab646d3248d",
@@ -23934,7 +23935,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a4eb572a-4309-11f0-ab2e-629fe8985574",
                 "name": "Ice Shot",
@@ -23943,7 +23944,8 @@
             "opponent2": {
                 "id": "7e9bcc40-3e71-11f0-a0cc-0ab646d3248d",
                 "name": "Marauders 🐺",
-                "seed": 349
+                "seed": 349,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -29267,11 +29269,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b0b4256-3bea-11f0-879d-6eac04d6613b",
                 "name": "TPD",
-                "seed": 155
+                "seed": 155,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "8aeef8c4-3e75-11f0-858e-0ab646d3248d",
@@ -30699,10 +30702,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "db54e94a-3d8a-11f0-9fb8-0ab646d3248d",
+                "name": "RWB",
+                "seed": 425
             },
             "opponent2": {
-                "id": null
+                "id": "ab3bb11e-3e55-11f0-a9b4-6eac04d6613b",
+                "name": "OS GAMES 😎",
+                "seed": 344
             },
             "match_games": []
         },
@@ -30856,7 +30863,9 @@
                 "seed": 93
             },
             "opponent2": {
-                "id": null
+                "id": "a4eb572a-4309-11f0-ab2e-629fe8985574",
+                "name": "Ice Shot",
+                "seed": 164
             },
             "match_games": []
         },
@@ -32408,7 +32417,9 @@
                 "seed": 102
             },
             "opponent2": {
-                "id": null
+                "id": "8aeef8c4-3e75-11f0-858e-0ab646d3248d",
+                "name": "Desert Hounds",
+                "seed": 358
             },
             "match_games": []
         },
