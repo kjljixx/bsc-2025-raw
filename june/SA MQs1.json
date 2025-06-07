@@ -41232,18 +41232,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "2075149c-4316-11f0-b52e-76ef1be9ccda",
                 "name": "Desertados",
-                "seed": 564
+                "seed": 564,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9c989cc6-3d60-11f0-be22-0ab646d3248d",
                 "name": "Shesheiros",
-                "seed": 365
+                "seed": 365,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2075149c-4316-11f0-b52e-76ef1be9ccda",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9c989cc6-3d60-11f0-be22-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "2075149c-4316-11f0-b52e-76ef1be9ccda",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9c989cc6-3d60-11f0-be22-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 999,
@@ -41642,18 +41677,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "e9fd9f90-3bec-11f0-afdc-6eac04d6613b",
                 "name": "UNNAMED F/A",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "27bdc506-3bea-11f0-95b9-6eac04d6613b",
                 "name": "🔥Orden Fenix🔥",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e9fd9f90-3bec-11f0-afdc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27bdc506-3bea-11f0-95b9-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "e9fd9f90-3bec-11f0-afdc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27bdc506-3bea-11f0-95b9-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         }
     ]
 }
