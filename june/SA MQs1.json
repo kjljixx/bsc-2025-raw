@@ -40825,18 +40825,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a5061d4-3bea-11f0-8565-6eac04d6613b",
                 "name": "Dream team",
-                "seed": 27
+                "seed": 27,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
                 "name": "SPORT CANINOS",
-                "seed": 38
+                "seed": 38,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2a5061d4-3bea-11f0-8565-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2a5061d4-3bea-11f0-8565-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2a5061d4-3bea-11f0-8565-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 991,
@@ -41187,7 +41237,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                "name": "SPORT CANINOS",
+                "seed": 38
             },
             "match_games": []
         },
