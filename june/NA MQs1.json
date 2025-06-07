@@ -43558,18 +43558,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c3626b8-3bea-11f0-b3b5-6eac04d6613b",
                 "name": "MCI |",
-                "seed": 225
+                "seed": 225,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8d0593c6-3bea-11f0-91cb-6eac04d6613b",
                 "name": "OneTrickRegrigorator",
-                "seed": 33
+                "seed": 33,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8c3626b8-3bea-11f0-b3b5-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8d0593c6-3bea-11f0-91cb-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8c3626b8-3bea-11f0-b3b5-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8d0593c6-3bea-11f0-91cb-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 963,
@@ -44323,18 +44358,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "928b24dc-3bea-11f0-a57a-6eac04d6613b",
                 "name": "DMNT",
-                "seed": 135
+                "seed": 135,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0b995320-3d90-11f0-8b1b-0ab646d3248d",
                 "name": "🌀",
-                "seed": 455
+                "seed": 455,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "928b24dc-3bea-11f0-a57a-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0b995320-3d90-11f0-8b1b-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "928b24dc-3bea-11f0-a57a-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0b995320-3d90-11f0-8b1b-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 982,
@@ -44850,7 +44920,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "8d0593c6-3bea-11f0-91cb-6eac04d6613b",
+                "name": "OneTrickRegrigorator",
+                "seed": 33
             },
             "match_games": []
         },
@@ -45025,10 +45097,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0b995320-3d90-11f0-8b1b-0ab646d3248d",
+                "name": "🌀",
+                "seed": 455
             },
             "opponent2": {
-                "id": null
+                "id": "8e4b0022-3bea-11f0-aa60-6eac04d6613b",
+                "name": "Itagui",
+                "seed": 26
             },
             "match_games": []
         },
