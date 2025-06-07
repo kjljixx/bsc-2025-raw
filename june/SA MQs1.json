@@ -41692,18 +41692,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "25b4679c-3bea-11f0-8b8a-6eac04d6613b",
                 "name": "Malucos",
-                "seed": 6
+                "seed": 6,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
                 "name": "SPORT CANINOS",
-                "seed": 38
+                "seed": 38,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "25b4679c-3bea-11f0-8b8a-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "25b4679c-3bea-11f0-8b8a-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "25b4679c-3bea-11f0-8b8a-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1008,
