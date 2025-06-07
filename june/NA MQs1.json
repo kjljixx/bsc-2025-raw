@@ -19913,18 +19913,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "471b1f88-40d2-11f0-ba52-168de864875a",
                 "name": "OvertimeGaming",
-                "seed": 494
+                "seed": 494,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ac2cddaa-3db0-11f0-b8f5-6eac04d6613b",
                 "name": "Reject Gaming",
-                "seed": 531
+                "seed": 531,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "471b1f88-40d2-11f0-ba52-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ac2cddaa-3db0-11f0-b8f5-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "471b1f88-40d2-11f0-ba52-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ac2cddaa-3db0-11f0-b8f5-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 435,
@@ -20849,18 +20884,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "14969e78-3d91-11f0-9998-0ab646d3248d",
                 "name": "KDM",
-                "seed": 459
+                "seed": 459,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
                 "name": "Dookie Butt",
-                "seed": 566
+                "seed": 566,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "14969e78-3d91-11f0-9998-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "14969e78-3d91-11f0-9998-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 491,
@@ -24118,7 +24188,9 @@
                 "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "d08ef24e-434d-11f0-9b5c-d6bd8b774a58",
+                "name": "JTD Team",
+                "seed": 562
             },
             "match_games": []
         },
@@ -25432,7 +25504,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "471b1f88-40d2-11f0-ba52-168de864875a",
+                "name": "OvertimeGaming",
+                "seed": 494
             },
             "match_games": []
         },
@@ -25972,7 +26046,9 @@
                 "seed": 54
             },
             "opponent2": {
-                "id": null
+                "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                "name": "Dookie Butt",
+                "seed": 566
             },
             "match_games": []
         },
