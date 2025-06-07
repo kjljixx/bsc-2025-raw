@@ -34781,18 +34781,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4156cfac-3fec-11f0-ba61-6a2ecef9ff2d",
                 "name": "MLA",
-                "seed": 472
+                "seed": 472,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c6cb294e-3f47-11f0-9ac3-0ab646d3248d",
                 "name": "Real Team",
-                "seed": 297
+                "seed": 297,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "4156cfac-3fec-11f0-ba61-6a2ecef9ff2d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c6cb294e-3f47-11f0-9ac3-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4156cfac-3fec-11f0-ba61-6a2ecef9ff2d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c6cb294e-3f47-11f0-9ac3-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 800,
@@ -35971,18 +36006,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "92b5a9d2-3bea-11f0-b3cf-6eac04d6613b",
                 "name": "Casual Crusaders",
-                "seed": 39
+                "seed": 39,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b792a898-3f7a-11f0-9106-6eac04d6613b",
                 "name": "La Organización",
-                "seed": 218
+                "seed": 218,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "92b5a9d2-3bea-11f0-b3cf-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b792a898-3f7a-11f0-9106-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "92b5a9d2-3bea-11f0-b3cf-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b792a898-3f7a-11f0-9106-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 856,
@@ -37128,7 +37198,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c6cb294e-3f47-11f0-9ac3-0ab646d3248d",
+                "name": "Real Team",
+                "seed": 297
             },
             "opponent2": {
                 "id": null
@@ -37578,7 +37650,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "92b5a9d2-3bea-11f0-b3cf-6eac04d6613b",
+                "name": "Casual Crusaders",
+                "seed": 39
             },
             "opponent2": {
                 "id": null
