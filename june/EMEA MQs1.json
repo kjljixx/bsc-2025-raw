@@ -106765,18 +106765,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5ebcebd4-3fcf-11f0-867a-168de864875a",
                 "name": "3 Left",
-                "seed": 1053
+                "seed": 1053,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5d51b534-3be9-11f0-8690-6eac04d6613b",
                 "name": "Nemesis",
-                "seed": 93
+                "seed": 93,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5ebcebd4-3fcf-11f0-867a-168de864875a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5d51b534-3be9-11f0-8690-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "5ebcebd4-3fcf-11f0-867a-168de864875a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5d51b534-3be9-11f0-8690-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1995,
@@ -107581,18 +107616,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
                 "name": "chippy chips",
-                "seed": 750
+                "seed": 750,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5382d344-3be9-11f0-ba83-6eac04d6613b",
                 "name": "Saltys",
-                "seed": 46
+                "seed": 46,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5382d344-3be9-11f0-ba83-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5382d344-3be9-11f0-ba83-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2013,
@@ -107900,7 +107970,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "5d51b534-3be9-11f0-8690-6eac04d6613b",
+                "name": "Nemesis",
+                "seed": 93
             },
             "match_games": []
         },
@@ -108068,7 +108140,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                "name": "chippy chips",
+                "seed": 750
             },
             "match_games": []
         },
