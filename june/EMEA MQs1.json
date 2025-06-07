@@ -108406,18 +108406,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58799b30-3be9-11f0-9ac8-6eac04d6613b",
                 "name": "BBO Academy",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5d923adc-3be9-11f0-8c9b-6eac04d6613b",
                 "name": "OBLIVION",
-                "seed": 287
+                "seed": 287,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "58799b30-3be9-11f0-9ac8-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5d923adc-3be9-11f0-8c9b-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "58799b30-3be9-11f0-9ac8-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5d923adc-3be9-11f0-8c9b-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2026,
