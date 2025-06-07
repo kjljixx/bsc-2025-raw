@@ -98249,18 +98249,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "51c00338-3be9-11f0-bd33-6eac04d6613b",
                 "name": "Olympus",
-                "seed": 114
+                "seed": 114,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0c19deaa-3fe3-11f0-839a-168de864875a",
                 "name": "Mood Gaming",
-                "seed": 1394
+                "seed": 1394,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "51c00338-3be9-11f0-bd33-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0c19deaa-3fe3-11f0-839a-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "51c00338-3be9-11f0-bd33-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0c19deaa-3fe3-11f0-839a-168de864875a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1867,
@@ -99285,18 +99320,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4a48551a-3be9-11f0-ac60-6eac04d6613b",
                 "name": "COURAGE ONE",
-                "seed": 35
+                "seed": 35,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4a8cdc8a-3be9-11f0-ae61-6eac04d6613b",
                 "name": "DAN | esport",
-                "seed": 291
+                "seed": 291,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4a48551a-3be9-11f0-ac60-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4a8cdc8a-3be9-11f0-ae61-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4a48551a-3be9-11f0-ac60-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4a8cdc8a-3be9-11f0-ae61-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1896,
@@ -100982,7 +101052,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "0c19deaa-3fe3-11f0-839a-168de864875a",
+                "name": "Mood Gaming",
+                "seed": 1394
             },
             "match_games": []
         },
@@ -101237,10 +101309,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4a8cdc8a-3be9-11f0-ae61-6eac04d6613b",
+                "name": "DAN | esport",
+                "seed": 291
             },
             "opponent2": {
-                "id": null
+                "id": "4851a162-3be9-11f0-bb15-6eac04d6613b",
+                "name": "ASMBL",
+                "seed": 94
             },
             "match_games": []
         },
