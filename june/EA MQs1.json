@@ -606,7 +606,7 @@
             "name": "BO",
             "players": [
                 {
-                    "name": "최강정점비서ᴺᴬᴵᴺ",
+                    "name": "BO | BONOX2",
                     "gamerTag": "#8GQC8QVRQ"
                 },
                 {
@@ -7152,18 +7152,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "62fce8e4-3dee-11f0-8c08-0ab646d3248d",
                 "name": "ピント外れの石窟寺院",
-                "seed": 114
+                "seed": 114,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bded03b0-3ee8-11f0-8d38-6eac04d6613b",
                 "name": "Astute Nova",
-                "seed": 143
+                "seed": 143,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "62fce8e4-3dee-11f0-8c08-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bded03b0-3ee8-11f0-8d38-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "62fce8e4-3dee-11f0-8c08-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bded03b0-3ee8-11f0-8d38-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 75,
@@ -8581,18 +8616,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "920fec92-3df0-11f0-9cc0-0ab646d3248d",
                 "name": "X-ray Lizards",
-                "seed": 118
+                "seed": 118,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "366f27f8-3edc-11f0-b321-6eac04d6613b",
                 "name": "パソコン教室",
-                "seed": 139
+                "seed": 139,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "920fec92-3df0-11f0-9cc0-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "366f27f8-3edc-11f0-b321-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "920fec92-3df0-11f0-9cc0-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "366f27f8-3edc-11f0-b321-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 123,
@@ -9491,7 +9561,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "bded03b0-3ee8-11f0-8d38-6eac04d6613b",
+                "name": "Astute Nova",
+                "seed": 143
             },
             "match_games": []
         },
@@ -9957,7 +10029,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "366f27f8-3edc-11f0-b321-6eac04d6613b",
+                "name": "パソコン教室",
+                "seed": 139
             },
             "match_games": []
         },
