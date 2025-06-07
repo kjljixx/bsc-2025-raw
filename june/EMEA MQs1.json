@@ -84823,18 +84823,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "56b5873c-3be9-11f0-a3af-6eac04d6613b",
                 "name": "TSN Esports",
-                "seed": 56
+                "seed": 56,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a6509dfa-3d87-11f0-8f62-6eac04d6613b",
                 "name": "loli's monkeys",
-                "seed": 1481
+                "seed": 1481,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "56b5873c-3be9-11f0-a3af-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a6509dfa-3d87-11f0-8f62-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "56b5873c-3be9-11f0-a3af-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a6509dfa-3d87-11f0-8f62-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1590,
@@ -91669,18 +91704,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5272f3bc-3be9-11f0-a689-6eac04d6613b",
                 "name": "Poco Loco",
-                "seed": 83
+                "seed": 83,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9c9dc778-4067-11f0-8298-6a2ecef9ff2d",
                 "name": "Team Vortex",
-                "seed": 430
+                "seed": 430,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "5272f3bc-3be9-11f0-a689-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9c9dc778-4067-11f0-8298-6a2ecef9ff2d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "5272f3bc-3be9-11f0-a689-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9c9dc778-4067-11f0-8298-6a2ecef9ff2d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1760,
@@ -91731,18 +91801,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d075176c-4306-11f0-b6de-d6bd8b774a58",
                 "name": "Dragons",
-                "seed": 774
+                "seed": 774,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bdcc4090-3e60-11f0-918d-6eac04d6613b",
                 "name": "Neuille's Team",
-                "seed": 763
+                "seed": 763,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "d075176c-4306-11f0-b6de-d6bd8b774a58",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdcc4090-3e60-11f0-918d-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "d075176c-4306-11f0-b6de-d6bd8b774a58",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdcc4090-3e60-11f0-918d-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "d075176c-4306-11f0-b6de-d6bd8b774a58",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdcc4090-3e60-11f0-918d-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1763,
@@ -93536,10 +93656,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a6509dfa-3d87-11f0-8f62-6eac04d6613b",
+                "name": "loli's monkeys",
+                "seed": 1481
             },
             "opponent2": {
-                "id": null
+                "id": "5a776b1a-3be9-11f0-84b5-6eac04d6613b",
+                "name": "RZV|Esports",
+                "seed": 201
             },
             "match_games": []
         },
@@ -95142,10 +95266,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5272f3bc-3be9-11f0-a689-6eac04d6613b",
+                "name": "Poco Loco",
+                "seed": 83
             },
             "opponent2": {
-                "id": null
+                "id": "eb348aba-3d93-11f0-afa0-0ab646d3248d",
+                "name": "Bot e-sports",
+                "seed": 851
             },
             "match_games": []
         },
@@ -95163,7 +95291,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "bdcc4090-3e60-11f0-918d-6eac04d6613b",
+                "name": "Neuille's Team",
+                "seed": 763
             },
             "match_games": []
         },
