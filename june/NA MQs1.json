@@ -23266,7 +23266,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "8c186b3c-3bea-11f0-9e4d-6eac04d6613b",
                 "name": "QT’S",
@@ -24020,7 +24020,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "8fb8e6f4-3bea-11f0-b27f-6eac04d6613b",
                 "name": "Taco lovers",
@@ -24317,7 +24317,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "dabb1c9c-4024-11f0-b12d-6a2ecef9ff2d",
                 "name": "Los Tortilleros",
@@ -25050,7 +25050,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "8d64d05c-3bea-11f0-b749-6eac04d6613b",
                 "name": "Cobra Jets",
@@ -25927,7 +25927,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "aabfb9a6-3fef-11f0-a44c-6a2ecef9ff2d",
                 "name": "The Special One",
@@ -26756,7 +26756,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "92b466d0-3bea-11f0-b310-6eac04d6613b",
                 "name": "Cations",
@@ -27399,7 +27399,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "9353359e-3bea-11f0-bb11-6eac04d6613b",
                 "name": "Hazers",
@@ -28021,18 +28021,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "3c454fdc-4016-11f0-b904-168de864875a",
                 "name": "Lumen Nebula",
-                "seed": 172
+                "seed": 172,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9f8fba02-3f06-11f0-a0df-6eac04d6613b",
                 "name": "BOLTZ",
-                "seed": 341
+                "seed": 341,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "3c454fdc-4016-11f0-b904-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9f8fba02-3f06-11f0-a0df-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3c454fdc-4016-11f0-b904-168de864875a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9f8fba02-3f06-11f0-a0df-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3c454fdc-4016-11f0-b904-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9f8fba02-3f06-11f0-a0df-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 641,
@@ -30337,7 +30387,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "8ca2a37e-3bea-11f0-a36f-6eac04d6613b",
                 "name": "Fraud Squad",
@@ -30678,7 +30728,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "92fb0428-3bea-11f0-9d3e-6eac04d6613b",
                 "name": "LVD",
@@ -32337,7 +32387,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "cc987052-3e34-11f0-a9c0-0ab646d3248d",
                 "name": "No mercy squad",
@@ -32524,7 +32574,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "8c910844-3bea-11f0-a438-6eac04d6613b",
                 "name": "Tibet Way",
@@ -33242,7 +33292,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "8d83360a-3bea-11f0-88e9-6eac04d6613b",
                 "name": "JMS_T0T0",
@@ -34868,7 +34918,9 @@
                 "seed": 85
             },
             "opponent2": {
-                "id": null
+                "id": "3c454fdc-4016-11f0-b904-168de864875a",
+                "name": "Lumen Nebula",
+                "seed": 172
             },
             "match_games": []
         },
