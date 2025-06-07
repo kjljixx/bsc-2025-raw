@@ -17020,7 +17020,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3af3595c-3d88-11f0-a776-0ab646d3248d",
                 "name": "LOS ESO BRAD",
@@ -17029,7 +17029,8 @@
             "opponent2": {
                 "id": "aab0de8c-43a9-11f0-aea1-aa240157cd11",
                 "name": "Lag Masters",
-                "seed": 588
+                "seed": 588,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -24712,7 +24713,9 @@
                 "seed": 76
             },
             "opponent2": {
-                "id": null
+                "id": "3af3595c-3d88-11f0-a776-0ab646d3248d",
+                "name": "LOS ESO BRAD",
+                "seed": 437
             },
             "match_games": []
         },
