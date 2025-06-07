@@ -35846,18 +35846,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b4553a2-3bed-11f0-a134-6eac04d6613b",
                 "name": "Crow's Nest Esports",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "19402382-4367-11f0-ab20-0abc5cfa3912",
                 "name": "DANGER ESPORTS",
-                "seed": 276
+                "seed": 276,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3b4553a2-3bed-11f0-a134-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "19402382-4367-11f0-ab20-0abc5cfa3912",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "3b4553a2-3bed-11f0-a134-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "19402382-4367-11f0-ab20-0abc5cfa3912",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 814,
@@ -38528,18 +38563,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cad73356-3dc7-11f0-b779-0ab646d3248d",
                 "name": "De Mi Casa Padre",
-                "seed": 587
+                "seed": 587,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "edd747f6-3eb2-11f0-bb6f-6eac04d6613b",
                 "name": "SHADOW DIVISION",
-                "seed": 331
+                "seed": 331,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "cad73356-3dc7-11f0-b779-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "edd747f6-3eb2-11f0-bb6f-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "cad73356-3dc7-11f0-b779-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "edd747f6-3eb2-11f0-bb6f-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 893,
@@ -38548,18 +38618,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c38a096-3bea-11f0-9d41-6eac04d6613b",
                 "name": "Max Gaming",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7d05a6fe-3ddf-11f0-98ed-6eac04d6613b",
                 "name": "CHRONOS",
-                "seed": 235
+                "seed": 235,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "8c38a096-3bea-11f0-9d41-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7d05a6fe-3ddf-11f0-98ed-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8c38a096-3bea-11f0-9d41-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7d05a6fe-3ddf-11f0-98ed-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 894,
@@ -39055,7 +39160,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b4553a2-3bed-11f0-a134-6eac04d6613b",
+                "name": "Crow's Nest Esports",
+                "seed": 20
             },
             "opponent2": {
                 "id": null
@@ -39747,10 +39854,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7d05a6fe-3ddf-11f0-98ed-6eac04d6613b",
+                "name": "CHRONOS",
+                "seed": 235
             },
             "opponent2": {
-                "id": null
+                "id": "e5eda36a-3f38-11f0-b5c8-0ab646d3248d",
+                "name": "Destiny",
+                "seed": 363
             },
             "match_games": []
         },
