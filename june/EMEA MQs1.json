@@ -97639,18 +97639,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4bd2c316-3be9-11f0-abfc-6eac04d6613b",
                 "name": "F/A BLAQMONKEYS",
-                "seed": 37
+                "seed": 37,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "022c2302-3f08-11f0-9682-6eac04d6613b",
                 "name": "Ripo eSports",
-                "seed": 1244
+                "seed": 1244,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4bd2c316-3be9-11f0-abfc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "022c2302-3f08-11f0-9682-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4bd2c316-3be9-11f0-abfc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "022c2302-3f08-11f0-9682-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1848,
@@ -101426,7 +101461,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4bd2c316-3be9-11f0-abfc-6eac04d6613b",
+                "name": "F/A BLAQMONKEYS",
+                "seed": 37
             },
             "opponent2": {
                 "id": null
