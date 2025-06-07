@@ -72674,18 +72674,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58fa9e4c-3be9-11f0-8587-6eac04d6613b",
                 "name": "Shadow Flux",
-                "seed": 194
+                "seed": 194,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4c19351c-3ecd-11f0-b771-6eac04d6613b",
                 "name": "ABC-ESPORTS",
-                "seed": 831
+                "seed": 831,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "58fa9e4c-3be9-11f0-8587-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4c19351c-3ecd-11f0-b771-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "58fa9e4c-3be9-11f0-8587-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4c19351c-3ecd-11f0-b771-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "58fa9e4c-3be9-11f0-8587-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4c19351c-3ecd-11f0-b771-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1292,
@@ -84581,10 +84631,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "58fa9e4c-3be9-11f0-8587-6eac04d6613b",
+                "name": "Shadow Flux",
+                "seed": 194
             },
             "opponent2": {
-                "id": null
+                "id": "cadf4bce-3d70-11f0-aa66-6eac04d6613b",
+                "name": "NEL",
+                "seed": 1343
             },
             "match_games": []
         },
