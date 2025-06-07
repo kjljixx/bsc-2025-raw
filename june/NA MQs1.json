@@ -13398,18 +13398,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5401fc76-3da3-11f0-9579-6eac04d6613b",
                 "name": "HERO HUNTER TEAM",
-                "seed": 505
+                "seed": 505,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "830eae5a-423b-11f0-b623-6a2ecef9ff2d",
                 "name": "Glacial Titans",
-                "seed": 520
+                "seed": 520,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "5401fc76-3da3-11f0-9579-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "830eae5a-423b-11f0-b623-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "5401fc76-3da3-11f0-9579-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "830eae5a-423b-11f0-b623-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 67,
@@ -21833,7 +21868,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "830eae5a-423b-11f0-b623-6a2ecef9ff2d",
+                "name": "Glacial Titans",
+                "seed": 520
             },
             "match_games": []
         },
