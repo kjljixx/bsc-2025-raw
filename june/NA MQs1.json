@@ -25977,11 +25977,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aabfb9a6-3fef-11f0-a44c-6a2ecef9ff2d",
                 "name": "The Special One",
-                "seed": 228
+                "seed": 228,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "e9cf8b0a-3e76-11f0-b790-0ab646d3248d",
@@ -33392,11 +33393,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8d83360a-3bea-11f0-88e9-6eac04d6613b",
                 "name": "JMS_T0T0",
-                "seed": 203
+                "seed": 203,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "540ef47e-3de1-11f0-afd5-0ab646d3248d",
@@ -34490,7 +34492,9 @@
                 "seed": 484
             },
             "opponent2": {
-                "id": null
+                "id": "e9cf8b0a-3e76-11f0-b790-0ab646d3248d",
+                "name": "Plasmátic",
+                "seed": 285
             },
             "match_games": []
         },
@@ -36190,7 +36194,9 @@
                 "seed": 566
             },
             "opponent2": {
-                "id": null
+                "id": "540ef47e-3de1-11f0-afd5-0ab646d3248d",
+                "name": "WorstTeamNa",
+                "seed": 310
             },
             "match_games": []
         },
