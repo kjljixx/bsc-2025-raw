@@ -34930,7 +34930,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0841d198-3e30-11f0-94a8-6eac04d6613b",
                 "name": "El Toledillo",
@@ -34939,7 +34939,8 @@
             "opponent2": {
                 "id": "8b48b524-3fbc-11f0-95da-168de864875a",
                 "name": "ARGO",
-                "seed": 1041
+                "seed": 1041,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -62601,13 +62602,17 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "57ff08c0-3be9-11f0-b806-6eac04d6613b",
                 "name": "Zennox Gaming",
                 "seed": 17
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "0841d198-3e30-11f0-94a8-6eac04d6613b",
+                "name": "El Toledillo",
+                "seed": 1008
+            },
             "match_games": []
         },
         {
