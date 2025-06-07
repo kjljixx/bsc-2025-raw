@@ -34221,18 +34221,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e2fdf5e8-4392-11f0-9bf5-aa741b89633f",
                 "name": "Toxic Drip",
-                "seed": 576
+                "seed": 576,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "68897c20-3e14-11f0-a603-0ab646d3248d",
                 "name": "Elites of Doug",
-                "seed": 320
+                "seed": 320,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "e2fdf5e8-4392-11f0-9bf5-aa741b89633f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "68897c20-3e14-11f0-a603-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "e2fdf5e8-4392-11f0-9bf5-aa741b89633f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "68897c20-3e14-11f0-a603-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e2fdf5e8-4392-11f0-9bf5-aa741b89633f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "68897c20-3e14-11f0-a603-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 772,
@@ -38043,18 +38093,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3711fcf0-40bf-11f0-bb46-6a2ecef9ff2d",
                 "name": "Bxndn",
-                "seed": 490
+                "seed": 490,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bb0b7fec-3e6a-11f0-a763-0ab646d3248d",
                 "name": "MoBiMo",
-                "seed": 279
+                "seed": 279,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3711fcf0-40bf-11f0-bb46-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bb0b7fec-3e6a-11f0-a763-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "3711fcf0-40bf-11f0-bb46-6a2ecef9ff2d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bb0b7fec-3e6a-11f0-a763-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3711fcf0-40bf-11f0-bb46-6a2ecef9ff2d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bb0b7fec-3e6a-11f0-a763-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 862,
@@ -39481,10 +39581,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "68897c20-3e14-11f0-a603-0ab646d3248d",
+                "name": "Elites of Doug",
+                "seed": 320
             },
             "opponent2": {
-                "id": null
+                "id": "4b9234f8-3dc5-11f0-a54b-6eac04d6613b",
+                "name": "ATX KILLAS",
+                "seed": 577
             },
             "match_games": []
         },
@@ -40289,10 +40393,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bb0b7fec-3e6a-11f0-a763-0ab646d3248d",
+                "name": "MoBiMo",
+                "seed": 279
             },
             "opponent2": {
-                "id": null
+                "id": "c0556e74-427d-11f0-a5d5-168de864875a",
+                "name": "Junnie.K",
+                "seed": 151
             },
             "match_games": []
         },
