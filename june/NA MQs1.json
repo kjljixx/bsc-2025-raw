@@ -45643,18 +45643,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ec44b92a-3da7-11f0-b128-6eac04d6613b",
                 "name": "Grank",
-                "seed": 515
+                "seed": 515,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "270a8742-3f29-11f0-8e8a-6eac04d6613b",
                 "name": "Real Ones",
-                "seed": 355
+                "seed": 355,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ec44b92a-3da7-11f0-b128-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "270a8742-3f29-11f0-8e8a-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "ec44b92a-3da7-11f0-b128-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "270a8742-3f29-11f0-8e8a-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1006,
