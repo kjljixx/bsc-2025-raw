@@ -76941,18 +76941,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4eb5d0c4-4241-11f0-9909-168de864875a",
                 "name": "LuxAeterna MUT",
-                "seed": 362
+                "seed": 362,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9652644a-3d52-11f0-847e-6eac04d6613b",
                 "name": "YPE | Gaming",
-                "seed": 663
+                "seed": 663,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "4eb5d0c4-4241-11f0-9909-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9652644a-3d52-11f0-847e-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4eb5d0c4-4241-11f0-9909-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9652644a-3d52-11f0-847e-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1401,
@@ -85704,7 +85739,9 @@
                 "seed": 151
             },
             "opponent2": {
-                "id": null
+                "id": "4eb5d0c4-4241-11f0-9909-168de864875a",
+                "name": "LuxAeterna MUT",
+                "seed": 362
             },
             "match_games": []
         },
