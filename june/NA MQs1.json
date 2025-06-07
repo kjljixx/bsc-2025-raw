@@ -16801,18 +16801,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "11b8556c-3fc5-11f0-afbf-168de864875a",
                 "name": "One-Handers",
-                "seed": 460
+                "seed": 460,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a3dfb50e-3dc0-11f0-becd-6eac04d6613b",
                 "name": "MMS",
-                "seed": 565
+                "seed": 565,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "11b8556c-3fc5-11f0-afbf-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3dfb50e-3dc0-11f0-becd-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "11b8556c-3fc5-11f0-afbf-168de864875a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3dfb50e-3dc0-11f0-becd-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "11b8556c-3fc5-11f0-afbf-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3dfb50e-3dc0-11f0-becd-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 235,
@@ -24315,7 +24365,9 @@
                 "seed": 53
             },
             "opponent2": {
-                "id": null
+                "id": "11b8556c-3fc5-11f0-afbf-168de864875a",
+                "name": "One-Handers",
+                "seed": 460
             },
             "match_games": []
         },
