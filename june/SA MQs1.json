@@ -36704,18 +36704,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27baca9a-3bea-11f0-8c0d-6eac04d6613b",
                 "name": "Shock Gaming",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "29a005b4-3bea-11f0-9afe-6eac04d6613b",
                 "name": "vaxco FC",
-                "seed": 132
+                "seed": 132,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "27baca9a-3bea-11f0-8c0d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "29a005b4-3bea-11f0-9afe-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "27baca9a-3bea-11f0-8c0d-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "29a005b4-3bea-11f0-9afe-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "27baca9a-3bea-11f0-8c0d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "29a005b4-3bea-11f0-9afe-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 914,
@@ -39145,10 +39195,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "27baca9a-3bea-11f0-8c0d-6eac04d6613b",
+                "name": "Shock Gaming",
+                "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "210f8c12-3f46-11f0-9ba7-6eac04d6613b",
+                "name": "Artisan Esports",
+                "seed": 452
             },
             "match_games": []
         },
