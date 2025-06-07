@@ -8850,7 +8850,7 @@
                     "gamerTag": "#9VVYGGUGL"
                 },
                 {
-                    "name": "SG|Unity",
+                    "name": "Unitii",
                     "gamerTag": "#2YRRPCLPV9"
                 },
                 {
@@ -17528,18 +17528,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9ea1c534-3d91-11f0-a68d-0ab646d3248d",
                 "name": "Rocket Socks",
-                "seed": 463
+                "seed": 463,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d08ef24e-434d-11f0-9b5c-d6bd8b774a58",
                 "name": "JTD Team",
-                "seed": 562
+                "seed": 562,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "9ea1c534-3d91-11f0-a68d-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d08ef24e-434d-11f0-9b5c-d6bd8b774a58",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9ea1c534-3d91-11f0-a68d-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d08ef24e-434d-11f0-9b5c-d6bd8b774a58",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 299,
