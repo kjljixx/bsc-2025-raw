@@ -10653,18 +10653,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6a98f7e-3be8-11f0-94ac-6eac04d6613b",
                 "name": "サ終",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bded03b0-3ee8-11f0-8d38-6eac04d6613b",
                 "name": "Astute Nova",
-                "seed": 143
+                "seed": 143,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "e6a98f7e-3be8-11f0-94ac-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bded03b0-3ee8-11f0-8d38-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e6a98f7e-3be8-11f0-94ac-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bded03b0-3ee8-11f0-8d38-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 166,
@@ -11147,18 +11182,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b8ac8680-3dc8-11f0-aba2-6eac04d6613b",
                 "name": "TMDG",
-                "seed": 227
+                "seed": 227,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7d69c5b4-3e91-11f0-8440-0ab646d3248d",
                 "name": "ここ大事",
-                "seed": 158
+                "seed": 158,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "b8ac8680-3dc8-11f0-aba2-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7d69c5b4-3e91-11f0-8440-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "b8ac8680-3dc8-11f0-aba2-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7d69c5b4-3e91-11f0-8440-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 180,
@@ -12051,7 +12121,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6a98f7e-3be8-11f0-94ac-6eac04d6613b",
+                "name": "サ終",
+                "seed": 15
             },
             "opponent2": {
                 "id": null
@@ -12181,10 +12253,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7d69c5b4-3e91-11f0-8440-0ab646d3248d",
+                "name": "ここ大事",
+                "seed": 158
             },
             "opponent2": {
-                "id": null
+                "id": "721643ea-3d5b-11f0-8791-6eac04d6613b",
+                "name": "ヤギックス",
+                "seed": 163
             },
             "match_games": []
         },
