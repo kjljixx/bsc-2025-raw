@@ -84144,18 +84144,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "52f8d658-3be9-11f0-a70d-6eac04d6613b",
                 "name": "RBN|ESPORT",
-                "seed": 176
+                "seed": 176,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5a5a3338-3be9-11f0-8401-6eac04d6613b",
                 "name": "BoNerr",
-                "seed": 337
+                "seed": 337,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "52f8d658-3be9-11f0-a70d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5a5a3338-3be9-11f0-8401-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "52f8d658-3be9-11f0-a70d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5a5a3338-3be9-11f0-8401-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1569,
@@ -95256,7 +95291,9 @@
                 "seed": 593
             },
             "opponent2": {
-                "id": null
+                "id": "52f8d658-3be9-11f0-a70d-6eac04d6613b",
+                "name": "RBN|ESPORT",
+                "seed": 176
             },
             "match_games": []
         },
