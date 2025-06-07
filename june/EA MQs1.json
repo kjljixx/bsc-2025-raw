@@ -10292,18 +10292,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0d53c444-3ddf-11f0-aa0a-6eac04d6613b",
                 "name": "연초킹",
-                "seed": 239
+                "seed": 239,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a5c5943c-3e39-11f0-b4a6-6eac04d6613b",
                 "name": "Tweetbot division",
-                "seed": 146
+                "seed": 146,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "0d53c444-3ddf-11f0-aa0a-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a5c5943c-3e39-11f0-b4a6-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "0d53c444-3ddf-11f0-aa0a-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a5c5943c-3e39-11f0-b4a6-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 168,
@@ -11120,7 +11155,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a5c5943c-3e39-11f0-b4a6-6eac04d6613b",
+                "name": "Tweetbot division",
+                "seed": 146
             },
             "opponent2": {
                 "id": null
