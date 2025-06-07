@@ -41322,18 +41322,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a5da4f20-4303-11f0-afab-0abc5cfa3912",
                 "name": "Pioneiros",
-                "seed": 270
+                "seed": 270,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9259d7a2-3da6-11f0-8d52-0ab646d3248d",
                 "name": "Frutitas Sports",
-                "seed": 467
+                "seed": 467,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a5da4f20-4303-11f0-afab-0abc5cfa3912",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9259d7a2-3da6-11f0-8d52-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "a5da4f20-4303-11f0-afab-0abc5cfa3912",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9259d7a2-3da6-11f0-8d52-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1007,
