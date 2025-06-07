@@ -41405,18 +41405,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9325dfc2-3bea-11f0-8cd3-6eac04d6613b",
                 "name": "Dreamcore🍥",
-                "seed": 52
+                "seed": 52,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "eae2362e-41a9-11f0-a2e6-6a2ecef9ff2d",
                 "name": "Berserkers 2.0",
-                "seed": 180
+                "seed": 180,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9325dfc2-3bea-11f0-8cd3-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eae2362e-41a9-11f0-a2e6-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "9325dfc2-3bea-11f0-8cd3-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eae2362e-41a9-11f0-a2e6-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 919,
@@ -43320,7 +43355,9 @@
                 "seed": 141
             },
             "opponent2": {
-                "id": null
+                "id": "9325dfc2-3bea-11f0-8cd3-6eac04d6613b",
+                "name": "Dreamcore🍥",
+                "seed": 52
             },
             "match_games": []
         },
