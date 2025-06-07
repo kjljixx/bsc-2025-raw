@@ -34914,18 +34914,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1197146a-3f02-11f0-83dd-6eac04d6613b",
                 "name": "E&E",
-                "seed": 398
+                "seed": 398,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2c3ed2dc-3bea-11f0-adbc-6eac04d6613b",
                 "name": "Kimeleka",
-                "seed": 142
+                "seed": 142,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "1197146a-3f02-11f0-83dd-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c3ed2dc-3bea-11f0-adbc-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "1197146a-3f02-11f0-83dd-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2c3ed2dc-3bea-11f0-adbc-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "1197146a-3f02-11f0-83dd-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c3ed2dc-3bea-11f0-adbc-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 875,
@@ -36888,7 +36938,9 @@
                 "seed": 270
             },
             "opponent2": {
-                "id": null
+                "id": "1197146a-3f02-11f0-83dd-6eac04d6613b",
+                "name": "E&E",
+                "seed": 398
             },
             "match_games": []
         },
