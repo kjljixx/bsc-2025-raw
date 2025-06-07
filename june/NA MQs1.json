@@ -41180,18 +41180,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8ef0221e-3bea-11f0-b5d2-6eac04d6613b",
                 "name": "Clutch Or Cope🏆🤡",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b279b16c-3e80-11f0-9e1f-0ab646d3248d",
                 "name": "Slayers",
-                "seed": 364
+                "seed": 364,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8ef0221e-3bea-11f0-b5d2-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b279b16c-3e80-11f0-9e1f-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8ef0221e-3bea-11f0-b5d2-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b279b16c-3e80-11f0-9e1f-0ab646d3248d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 928,
@@ -41710,18 +41745,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "92fbaa22-3bea-11f0-8e3c-6eac04d6613b",
                 "name": "Natare Six",
-                "seed": 51
+                "seed": 51,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "900e1868-3bea-11f0-bf2a-6eac04d6613b",
                 "name": "Zeta",
-                "seed": 78
+                "seed": 78,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "92fbaa22-3bea-11f0-8e3c-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "900e1868-3bea-11f0-bf2a-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "92fbaa22-3bea-11f0-8e3c-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "900e1868-3bea-11f0-bf2a-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 951,
@@ -42174,7 +42244,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8ef0221e-3bea-11f0-b5d2-6eac04d6613b",
+                "name": "Clutch Or Cope🏆🤡",
+                "seed": 21
             },
             "opponent2": {
                 "id": null
