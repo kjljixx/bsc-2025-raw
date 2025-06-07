@@ -85821,18 +85821,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "59999a92-3be9-11f0-8d1d-6eac04d6613b",
                 "name": "Pro playeri",
-                "seed": 146
+                "seed": 146,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e331b2b4-3d77-11f0-a3e7-0ab646d3248d",
                 "name": "Eternal Silence",
-                "seed": 1391
+                "seed": 1391,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "59999a92-3be9-11f0-8d1d-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e331b2b4-3d77-11f0-a3e7-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "59999a92-3be9-11f0-8d1d-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e331b2b4-3d77-11f0-a3e7-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1693,
@@ -86021,18 +86056,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5a2c3dd4-3be9-11f0-ade6-6eac04d6613b",
                 "name": "Nomads team",
-                "seed": 199
+                "seed": 199,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "50a08b12-3d56-11f0-8289-0ab646d3248d",
                 "name": "SQW_Zitr4",
-                "seed": 711
+                "seed": 711,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "5a2c3dd4-3be9-11f0-ade6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50a08b12-3d56-11f0-8289-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "5a2c3dd4-3be9-11f0-ade6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50a08b12-3d56-11f0-8289-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1703,
@@ -87401,18 +87471,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
                 "name": "FingerSleeves Gaming",
-                "seed": 102
+                "seed": 102,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "31db40ea-3d7f-11f0-a72d-6eac04d6613b",
                 "name": "batman",
-                "seed": 1435
+                "seed": 1435,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31db40ea-3d7f-11f0-a72d-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31db40ea-3d7f-11f0-a72d-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1772,
@@ -89717,7 +89822,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
+                "name": "FingerSleeves Gaming",
+                "seed": 102
             },
             "opponent2": {
                 "id": null
