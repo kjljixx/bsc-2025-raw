@@ -34691,18 +34691,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2339cc74-3f4f-11f0-98eb-0ab646d3248d",
                 "name": "Gym Bros 😎💪💪🏿",
-                "seed": 432
+                "seed": 432,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dada3d8e-40d3-11f0-91f9-168de864875a",
                 "name": "Eternal Havoc",
-                "seed": 176
+                "seed": 176,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "2339cc74-3f4f-11f0-98eb-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dada3d8e-40d3-11f0-91f9-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "2339cc74-3f4f-11f0-98eb-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dada3d8e-40d3-11f0-91f9-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2339cc74-3f4f-11f0-98eb-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dada3d8e-40d3-11f0-91f9-168de864875a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 785,
@@ -37226,7 +37276,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c640a702-4180-11f0-aa31-6a2ecef9ff2d",
                 "name": "David Fault",
@@ -37235,7 +37285,8 @@
             "opponent2": {
                 "id": "d1f1b91e-422b-11f0-ba87-168de864875a",
                 "name": "TRIVICTUS",
-                "seed": 250
+                "seed": 250,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -38338,18 +38389,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6c2faa80-3f4e-11f0-ab12-6eac04d6613b",
                 "name": "JNA DEMONS",
-                "seed": 430
+                "seed": 430,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f2f61d04-409f-11f0-8c60-168de864875a",
                 "name": "Apolo Peak",
-                "seed": 174
+                "seed": 174,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "6c2faa80-3f4e-11f0-ab12-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f2f61d04-409f-11f0-8c60-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "6c2faa80-3f4e-11f0-ab12-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f2f61d04-409f-11f0-8c60-168de864875a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 881,
@@ -39069,7 +39155,9 @@
                 "seed": 304
             },
             "opponent2": {
-                "id": null
+                "id": "dada3d8e-40d3-11f0-91f9-168de864875a",
+                "name": "Eternal Havoc",
+                "seed": 176
             },
             "match_games": []
         },
@@ -39648,10 +39736,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c640a702-4180-11f0-aa31-6a2ecef9ff2d",
+                "name": "David Fault",
+                "seed": 506
             },
             "opponent2": {
-                "id": null
+                "id": "928b24dc-3bea-11f0-a57a-6eac04d6613b",
+                "name": "DMNT",
+                "seed": 135
             },
             "match_games": []
         },
@@ -39917,7 +40009,9 @@
                 "seed": 46
             },
             "opponent2": {
-                "id": null
+                "id": "6c2faa80-3f4e-11f0-ab12-6eac04d6613b",
+                "name": "JNA DEMONS",
+                "seed": 430
             },
             "match_games": []
         },
