@@ -43633,18 +43633,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8e2aa94e-3bea-11f0-a1a5-6eac04d6613b",
                 "name": "Los prietos 🐐",
-                "seed": 17
+                "seed": 17,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d894bef2-3dd9-11f0-8b9f-6eac04d6613b",
                 "name": "Stellar Universe",
-                "seed": 304
+                "seed": 304,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8e2aa94e-3bea-11f0-a1a5-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d894bef2-3dd9-11f0-8b9f-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8e2aa94e-3bea-11f0-a1a5-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d894bef2-3dd9-11f0-8b9f-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 965,
@@ -44163,18 +44198,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "92c7d36e-3bea-11f0-aa9b-6eac04d6613b",
                 "name": "Link",
-                "seed": 111
+                "seed": 111,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8fe1248e-3bea-11f0-ab34-6eac04d6613b",
                 "name": "Master of caos",
-                "seed": 47
+                "seed": 47,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "92c7d36e-3bea-11f0-aa9b-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8fe1248e-3bea-11f0-ab34-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "92c7d36e-3bea-11f0-aa9b-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8fe1248e-3bea-11f0-ab34-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 981,
@@ -44223,18 +44293,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ecc84476-3d65-11f0-a6ec-0ab646d3248d",
                 "name": "ohio gang",
-                "seed": 375
+                "seed": 375,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "50ff06d0-43b2-11f0-b121-827ca9af2553",
                 "name": "TEAM|DrKNA",
-                "seed": 202
+                "seed": 202,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "ecc84476-3d65-11f0-a6ec-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "50ff06d0-43b2-11f0-b121-827ca9af2553",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "ecc84476-3d65-11f0-a6ec-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "50ff06d0-43b2-11f0-b121-827ca9af2553",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 984,
@@ -44358,18 +44463,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b46f04a-3bed-11f0-9990-6eac04d6613b",
                 "name": "New Heights Gaming",
-                "seed": 19
+                "seed": 19,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6c2faa80-3f4e-11f0-ab12-6eac04d6613b",
                 "name": "JNA DEMONS",
-                "seed": 430
+                "seed": 430,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3b46f04a-3bed-11f0-9990-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c2faa80-3f4e-11f0-ab12-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "3b46f04a-3bed-11f0-9990-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c2faa80-3f4e-11f0-ab12-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 989,
@@ -44588,7 +44728,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "8e2aa94e-3bea-11f0-a1a5-6eac04d6613b",
+                "name": "Los prietos 🐐",
+                "seed": 17
             },
             "match_games": []
         },
@@ -44755,7 +44897,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "50ff06d0-43b2-11f0-b121-827ca9af2553",
+                "name": "TEAM|DrKNA",
+                "seed": 202
             },
             "opponent2": {
                 "id": null
