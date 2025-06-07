@@ -33139,7 +33139,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "1ae4e120-3f0f-11f0-88a2-0ab646d3248d",
                 "name": "Gasteryx",
@@ -38103,18 +38103,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
                 "name": "LEW’S",
-                "seed": 909
+                "seed": 909,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b772a2cc-3d8c-11f0-a70d-0ab646d3248d",
                 "name": "29GW15",
-                "seed": 1140
+                "seed": 1140,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b772a2cc-3d8c-11f0-a70d-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b772a2cc-3d8c-11f0-a70d-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 331,
@@ -47994,18 +48029,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4b2c0346-3d88-11f0-a7d2-6eac04d6613b",
                 "name": "Corndog > Hotdog",
-                "seed": 787
+                "seed": 787,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "25389c48-3e10-11f0-93ef-0ab646d3248d",
                 "name": "VBS|AUP☠️",
-                "seed": 1262
+                "seed": 1262,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4b2c0346-3d88-11f0-a7d2-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "25389c48-3e10-11f0-93ef-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4b2c0346-3d88-11f0-a7d2-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "25389c48-3e10-11f0-93ef-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 871,
@@ -53737,7 +53807,9 @@
                 "seed": 116
             },
             "opponent2": {
-                "id": null
+                "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                "name": "LEW’S",
+                "seed": 909
             },
             "match_games": []
         },
@@ -58531,7 +58603,9 @@
                 "seed": 238
             },
             "opponent2": {
-                "id": null
+                "id": "4b2c0346-3d88-11f0-a7d2-6eac04d6613b",
+                "name": "Corndog > Hotdog",
+                "seed": 787
             },
             "match_games": []
         },
