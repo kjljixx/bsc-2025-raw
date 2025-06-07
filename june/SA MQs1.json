@@ -35961,18 +35961,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c924f3a8-3dbe-11f0-a5c5-0ab646d3248d",
                 "name": "THBS",
-                "seed": 545
+                "seed": 545,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "288da1b8-3bea-11f0-b5b0-6eac04d6613b",
                 "name": "LEGENDS",
-                "seed": 96
+                "seed": 96,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c924f3a8-3dbe-11f0-a5c5-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "288da1b8-3bea-11f0-b5b0-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c924f3a8-3dbe-11f0-a5c5-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "288da1b8-3bea-11f0-b5b0-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 901,
@@ -36621,18 +36656,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "de568004-405f-11f0-b3b9-168de864875a",
                 "name": "2026",
-                "seed": 498
+                "seed": 498,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfcb5932-3f42-11f0-ba45-0ab646d3248d",
                 "name": "GL1TCH",
-                "seed": 143
+                "seed": 143,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "de568004-405f-11f0-b3b9-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfcb5932-3f42-11f0-ba45-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "de568004-405f-11f0-b3b9-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfcb5932-3f42-11f0-ba45-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 934,
@@ -37471,7 +37541,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "de568004-405f-11f0-b3b9-168de864875a",
+                "name": "2026",
+                "seed": 498
             },
             "opponent2": {
                 "id": null
