@@ -41967,18 +41967,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d4eb850c-3dd8-11f0-8593-6eac04d6613b",
                 "name": "Hot-Dogs Esports",
-                "seed": 300
+                "seed": 300,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "92dd7b6a-3bea-11f0-ab58-6eac04d6613b",
                 "name": "Giallo! e-sports",
-                "seed": 85
+                "seed": 85,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "d4eb850c-3dd8-11f0-8593-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "92dd7b6a-3bea-11f0-ab58-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d4eb850c-3dd8-11f0-8593-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "92dd7b6a-3bea-11f0-ab58-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "d4eb850c-3dd8-11f0-8593-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "92dd7b6a-3bea-11f0-ab58-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 929,
@@ -43257,18 +43307,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
                 "name": "Dookie Butt",
-                "seed": 566
+                "seed": 566,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cad73356-3dc7-11f0-b779-0ab646d3248d",
                 "name": "De Mi Casa Padre",
-                "seed": 587
+                "seed": 587,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cad73356-3dc7-11f0-b779-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cad73356-3dc7-11f0-b779-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cad73356-3dc7-11f0-b779-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 959,
@@ -43658,7 +43758,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "d4eb850c-3dd8-11f0-8593-6eac04d6613b",
+                "name": "Hot-Dogs Esports",
+                "seed": 300
             },
             "match_games": []
         },
@@ -43956,7 +44058,9 @@
                 "seed": 246
             },
             "opponent2": {
-                "id": null
+                "id": "81c8cfde-4354-11f0-8bd8-86efe11c2309",
+                "name": "Dookie Butt",
+                "seed": 566
             },
             "match_games": []
         },
