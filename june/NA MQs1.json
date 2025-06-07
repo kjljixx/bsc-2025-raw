@@ -45448,18 +45448,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
                 "name": "Patata Sports",
-                "seed": 516
+                "seed": 516,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d072dfa0-4037-11f0-ac60-168de864875a",
                 "name": "GREG ESPORTS",
-                "seed": 484
+                "seed": 484,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d072dfa0-4037-11f0-ac60-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "a9b91194-41c3-11f0-a642-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d072dfa0-4037-11f0-ac60-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 998,
@@ -45568,18 +45603,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b995320-3d90-11f0-8b1b-0ab646d3248d",
                 "name": "🌀",
-                "seed": 455
+                "seed": 455,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8e4b0022-3bea-11f0-aa60-6eac04d6613b",
                 "name": "Itagui",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "0b995320-3d90-11f0-8b1b-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e4b0022-3bea-11f0-aa60-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "0b995320-3d90-11f0-8b1b-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e4b0022-3bea-11f0-aa60-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1004,
