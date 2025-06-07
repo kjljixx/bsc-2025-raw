@@ -103881,18 +103881,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5baa5c04-3be9-11f0-8156-6eac04d6613b",
                 "name": "Wstawiam Jedynke",
-                "seed": 1599
+                "seed": 1599,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
                 "name": "Amnesia E-Sport",
-                "seed": 66
+                "seed": 66,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "5baa5c04-3be9-11f0-8156-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "5baa5c04-3be9-11f0-8156-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1955,
