@@ -96692,18 +96692,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5a69ab88-3be9-11f0-a4bf-6eac04d6613b",
                 "name": "Red Rockets",
-                "seed": 89
+                "seed": 89,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "713b6a7e-3edf-11f0-9604-0ab646d3248d",
                 "name": "AssAssinsTSL🌍🌂",
-                "seed": 857
+                "seed": 857,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5a69ab88-3be9-11f0-a4bf-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "713b6a7e-3edf-11f0-9604-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5a69ab88-3be9-11f0-a4bf-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "713b6a7e-3edf-11f0-9604-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "5a69ab88-3be9-11f0-a4bf-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "713b6a7e-3edf-11f0-9604-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1817,
@@ -97292,18 +97342,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "50dfbcb0-3be9-11f0-9db2-6eac04d6613b",
                 "name": "Mr🐐🐐",
-                "seed": 68
+                "seed": 68,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "59150aa2-3be9-11f0-8731-6eac04d6613b",
                 "name": "Retired",
-                "seed": 324
+                "seed": 324,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "50dfbcb0-3be9-11f0-9db2-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "59150aa2-3be9-11f0-8731-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "50dfbcb0-3be9-11f0-9db2-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "59150aa2-3be9-11f0-8731-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "50dfbcb0-3be9-11f0-9db2-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "59150aa2-3be9-11f0-8731-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1829,
@@ -102508,7 +102608,9 @@
                 "seed": 296
             },
             "opponent2": {
-                "id": null
+                "id": "5a69ab88-3be9-11f0-a4bf-6eac04d6613b",
+                "name": "Red Rockets",
+                "seed": 89
             },
             "match_games": []
         },
@@ -102622,7 +102724,9 @@
                 "seed": 1597
             },
             "opponent2": {
-                "id": null
+                "id": "50dfbcb0-3be9-11f0-9db2-6eac04d6613b",
+                "name": "Mr🐐🐐",
+                "seed": 68
             },
             "match_games": []
         },
