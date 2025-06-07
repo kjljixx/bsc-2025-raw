@@ -104608,18 +104608,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5d923adc-3be9-11f0-8c9b-6eac04d6613b",
                 "name": "OBLIVION",
-                "seed": 287
+                "seed": 287,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4a4a0400-3be9-11f0-b04d-6eac04d6613b",
                 "name": "Cøsa Nôstra",
-                "seed": 98
+                "seed": 98,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "5d923adc-3be9-11f0-8c9b-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4a4a0400-3be9-11f0-b04d-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "5d923adc-3be9-11f0-8c9b-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4a4a0400-3be9-11f0-b04d-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "5d923adc-3be9-11f0-8c9b-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4a4a0400-3be9-11f0-b04d-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1956,
@@ -106497,10 +106547,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5d923adc-3be9-11f0-8c9b-6eac04d6613b",
+                "name": "OBLIVION",
+                "seed": 287
             },
             "opponent2": {
-                "id": null
+                "id": "48b16b1a-3be9-11f0-b4ea-6eac04d6613b",
+                "name": "Barcelona",
+                "seed": 34
             },
             "match_games": []
         },
