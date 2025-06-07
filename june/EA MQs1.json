@@ -5460,18 +5460,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6dcb1baa-3e94-11f0-ad03-6eac04d6613b",
                 "name": "マンチェスター",
-                "seed": 121
+                "seed": 121,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "de3d9f42-3e13-11f0-8160-0ab646d3248d",
                 "name": "MATUKEN",
-                "seed": 136
+                "seed": 136,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6dcb1baa-3e94-11f0-ad03-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de3d9f42-3e13-11f0-8160-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6dcb1baa-3e94-11f0-ad03-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de3d9f42-3e13-11f0-8160-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 19,
@@ -7645,18 +7680,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1099e3c0-41ec-11f0-9c33-168de864875a",
                 "name": "！？",
-                "seed": 106
+                "seed": 106,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "28a64cfa-3d56-11f0-81b6-6eac04d6613b",
                 "name": "WRL esports",
-                "seed": 151
+                "seed": 151,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "1099e3c0-41ec-11f0-9c33-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28a64cfa-3d56-11f0-81b6-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "1099e3c0-41ec-11f0-9c33-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28a64cfa-3d56-11f0-81b6-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 95,
@@ -8787,7 +8857,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "de3d9f42-3e13-11f0-8160-0ab646d3248d",
+                "name": "MATUKEN",
+                "seed": 136
             },
             "match_games": []
         },
@@ -9515,7 +9587,9 @@
                 "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "1099e3c0-41ec-11f0-9c33-168de864875a",
+                "name": "！？",
+                "seed": 106
             },
             "match_games": []
         },
