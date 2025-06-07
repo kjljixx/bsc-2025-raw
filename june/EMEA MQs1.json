@@ -108176,18 +108176,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6af5b99e-3bec-11f0-b6ee-6eac04d6613b",
                 "name": "Aogiri Esport",
-                "seed": 1
+                "seed": 1,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6afaa9ae-3bec-11f0-ac9c-6eac04d6613b",
                 "name": "Code : Gas",
-                "seed": 32
+                "seed": 32,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "6af5b99e-3bec-11f0-b6ee-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6afaa9ae-3bec-11f0-ac9c-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "6af5b99e-3bec-11f0-b6ee-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6afaa9ae-3bec-11f0-ac9c-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2018,
@@ -108791,18 +108826,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "eda3ea74-407d-11f0-89bf-6a2ecef9ff2d",
                 "name": "Krono Esports",
-                "seed": 374
+                "seed": 374,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "481424fe-3be9-11f0-8761-6eac04d6613b",
                 "name": "Ananastortilla",
-                "seed": 43
+                "seed": 43,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "eda3ea74-407d-11f0-89bf-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "481424fe-3be9-11f0-8761-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "eda3ea74-407d-11f0-89bf-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "481424fe-3be9-11f0-8761-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         }
     ]
 }
