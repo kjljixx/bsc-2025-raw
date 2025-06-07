@@ -43653,18 +43653,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8df94c8c-3bea-11f0-8316-6eac04d6613b",
                 "name": "Red 5",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a573b48a-43a9-11f0-82ba-d6bd8b774a58",
                 "name": "Command F/A",
-                "seed": 185
+                "seed": 185,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8df94c8c-3bea-11f0-8316-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a573b48a-43a9-11f0-82ba-d6bd8b774a58",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8df94c8c-3bea-11f0-8316-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a573b48a-43a9-11f0-82ba-d6bd8b774a58",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 966,
@@ -44293,18 +44328,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b45ee0c-3bed-11f0-b42e-6eac04d6613b",
                 "name": "GG",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ff819d9c-3dce-11f0-9be4-6eac04d6613b",
                 "name": "invincibles",
-                "seed": 603
+                "seed": 603,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3b45ee0c-3bed-11f0-b42e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ff819d9c-3dce-11f0-9be4-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "3b45ee0c-3bed-11f0-b42e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ff819d9c-3dce-11f0-9be4-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 991,
@@ -44426,7 +44496,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a573b48a-43a9-11f0-82ba-d6bd8b774a58",
+                "name": "Command F/A",
+                "seed": 185
             },
             "opponent2": {
                 "id": null
@@ -44627,7 +44699,9 @@
                 "seed": 59
             },
             "opponent2": {
-                "id": null
+                "id": "3b45ee0c-3bed-11f0-b42e-6eac04d6613b",
+                "name": "GG",
+                "seed": 27
             },
             "match_games": []
         },
