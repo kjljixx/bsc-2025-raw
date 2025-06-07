@@ -39735,18 +39735,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9fd44a0-3bec-11f0-91c4-6eac04d6613b",
                 "name": "SYN  GAMING",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4235cdde-3dc5-11f0-baa8-0ab646d3248d",
                 "name": "The Fox Crew",
-                "seed": 565
+                "seed": 565,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e9fd44a0-3bec-11f0-91c4-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4235cdde-3dc5-11f0-baa8-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "e9fd44a0-3bec-11f0-91c4-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4235cdde-3dc5-11f0-baa8-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 976,
@@ -40384,7 +40419,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e9fd44a0-3bec-11f0-91c4-6eac04d6613b",
+                "name": "SYN  GAMING",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
