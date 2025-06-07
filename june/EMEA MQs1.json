@@ -106765,18 +106765,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58799b30-3be9-11f0-9ac8-6eac04d6613b",
                 "name": "BBO Academy",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
                 "name": "Amnesia E-Sport",
-                "seed": 66
+                "seed": 66,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "58799b30-3be9-11f0-9ac8-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "58799b30-3be9-11f0-9ac8-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4e48ded2-3be9-11f0-8fb6-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2002,
@@ -106825,18 +106860,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4dedc6be-3be9-11f0-af9f-6eac04d6613b",
                 "name": "Infinity Poisons",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2144b25c-3f00-11f0-bd89-6eac04d6613b",
                 "name": "LePafDeZenythh",
-                "seed": 1234
+                "seed": 1234,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "4dedc6be-3be9-11f0-af9f-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2144b25c-3f00-11f0-bd89-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4dedc6be-3be9-11f0-af9f-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2144b25c-3f00-11f0-bd89-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2005,
@@ -106845,18 +106915,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
                 "name": "Nokron",
-                "seed": 1031
+                "seed": 1031,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53c717d4-3be9-11f0-81f8-6eac04d6613b",
                 "name": "SHADOW",
-                "seed": 71
+                "seed": 71,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53c717d4-3be9-11f0-81f8-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53c717d4-3be9-11f0-81f8-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2006,
@@ -107060,18 +107165,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
                 "name": "FingerSleeves Gaming",
-                "seed": 102
+                "seed": 102,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5ca963b6-3be9-11f0-bf1f-6eac04d6613b",
                 "name": "BC* Academy",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ca963b6-3be9-11f0-bf1f-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4bd05428-3be9-11f0-a3a2-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ca963b6-3be9-11f0-bf1f-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2015,
@@ -107080,18 +107220,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "eda3ea74-407d-11f0-89bf-6a2ecef9ff2d",
                 "name": "Krono Esports",
-                "seed": 374
+                "seed": 374,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5b9d0e1e-3be9-11f0-b769-6eac04d6613b",
                 "name": "EXMPLE W",
-                "seed": 203
+                "seed": 203,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "eda3ea74-407d-11f0-89bf-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5b9d0e1e-3be9-11f0-b769-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "eda3ea74-407d-11f0-89bf-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5b9d0e1e-3be9-11f0-b769-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2016,
@@ -107100,18 +107275,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5a9c2de2-3be9-11f0-bf76-6eac04d6613b",
                 "name": "ImMoRtAlYy",
-                "seed": 150
+                "seed": 150,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "481424fe-3be9-11f0-8761-6eac04d6613b",
                 "name": "Ananastortilla",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5a9c2de2-3be9-11f0-bf76-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "481424fe-3be9-11f0-8761-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "5a9c2de2-3be9-11f0-bf76-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "481424fe-3be9-11f0-8761-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2017,
@@ -107254,7 +107464,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "58799b30-3be9-11f0-9ac8-6eac04d6613b",
+                "name": "BBO Academy",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -107286,7 +107498,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
+                "name": "Nokron",
+                "seed": 1031
             },
             "opponent2": {
                 "id": null
@@ -107366,10 +107580,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "eda3ea74-407d-11f0-89bf-6a2ecef9ff2d",
+                "name": "Krono Esports",
+                "seed": 374
             },
             "opponent2": {
-                "id": null
+                "id": "481424fe-3be9-11f0-8761-6eac04d6613b",
+                "name": "Ananastortilla",
+                "seed": 43
             },
             "match_games": []
         }
