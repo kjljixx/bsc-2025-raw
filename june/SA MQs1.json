@@ -41217,18 +41217,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "bc636f1a-433f-11f0-8a2e-86efe11c2309",
                 "name": "3DBR",
-                "seed": 572
+                "seed": 572,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a3e53e56-3f51-11f0-83cf-0ab646d3248d",
                 "name": "EncardidosFC",
-                "seed": 156
+                "seed": 156,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "bc636f1a-433f-11f0-8a2e-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3e53e56-3f51-11f0-83cf-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "bc636f1a-433f-11f0-8a2e-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3e53e56-3f51-11f0-83cf-0ab646d3248d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1000,
