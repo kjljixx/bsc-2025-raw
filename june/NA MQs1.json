@@ -23945,18 +23945,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a573b48a-43a9-11f0-82ba-d6bd8b774a58",
                 "name": "Command F/A",
-                "seed": 185
+                "seed": 185,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "daf8f02c-3e43-11f0-8256-6eac04d6613b",
                 "name": "POTATO FC",
-                "seed": 328
+                "seed": 328,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "a573b48a-43a9-11f0-82ba-d6bd8b774a58",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "daf8f02c-3e43-11f0-8256-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a573b48a-43a9-11f0-82ba-d6bd8b774a58",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "daf8f02c-3e43-11f0-8256-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 553,
@@ -27820,18 +27855,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "8c0aa146-3bea-11f0-a95c-6eac04d6613b",
                 "name": "TSS Ninja’s",
-                "seed": 66
+                "seed": 66,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7e18ef9a-3d8c-11f0-a588-6eac04d6613b",
                 "name": "PAPULINES",
-                "seed": 447
+                "seed": 447,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "8c0aa146-3bea-11f0-a95c-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7e18ef9a-3d8c-11f0-a588-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8c0aa146-3bea-11f0-a95c-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7e18ef9a-3d8c-11f0-a588-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 648,
@@ -33640,7 +33710,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8c0aa146-3bea-11f0-a95c-6eac04d6613b",
+                "name": "TSS Ninja’s",
+                "seed": 66
             },
             "opponent2": {
                 "id": null
