@@ -32911,18 +32911,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c910844-3bea-11f0-a438-6eac04d6613b",
                 "name": "Tibet Way",
-                "seed": 70
+                "seed": 70,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e93ce7b6-3d89-11f0-a233-0ab646d3248d",
                 "name": "Seats",
-                "seed": 443
+                "seed": 443,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "8c910844-3bea-11f0-a438-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e93ce7b6-3d89-11f0-a233-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8c910844-3bea-11f0-a438-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e93ce7b6-3d89-11f0-a233-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "8c910844-3bea-11f0-a438-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e93ce7b6-3d89-11f0-a233-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 744,
@@ -36309,10 +36359,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8c910844-3bea-11f0-a438-6eac04d6613b",
+                "name": "Tibet Way",
+                "seed": 70
             },
             "opponent2": {
-                "id": null
+                "id": "b6641332-3e3d-11f0-a546-6eac04d6613b",
+                "name": "LMB Esport",
+                "seed": 326
             },
             "match_games": []
         },
