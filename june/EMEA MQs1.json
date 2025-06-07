@@ -103301,18 +103301,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5ebcebd4-3fcf-11f0-867a-168de864875a",
                 "name": "3 Left",
-                "seed": 1053
+                "seed": 1053,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "19c2412a-3d61-11f0-a081-6eac04d6613b",
                 "name": "Ballers",
-                "seed": 1181
+                "seed": 1181,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "5ebcebd4-3fcf-11f0-867a-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "19c2412a-3d61-11f0-a081-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "5ebcebd4-3fcf-11f0-867a-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "19c2412a-3d61-11f0-a081-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1940,
@@ -103476,18 +103511,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5f3ed804-3da1-11f0-b6cf-0ab646d3248d",
                 "name": "Mazalandia",
-                "seed": 828
+                "seed": 828,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c2e8d4e0-4260-11f0-b311-6a2ecef9ff2d",
                 "name": "vMoove Clown",
-                "seed": 444
+                "seed": 444,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "5f3ed804-3da1-11f0-b6cf-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c2e8d4e0-4260-11f0-b311-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "5f3ed804-3da1-11f0-b6cf-0ab646d3248d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c2e8d4e0-4260-11f0-b311-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1947,
@@ -104616,7 +104686,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5ebcebd4-3fcf-11f0-867a-168de864875a",
+                "name": "3 Left",
+                "seed": 1053
             },
             "opponent2": {
                 "id": null
