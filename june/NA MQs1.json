@@ -30200,18 +30200,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "d1606ef4-3f52-11f0-8941-6eac04d6613b",
                 "name": "UNION",
-                "seed": 139
+                "seed": 139,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "631ebf6c-3e90-11f0-93aa-6eac04d6613b",
                 "name": "SSA Femboy Loverss",
-                "seed": 374
+                "seed": 374,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "d1606ef4-3f52-11f0-8941-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "631ebf6c-3e90-11f0-93aa-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "d1606ef4-3f52-11f0-8941-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "631ebf6c-3e90-11f0-93aa-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 757,
