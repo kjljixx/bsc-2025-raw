@@ -27190,18 +27190,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "67297c3c-4106-11f0-be94-168de864875a",
                 "name": "MOD",
-                "seed": 242
+                "seed": 242,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bf113832-3e5d-11f0-9bca-6eac04d6613b",
                 "name": "MAYA",
-                "seed": 271
+                "seed": 271,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "67297c3c-4106-11f0-be94-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf113832-3e5d-11f0-9bca-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "67297c3c-4106-11f0-be94-168de864875a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf113832-3e5d-11f0-9bca-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 659,
@@ -31870,7 +31905,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "67297c3c-4106-11f0-be94-168de864875a",
+                "name": "MOD",
+                "seed": 242
             },
             "match_games": []
         },
@@ -31922,7 +31959,9 @@
                 "seed": 79
             },
             "opponent2": {
-                "id": null
+                "id": "cc6176d6-3ef9-11f0-97e7-6eac04d6613b",
+                "name": "Radiant Starlight",
+                "seed": 335
             },
             "match_games": []
         },
@@ -32333,7 +32372,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b448422-3bed-11f0-a095-6eac04d6613b",
+                "name": "2025",
+                "seed": 30
             },
             "opponent2": {
                 "id": null

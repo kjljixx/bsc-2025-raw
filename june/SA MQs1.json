@@ -41027,18 +41027,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "044469b0-3d96-11f0-be1c-0ab646d3248d",
                 "name": "Use Code",
-                "seed": 449
+                "seed": 449,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c924f3a8-3dbe-11f0-a5c5-0ab646d3248d",
                 "name": "THBS",
-                "seed": 545
+                "seed": 545,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "044469b0-3d96-11f0-be1c-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c924f3a8-3dbe-11f0-a5c5-0ab646d3248d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "044469b0-3d96-11f0-be1c-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c924f3a8-3dbe-11f0-a5c5-0ab646d3248d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 994,
