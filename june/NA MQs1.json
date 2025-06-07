@@ -17034,18 +17034,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "89b5f450-3d92-11f0-a62e-6eac04d6613b",
                 "name": "IVRA ESPORTS",
-                "seed": 469
+                "seed": 469,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "141063f8-4336-11f0-bdae-122e933edcb2",
                 "name": "Think Ahead",
-                "seed": 556
+                "seed": 556,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "89b5f450-3d92-11f0-a62e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "141063f8-4336-11f0-bdae-122e933edcb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "89b5f450-3d92-11f0-a62e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "141063f8-4336-11f0-bdae-122e933edcb2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 251,
@@ -24312,7 +24347,9 @@
                 "seed": 44
             },
             "opponent2": {
-                "id": null
+                "id": "89b5f450-3d92-11f0-a62e-6eac04d6613b",
+                "name": "IVRA ESPORTS",
+                "seed": 469
             },
             "match_games": []
         },
