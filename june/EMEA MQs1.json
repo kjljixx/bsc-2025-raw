@@ -107010,18 +107010,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "155fdc5c-4219-11f0-a44c-168de864875a",
                 "name": "Horses",
-                "seed": 746
+                "seed": 746,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6af82eb8-3bec-11f0-b317-6eac04d6613b",
                 "name": "DPB|Esport",
-                "seed": 42
+                "seed": 42,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "155fdc5c-4219-11f0-a44c-168de864875a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6af82eb8-3bec-11f0-b317-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "155fdc5c-4219-11f0-a44c-168de864875a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6af82eb8-3bec-11f0-b317-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2009,
@@ -107105,18 +107140,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4cda28da-3be9-11f0-bbea-6eac04d6613b",
                 "name": "Gigampfii",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5c5a8de0-3be9-11f0-885d-6eac04d6613b",
                 "name": "𝚂𝚊𝚖𝚋𝚊 𝚃𝚎𝚊𝚖",
-                "seed": 206
+                "seed": 206,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "4cda28da-3be9-11f0-bbea-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5c5a8de0-3be9-11f0-885d-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4cda28da-3be9-11f0-bbea-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5c5a8de0-3be9-11f0-885d-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2012,
@@ -107125,7 +107195,7 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
                 "name": "chippy chips",
@@ -107548,7 +107618,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4cda28da-3be9-11f0-bbea-6eac04d6613b",
+                "name": "Gigampfii",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
