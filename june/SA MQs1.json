@@ -37055,18 +37055,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9fb2396-3bec-11f0-9025-6eac04d6613b",
                 "name": "FLUXO 👻",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "25cfadb8-3bea-11f0-bc44-6eac04d6613b",
                 "name": "OVO DE PATO",
-                "seed": 124
+                "seed": 124,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e9fb2396-3bec-11f0-9025-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "25cfadb8-3bea-11f0-bc44-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e9fb2396-3bec-11f0-9025-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "25cfadb8-3bea-11f0-bc44-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "e9fb2396-3bec-11f0-9025-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "25cfadb8-3bea-11f0-bc44-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 922,
@@ -38815,18 +38865,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
                 "name": "SPORT CANINOS",
-                "seed": 38
+                "seed": 38,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "28fb74ea-3bea-11f0-ad49-6eac04d6613b",
                 "name": "Ronsoco",
-                "seed": 347
+                "seed": 347,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28fb74ea-3bea-11f0-ad49-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "28fb74ea-3bea-11f0-ad49-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28fb74ea-3bea-11f0-ad49-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 957,
@@ -39321,10 +39421,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e9fb2396-3bec-11f0-9025-6eac04d6613b",
+                "name": "FLUXO 👻",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "bc636f1a-433f-11f0-8a2e-86efe11c2309",
+                "name": "3DBR",
+                "seed": 572
             },
             "match_games": []
         },
@@ -39660,7 +39764,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "2ba748b8-3bea-11f0-8296-6eac04d6613b",
+                "name": "SPORT CANINOS",
+                "seed": 38
             },
             "match_games": []
         },
