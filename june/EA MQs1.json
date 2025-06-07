@@ -12693,18 +12693,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "43faa64e-3ee2-11f0-849c-6eac04d6613b",
                 "name": "YANG",
-                "seed": 141
+                "seed": 141,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "16cdf280-3e28-11f0-a629-0ab646d3248d",
                 "name": "KMZ",
-                "seed": 77
+                "seed": 77,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "43faa64e-3ee2-11f0-849c-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "16cdf280-3e28-11f0-a629-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "43faa64e-3ee2-11f0-849c-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "16cdf280-3e28-11f0-a629-0ab646d3248d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 204,
@@ -13680,10 +13715,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "16cdf280-3e28-11f0-a629-0ab646d3248d",
+                "name": "KMZ",
+                "seed": 77
             },
             "opponent2": {
-                "id": null
+                "id": "e7c4227a-3be8-11f0-8772-6eac04d6613b",
+                "name": "Riberte",
+                "seed": 20
             },
             "match_games": []
         },
