@@ -39835,18 +39835,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9fb2396-3bec-11f0-9025-6eac04d6613b",
                 "name": "FLUXO 👻",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bc636f1a-433f-11f0-8a2e-86efe11c2309",
                 "name": "3DBR",
-                "seed": 572
+                "seed": 572,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e9fb2396-3bec-11f0-9025-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bc636f1a-433f-11f0-8a2e-86efe11c2309",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "e9fb2396-3bec-11f0-9025-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bc636f1a-433f-11f0-8a2e-86efe11c2309",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 974,
@@ -40689,7 +40724,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bc636f1a-433f-11f0-8a2e-86efe11c2309",
+                "name": "3DBR",
+                "seed": 572
             },
             "opponent2": {
                 "id": null
