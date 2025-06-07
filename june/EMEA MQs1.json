@@ -45266,18 +45266,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6dc9cae8-3da9-11f0-a24c-0ab646d3248d",
                 "name": "IV",
-                "seed": 844
+                "seed": 844,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fa033310-3d62-11f0-bc5e-6eac04d6613b",
                 "name": "On Fire Esports",
-                "seed": 1205
+                "seed": 1205,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6dc9cae8-3da9-11f0-a24c-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fa033310-3d62-11f0-bc5e-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6dc9cae8-3da9-11f0-a24c-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa033310-3d62-11f0-bc5e-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6dc9cae8-3da9-11f0-a24c-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa033310-3d62-11f0-bc5e-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 479,
@@ -50019,7 +50069,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5d9c7c18-3be9-11f0-b877-6eac04d6613b",
                 "name": "SG",
@@ -50028,7 +50078,8 @@
             "opponent2": {
                 "id": "c16fa05a-429a-11f0-8841-6a2ecef9ff2d",
                 "name": "CB12",
-                "seed": 1530
+                "seed": 1530,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -65392,7 +65443,9 @@
                 "seed": 181
             },
             "opponent2": {
-                "id": null
+                "id": "6dc9cae8-3da9-11f0-a24c-0ab646d3248d",
+                "name": "IV",
+                "seed": 844
             },
             "match_games": []
         },
@@ -67042,7 +67095,9 @@
                 "seed": 506
             },
             "opponent2": {
-                "id": null
+                "id": "5d9c7c18-3be9-11f0-b877-6eac04d6613b",
+                "name": "SG",
+                "seed": 519
             },
             "match_games": []
         },
