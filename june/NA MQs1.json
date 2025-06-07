@@ -41118,18 +41118,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "18a119e8-435f-11f0-a54c-aa741b89633f",
                 "name": "The Jits",
-                "seed": 568
+                "seed": 568,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8d06969a-3bea-11f0-9a1e-6eac04d6613b",
                 "name": "Oxsis",
-                "seed": 73
+                "seed": 73,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "18a119e8-435f-11f0-a54c-aa741b89633f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d06969a-3bea-11f0-9a1e-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "18a119e8-435f-11f0-a54c-aa741b89633f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8d06969a-3bea-11f0-9a1e-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "18a119e8-435f-11f0-a54c-aa741b89633f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8d06969a-3bea-11f0-9a1e-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 911,
@@ -43580,7 +43630,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "8d06969a-3bea-11f0-9a1e-6eac04d6613b",
+                "name": "Oxsis",
+                "seed": 73
             },
             "match_games": []
         },
