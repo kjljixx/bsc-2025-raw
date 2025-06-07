@@ -96017,18 +96017,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b48c5996-3d9a-11f0-ac42-6eac04d6613b",
                 "name": "ELITE SKILL",
-                "seed": 560
+                "seed": 560,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d02bd882-3f72-11f0-bc90-6eac04d6613b",
                 "name": "Silent Storm",
-                "seed": 1328
+                "seed": 1328,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b48c5996-3d9a-11f0-ac42-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d02bd882-3f72-11f0-bc90-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b48c5996-3d9a-11f0-ac42-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d02bd882-3f72-11f0-bc90-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1808,
@@ -96978,18 +97013,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
                 "name": "LEW’S",
-                "seed": 909
+                "seed": 909,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "498f0bfa-3fe5-11f0-83ed-168de864875a",
                 "name": "Silent Angels",
-                "seed": 1396
+                "seed": 1396,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "498f0bfa-3fe5-11f0-83ed-168de864875a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "498f0bfa-3fe5-11f0-83ed-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "67c30320-3f03-11f0-9647-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "498f0bfa-3fe5-11f0-83ed-168de864875a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1835,
@@ -98174,18 +98259,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "129c0880-3d5d-11f0-9d06-0ab646d3248d",
                 "name": "PSS",
-                "seed": 1119
+                "seed": 1119,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5c3bdf8a-3be9-11f0-a530-6eac04d6613b",
                 "name": "Dragons Blood",
-                "seed": 351
+                "seed": 351,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "129c0880-3d5d-11f0-9d06-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5c3bdf8a-3be9-11f0-a530-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "129c0880-3d5d-11f0-9d06-0ab646d3248d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5c3bdf8a-3be9-11f0-a530-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1865,
@@ -98994,18 +99114,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5cae5524-3be9-11f0-bb2e-6eac04d6613b",
                 "name": "LUX BAGUETTES",
-                "seed": 74
+                "seed": 74,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "00a583ba-3fa4-11f0-95be-6a2ecef9ff2d",
                 "name": "Goon2Win",
-                "seed": 1354
+                "seed": 1354,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5cae5524-3be9-11f0-bb2e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00a583ba-3fa4-11f0-95be-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5cae5524-3be9-11f0-bb2e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00a583ba-3fa4-11f0-95be-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1885,
@@ -100566,7 +100721,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d02bd882-3f72-11f0-bc90-6eac04d6613b",
+                "name": "Silent Storm",
+                "seed": 1328
             },
             "opponent2": {
                 "id": null
@@ -101069,7 +101226,9 @@
                 "seed": 34
             },
             "opponent2": {
-                "id": null
+                "id": "129c0880-3d5d-11f0-9d06-0ab646d3248d",
+                "name": "PSS",
+                "seed": 1119
             },
             "match_games": []
         },
@@ -101249,7 +101408,9 @@
                 "seed": 1482
             },
             "opponent2": {
-                "id": null
+                "id": "5cae5524-3be9-11f0-bb2e-6eac04d6613b",
+                "name": "LUX BAGUETTES",
+                "seed": 74
             },
             "match_games": []
         },
