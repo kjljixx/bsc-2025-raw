@@ -23266,18 +23266,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c186b3c-3bea-11f0-9e4d-6eac04d6613b",
                 "name": "QT’S",
-                "seed": 113
+                "seed": 113,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c743af40-3f01-11f0-a4fb-6eac04d6613b",
                 "name": "Instinct Killers",
-                "seed": 400
+                "seed": 400,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "8c186b3c-3bea-11f0-9e4d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c743af40-3f01-11f0-a4fb-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8c186b3c-3bea-11f0-9e4d-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c743af40-3f01-11f0-a4fb-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "8c186b3c-3bea-11f0-9e4d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c743af40-3f01-11f0-a4fb-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 532,
@@ -33855,10 +33905,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8c186b3c-3bea-11f0-9e4d-6eac04d6613b",
+                "name": "QT’S",
+                "seed": 113
             },
             "opponent2": {
-                "id": null
+                "id": "900be674-3bea-11f0-8437-6eac04d6613b",
+                "name": "Pretty Girls",
+                "seed": 144
             },
             "match_games": []
         },
