@@ -42137,18 +42137,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd7933ee-436f-11f0-a75c-ea665beda487",
                 "name": "AS|Esports",
-                "seed": 788
+                "seed": 788,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "806d9ad6-3f10-11f0-8a50-0ab646d3248d",
                 "name": "Mavs77",
-                "seed": 1261
+                "seed": 1261,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dd7933ee-436f-11f0-a75c-ea665beda487",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "806d9ad6-3f10-11f0-8a50-0ab646d3248d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "dd7933ee-436f-11f0-a75c-ea665beda487",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "806d9ad6-3f10-11f0-8a50-0ab646d3248d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dd7933ee-436f-11f0-a75c-ea665beda487",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "806d9ad6-3f10-11f0-8a50-0ab646d3248d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 359,
@@ -62522,9 +62572,7 @@
                 "name": "Zennox Gaming",
                 "seed": 17
             },
-            "opponent2": {
-                "id": null
-            },
+            "opponent2": null,
             "match_games": []
         },
         {
@@ -63000,9 +63048,7 @@
                 "name": "UNV Academy",
                 "seed": 57
             },
-            "opponent2": {
-                "id": null
-            },
+            "opponent2": null,
             "match_games": []
         },
         {
@@ -65119,7 +65165,9 @@
                 "seed": 237
             },
             "opponent2": {
-                "id": null
+                "id": "dd7933ee-436f-11f0-a75c-ea665beda487",
+                "name": "AS|Esports",
+                "seed": 788
             },
             "match_games": []
         },
