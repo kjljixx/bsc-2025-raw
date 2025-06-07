@@ -12338,18 +12338,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8c04352-3be8-11f0-9602-6eac04d6613b",
                 "name": "いーはんてい",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e905f3a2-3be8-11f0-b2db-6eac04d6613b",
                 "name": "Ace King",
-                "seed": 33
+                "seed": 33,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "e8c04352-3be8-11f0-9602-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e905f3a2-3be8-11f0-b2db-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "e8c04352-3be8-11f0-9602-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e905f3a2-3be8-11f0-b2db-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 195,
@@ -13353,7 +13388,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c435fae-3bec-11f0-a837-6eac04d6613b",
                 "name": "Glitch",
@@ -13362,7 +13397,8 @@
             "opponent2": {
                 "id": "a9890138-3f99-11f0-b03a-168de864875a",
                 "name": "隨便玩玩",
-                "seed": 202
+                "seed": 202,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -14043,10 +14079,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1c435fae-3bec-11f0-a837-6eac04d6613b",
+                "name": "Glitch",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "f0ed0e9e-3dc2-11f0-9e3e-6eac04d6613b",
+                "name": "TGK",
+                "seed": 215
             },
             "match_games": []
         },
