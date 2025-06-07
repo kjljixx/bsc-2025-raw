@@ -108426,18 +108426,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6af62e38-3bec-11f0-8055-6eac04d6613b",
                 "name": "FUT Academy",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2144b25c-3f00-11f0-bd89-6eac04d6613b",
                 "name": "LePafDeZenythh",
-                "seed": 1234
+                "seed": 1234,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "6af62e38-3bec-11f0-8055-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2144b25c-3f00-11f0-bd89-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "6af62e38-3bec-11f0-8055-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2144b25c-3f00-11f0-bd89-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2027,
@@ -108446,18 +108481,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
                 "name": "Nokron",
-                "seed": 1031
+                "seed": 1031,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
                 "name": "CDA Esports",
-                "seed": 90
+                "seed": 90,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "611d09b2-3fad-11f0-9021-6a2ecef9ff2d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5c5ba3e2-3be9-11f0-93a0-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2028,
@@ -108521,18 +108591,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6af6985a-3bec-11f0-885b-6eac04d6613b",
                 "name": "MBT Summit",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4851a162-3be9-11f0-bb15-6eac04d6613b",
                 "name": "ASMBL",
-                "seed": 94
+                "seed": 94,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "6af6985a-3bec-11f0-885b-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4851a162-3be9-11f0-bb15-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "6af6985a-3bec-11f0-885b-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4851a162-3be9-11f0-bb15-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2030,
@@ -108541,18 +108646,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4cda28da-3be9-11f0-bbea-6eac04d6613b",
                 "name": "Gigampfii",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
                 "name": "chippy chips",
-                "seed": 750
+                "seed": 750,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4cda28da-3be9-11f0-bbea-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "4cda28da-3be9-11f0-bbea-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5f60b208-423d-11f0-8b0b-6a2ecef9ff2d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2031,

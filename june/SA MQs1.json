@@ -12083,18 +12083,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f077d854-3da9-11f0-a0a4-0ab646d3248d",
                 "name": "Nucke",
-                "seed": 481
+                "seed": 481,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "851ceb50-427f-11f0-bbfd-168de864875a",
                 "name": "MOONLIGHT",
-                "seed": 544
+                "seed": 544,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "f077d854-3da9-11f0-a0a4-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "851ceb50-427f-11f0-bbfd-168de864875a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "f077d854-3da9-11f0-a0a4-0ab646d3248d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "851ceb50-427f-11f0-bbfd-168de864875a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 19,
@@ -16319,18 +16354,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7486c034-3db3-11f0-b1d3-6eac04d6613b",
                 "name": "Fw| Fantasy World",
-                "seed": 511
+                "seed": 511,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b72a1cb8-40d5-11f0-8f2b-6a2ecef9ff2d",
                 "name": "COLETES DANDO GRAU",
-                "seed": 514
+                "seed": 514,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7486c034-3db3-11f0-b1d3-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b72a1cb8-40d5-11f0-8f2b-6a2ecef9ff2d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7486c034-3db3-11f0-b1d3-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b72a1cb8-40d5-11f0-8f2b-6a2ecef9ff2d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 259,
@@ -21149,7 +21219,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "851ceb50-427f-11f0-bbfd-168de864875a",
+                "name": "MOONLIGHT",
+                "seed": 544
             },
             "match_games": []
         },
@@ -23545,7 +23617,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "7486c034-3db3-11f0-b1d3-6eac04d6613b",
+                "name": "Fw| Fantasy World",
+                "seed": 511
             },
             "match_games": []
         },
