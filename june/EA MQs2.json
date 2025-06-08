@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
+            "tournament_id": 0,
+            "name": "BO",
+            "players": [
+                {
+                    "name": "BO | BONOX2",
+                    "gamerTag": "#8GQC8QVRQ"
+                },
+                {
+                    "name": "BO|BBangE",
+                    "gamerTag": "#Y0PQYLQ9"
+                },
+                {
+                    "name": "BO | NenNe",
+                    "gamerTag": "#2Y0C9RLGUY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "65cb8446-436a-11f0-b976-629fe8985574",
             "tournament_id": 0,
             "name": "Riberte",
@@ -696,6 +716,26 @@
                 {
                     "name": "CS|Ghostyu👻",
                     "gamerTag": "#P8V28CJ9L"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "1c3ed682-3bec-11f0-9dd0-6eac04d6613b",
+            "tournament_id": 0,
+            "name": "Worst Generation",
+            "players": [
+                {
+                    "name": "Central Cee",
+                    "gamerTag": "#2L88GR8Y2"
+                },
+                {
+                    "name": "GANBAREACEKUN",
+                    "gamerTag": "#VRUL8V0P"
+                },
+                {
+                    "name": "Kabubun",
+                    "gamerTag": "#2VU9JLQU2"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -881,18 +921,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a799739c-3bef-11f0-9415-6eac04d6613b",
                 "name": "ZETA DIVISION",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
                 "name": "BO",
-                "seed": 32
+                "seed": 32,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a799739c-3bef-11f0-9415-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a799739c-3bef-11f0-9415-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a799739c-3bef-11f0-9415-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "a799739c-3bef-11f0-9415-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -1131,18 +1236,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c3ed682-3bec-11f0-9dd0-6eac04d6613b",
                 "name": "Worst Generation",
-                "seed": 13
+                "seed": 13,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
                 "name": "マンケルビーム",
-                "seed": 20
+                "seed": 20,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "1c3ed682-3bec-11f0-9dd0-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "1c3ed682-3bec-11f0-9dd0-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1c3ed682-3bec-11f0-9dd0-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -1456,7 +1611,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a799739c-3bef-11f0-9415-6eac04d6613b",
+                "name": "ZETA DIVISION",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -1497,7 +1654,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                "name": "マンケルビーム",
+                "seed": 20
             },
             "match_games": []
         },
@@ -1662,7 +1821,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
+                "name": "BO",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
@@ -1703,7 +1864,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "1c3ed682-3bec-11f0-9dd0-6eac04d6613b",
+                "name": "Worst Generation",
+                "seed": 13
             },
             "match_games": []
         },
