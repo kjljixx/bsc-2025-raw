@@ -3049,11 +3049,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65d69b4c-436a-11f0-870f-629fe8985574",
                 "name": "ヤギックス",
-                "seed": 31
+                "seed": 31,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "1c3c9520-3bec-11f0-b4ba-6eac04d6613b",
@@ -3069,7 +3070,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a798ddf6-3bef-11f0-8493-6eac04d6613b",
                 "name": "NIWA",
@@ -3078,7 +3079,8 @@
             "opponent2": {
                 "id": "1c3f812c-3bec-11f0-a7e2-6eac04d6613b",
                 "name": "Feasible Gaming Zero",
-                "seed": 10
+                "seed": 10,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -3089,11 +3091,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65ce9f78-436a-11f0-9400-629fe8985574",
                 "name": "維維我偶像",
-                "seed": 30
+                "seed": 30,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "65d132d8-436a-11f0-bc5e-629fe8985574",
@@ -3264,7 +3267,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "1c3c9520-3bec-11f0-b4ba-6eac04d6613b",
+                "name": "Team echo",
+                "seed": 15
             },
             "match_games": []
         },
@@ -3282,7 +3287,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "a798ddf6-3bef-11f0-8493-6eac04d6613b",
+                "name": "NIWA",
+                "seed": 7
             },
             "match_games": []
         },
@@ -3300,7 +3307,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "65d132d8-436a-11f0-bc5e-629fe8985574",
+                "name": "”‬FCサジアキ‪”",
+                "seed": 19
             },
             "match_games": []
         },
