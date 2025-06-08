@@ -3302,18 +3302,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
                 "name": "Dear My Friends",
-                "seed": 23
+                "seed": 23,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "65c7f420-436a-11f0-a023-629fe8985574",
                 "name": "Opkids",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65c7f420-436a-11f0-a023-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65c7f420-436a-11f0-a023-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65c7f420-436a-11f0-a023-629fe8985574",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -3490,7 +3540,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                "name": "Dear My Friends",
+                "seed": 23
             },
             "opponent2": {
                 "id": null
