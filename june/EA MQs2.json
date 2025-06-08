@@ -2299,18 +2299,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65cc79d2-436a-11f0-a145-629fe8985574",
                 "name": "迷子のろいろい",
-                "seed": 26
+                "seed": 26,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
                 "name": "Dear My Friends",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "65cc79d2-436a-11f0-a145-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "65cc79d2-436a-11f0-a145-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "65cc79d2-436a-11f0-a145-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 31,
@@ -2398,7 +2448,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "65cc79d2-436a-11f0-a145-629fe8985574",
+                "name": "迷子のろいろい",
+                "seed": 26
             },
             "match_games": []
         },
@@ -2425,18 +2477,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
                 "name": "BO",
-                "seed": 32
+                "seed": 32,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "65cd998e-436a-11f0-9336-629fe8985574",
                 "name": "Sesu",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65cd998e-436a-11f0-9336-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65cd998e-436a-11f0-9336-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "65d73f5c-436a-11f0-b8ae-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65cd998e-436a-11f0-9336-629fe8985574",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 18,
@@ -2669,7 +2771,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                "name": "Dear My Friends",
+                "seed": 23
             },
             "opponent2": {
                 "id": null
