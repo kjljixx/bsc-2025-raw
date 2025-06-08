@@ -2229,18 +2229,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a7988e00-3bef-11f0-83df-6eac04d6613b",
                 "name": "REJECT",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "65ca5b3e-436a-11f0-a021-629fe8985574",
                 "name": "We Need Money",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "a7988e00-3bef-11f0-83df-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65ca5b3e-436a-11f0-a021-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a7988e00-3bef-11f0-83df-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65ca5b3e-436a-11f0-a021-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a7988e00-3bef-11f0-83df-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65ca5b3e-436a-11f0-a021-629fe8985574",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 30,
@@ -2343,7 +2393,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a7988e00-3bef-11f0-83df-6eac04d6613b",
+                "name": "REJECT",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -2513,18 +2565,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65cf3a78-436a-11f0-ae29-629fe8985574",
                 "name": "Ace King",
-                "seed": 27
+                "seed": 27,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "65d50f0c-436a-11f0-8e5d-629fe8985574",
                 "name": "RedBull",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "65cf3a78-436a-11f0-ae29-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d50f0c-436a-11f0-8e5d-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "65cf3a78-436a-11f0-ae29-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d50f0c-436a-11f0-8e5d-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "65cf3a78-436a-11f0-ae29-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d50f0c-436a-11f0-8e5d-629fe8985574",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 33,
@@ -2583,7 +2685,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "65ca5b3e-436a-11f0-a021-629fe8985574",
+                "name": "We Need Money",
+                "seed": 18
             },
             "opponent2": {
                 "id": null
