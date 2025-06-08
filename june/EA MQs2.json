@@ -4103,18 +4103,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
                 "name": "Dear My Friends",
-                "seed": 23
+                "seed": 23,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "65cfe1f8-436a-11f0-a033-629fe8985574",
                 "name": "Feasible Gaming",
-                "seed": 28
+                "seed": 28,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "65cfe1f8-436a-11f0-a033-629fe8985574",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "65cfe1f8-436a-11f0-a033-629fe8985574",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65cfe1f8-436a-11f0-a033-629fe8985574",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "65cfe1f8-436a-11f0-a033-629fe8985574",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -4305,7 +4370,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "65cfe1f8-436a-11f0-a033-629fe8985574",
+                "name": "Feasible Gaming",
+                "seed": 28
             },
             "match_games": []
         },
