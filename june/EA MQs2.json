@@ -2849,18 +2849,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a79928ba-3bef-11f0-9075-6eac04d6613b",
                 "name": "Crazy Raccoon",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a79b57e8-3bef-11f0-a869-6eac04d6613b",
                 "name": "Frenzy Gaming",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a79928ba-3bef-11f0-9075-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a79b57e8-3bef-11f0-a869-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "a79928ba-3bef-11f0-9075-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a79b57e8-3bef-11f0-a869-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a79928ba-3bef-11f0-9075-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a79b57e8-3bef-11f0-a869-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 17,
@@ -3562,18 +3612,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
                 "name": "マンケルビーム",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a798ddf6-3bef-11f0-8493-6eac04d6613b",
                 "name": "NIWA",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a798ddf6-3bef-11f0-8493-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a798ddf6-3bef-11f0-8493-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a798ddf6-3bef-11f0-8493-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 39,
@@ -3663,7 +3763,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "a798ddf6-3bef-11f0-8493-6eac04d6613b",
+                "name": "NIWA",
+                "seed": 7
             },
             "match_games": []
         },
@@ -3726,7 +3828,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a79b57e8-3bef-11f0-a869-6eac04d6613b",
+                "name": "Frenzy Gaming",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
