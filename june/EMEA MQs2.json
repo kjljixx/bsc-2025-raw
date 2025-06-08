@@ -4413,18 +4413,98 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
                 "name": "Reverso Gaming",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
                 "name": "DPB|Esport",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -4695,7 +4775,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
+                "name": "Reverso Gaming",
+                "seed": 11
             },
             "match_games": []
         },
