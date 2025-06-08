@@ -2232,18 +2232,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bc488080-3bef-11f0-a7ac-6eac04d6613b",
                 "name": "SK Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6af3bfc2-3bec-11f0-95e6-6eac04d6613b",
                 "name": "Crows Nest Esports",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "bc488080-3bef-11f0-a7ac-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6af3bfc2-3bec-11f0-95e6-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "bc488080-3bef-11f0-a7ac-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6af3bfc2-3bec-11f0-95e6-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bc488080-3bef-11f0-a7ac-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6af3bfc2-3bec-11f0-95e6-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 26,
@@ -2394,7 +2444,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bc488080-3bef-11f0-a7ac-6eac04d6613b",
+                "name": "SK Gaming",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -2730,7 +2782,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6af3bfc2-3bec-11f0-95e6-6eac04d6613b",
+                "name": "Crows Nest Esports",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
