@@ -639,6 +639,66 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "65d69b4c-436a-11f0-870f-629fe8985574",
+            "tournament_id": 0,
+            "name": "ヤギックス",
+            "players": [
+                {
+                    "name": "Leo레오🐈‍⬛",
+                    "gamerTag": "#2JLUR98VV"
+                },
+                {
+                    "name": "❦Drake❦🦋",
+                    "gamerTag": "#8LJJ0890C"
+                },
+                {
+                    "name": "koga",
+                    "gamerTag": "#28VP0G808"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "1c3f812c-3bec-11f0-a7e2-6eac04d6613b",
+            "tournament_id": 0,
+            "name": "Feasible Gaming Zero",
+            "players": [
+                {
+                    "name": "FG|Nem🌙·̩͙⋆͛",
+                    "gamerTag": "#92CU2LLY9"
+                },
+                {
+                    "name": "FG|Sun#25",
+                    "gamerTag": "#9YV2JY2QU"
+                },
+                {
+                    "name": "FG|Rujao",
+                    "gamerTag": "#8J29RU8G2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "65d50f0c-436a-11f0-8e5d-629fe8985574",
+            "tournament_id": 0,
+            "name": "RedBull",
+            "players": [
+                {
+                    "name": "RB|Phantom",
+                    "gamerTag": "#P8J0VVRP"
+                },
+                {
+                    "name": "Mohezi⚡️",
+                    "gamerTag": "#QJGJJL0L8"
+                },
+                {
+                    "name": "リョキ100パー",
+                    "gamerTag": "#8UCGYJJ8U"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -881,7 +941,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a7988e00-3bef-11f0-83df-6eac04d6613b",
                 "name": "REJECT",
@@ -890,7 +950,8 @@
             "opponent2": {
                 "id": "65d69b4c-436a-11f0-870f-629fe8985574",
                 "name": "ヤギックス",
-                "seed": 31
+                "seed": 31,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -941,11 +1002,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c3f812c-3bec-11f0-a7e2-6eac04d6613b",
                 "name": "Feasible Gaming Zero",
-                "seed": 10
+                "seed": 10,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "65d3a8c4-436a-11f0-8d88-629fe8985574",
@@ -1021,7 +1083,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c3f2e20-3bec-11f0-a5f0-6eac04d6613b",
                 "name": "No Organization Team",
@@ -1030,7 +1092,8 @@
             "opponent2": {
                 "id": "65d50f0c-436a-11f0-8e5d-629fe8985574",
                 "name": "RedBull",
-                "seed": 22
+                "seed": 22,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1107,7 +1170,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a7988e00-3bef-11f0-83df-6eac04d6613b",
+                "name": "REJECT",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -1299,7 +1364,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "65d69b4c-436a-11f0-870f-629fe8985574",
+                "name": "ヤギックス",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
