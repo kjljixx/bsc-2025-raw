@@ -2739,18 +2739,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a799739c-3bef-11f0-9415-6eac04d6613b",
                 "name": "ZETA DIVISION",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1c3ff0c6-3bec-11f0-8073-6eac04d6613b",
                 "name": "Gen.G Esports",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a799739c-3bef-11f0-9415-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1c3ff0c6-3bec-11f0-8073-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "a799739c-3bef-11f0-9415-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1c3ff0c6-3bec-11f0-8073-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a799739c-3bef-11f0-9415-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1c3ff0c6-3bec-11f0-8073-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 42,
@@ -3658,7 +3708,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1c3ff0c6-3bec-11f0-8073-6eac04d6613b",
+                "name": "Gen.G Esports",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
