@@ -2664,11 +2664,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "23c94b02-43f4-11f0-870a-86efe11c2309",
                 "name": "Radiant Starlight",
-                "seed": 32
+                "seed": 32,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
@@ -2684,7 +2685,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "23c6a082-43f4-11f0-b960-86efe11c2309",
                 "name": "TB GAMING",
@@ -2693,7 +2694,8 @@
             "opponent2": {
                 "id": "23c7e41a-43f4-11f0-8c58-86efe11c2309",
                 "name": "GG",
-                "seed": 24
+                "seed": 24,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2947,7 +2949,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "23c6a082-43f4-11f0-b960-86efe11c2309",
+                "name": "TB GAMING",
+                "seed": 25
             },
             "match_games": []
         },
