@@ -2452,18 +2452,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
                 "name": "Krono Esports",
-                "seed": 30
+                "seed": 30,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
                 "name": "Schnitzel",
-                "seed": 19
+                "seed": 19,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -2544,7 +2609,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
+                "name": "Schnitzel",
+                "seed": 19
             },
             "opponent2": {
                 "id": null
@@ -2558,18 +2625,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "61d9cdb6-43bf-11f0-84fe-e6756ed475df",
                 "name": "Thx free elo",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "61d025ea-43bf-11f0-b8fe-e6756ed475df",
                 "name": "BBO Academy",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "61d9cdb6-43bf-11f0-84fe-e6756ed475df",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61d025ea-43bf-11f0-b8fe-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "61d9cdb6-43bf-11f0-84fe-e6756ed475df",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61d025ea-43bf-11f0-b8fe-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "61d9cdb6-43bf-11f0-84fe-e6756ed475df",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61d025ea-43bf-11f0-b8fe-e6756ed475df",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 18,
@@ -3037,10 +3154,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
+                "name": "Krono Esports",
+                "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                "name": "DPB|Esport",
+                "seed": 24
             },
             "match_games": []
         },
