@@ -3523,18 +3523,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
                 "name": "Reverso Gaming",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "61d025ea-43bf-11f0-b8fe-e6756ed475df",
                 "name": "BBO Academy",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d025ea-43bf-11f0-b8fe-e6756ed475df",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d025ea-43bf-11f0-b8fe-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d025ea-43bf-11f0-b8fe-e6756ed475df",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 34,
@@ -3735,7 +3785,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6af53ed8-3bec-11f0-86fe-6eac04d6613b",
+                "name": "Reverso Gaming",
+                "seed": 11
             },
             "opponent2": {
                 "id": null
