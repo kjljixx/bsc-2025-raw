@@ -3598,18 +3598,98 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b3f7568-3bed-11f0-b594-6eac04d6613b",
                 "name": "Only Guarras",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
                 "name": "ragebait",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3b3f7568-3bed-11f0-b594-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "3b3f7568-3bed-11f0-b594-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3b3f7568-3bed-11f0-b594-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3b3f7568-3bed-11f0-b594-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3b3f7568-3bed-11f0-b594-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 34,
@@ -4135,10 +4215,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
+                "name": "ragebait",
+                "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "23c62daa-43f4-11f0-94df-86efe11c2309",
+                "name": "Los prietos 🐐",
+                "seed": 19
             },
             "match_games": []
         },
