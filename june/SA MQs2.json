@@ -639,6 +639,46 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "e9f80b20-3bec-11f0-8c5a-6eac04d6613b",
+            "tournament_id": 0,
+            "name": "La Fúria",
+            "players": [
+                {
+                    "name": "愛Nanadayme🍥",
+                    "gamerTag": "#99V82G0UV"
+                },
+                {
+                    "name": "~Satoru🗽",
+                    "gamerTag": "#GR2L8YPY"
+                },
+                {
+                    "name": "TikTok Maine",
+                    "gamerTag": "#2Y2YPC8PV"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "7c5d1494-43de-11f0-8ace-827ca9af2553",
+            "tournament_id": 0,
+            "name": "Ice Shot",
+            "players": [
+                {
+                    "name": "Zetsu",
+                    "gamerTag": "#2R28QR0UP"
+                },
+                {
+                    "name": "irllywntthis ˶",
+                    "gamerTag": "#YCYCL02JR"
+                },
+                {
+                    "name": "Ily",
+                    "gamerTag": "#2YC9RPCLJ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -821,11 +861,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9f80b20-3bec-11f0-8c5a-6eac04d6613b",
                 "name": "La Fúria",
-                "seed": 13
+                "seed": 13,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "7c57e62c-43de-11f0-a0bf-827ca9af2553",
@@ -961,7 +1002,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1ba12c6-3bef-11f0-b91b-6eac04d6613b",
                 "name": "BC* Gaming SA",
@@ -970,7 +1011,8 @@
             "opponent2": {
                 "id": "7c5d1494-43de-11f0-8ace-827ca9af2553",
                 "name": "Ice Shot",
-                "seed": 30
+                "seed": 30,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1139,7 +1181,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1ba12c6-3bef-11f0-b91b-6eac04d6613b",
+                "name": "BC* Gaming SA",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -1331,7 +1375,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7c5d1494-43de-11f0-8ace-827ca9af2553",
+                "name": "Ice Shot",
+                "seed": 30
             },
             "opponent2": {
                 "id": null
