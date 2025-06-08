@@ -2746,18 +2746,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "23cfc824-43f4-11f0-bbeb-86efe11c2309",
                 "name": "Dookie Butt",
-                "seed": 31
+                "seed": 31,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "23c547a0-43f4-11f0-92fa-86efe11c2309",
                 "name": "Stanley Steemers",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "23cfc824-43f4-11f0-bbeb-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c547a0-43f4-11f0-92fa-86efe11c2309",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "23cfc824-43f4-11f0-bbeb-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c547a0-43f4-11f0-92fa-86efe11c2309",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "23cfc824-43f4-11f0-bbeb-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c547a0-43f4-11f0-92fa-86efe11c2309",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 22,
@@ -3003,7 +3053,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "23cfc824-43f4-11f0-bbeb-86efe11c2309",
+                "name": "Dookie Butt",
+                "seed": 31
             },
             "match_games": []
         },
