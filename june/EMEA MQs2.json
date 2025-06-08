@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "61cef0ee-43bf-11f0-92ff-e6756ed475df",
+            "tournament_id": 0,
+            "name": "UNV Academy",
+            "players": [
+                {
+                    "name": "UNV|Habibi",
+                    "gamerTag": "#9Y80RVRPY"
+                },
+                {
+                    "name": "UNV|Adriuber",
+                    "gamerTag": "#PRYVPURJ"
+                },
+                {
+                    "name": "UNV|Fanta",
+                    "gamerTag": "#8JCQ0VR0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/UNV Academy.png"
+        },
+        {
             "id": "6af21672-3bec-11f0-8da1-6eac04d6613b",
             "tournament_id": 0,
             "name": "F/A Poland",
@@ -801,18 +821,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "bc469b3a-3bef-11f0-b9ee-6eac04d6613b",
                 "name": "Reply Totem",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "61cef0ee-43bf-11f0-92ff-e6756ed475df",
                 "name": "UNV Academy",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "bc469b3a-3bef-11f0-b9ee-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61cef0ee-43bf-11f0-92ff-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "bc469b3a-3bef-11f0-b9ee-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61cef0ee-43bf-11f0-92ff-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bc469b3a-3bef-11f0-b9ee-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61cef0ee-43bf-11f0-92ff-e6756ed475df",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -1150,7 +1220,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bc469b3a-3bef-11f0-b9ee-6eac04d6613b",
+                "name": "Reply Totem",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -1342,7 +1414,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "61cef0ee-43bf-11f0-92ff-e6756ed475df",
+                "name": "UNV Academy",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
