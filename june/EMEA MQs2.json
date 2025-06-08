@@ -2322,18 +2322,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bc4769c0-3bef-11f0-964a-6eac04d6613b",
                 "name": "FUT Esports",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "61d322ea-43bf-11f0-bc46-e6756ed475df",
                 "name": "FUT Academy",
-                "seed": 20
+                "seed": 20,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "bc4769c0-3bef-11f0-964a-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61d322ea-43bf-11f0-bc46-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "bc4769c0-3bef-11f0-964a-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d322ea-43bf-11f0-bc46-e6756ed475df",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bc4769c0-3bef-11f0-964a-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d322ea-43bf-11f0-bc46-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "bc4769c0-3bef-11f0-964a-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d322ea-43bf-11f0-bc46-e6756ed475df",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2627,10 +2692,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bc4769c0-3bef-11f0-964a-6eac04d6613b",
+                "name": "FUT Esports",
+                "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "6af40f18-3bec-11f0-84f1-6eac04d6613b",
+                "name": "Inner Circle",
+                "seed": 5
             },
             "match_games": []
         },
@@ -3282,10 +3351,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "61d322ea-43bf-11f0-bc46-e6756ed475df",
+                "name": "FUT Academy",
+                "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "61d5bf3c-43bf-11f0-8fc9-e6756ed475df",
+                "name": "Izana is bad",
+                "seed": 23
             },
             "match_games": []
         },
