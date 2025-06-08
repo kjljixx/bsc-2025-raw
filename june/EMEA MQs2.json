@@ -2548,18 +2548,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "61d7e230-43bf-11f0-b34d-e6756ed475df",
                 "name": "Nokron",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6af21672-3bec-11f0-8da1-6eac04d6613b",
                 "name": "F/A Poland",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "61d7e230-43bf-11f0-b34d-e6756ed475df",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6af21672-3bec-11f0-8da1-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "61d7e230-43bf-11f0-b34d-e6756ed475df",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6af21672-3bec-11f0-8da1-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "61d7e230-43bf-11f0-b34d-e6756ed475df",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6af21672-3bec-11f0-8da1-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 20,
@@ -2698,18 +2748,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "61c9d366-43bf-11f0-9028-e6756ed475df",
                 "name": "Team Astro",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "61d67cd8-43bf-11f0-98f1-e6756ed475df",
                 "name": "Code : Gas",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "61c9d366-43bf-11f0-9028-e6756ed475df",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61d67cd8-43bf-11f0-98f1-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "61c9d366-43bf-11f0-9028-e6756ed475df",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61d67cd8-43bf-11f0-98f1-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "61c9d366-43bf-11f0-9028-e6756ed475df",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61d67cd8-43bf-11f0-98f1-e6756ed475df",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 33,
@@ -2837,7 +2937,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "61d67cd8-43bf-11f0-98f1-e6756ed475df",
+                "name": "Code : Gas",
+                "seed": 22
             },
             "match_games": []
         },
