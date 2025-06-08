@@ -2236,18 +2236,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f83ca616-3bef-11f0-910e-6eac04d6613b",
                 "name": "Tribe Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "917ff284-3bea-11f0-9ae8-6eac04d6613b",
                 "name": "H",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "f83ca616-3bef-11f0-910e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "917ff284-3bea-11f0-9ae8-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "f83ca616-3bef-11f0-910e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "917ff284-3bea-11f0-9ae8-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f83ca616-3bef-11f0-910e-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "917ff284-3bea-11f0-9ae8-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 26,
@@ -2448,7 +2498,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f83ca616-3bef-11f0-910e-6eac04d6613b",
+                "name": "Tribe Gaming",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -2886,10 +2938,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "917ff284-3bea-11f0-9ae8-6eac04d6613b",
+                "name": "H",
+                "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "23c9bfd8-43f4-11f0-b64d-86efe11c2309",
+                "name": "Real Ones",
+                "seed": 27
             },
             "match_games": []
         },
