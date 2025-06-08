@@ -901,6 +901,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "e9f2ad2e-3bec-11f0-aacf-6eac04d6613b",
+            "tournament_id": 0,
+            "name": "Coquitos eSports",
+            "players": [
+                {
+                    "name": "海膽 •Benjaxx🦔",
+                    "gamerTag": "#82QLJ8UY2"
+                },
+                {
+                    "name": "說|Dieghost🥷🏻",
+                    "gamerTag": "#99GCG092G"
+                },
+                {
+                    "name": "CQ|Dave 🧢",
+                    "gamerTag": "#8VRQUQQ28"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "7c5b861a-43de-11f0-8435-827ca9af2553",
             "tournament_id": 0,
             "name": "Farofeiros F/A",
@@ -1784,18 +1804,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9f2ad2e-3bec-11f0-aacf-6eac04d6613b",
                 "name": "Coquitos eSports",
-                "seed": 14
+                "seed": 14,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7c56661c-43de-11f0-9831-827ca9af2553",
                 "name": "Space Division",
-                "seed": 19
+                "seed": 19,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e9f2ad2e-3bec-11f0-aacf-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7c56661c-43de-11f0-9831-827ca9af2553",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e9f2ad2e-3bec-11f0-aacf-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7c56661c-43de-11f0-9831-827ca9af2553",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e9f2ad2e-3bec-11f0-aacf-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7c56661c-43de-11f0-9831-827ca9af2553",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "e9f2ad2e-3bec-11f0-aacf-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7c56661c-43de-11f0-9831-827ca9af2553",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -2071,7 +2156,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "7c56661c-43de-11f0-9831-827ca9af2553",
+                "name": "Space Division",
+                "seed": 19
             },
             "match_games": []
         },
@@ -2293,7 +2380,9 @@
                 "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "e9f2ad2e-3bec-11f0-aacf-6eac04d6613b",
+                "name": "Coquitos eSports",
+                "seed": 14
             },
             "match_games": []
         },
