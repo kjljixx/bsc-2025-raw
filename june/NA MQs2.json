@@ -4313,18 +4313,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b411a08-3bed-11f0-87c6-6eac04d6613b",
                 "name": "Eternal",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "23c772b4-43f4-11f0-9d75-86efe11c2309",
                 "name": "Crow's Nest Esports",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3b411a08-3bed-11f0-87c6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c772b4-43f4-11f0-9d75-86efe11c2309",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "3b411a08-3bed-11f0-87c6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c772b4-43f4-11f0-9d75-86efe11c2309",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3b411a08-3bed-11f0-87c6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c772b4-43f4-11f0-9d75-86efe11c2309",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -4398,7 +4448,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "3b411a08-3bed-11f0-87c6-6eac04d6613b",
+                "name": "Eternal",
+                "seed": 10
             },
             "match_games": []
         },
