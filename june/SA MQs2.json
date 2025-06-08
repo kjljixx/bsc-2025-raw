@@ -4064,18 +4064,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7c5d9cd4-43de-11f0-90d6-827ca9af2553",
                 "name": "Desertados",
-                "seed": 31
+                "seed": 31,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7c5affce-43de-11f0-b15f-827ca9af2553",
                 "name": "17.",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7c5d9cd4-43de-11f0-90d6-827ca9af2553",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7c5affce-43de-11f0-b15f-827ca9af2553",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "7c5d9cd4-43de-11f0-90d6-827ca9af2553",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7c5affce-43de-11f0-b15f-827ca9af2553",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7c5d9cd4-43de-11f0-90d6-827ca9af2553",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7c5affce-43de-11f0-b15f-827ca9af2553",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 48,
@@ -4151,7 +4201,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "7c5d9cd4-43de-11f0-90d6-827ca9af2553",
+                "name": "Desertados",
+                "seed": 31
             },
             "match_games": []
         },
