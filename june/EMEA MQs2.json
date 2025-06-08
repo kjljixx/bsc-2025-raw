@@ -841,6 +841,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/NOVO Esports.png"
         },
         {
+            "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
+            "tournament_id": 0,
+            "name": "Paurigon-Z",
+            "players": [
+                {
+                    "name": "PZ|Hedwig⛓️",
+                    "gamerTag": "#YR2Y9JRCC"
+                },
+                {
+                    "name": "PZ|Bleaff⛓️",
+                    "gamerTag": "#GRRGLVVJV"
+                },
+                {
+                    "name": "PZ|Zaiko⛓️",
+                    "gamerTag": "#G99CYGL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Paurigon-Z.png"
+        },
+        {
             "id": "61c9d366-43bf-11f0-9028-e6756ed475df",
             "tournament_id": 0,
             "name": "Team Astro",
@@ -1682,18 +1702,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
                 "name": "Paurigon-Z",
-                "seed": 14
+                "seed": 14,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
                 "name": "Schnitzel",
-                "seed": 19
+                "seed": 19,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -1913,7 +1998,9 @@
                 "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "61d103b6-43bf-11f0-b8fd-e6756ed475df",
+                "name": "Schnitzel",
+                "seed": 19
             },
             "match_games": []
         },
@@ -2127,7 +2214,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
+                "name": "Paurigon-Z",
+                "seed": 14
             },
             "match_games": []
         },
