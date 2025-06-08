@@ -2628,18 +2628,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bc47fc14-3bef-11f0-bf8f-6eac04d6613b",
                 "name": "NOVO Esports",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
                 "name": "Paurigon-Z",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "bc47fc14-3bef-11f0-bf8f-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bc47fc14-3bef-11f0-bf8f-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "bc47fc14-3bef-11f0-bf8f-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6af27b62-3bec-11f0-8982-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 24,
