@@ -701,6 +701,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/FA Poland.png"
         },
         {
+            "id": "61d7282c-43bf-11f0-a32a-e6756ed475df",
+            "tournament_id": 0,
+            "name": "LEW’S",
+            "players": [
+                {
+                    "name": "➳L❦rxia𓆩♡𓆪",
+                    "gamerTag": "#8YLLGG809"
+                },
+                {
+                    "name": "𝙀𝙡𝙘𝙩𝙧𝙤🔱",
+                    "gamerTag": "#98C9CJUCP"
+                },
+                {
+                    "name": "Who?",
+                    "gamerTag": "#PJ9RJY09Q"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "5e337490-4447-11f0-8eb3-b2cb5e4b1480",
             "tournament_id": 0,
             "name": "ASMBL",
@@ -1111,18 +1131,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "6af40f18-3bec-11f0-84f1-6eac04d6613b",
                 "name": "Inner Circle",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "61d7282c-43bf-11f0-a32a-e6756ed475df",
                 "name": "LEW’S",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6af40f18-3bec-11f0-84f1-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d7282c-43bf-11f0-a32a-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6af40f18-3bec-11f0-84f1-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d7282c-43bf-11f0-a32a-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6af40f18-3bec-11f0-84f1-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d7282c-43bf-11f0-a32a-e6756ed475df",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 8,
@@ -1466,7 +1536,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6af40f18-3bec-11f0-84f1-6eac04d6613b",
+                "name": "Inner Circle",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
@@ -1666,7 +1738,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "61d7282c-43bf-11f0-a32a-e6756ed475df",
+                "name": "LEW’S",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
