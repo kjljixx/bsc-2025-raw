@@ -701,6 +701,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "23c772b4-43f4-11f0-9d75-86efe11c2309",
+            "tournament_id": 0,
+            "name": "Crow's Nest Esports",
+            "players": [
+                {
+                    "name": "CNE|Jared🍓",
+                    "gamerTag": "#JR0LY9RY"
+                },
+                {
+                    "name": "CNE|Unfew🔥",
+                    "gamerTag": "#PL0G89CQ9"
+                },
+                {
+                    "name": "CNE|Flowing🍄",
+                    "gamerTag": "#2C2CVCG0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "23cfc824-43f4-11f0-bbeb-86efe11c2309",
             "tournament_id": 0,
             "name": "Dookie Butt",
@@ -716,6 +736,26 @@
                 {
                     "name": "Kami",
                     "gamerTag": "#8RLCRUVY0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "23c547a0-43f4-11f0-92fa-86efe11c2309",
+            "tournament_id": 0,
+            "name": "Stanley Steemers",
+            "players": [
+                {
+                    "name": "YT|ArrowBS",
+                    "gamerTag": "#QQR2CG8"
+                },
+                {
+                    "name": "𝓘𝓬𝔂𝔂🍃",
+                    "gamerTag": "#2VL8RRJL"
+                },
+                {
+                    "name": "QuantumPhysi",
+                    "gamerTag": "#CL9PJY9"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -1171,18 +1211,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b3c6fb2-3bed-11f0-83bc-6eac04d6613b",
                 "name": "ultbobs aura",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "23c772b4-43f4-11f0-9d75-86efe11c2309",
                 "name": "Crow's Nest Esports",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3b3c6fb2-3bed-11f0-83bc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c772b4-43f4-11f0-9d75-86efe11c2309",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3b3c6fb2-3bed-11f0-83bc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c772b4-43f4-11f0-9d75-86efe11c2309",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3b3c6fb2-3bed-11f0-83bc-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c772b4-43f4-11f0-9d75-86efe11c2309",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 9,
@@ -1261,18 +1351,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b43d630-3bed-11f0-b050-6eac04d6613b",
                 "name": "IX Squares",
-                "seed": 15
+                "seed": 15,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "23c547a0-43f4-11f0-92fa-86efe11c2309",
                 "name": "Stanley Steemers",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3b43d630-3bed-11f0-b050-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c547a0-43f4-11f0-92fa-86efe11c2309",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3b43d630-3bed-11f0-b050-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c547a0-43f4-11f0-92fa-86efe11c2309",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3b43d630-3bed-11f0-b050-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c547a0-43f4-11f0-92fa-86efe11c2309",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -1660,7 +1800,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "3b3c6fb2-3bed-11f0-83bc-6eac04d6613b",
+                "name": "ultbobs aura",
+                "seed": 12
             },
             "match_games": []
         },
@@ -1678,7 +1820,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "3b43d630-3bed-11f0-b050-6eac04d6613b",
+                "name": "IX Squares",
+                "seed": 15
             },
             "match_games": []
         },
@@ -1868,7 +2012,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "23c772b4-43f4-11f0-9d75-86efe11c2309",
+                "name": "Crow's Nest Esports",
+                "seed": 21
             },
             "match_games": []
         },
@@ -1886,7 +2032,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "23c547a0-43f4-11f0-92fa-86efe11c2309",
+                "name": "Stanley Steemers",
+                "seed": 18
             },
             "match_games": []
         },
