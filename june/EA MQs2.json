@@ -2289,18 +2289,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a79b018a-3bef-11f0-9bf1-6eac04d6613b",
                 "name": "NAVI",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
                 "name": "マンケルビーム",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "a79b018a-3bef-11f0-9bf1-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a79b018a-3bef-11f0-9bf1-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a79b018a-3bef-11f0-9bf1-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2581,7 +2631,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a79b018a-3bef-11f0-9bf1-6eac04d6613b",
+                "name": "NAVI",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -3033,7 +3085,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "65d08c8e-436a-11f0-ab8f-629fe8985574",
+                "name": "マンケルビーム",
+                "seed": 20
             },
             "opponent2": {
                 "id": null
