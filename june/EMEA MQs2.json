@@ -4828,18 +4828,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bc4702a0-3bef-11f0-a032-6eac04d6613b",
                 "name": "HMBLE",
-                "seed": 2
+                "seed": 2,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bc47fc14-3bef-11f0-bf8f-6eac04d6613b",
                 "name": "NOVO Esports",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "bc4702a0-3bef-11f0-a032-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bc47fc14-3bef-11f0-bf8f-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "bc4702a0-3bef-11f0-a032-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bc47fc14-3bef-11f0-bf8f-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "bc4702a0-3bef-11f0-a032-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bc47fc14-3bef-11f0-bf8f-6eac04d6613b",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
