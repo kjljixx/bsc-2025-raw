@@ -3593,18 +3593,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
                 "name": "Krono Esports",
-                "seed": 30
+                "seed": 30,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
                 "name": "DPB|Esport",
-                "seed": 24
+                "seed": 24,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "61d88c6c-43bf-11f0-bd96-e6756ed475df",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -3840,7 +3905,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "61d4fdfe-43bf-11f0-889a-e6756ed475df",
+                "name": "DPB|Esport",
+                "seed": 24
             },
             "match_games": []
         },
