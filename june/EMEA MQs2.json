@@ -4433,18 +4433,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6af48a74-3bec-11f0-9bb6-6eac04d6613b",
                 "name": "XPERION NXT",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6af37080-3bec-11f0-b3df-6eac04d6613b",
                 "name": "GLORE.FIFINE",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "6af48a74-3bec-11f0-9bb6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6af37080-3bec-11f0-b3df-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "6af48a74-3bec-11f0-9bb6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6af37080-3bec-11f0-b3df-6eac04d6613b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6af48a74-3bec-11f0-9bb6-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6af37080-3bec-11f0-b3df-6eac04d6613b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -4518,7 +4568,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "6af48a74-3bec-11f0-9bb6-6eac04d6613b",
+                "name": "XPERION NXT",
+                "seed": 10
             },
             "match_games": []
         },
