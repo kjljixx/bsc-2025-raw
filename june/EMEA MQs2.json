@@ -781,6 +781,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "61cadb26-43bf-11f0-9c73-e6756ed475df",
+            "tournament_id": 0,
+            "name": "Freezer Esports",
+            "players": [
+                {
+                    "name": "FRZ|Slesta🪻",
+                    "gamerTag": "#220UJU8P2"
+                },
+                {
+                    "name": "FRZ|Oneshot💎",
+                    "gamerTag": "#P2PRC2YQQ"
+                },
+                {
+                    "name": "FRZ|Destiny🇰🇷",
+                    "gamerTag": "#8VUVPCY8J"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Freezer Esports.png"
+        },
+        {
             "id": "61d92d2a-43bf-11f0-bba7-e6756ed475df",
             "tournament_id": 0,
             "name": "chippy chips",
@@ -1521,18 +1541,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "6af13900-3bec-11f0-a28d-6eac04d6613b",
                 "name": "Skepsis Gaming",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "61cadb26-43bf-11f0-9c73-e6756ed475df",
                 "name": "Freezer Esports",
-                "seed": 21
+                "seed": 21,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6af13900-3bec-11f0-a28d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61cadb26-43bf-11f0-9c73-e6756ed475df",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6af13900-3bec-11f0-a28d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61cadb26-43bf-11f0-9c73-e6756ed475df",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6af13900-3bec-11f0-a28d-6eac04d6613b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61cadb26-43bf-11f0-9c73-e6756ed475df",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "6af13900-3bec-11f0-a28d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61cadb26-43bf-11f0-9c73-e6756ed475df",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 9,
@@ -2114,7 +2199,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "6af13900-3bec-11f0-a28d-6eac04d6613b",
+                "name": "Skepsis Gaming",
+                "seed": 12
             },
             "match_games": []
         },
@@ -2334,7 +2421,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "61cadb26-43bf-11f0-9c73-e6756ed475df",
+                "name": "Freezer Esports",
+                "seed": 21
             },
             "match_games": []
         },
