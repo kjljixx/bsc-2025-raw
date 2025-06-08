@@ -3093,18 +3093,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "23c8daa0-43f4-11f0-acd4-86efe11c2309",
                 "name": "🌀",
-                "seed": 26
+                "seed": 26,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "23c5bb18-43f4-11f0-85d0-86efe11c2309",
                 "name": "Hooters eSports",
-                "seed": 23
+                "seed": 23,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "23c8daa0-43f4-11f0-acd4-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c5bb18-43f4-11f0-85d0-86efe11c2309",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "23c8daa0-43f4-11f0-acd4-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c5bb18-43f4-11f0-85d0-86efe11c2309",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "23c8daa0-43f4-11f0-acd4-86efe11c2309",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "23c5bb18-43f4-11f0-85d0-86efe11c2309",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "23c8daa0-43f4-11f0-acd4-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c5bb18-43f4-11f0-85d0-86efe11c2309",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -3358,7 +3423,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "23c8daa0-43f4-11f0-acd4-86efe11c2309",
+                "name": "🌀",
+                "seed": 26
             },
             "match_games": []
         },
