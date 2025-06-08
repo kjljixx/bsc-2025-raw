@@ -4648,18 +4648,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "23c86c46-43f4-11f0-941c-86efe11c2309",
                 "name": "New Heights Gaming",
-                "seed": 20
+                "seed": 20,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
                 "name": "ragebait",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23c86c46-43f4-11f0-941c-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23c86c46-43f4-11f0-941c-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23c86c46-43f4-11f0-941c-86efe11c2309",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23c6feec-43f4-11f0-ba12-86efe11c2309",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 50,
