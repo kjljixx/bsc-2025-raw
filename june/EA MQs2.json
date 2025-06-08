@@ -4093,18 +4093,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65d132d8-436a-11f0-bc5e-629fe8985574",
                 "name": "”‬FCサジアキ‪”",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "65cf3a78-436a-11f0-ae29-629fe8985574",
                 "name": "Ace King",
-                "seed": 27
+                "seed": 27,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "65d132d8-436a-11f0-bc5e-629fe8985574",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "65cf3a78-436a-11f0-ae29-629fe8985574",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "65d132d8-436a-11f0-bc5e-629fe8985574",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "65cf3a78-436a-11f0-ae29-629fe8985574",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "65d132d8-436a-11f0-bc5e-629fe8985574",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "65cf3a78-436a-11f0-ae29-629fe8985574",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 49,
@@ -4174,7 +4224,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "65cf3a78-436a-11f0-ae29-629fe8985574",
+                "name": "Ace King",
+                "seed": 27
             },
             "match_games": []
         }
