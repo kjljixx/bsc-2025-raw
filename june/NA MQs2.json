@@ -2951,18 +2951,83 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f83d0732-3bef-11f0-8e9d-6eac04d6613b",
                 "name": "Elevate",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f83afffa-3bef-11f0-a7ad-6eac04d6613b",
                 "name": "Mountain Men FA",
-                "seed": 7
+                "seed": 7,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f83d0732-3bef-11f0-8e9d-6eac04d6613b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f83afffa-3bef-11f0-a7ad-6eac04d6613b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f83d0732-3bef-11f0-8e9d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f83afffa-3bef-11f0-a7ad-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "f83d0732-3bef-11f0-8e9d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f83afffa-3bef-11f0-a7ad-6eac04d6613b",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f83d0732-3bef-11f0-8e9d-6eac04d6613b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f83afffa-3bef-11f0-a7ad-6eac04d6613b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 44,
@@ -3980,7 +4045,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f83afffa-3bef-11f0-a7ad-6eac04d6613b",
+                "name": "Mountain Men FA",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
