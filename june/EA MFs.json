@@ -591,18 +591,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1f536936-44bc-11f0-82fe-dea0bdc78efb",
                 "name": "REJECT",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1f550cfa-44bc-11f0-82ee-dea0bdc78efb",
                 "name": "NAVI",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1f536936-44bc-11f0-82fe-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f550cfa-44bc-11f0-82ee-dea0bdc78efb",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1f536936-44bc-11f0-82fe-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f550cfa-44bc-11f0-82ee-dea0bdc78efb",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1f536936-44bc-11f0-82fe-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f550cfa-44bc-11f0-82ee-dea0bdc78efb",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -618,7 +668,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "1f536936-44bc-11f0-82fe-dea0bdc78efb",
+                "name": "REJECT",
+                "seed": 2
             },
             "match_games": []
         }
