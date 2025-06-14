@@ -211,18 +211,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1f548960-44bc-11f0-a0fb-dea0bdc78efb",
                 "name": "ZETA DIVISION",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1f5697aa-44bc-11f0-9d8f-dea0bdc78efb",
                 "name": "Feasible Gaming",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1f548960-44bc-11f0-a0fb-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f5697aa-44bc-11f0-9d8f-dea0bdc78efb",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1f548960-44bc-11f0-a0fb-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f5697aa-44bc-11f0-9d8f-dea0bdc78efb",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1f548960-44bc-11f0-a0fb-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f5697aa-44bc-11f0-9d8f-dea0bdc78efb",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -293,7 +343,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1f548960-44bc-11f0-a0fb-dea0bdc78efb",
+                "name": "ZETA DIVISION",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
