@@ -281,18 +281,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1f5261f8-44bc-11f0-8ef2-dea0bdc78efb",
                 "name": "Rival Esports",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8efdd53a-477f-11f0-a32f-eeb017e6a800",
                 "name": "Ace King",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1f5261f8-44bc-11f0-8ef2-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8efdd53a-477f-11f0-a32f-eeb017e6a800",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1f5261f8-44bc-11f0-8ef2-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8efdd53a-477f-11f0-a32f-eeb017e6a800",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1f5261f8-44bc-11f0-8ef2-dea0bdc78efb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8efdd53a-477f-11f0-a32f-eeb017e6a800",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -348,7 +398,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "1f5261f8-44bc-11f0-8ef2-dea0bdc78efb",
+                "name": "Rival Esports",
+                "seed": 4
             },
             "match_games": []
         },
