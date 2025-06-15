@@ -521,18 +521,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "de013cd0-4473-11f0-907f-76ef1be9ccda",
                 "name": "FUT Esports",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4bb45a6c-44bc-11f0-89c6-5e5955ffebf0",
                 "name": "NOVO Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de013cd0-4473-11f0-907f-76ef1be9ccda",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4bb45a6c-44bc-11f0-89c6-5e5955ffebf0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de013cd0-4473-11f0-907f-76ef1be9ccda",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4bb45a6c-44bc-11f0-89c6-5e5955ffebf0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "de013cd0-4473-11f0-907f-76ef1be9ccda",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4bb45a6c-44bc-11f0-89c6-5e5955ffebf0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -563,7 +613,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "de013cd0-4473-11f0-907f-76ef1be9ccda",
+                "name": "FUT Esports",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
