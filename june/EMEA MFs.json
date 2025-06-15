@@ -591,18 +591,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4bb348c0-44bc-11f0-afc7-5e5955ffebf0",
                 "name": "Inner Circle",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ddffb8c4-4473-11f0-893d-76ef1be9ccda",
                 "name": "Team Heretics",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "4bb348c0-44bc-11f0-afc7-5e5955ffebf0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ddffb8c4-4473-11f0-893d-76ef1be9ccda",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "4bb348c0-44bc-11f0-afc7-5e5955ffebf0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ddffb8c4-4473-11f0-893d-76ef1be9ccda",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "4bb348c0-44bc-11f0-afc7-5e5955ffebf0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ddffb8c4-4473-11f0-893d-76ef1be9ccda",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "4bb348c0-44bc-11f0-afc7-5e5955ffebf0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ddffb8c4-4473-11f0-893d-76ef1be9ccda",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "4bb348c0-44bc-11f0-afc7-5e5955ffebf0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ddffb8c4-4473-11f0-893d-76ef1be9ccda",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -618,7 +698,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "ddffb8c4-4473-11f0-893d-76ef1be9ccda",
+                "name": "Team Heretics",
+                "seed": 3
             },
             "match_games": []
         }
