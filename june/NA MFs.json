@@ -381,18 +381,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fbbb33b8-44bc-11f0-928e-6a83d9bede70",
                 "name": "Elevate",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fbb940d0-44bc-11f0-8e39-6a83d9bede70",
                 "name": "Eternal",
-                "seed": 7
+                "seed": 7,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fbbb33b8-44bc-11f0-928e-6a83d9bede70",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbb940d0-44bc-11f0-8e39-6a83d9bede70",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fbbb33b8-44bc-11f0-928e-6a83d9bede70",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fbb940d0-44bc-11f0-8e39-6a83d9bede70",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fbbb33b8-44bc-11f0-928e-6a83d9bede70",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbb940d0-44bc-11f0-8e39-6a83d9bede70",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fbbb33b8-44bc-11f0-928e-6a83d9bede70",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbb940d0-44bc-11f0-8e39-6a83d9bede70",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -443,7 +508,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fbbb33b8-44bc-11f0-928e-6a83d9bede70",
+                "name": "Elevate",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
