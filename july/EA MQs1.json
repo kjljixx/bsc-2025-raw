@@ -7225,18 +7225,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4d578996-521a-11f0-9754-de3adb5e464d",
                 "name": "CRACK PLAYERS",
-                "seed": 39
+                "seed": 39,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fbc7292c-5414-11f0-b982-f23e1b03c8de",
                 "name": "Stardew Valley",
-                "seed": 90
+                "seed": 90,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4d578996-521a-11f0-9754-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fbc7292c-5414-11f0-b982-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4d578996-521a-11f0-9754-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fbc7292c-5414-11f0-b982-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 173,
