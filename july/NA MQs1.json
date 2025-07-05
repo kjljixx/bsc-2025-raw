@@ -23363,18 +23363,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7cdefd78-521c-11f0-a77f-de3adb5e464d",
                 "name": "GG",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "20368c02-5862-11f0-aa0c-fa0a0b1c0479",
                 "name": "Teamzilla",
-                "seed": 296
+                "seed": 296,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "7cdefd78-521c-11f0-a77f-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "20368c02-5862-11f0-aa0c-fa0a0b1c0479",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "7cdefd78-521c-11f0-a77f-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "20368c02-5862-11f0-aa0c-fa0a0b1c0479",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 484,
@@ -23483,18 +23518,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7cde4b62-521c-11f0-adb3-de3adb5e464d",
                 "name": "Crow's Nest Esports",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7e1e2de4-521c-11f0-9ade-de3adb5e464d",
                 "name": "Zenith 0",
-                "seed": 34
+                "seed": 34,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "7cde4b62-521c-11f0-adb3-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7e1e2de4-521c-11f0-9ade-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "7cde4b62-521c-11f0-adb3-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7e1e2de4-521c-11f0-9ade-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 490,
@@ -23603,18 +23673,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "76e5f106-521c-11f0-8c62-de3adb5e464d",
                 "name": "Cobra Jets",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "76bc0512-521c-11f0-9de6-de3adb5e464d",
                 "name": "Sofried",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "76e5f106-521c-11f0-8c62-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "76bc0512-521c-11f0-9de6-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "76e5f106-521c-11f0-8c62-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "76bc0512-521c-11f0-9de6-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 496,
