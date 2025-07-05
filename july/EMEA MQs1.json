@@ -51418,18 +51418,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "de6aeafe-521a-11f0-add4-de3adb5e464d",
                 "name": "Tsunami Esports",
-                "seed": 49
+                "seed": 49,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3d51b768-5447-11f0-a3a8-f23e1b03c8de",
                 "name": "Team Gazpacho",
-                "seed": 336
+                "seed": 336,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "de6aeafe-521a-11f0-add4-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d51b768-5447-11f0-a3a8-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "de6aeafe-521a-11f0-add4-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d51b768-5447-11f0-a3a8-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 903,
@@ -51633,18 +51668,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a56f390-582e-11f0-84f9-4a7a15329a84",
                 "name": "VERACITY",
-                "seed": 792
+                "seed": 792,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d9150f76-521a-11f0-b3f7-de3adb5e464d",
                 "name": "The Winners",
-                "seed": 152
+                "seed": 152,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "2a56f390-582e-11f0-84f9-4a7a15329a84",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d9150f76-521a-11f0-b3f7-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2a56f390-582e-11f0-84f9-4a7a15329a84",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d9150f76-521a-11f0-b3f7-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 912,
@@ -52373,18 +52443,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "df132bba-521a-11f0-a904-de3adb5e464d",
                 "name": "Name For Fame",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f86d7188-58d7-11f0-9ccb-a6eacc049bbc",
                 "name": "Pimpon Come Back💔🙏",
-                "seed": 591
+                "seed": 591,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "df132bba-521a-11f0-a904-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f86d7188-58d7-11f0-9ccb-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "df132bba-521a-11f0-a904-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f86d7188-58d7-11f0-9ccb-a6eacc049bbc",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 935,
@@ -52738,18 +52843,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c6c7ceee-521a-11f0-984b-de3adb5e464d",
                 "name": "Eternality Gaming",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cacec216-5929-11f0-9a5b-4a7a15329a84",
                 "name": "Dembele>yamal",
-                "seed": 611
+                "seed": 611,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c6c7ceee-521a-11f0-984b-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cacec216-5929-11f0-9a5b-4a7a15329a84",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c6c7ceee-521a-11f0-984b-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cacec216-5929-11f0-9a5b-4a7a15329a84",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 948,
@@ -52853,18 +52993,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c515e950-521a-11f0-b3c7-de3adb5e464d",
                 "name": "COURAGE ONE",
-                "seed": 19
+                "seed": 19,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d6454f72-521a-11f0-bf12-de3adb5e464d",
                 "name": "Red Team❤️",
-                "seed": 403
+                "seed": 403,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c515e950-521a-11f0-b3c7-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6454f72-521a-11f0-bf12-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c515e950-521a-11f0-b3c7-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6454f72-521a-11f0-bf12-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 952,
@@ -53204,10 +53379,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2a56f390-582e-11f0-84f9-4a7a15329a84",
+                "name": "VERACITY",
+                "seed": 792
             },
             "opponent2": {
-                "id": null
+                "id": "db210c8e-521a-11f0-a8cf-de3adb5e464d",
+                "name": "Ahri Corp",
+                "seed": 88
             },
             "match_games": []
         },
@@ -53508,7 +53687,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cacec216-5929-11f0-9a5b-4a7a15329a84",
+                "name": "Dembele>yamal",
+                "seed": 611
             },
             "opponent2": {
                 "id": null
@@ -53542,7 +53723,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c515e950-521a-11f0-b3c7-de3adb5e464d",
+                "name": "COURAGE ONE",
+                "seed": 19
             },
             "opponent2": {
                 "id": null
