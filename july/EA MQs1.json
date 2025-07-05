@@ -9822,18 +9822,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1dd3132a-5436-11f0-9335-f23e1b03c8de",
                 "name": "人参農場",
-                "seed": 102
+                "seed": 102,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
                 "name": "어디까지 따라와 진짜",
-                "seed": 166
+                "seed": 166,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "1dd3132a-5436-11f0-9335-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "1dd3132a-5436-11f0-9335-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 223,
