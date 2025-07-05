@@ -7270,18 +7270,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4ff3dba0-521a-11f0-be64-de3adb5e464d",
                 "name": "Shadow Phoenix",
-                "seed": 31
+                "seed": 31,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "39cddada-542f-11f0-b3b9-f23e1b03c8de",
                 "name": "ちょけ大陸",
-                "seed": 98
+                "seed": 98,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4ff3dba0-521a-11f0-be64-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39cddada-542f-11f0-b3b9-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4ff3dba0-521a-11f0-be64-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39cddada-542f-11f0-b3b9-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 164,
@@ -7776,18 +7811,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f5ed00a-521a-11f0-bdb8-de3adb5e464d",
                 "name": "迷子のろいろい",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9fec2c66-5602-11f0-b6c4-f23e1b03c8de",
                 "name": "Genius Forecast",
-                "seed": 142
+                "seed": 142,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4f5ed00a-521a-11f0-bdb8-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9fec2c66-5602-11f0-b6c4-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4f5ed00a-521a-11f0-bdb8-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9fec2c66-5602-11f0-b6c4-f23e1b03c8de",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 182,
@@ -8367,7 +8437,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4ff3dba0-521a-11f0-be64-de3adb5e464d",
+                "name": "Shadow Phoenix",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
@@ -8527,7 +8599,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f5ed00a-521a-11f0-bdb8-de3adb5e464d",
+                "name": "迷子のろいろい",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
