@@ -46055,18 +46055,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6cc1206c-5440-11f0-9451-f23e1b03c8de",
                 "name": "Zero Cycle",
-                "seed": 578
+                "seed": 578,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d7664310-538d-11f0-ad38-f23e1b03c8de",
                 "name": "Arise TM",
-                "seed": 703
+                "seed": 703,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6cc1206c-5440-11f0-9451-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d7664310-538d-11f0-ad38-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "6cc1206c-5440-11f0-9451-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d7664310-538d-11f0-ad38-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 837,
@@ -46315,18 +46350,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da48123a-521a-11f0-9871-de3adb5e464d",
                 "name": "Code : Gas",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1d19e48a-56d0-11f0-802f-92d95f13cf21",
                 "name": "Boton Lila Diff",
-                "seed": 762
+                "seed": 762,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "da48123a-521a-11f0-9871-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1d19e48a-56d0-11f0-802f-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "da48123a-521a-11f0-9871-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1d19e48a-56d0-11f0-802f-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 850,
@@ -47917,7 +47987,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "da48123a-521a-11f0-9871-de3adb5e464d",
+                "name": "Code : Gas",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
