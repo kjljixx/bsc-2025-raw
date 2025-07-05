@@ -55257,18 +55257,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da469b26-521a-11f0-a36a-de3adb5e464d",
                 "name": "TOP|Academy",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d13783c4-521a-11f0-8290-de3adb5e464d",
                 "name": "SuspiciousCards Gang",
-                "seed": 44
+                "seed": 44,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "da469b26-521a-11f0-a36a-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d13783c4-521a-11f0-8290-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "da469b26-521a-11f0-a36a-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d13783c4-521a-11f0-8290-de3adb5e464d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 977,
@@ -55452,18 +55487,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "df2d7e02-521a-11f0-963b-de3adb5e464d",
                 "name": "Galactic Void",
-                "seed": 279
+                "seed": 279,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ca7d1134-521a-11f0-a539-de3adb5e464d",
                 "name": "GLXY GAMING",
-                "seed": 42
+                "seed": 42,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "df2d7e02-521a-11f0-963b-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ca7d1134-521a-11f0-a539-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "df2d7e02-521a-11f0-963b-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ca7d1134-521a-11f0-a539-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 985,
