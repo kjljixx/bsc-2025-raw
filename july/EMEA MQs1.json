@@ -57315,18 +57315,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2791b2fa-58c7-11f0-814f-5a04b25de3e5",
                 "name": "VG|esport",
-                "seed": 587
+                "seed": 587,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ddc9264c-521a-11f0-adf8-de3adb5e464d",
                 "name": "LEW’S",
-                "seed": 22
+                "seed": 22,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "2791b2fa-58c7-11f0-814f-5a04b25de3e5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ddc9264c-521a-11f0-adf8-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2791b2fa-58c7-11f0-814f-5a04b25de3e5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ddc9264c-521a-11f0-adf8-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
