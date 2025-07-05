@@ -51458,7 +51458,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "dd146766-521a-11f0-b12c-de3adb5e464d",
                 "name": "F/A Lithuania",
@@ -51733,18 +51733,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "472a4014-587c-11f0-b614-1ada70887f6f",
                 "name": "TFØ Gaming",
-                "seed": 804
+                "seed": 804,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cf481ca4-521a-11f0-8957-de3adb5e464d",
                 "name": "RKV | Esports",
-                "seed": 164
+                "seed": 164,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "472a4014-587c-11f0-b614-1ada70887f6f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cf481ca4-521a-11f0-8957-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "472a4014-587c-11f0-b614-1ada70887f6f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cf481ca4-521a-11f0-8957-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 917,
@@ -51813,18 +51848,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d8a30b92-521a-11f0-94b1-de3adb5e464d",
                 "name": "Mango",
-                "seed": 468
+                "seed": 468,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ddf90938-545a-11f0-80da-f23e1b03c8de",
                 "name": "IVCONTROL",
-                "seed": 596
+                "seed": 596,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "d8a30b92-521a-11f0-94b1-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ddf90938-545a-11f0-80da-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d8a30b92-521a-11f0-94b1-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ddf90938-545a-11f0-80da-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 921,
@@ -51908,7 +51978,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "d6fabbbe-521a-11f0-82d8-de3adb5e464d",
                 "name": "ImMoRtAlYy",
@@ -52803,18 +52873,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ddc9264c-521a-11f0-adf8-de3adb5e464d",
                 "name": "LEW’S",
-                "seed": 22
+                "seed": 22,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d022e2da-521a-11f0-abed-de3adb5e464d",
                 "name": "Shoguns 🌊",
-                "seed": 107
+                "seed": 107,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "ddc9264c-521a-11f0-adf8-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d022e2da-521a-11f0-abed-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ddc9264c-521a-11f0-adf8-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d022e2da-521a-11f0-abed-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 960,
@@ -53355,7 +53460,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ddc9264c-521a-11f0-adf8-de3adb5e464d",
+                "name": "LEW’S",
+                "seed": 22
             },
             "opponent2": {
                 "id": null
