@@ -11541,11 +11541,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1efe0576-53b3-11f0-ae1b-92d95f13cf21",
                 "name": "ESPARTA TEAM BR",
-                "seed": 250
+                "seed": 250,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "8e01aed4-54f1-11f0-8b0f-f23e1b03c8de",
@@ -15544,7 +15545,11 @@
                 "name": "Ultimate Recharge",
                 "seed": 7
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "8e01aed4-54f1-11f0-8b0f-f23e1b03c8de",
+                "name": "TEAM_SEM_LAUDO",
+                "seed": 263
+            },
             "match_games": []
         },
         {
