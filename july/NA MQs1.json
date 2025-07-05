@@ -23573,18 +23573,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7dcebd40-521c-11f0-8ec5-de3adb5e464d",
                 "name": "Real Ones",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7aedd480-521c-11f0-809c-de3adb5e464d",
                 "name": "RJG Team 🔥🔥🔥",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "7dcebd40-521c-11f0-8ec5-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7aedd480-521c-11f0-809c-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "7dcebd40-521c-11f0-8ec5-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7aedd480-521c-11f0-809c-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 491,
@@ -23613,18 +23648,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7872fd20-521c-11f0-ac5b-de3adb5e464d",
                 "name": "Clutch Or Cope🏆🤡",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "42da45b6-5540-11f0-a0b1-f23e1b03c8de",
                 "name": "Zenith Esports",
-                "seed": 170
+                "seed": 170,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "7872fd20-521c-11f0-ac5b-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "42da45b6-5540-11f0-a0b1-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "7872fd20-521c-11f0-ac5b-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "42da45b6-5540-11f0-a0b1-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 493,
@@ -23653,18 +23723,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a5b20ae-521c-11f0-ad3b-de3adb5e464d",
                 "name": "Chichemitos",
-                "seed": 179
+                "seed": 179,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7e22398e-521c-11f0-86d1-de3adb5e464d",
                 "name": "Mommy's good boys",
-                "seed": 19
+                "seed": 19,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "7a5b20ae-521c-11f0-ad3b-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7e22398e-521c-11f0-86d1-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "7a5b20ae-521c-11f0-ad3b-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7e22398e-521c-11f0-86d1-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 495,
