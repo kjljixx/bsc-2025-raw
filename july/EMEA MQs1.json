@@ -55454,18 +55454,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
                 "name": "FUT Academy",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6cc1206c-5440-11f0-9451-f23e1b03c8de",
                 "name": "Zero Cycle",
-                "seed": 578
+                "seed": 578,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6cc1206c-5440-11f0-9451-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6cc1206c-5440-11f0-9451-f23e1b03c8de",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 978,
@@ -55515,18 +55550,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d0054b94-521a-11f0-b82a-de3adb5e464d",
                 "name": "SHADOW",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e80c600a-5559-11f0-882e-f23e1b03c8de",
                 "name": "Bad Ping",
-                "seed": 722
+                "seed": 722,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "d0054b94-521a-11f0-b82a-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e80c600a-5559-11f0-882e-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "d0054b94-521a-11f0-b82a-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e80c600a-5559-11f0-882e-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 981,
@@ -56086,10 +56156,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
+                "name": "FUT Academy",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "be4758fe-5853-11f0-9690-a664fabac6ee",
+                "name": "BLOB",
+                "seed": 802
             },
             "match_games": []
         },
