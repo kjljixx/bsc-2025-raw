@@ -17000,18 +17000,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d94c4216-521a-11f0-8176-de3adb5e464d",
                 "name": "NEED FOR WIN",
-                "seed": 256
+                "seed": 256,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b9e131ae-5353-11f0-bd92-92d95f13cf21",
                 "name": "Sneaky Turtles",
-                "seed": 769
+                "seed": 769,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "d94c4216-521a-11f0-8176-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b9e131ae-5353-11f0-bd92-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "d94c4216-521a-11f0-8176-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b9e131ae-5353-11f0-bd92-92d95f13cf21",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "d94c4216-521a-11f0-8176-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b9e131ae-5353-11f0-bd92-92d95f13cf21",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -32726,10 +32776,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d94c4216-521a-11f0-8176-de3adb5e464d",
+                "name": "NEED FOR WIN",
+                "seed": 256
             },
             "opponent2": {
-                "id": null
+                "id": "d98a089e-521a-11f0-8a24-de3adb5e464d",
+                "name": "OBG|THE SLAYERS",
+                "seed": 257
             },
             "match_games": []
         },
@@ -34606,9 +34660,7 @@
                 "name": "FİF|GOATS",
                 "seed": 173
             },
-            "opponent2": {
-                "id": null
-            },
+            "opponent2": null,
             "match_games": []
         },
         {
