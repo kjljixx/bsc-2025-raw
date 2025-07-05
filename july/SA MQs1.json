@@ -9813,18 +9813,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fe24862c-548e-11f0-a8ed-92d95f13cf21",
                 "name": "leshe shavo",
-                "seed": 255
+                "seed": 255,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a7f72fb4-53b9-11f0-a807-f23e1b03c8de",
                 "name": "Force Timless",
-                "seed": 258
+                "seed": 258,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fe24862c-548e-11f0-a8ed-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a7f72fb4-53b9-11f0-a807-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "fe24862c-548e-11f0-a8ed-92d95f13cf21",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a7f72fb4-53b9-11f0-a807-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 131,
@@ -10315,18 +10350,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f973a678-521b-11f0-b398-de3adb5e464d",
                 "name": "Be Bold",
-                "seed": 146
+                "seed": 146,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ce7afc08-599d-11f0-b9dd-1a5a728577f2",
                 "name": "超ウルトラスーパー神",
-                "seed": 367
+                "seed": 367,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f973a678-521b-11f0-b398-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ce7afc08-599d-11f0-b9dd-1a5a728577f2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "f973a678-521b-11f0-b398-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ce7afc08-599d-11f0-b9dd-1a5a728577f2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 157,
@@ -11567,18 +11637,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5cf2381c-5466-11f0-b03c-f23e1b03c8de",
                 "name": "POU STARS",
-                "seed": 179
+                "seed": 179,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e2a25900-537c-11f0-9383-f23e1b03c8de",
                 "name": "PrysmaX",
-                "seed": 334
+                "seed": 334,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "5cf2381c-5466-11f0-b03c-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e2a25900-537c-11f0-9383-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "5cf2381c-5466-11f0-b03c-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e2a25900-537c-11f0-9383-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 217,
@@ -13554,7 +13659,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "a7f72fb4-53b9-11f0-a807-f23e1b03c8de",
+                "name": "Force Timless",
+                "seed": 258
             },
             "match_games": []
         },
@@ -13808,7 +13915,9 @@
                 "seed": 111
             },
             "opponent2": {
-                "id": null
+                "id": "f973a678-521b-11f0-b398-de3adb5e464d",
+                "name": "Be Bold",
+                "seed": 146
             },
             "match_games": []
         },
@@ -14392,7 +14501,9 @@
                 "seed": 78
             },
             "opponent2": {
-                "id": null
+                "id": "e2a25900-537c-11f0-9383-f23e1b03c8de",
+                "name": "PrysmaX",
+                "seed": 334
             },
             "match_games": []
         },
