@@ -23663,18 +23663,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a60c9b3e-5941-11f0-9548-6629350dbe22",
                 "name": "RPS",
-                "seed": 199
+                "seed": 199,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7b7aa810-521c-11f0-b697-de3adb5e464d",
                 "name": "THE VEGGIES",
-                "seed": 39
+                "seed": 39,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "a60c9b3e-5941-11f0-9548-6629350dbe22",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7b7aa810-521c-11f0-b697-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "a60c9b3e-5941-11f0-9548-6629350dbe22",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7b7aa810-521c-11f0-b697-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 492,
