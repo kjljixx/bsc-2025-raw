@@ -23323,18 +23323,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "77b3c162-521c-11f0-9152-de3adb5e464d",
                 "name": "Los prietos 🐐",
-                "seed": 1
+                "seed": 1,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7dbdbf04-521c-11f0-a85b-de3adb5e464d",
                 "name": "RaulLovers",
-                "seed": 32
+                "seed": 32,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "77b3c162-521c-11f0-9152-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7dbdbf04-521c-11f0-a85b-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "77b3c162-521c-11f0-9152-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7dbdbf04-521c-11f0-a85b-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 482,
