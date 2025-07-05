@@ -47168,18 +47168,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ce1052c0-521a-11f0-8a6b-de3adb5e464d",
                 "name": "Freezer Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "426e5198-5357-11f0-97bd-f677c6a6d51a",
                 "name": "Gooners🥶",
-                "seed": 773
+                "seed": 773,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ce1052c0-521a-11f0-8a6b-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "426e5198-5357-11f0-97bd-f677c6a6d51a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "ce1052c0-521a-11f0-8a6b-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "426e5198-5357-11f0-97bd-f677c6a6d51a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 818,
@@ -51663,10 +51698,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ce1052c0-521a-11f0-8a6b-de3adb5e464d",
+                "name": "Freezer Esports",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "b89edc94-54d7-11f0-b4ea-92d95f13cf21",
+                "name": "PiterYLosPandas",
+                "seed": 636
             },
             "match_games": []
         },
