@@ -7279,18 +7279,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f228424-521a-11f0-b4fd-de3adb5e464d",
                 "name": "まんまん爆弾",
-                "seed": 44
+                "seed": 44,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d2567964-554d-11f0-b81f-92d95f13cf21",
                 "name": "TENSAI",
-                "seed": 85
+                "seed": 85,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4f228424-521a-11f0-b4fd-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d2567964-554d-11f0-b81f-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4f228424-521a-11f0-b4fd-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d2567964-554d-11f0-b81f-92d95f13cf21",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 161,
@@ -8674,7 +8709,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "d2567964-554d-11f0-b81f-92d95f13cf21",
+                "name": "TENSAI",
+                "seed": 85
             },
             "match_games": []
         },
