@@ -21905,18 +21905,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7dcebd40-521c-11f0-8ec5-de3adb5e464d",
                 "name": "Real Ones",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "78ed3112-521c-11f0-bf36-de3adb5e464d",
                 "name": "MCG PANESITOS",
-                "seed": 79
+                "seed": 79,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7dcebd40-521c-11f0-8ec5-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "78ed3112-521c-11f0-bf36-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7dcebd40-521c-11f0-8ec5-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "78ed3112-521c-11f0-bf36-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 468,
@@ -22160,7 +22195,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "76bc0512-521c-11f0-9de6-de3adb5e464d",
                 "name": "Sofried",
@@ -22169,7 +22204,8 @@
             "opponent2": {
                 "id": "9f16e42a-5530-11f0-9ae6-92d95f13cf21",
                 "name": "TIBURONCINES",
-                "seed": 166
+                "seed": 166,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -22200,7 +22236,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7ca77312-521c-11f0-92d8-de3adb5e464d",
                 "name": "Squishy",
@@ -22209,7 +22245,8 @@
             "opponent2": {
                 "id": "78c5f5ac-521c-11f0-a634-de3adb5e464d",
                 "name": "THE GOAT",
-                "seed": 43
+                "seed": 43,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -22366,7 +22403,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7dcebd40-521c-11f0-8ec5-de3adb5e464d",
+                "name": "Real Ones",
+                "seed": 15
             },
             "opponent2": {
                 "id": null
