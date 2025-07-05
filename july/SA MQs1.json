@@ -2694,7 +2694,7 @@
                     "gamerTag": "#2UPQ290UP"
                 },
                 {
-                    "name": "JP",
+                    "name": "MV | JP",
                     "gamerTag": "#9CJ28C2V"
                 }
             ],
@@ -9222,18 +9222,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "76983fde-53b0-11f0-be1a-f23e1b03c8de",
                 "name": "Gorilla isle",
-                "seed": 244
+                "seed": 244,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8c3988de-550e-11f0-9525-f23e1b03c8de",
                 "name": "OS QUE TEM ÓDIO",
-                "seed": 269
+                "seed": 269,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "76983fde-53b0-11f0-be1a-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8c3988de-550e-11f0-9525-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "76983fde-53b0-11f0-be1a-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8c3988de-550e-11f0-9525-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "76983fde-53b0-11f0-be1a-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8c3988de-550e-11f0-9525-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 83,
@@ -10446,18 +10496,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f59df90e-521b-11f0-9a6e-de3adb5e464d",
                 "name": "MOBS",
-                "seed": 162
+                "seed": 162,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "77ae1224-5926-11f0-9fd5-f6fee980cb3d",
                 "name": "KaosReign",
-                "seed": 351
+                "seed": 351,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f59df90e-521b-11f0-9a6e-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "77ae1224-5926-11f0-9fd5-f6fee980cb3d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "f59df90e-521b-11f0-9a6e-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "77ae1224-5926-11f0-9fd5-f6fee980cb3d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 145,
@@ -11304,18 +11389,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "00562a44-5477-11f0-9082-f23e1b03c8de",
                 "name": "Henrique e amigos",
-                "seed": 183
+                "seed": 183,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cf39a15a-5365-11f0-b9fc-7e114f827113",
                 "name": "Los best",
-                "seed": 330
+                "seed": 330,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "00562a44-5477-11f0-9082-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cf39a15a-5365-11f0-b9fc-7e114f827113",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "00562a44-5477-11f0-9082-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cf39a15a-5365-11f0-b9fc-7e114f827113",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "00562a44-5477-11f0-9082-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cf39a15a-5365-11f0-b9fc-7e114f827113",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 185,
@@ -13744,7 +13879,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "8c3988de-550e-11f0-9525-f23e1b03c8de",
+                "name": "OS QUE TEM ÓDIO",
+                "seed": 269
             },
             "match_games": []
         },
@@ -14354,7 +14491,9 @@
                 "seed": 95
             },
             "opponent2": {
-                "id": null
+                "id": "f59df90e-521b-11f0-9a6e-de3adb5e464d",
+                "name": "MOBS",
+                "seed": 162
             },
             "match_games": []
         },
@@ -14748,7 +14887,9 @@
                 "seed": 74
             },
             "opponent2": {
-                "id": null
+                "id": "00562a44-5477-11f0-9082-f23e1b03c8de",
+                "name": "Henrique e amigos",
+                "seed": 183
             },
             "match_games": []
         },
