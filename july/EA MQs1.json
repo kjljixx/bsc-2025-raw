@@ -5361,18 +5361,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6834b2de-543b-11f0-955f-f23e1b03c8de",
                 "name": "Double Taken",
-                "seed": 106
+                "seed": 106,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ed65bab2-5363-11f0-99f6-f677c6a6d51a",
                 "name": "らーとむ",
-                "seed": 151
+                "seed": 151,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "6834b2de-543b-11f0-955f-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ed65bab2-5363-11f0-99f6-f677c6a6d51a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "6834b2de-543b-11f0-955f-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ed65bab2-5363-11f0-99f6-f677c6a6d51a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 95,
@@ -7029,7 +7064,9 @@
                 "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "ed65bab2-5363-11f0-99f6-f677c6a6d51a",
+                "name": "らーとむ",
+                "seed": 151
             },
             "match_games": []
         },
