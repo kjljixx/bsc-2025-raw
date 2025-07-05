@@ -6739,18 +6739,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fad9b9ec-5547-11f0-9fd1-f23e1b03c8de",
                 "name": "daisyuwo",
-                "seed": 256
+                "seed": 256,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e521fbd8-53de-11f0-bdc4-f23e1b03c8de",
                 "name": "NoobPlatoon",
-                "seed": 257
+                "seed": 257,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fad9b9ec-5547-11f0-9fd1-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e521fbd8-53de-11f0-bdc4-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "fad9b9ec-5547-11f0-9fd1-f23e1b03c8de",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e521fbd8-53de-11f0-bdc4-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fad9b9ec-5547-11f0-9fd1-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e521fbd8-53de-11f0-bdc4-f23e1b03c8de",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -12714,7 +12764,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "fad9b9ec-5547-11f0-9fd1-f23e1b03c8de",
+                "name": "daisyuwo",
+                "seed": 256
             },
             "match_games": []
         },
