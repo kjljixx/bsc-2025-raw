@@ -11371,18 +11371,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4b3c4cdc-542c-11f0-9198-92d95f13cf21",
                 "name": "Comeback",
-                "seed": 55
+                "seed": 55,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4cfa61b2-521a-11f0-a404-de3adb5e464d",
                 "name": "McDonald’s Workers",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4b3c4cdc-542c-11f0-9198-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4cfa61b2-521a-11f0-a404-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4b3c4cdc-542c-11f0-9198-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4cfa61b2-521a-11f0-a404-de3adb5e464d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 237,
