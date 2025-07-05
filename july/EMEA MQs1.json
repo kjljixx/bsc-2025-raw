@@ -19560,18 +19560,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "77e62d4c-5441-11f0-ae01-92d95f13cf21",
                 "name": "Ninja Players",
-                "seed": 281
+                "seed": 281,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f53722a8-5606-11f0-9794-f23e1b03c8de",
                 "name": "Shadow Sync",
-                "seed": 744
+                "seed": 744,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "77e62d4c-5441-11f0-ae01-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f53722a8-5606-11f0-9794-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "77e62d4c-5441-11f0-ae01-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f53722a8-5606-11f0-9794-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "77e62d4c-5441-11f0-ae01-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f53722a8-5606-11f0-9794-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 85,
