@@ -16396,18 +16396,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "766bf84c-521c-11f0-b43e-de3adb5e464d",
                 "name": "Sum Moon",
-                "seed": 74
+                "seed": 74,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "54ed3cd4-59b6-11f0-88db-5a1090812d7a",
                 "name": "IWIS E-Sports",
-                "seed": 330
+                "seed": 330,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "766bf84c-521c-11f0-b43e-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "54ed3cd4-59b6-11f0-88db-5a1090812d7a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "766bf84c-521c-11f0-b43e-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "54ed3cd4-59b6-11f0-88db-5a1090812d7a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "766bf84c-521c-11f0-b43e-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "54ed3cd4-59b6-11f0-88db-5a1090812d7a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 349,
@@ -18793,7 +18843,9 @@
                 "seed": 55
             },
             "opponent2": {
-                "id": null
+                "id": "54ed3cd4-59b6-11f0-88db-5a1090812d7a",
+                "name": "IWIS E-Sports",
+                "seed": 330
             },
             "match_games": []
         },
