@@ -14694,7 +14694,7 @@
                     "gamerTag": "#2QY0UYYYLG"
                 },
                 {
-                    "name": "Trust Yoshi.",
+                    "name": "ZM|Yoshi",
                     "gamerTag": "#YYJJ2C90R"
                 }
             ],
@@ -20632,18 +20632,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1f515ec-547c-11f0-b7e2-92d95f13cf21",
                 "name": "Team KFC",
-                "seed": 408
+                "seed": 408,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1e290f78-596d-11f0-822a-4a7a15329a84",
                 "name": "Evilon Gaming",
-                "seed": 617
+                "seed": 617,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "d1f515ec-547c-11f0-b7e2-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1e290f78-596d-11f0-822a-4a7a15329a84",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "d1f515ec-547c-11f0-b7e2-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e290f78-596d-11f0-822a-4a7a15329a84",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "d1f515ec-547c-11f0-b7e2-92d95f13cf21",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1e290f78-596d-11f0-822a-4a7a15329a84",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 119,
@@ -23388,18 +23438,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ddb9b5b8-521a-11f0-9e1d-de3adb5e464d",
                 "name": "Crazy | Master",
-                "seed": 357
+                "seed": 357,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c2ceac74-54f7-11f0-9c8c-92d95f13cf21",
                 "name": "New Legends",
-                "seed": 668
+                "seed": 668,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "ddb9b5b8-521a-11f0-9e1d-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c2ceac74-54f7-11f0-9c8c-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "ddb9b5b8-521a-11f0-9e1d-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c2ceac74-54f7-11f0-9c8c-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "ddb9b5b8-521a-11f0-9e1d-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c2ceac74-54f7-11f0-9c8c-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 217,
@@ -30192,18 +30292,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b37ccff2-5426-11f0-8ca2-f23e1b03c8de",
                 "name": "Crusaders",
-                "seed": 467
+                "seed": 467,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "23bb0a04-5431-11f0-b995-f23e1b03c8de",
                 "name": "Domino Esports",
-                "seed": 558
+                "seed": 558,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "b37ccff2-5426-11f0-8ca2-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23bb0a04-5431-11f0-b995-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "b37ccff2-5426-11f0-8ca2-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "23bb0a04-5431-11f0-b995-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b37ccff2-5426-11f0-8ca2-f23e1b03c8de",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "23bb0a04-5431-11f0-b995-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 443,
@@ -33429,7 +33579,9 @@
                 "seed": 105
             },
             "opponent2": {
-                "id": null
+                "id": "1e290f78-596d-11f0-822a-4a7a15329a84",
+                "name": "Evilon Gaming",
+                "seed": 617
             },
             "match_games": []
         },
@@ -34403,7 +34555,9 @@
                 "seed": 156
             },
             "opponent2": {
-                "id": null
+                "id": "ddb9b5b8-521a-11f0-9e1d-de3adb5e464d",
+                "name": "Crazy | Master",
+                "seed": 357
             },
             "match_games": []
         },
@@ -36647,7 +36801,9 @@
                 "seed": 46
             },
             "opponent2": {
-                "id": null
+                "id": "23bb0a04-5431-11f0-b995-f23e1b03c8de",
+                "name": "Domino Esports",
+                "seed": 558
             },
             "match_games": []
         },
