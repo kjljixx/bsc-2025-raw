@@ -16004,18 +16004,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "69da3656-5498-11f0-b462-92d95f13cf21",
                 "name": "KAF",
-                "seed": 111
+                "seed": 111,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ef806532-5466-11f0-b805-92d95f13cf21",
                 "name": "BlueStarsUnited",
-                "seed": 146
+                "seed": 146,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "69da3656-5498-11f0-b462-92d95f13cf21",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ef806532-5466-11f0-b805-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "69da3656-5498-11f0-b462-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ef806532-5466-11f0-b805-92d95f13cf21",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "69da3656-5498-11f0-b462-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ef806532-5466-11f0-b805-92d95f13cf21",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 335,
@@ -17632,18 +17682,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7c8ffc78-521c-11f0-8b17-de3adb5e464d",
                 "name": "brawlers",
-                "seed": 102
+                "seed": 102,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f021ca4a-5645-11f0-8970-f23e1b03c8de",
                 "name": "ACOSADORES F/A",
-                "seed": 155
+                "seed": 155,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "7c8ffc78-521c-11f0-8b17-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f021ca4a-5645-11f0-8970-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "7c8ffc78-521c-11f0-8b17-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f021ca4a-5645-11f0-8970-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7c8ffc78-521c-11f0-8b17-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f021ca4a-5645-11f0-8970-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 375,
@@ -18849,7 +18949,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "ef806532-5466-11f0-b805-92d95f13cf21",
+                "name": "BlueStarsUnited",
+                "seed": 146
             },
             "match_games": []
         },
@@ -19247,7 +19349,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "f021ca4a-5645-11f0-8970-f23e1b03c8de",
+                "name": "ACOSADORES F/A",
+                "seed": 155
             },
             "match_games": []
         },
