@@ -6548,18 +6548,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f91cbcc-521a-11f0-8279-de3adb5e464d",
                 "name": "師匠と弟子たち",
-                "seed": 57
+                "seed": 57,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f9bd899a-54a1-11f0-bbd8-92d95f13cf21",
                 "name": "SM|shumana",
-                "seed": 72
+                "seed": 72,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4f91cbcc-521a-11f0-8279-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f9bd899a-54a1-11f0-bbd8-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4f91cbcc-521a-11f0-8279-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f9bd899a-54a1-11f0-bbd8-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 139,
@@ -7815,18 +7850,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4edf69aa-521a-11f0-96ea-de3adb5e464d",
                 "name": "グチルチキン",
-                "seed": 38
+                "seed": 38,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
                 "name": "어디까지 따라와 진짜",
-                "seed": 166
+                "seed": 166,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4edf69aa-521a-11f0-96ea-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4edf69aa-521a-11f0-96ea-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 189,
@@ -8438,7 +8508,9 @@
                 "seed": 102
             },
             "opponent2": {
-                "id": null
+                "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
+                "name": "어디까지 따라와 진짜",
+                "seed": 166
             },
             "match_games": []
         },
