@@ -22045,18 +22045,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "767d1ba4-521c-11f0-b4c2-de3adb5e464d",
                 "name": "Lightning empire",
-                "seed": 30
+                "seed": 30,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "69b173ca-54ba-11f0-a947-f23e1b03c8de",
                 "name": "C Tex",
-                "seed": 222
+                "seed": 222,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "767d1ba4-521c-11f0-b4c2-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69b173ca-54ba-11f0-a947-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "767d1ba4-521c-11f0-b4c2-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69b173ca-54ba-11f0-a947-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 475,
