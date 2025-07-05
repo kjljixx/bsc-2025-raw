@@ -57190,18 +57190,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1980fa3a-54e5-11f0-9b0f-f23e1b03c8de",
                 "name": "Aogiri Esports",
-                "seed": 646
+                "seed": 646,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cdfbdfac-521a-11f0-9b68-de3adb5e464d",
                 "name": "Own Close Team",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "1980fa3a-54e5-11f0-9b0f-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cdfbdfac-521a-11f0-9b68-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "1980fa3a-54e5-11f0-9b0f-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cdfbdfac-521a-11f0-9b68-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1008,
