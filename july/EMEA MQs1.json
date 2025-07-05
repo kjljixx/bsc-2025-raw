@@ -51833,18 +51833,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d19fef18-521a-11f0-a56a-de3adb5e464d",
                 "name": "TEAM KODAK",
-                "seed": 25
+                "seed": 25,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cb6341d6-521a-11f0-ab7f-de3adb5e464d",
                 "name": "Les KoikouBoubou",
-                "seed": 104
+                "seed": 104,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "d19fef18-521a-11f0-a56a-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb6341d6-521a-11f0-ab7f-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d19fef18-521a-11f0-a56a-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cb6341d6-521a-11f0-ab7f-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "d19fef18-521a-11f0-a56a-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cb6341d6-521a-11f0-ab7f-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 908,
@@ -54954,8 +55004,16 @@
             "round_id": 5,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "cb6341d6-521a-11f0-ab7f-de3adb5e464d",
+                "name": "Les KoikouBoubou",
+                "seed": 104
+            },
+            "opponent2": {
+                "id": "d3a7cc90-521a-11f0-8f32-de3adb5e464d",
+                "name": "WeLoveYou",
+                "seed": 345
+            },
             "match_games": []
         },
         {
