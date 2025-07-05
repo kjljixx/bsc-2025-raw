@@ -14271,18 +14271,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f62b3472-521b-11f0-9ce4-de3adb5e464d",
                 "name": "BAM",
-                "seed": 96
+                "seed": 96,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d21aa8c6-552f-11f0-a6cc-f23e1b03c8de",
                 "name": "Epílogo NL",
-                "seed": 161
+                "seed": 161,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f62b3472-521b-11f0-9ce4-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d21aa8c6-552f-11f0-a6cc-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "f62b3472-521b-11f0-9ce4-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d21aa8c6-552f-11f0-a6cc-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f62b3472-521b-11f0-9ce4-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d21aa8c6-552f-11f0-a6cc-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 265,
@@ -17770,18 +17820,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f569f9e2-521b-11f0-9290-de3adb5e464d",
                 "name": "Shock Gaming",
-                "seed": 3
+                "seed": 3,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b85e17bc-53b6-11f0-935f-f23e1b03c8de",
                 "name": "Capixabas",
-                "seed": 254
+                "seed": 254,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f569f9e2-521b-11f0-9290-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b85e17bc-53b6-11f0-935f-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "f569f9e2-521b-11f0-9290-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b85e17bc-53b6-11f0-935f-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f569f9e2-521b-11f0-9290-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b85e17bc-53b6-11f0-935f-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 354,
@@ -18964,7 +19064,9 @@
                 "seed": 33
             },
             "opponent2": {
-                "id": null
+                "id": "f62b3472-521b-11f0-9ce4-de3adb5e464d",
+                "name": "BAM",
+                "seed": 96
             },
             "match_games": []
         },
@@ -19843,10 +19945,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b85e17bc-53b6-11f0-935f-f23e1b03c8de",
+                "name": "Capixabas",
+                "seed": 254
             },
             "opponent2": {
-                "id": null
+                "id": "fb166984-521b-11f0-9171-de3adb5e464d",
+                "name": "🌻 Sunflowers 🌻",
+                "seed": 131
             },
             "match_games": []
         },
