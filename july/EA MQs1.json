@@ -9297,18 +9297,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4d7c59ba-521a-11f0-b3c6-de3adb5e464d",
                 "name": "Opkids",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c6ef9ccc-5494-11f0-bfa7-f23e1b03c8de",
                 "name": "キツネのマーチ",
-                "seed": 61
+                "seed": 61,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4d7c59ba-521a-11f0-b3c6-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c6ef9ccc-5494-11f0-bfa7-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "4d7c59ba-521a-11f0-b3c6-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c6ef9ccc-5494-11f0-bfa7-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 202,
@@ -9667,18 +9702,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4cfa61b2-521a-11f0-a404-de3adb5e464d",
                 "name": "McDonald’s Workers",
-                "seed": 23
+                "seed": 23,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4d968bd2-521a-11f0-92ad-de3adb5e464d",
                 "name": "Tiga Toddlers",
-                "seed": 42
+                "seed": 42,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4cfa61b2-521a-11f0-a404-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4d968bd2-521a-11f0-92ad-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "4cfa61b2-521a-11f0-a404-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4d968bd2-521a-11f0-92ad-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 217,
@@ -9707,18 +9777,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4fdf5554-521a-11f0-baa4-de3adb5e464d",
                 "name": "Astute Nova",
-                "seed": 30
+                "seed": 30,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4d5cfc82-521a-11f0-818b-de3adb5e464d",
                 "name": "( ˘•ω•˘ )",
-                "seed": 35
+                "seed": 35,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4fdf5554-521a-11f0-baa4-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4d5cfc82-521a-11f0-818b-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "4fdf5554-521a-11f0-baa4-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4d5cfc82-521a-11f0-818b-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 219,
@@ -10020,7 +10125,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4d7c59ba-521a-11f0-b3c6-de3adb5e464d",
+                "name": "Opkids",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
