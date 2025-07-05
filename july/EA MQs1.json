@@ -11066,18 +11066,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f5e736c-521a-11f0-91b9-de3adb5e464d",
                 "name": "RedBull",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4ff3dba0-521a-11f0-be64-de3adb5e464d",
                 "name": "Shadow Phoenix",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4f5e736c-521a-11f0-91b9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ff3dba0-521a-11f0-be64-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4f5e736c-521a-11f0-91b9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ff3dba0-521a-11f0-be64-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 234,
