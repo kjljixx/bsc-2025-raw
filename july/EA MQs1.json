@@ -7085,18 +7085,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f5ceaf6-521a-11f0-85f1-de3adb5e464d",
                 "name": "Fug",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "972f4ef4-5356-11f0-91a4-92d95f13cf21",
                 "name": "TNT",
-                "seed": 143
+                "seed": 143,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4f5ceaf6-521a-11f0-85f1-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "972f4ef4-5356-11f0-91a4-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4f5ceaf6-521a-11f0-85f1-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "972f4ef4-5356-11f0-91a4-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 166,
@@ -7400,18 +7435,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4fdf5554-521a-11f0-baa4-de3adb5e464d",
                 "name": "Astute Nova",
-                "seed": 30
+                "seed": 30,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e42ebcc4-5669-11f0-bc23-92d95f13cf21",
                 "name": "😀Smile😀",
-                "seed": 99
+                "seed": 99,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4fdf5554-521a-11f0-baa4-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e42ebcc4-5669-11f0-bc23-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4fdf5554-521a-11f0-baa4-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e42ebcc4-5669-11f0-bc23-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 180,
@@ -7970,7 +8040,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f5ceaf6-521a-11f0-85f1-de3adb5e464d",
+                "name": "Fug",
+                "seed": 15
             },
             "opponent2": {
                 "id": null
@@ -8082,7 +8154,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4fdf5554-521a-11f0-baa4-de3adb5e464d",
+                "name": "Astute Nova",
+                "seed": 30
             },
             "opponent2": {
                 "id": null
