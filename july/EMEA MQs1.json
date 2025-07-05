@@ -26314,18 +26314,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d22809a2-521a-11f0-bc19-de3adb5e464d",
                 "name": "PAE",
-                "seed": 335
+                "seed": 335,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fcb299e6-550b-11f0-ab56-f23e1b03c8de",
                 "name": "JA|E-SPORT",
-                "seed": 690
+                "seed": 690,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "d22809a2-521a-11f0-bc19-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fcb299e6-550b-11f0-ab56-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "d22809a2-521a-11f0-bc19-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fcb299e6-550b-11f0-ab56-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 305,
@@ -35483,7 +35518,9 @@
                 "seed": 178
             },
             "opponent2": {
-                "id": null
+                "id": "d22809a2-521a-11f0-bc19-de3adb5e464d",
+                "name": "PAE",
+                "seed": 335
             },
             "match_games": []
         },
