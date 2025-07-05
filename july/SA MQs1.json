@@ -9881,18 +9881,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b3176ffc-5761-11f0-9fe1-92d95f13cf21",
                 "name": "Team Heredia",
-                "seed": 194
+                "seed": 194,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b85a9d70-5687-11f0-a8c0-f23e1b03c8de",
                 "name": "PARADOX BR🇧🇷",
-                "seed": 319
+                "seed": 319,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "b3176ffc-5761-11f0-9fe1-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b85a9d70-5687-11f0-a8c0-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "b3176ffc-5761-11f0-9fe1-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b85a9d70-5687-11f0-a8c0-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 135,
@@ -10457,18 +10492,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4d69ef86-551d-11f0-bea1-92d95f13cf21",
                 "name": "TRIO PARADA DURA",
-                "seed": 199
+                "seed": 199,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "177c4314-5433-11f0-90e1-f23e1b03c8de",
                 "name": "Blood Diamond",
-                "seed": 314
+                "seed": 314,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4d69ef86-551d-11f0-bea1-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "177c4314-5433-11f0-90e1-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "4d69ef86-551d-11f0-bea1-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "177c4314-5433-11f0-90e1-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 167,
@@ -10604,18 +10674,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "54f7a302-5940-11f0-9e57-f6fee980cb3d",
                 "name": "Soul Dragon",
-                "seed": 218
+                "seed": 218,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3c189f4c-5550-11f0-9e66-f23e1b03c8de",
                 "name": "Team Palta",
-                "seed": 295
+                "seed": 295,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "54f7a302-5940-11f0-9e57-f6fee980cb3d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c189f4c-5550-11f0-9e66-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "54f7a302-5940-11f0-9e57-f6fee980cb3d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c189f4c-5550-11f0-9e66-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 175,
@@ -13487,7 +13592,9 @@
                 "seed": 63
             },
             "opponent2": {
-                "id": null
+                "id": "b85a9d70-5687-11f0-a8c0-f23e1b03c8de",
+                "name": "PARADOX BR🇧🇷",
+                "seed": 319
             },
             "match_games": []
         },
@@ -13795,7 +13902,9 @@
                 "seed": 58
             },
             "opponent2": {
-                "id": null
+                "id": "177c4314-5433-11f0-90e1-f23e1b03c8de",
+                "name": "Blood Diamond",
+                "seed": 314
             },
             "match_games": []
         },
@@ -13873,7 +13982,9 @@
                 "seed": 39
             },
             "opponent2": {
-                "id": null
+                "id": "3c189f4c-5550-11f0-9e66-f23e1b03c8de",
+                "name": "Team Palta",
+                "seed": 295
             },
             "match_games": []
         },
