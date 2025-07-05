@@ -51538,18 +51538,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "de9d3eaa-521a-11f0-8f4f-de3adb5e464d",
                 "name": "Krono Esports",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c5a8e2dc-521a-11f0-9c20-de3adb5e464d",
                 "name": "Die Banausen",
-                "seed": 113
+                "seed": 113,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "de9d3eaa-521a-11f0-8f4f-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c5a8e2dc-521a-11f0-9c20-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "de9d3eaa-521a-11f0-8f4f-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c5a8e2dc-521a-11f0-9c20-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 902,
@@ -53423,18 +53458,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "002a835c-5752-11f0-958d-92d95f13cf21",
                 "name": "Kana",
-                "seed": 547
+                "seed": 547,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4e3c0214-5383-11f0-a5da-f23e1b03c8de",
                 "name": "Laughing out loud",
-                "seed": 675
+                "seed": 675,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "002a835c-5752-11f0-958d-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4e3c0214-5383-11f0-a5da-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "002a835c-5752-11f0-958d-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4e3c0214-5383-11f0-a5da-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "002a835c-5752-11f0-958d-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4e3c0214-5383-11f0-a5da-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 949,
@@ -53865,10 +53950,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "de9d3eaa-521a-11f0-8f4f-de3adb5e464d",
+                "name": "Krono Esports",
+                "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "de6aeafe-521a-11f0-add4-de3adb5e464d",
+                "name": "Tsunami Esports",
+                "seed": 49
             },
             "match_games": []
         },
@@ -54278,7 +54367,9 @@
                 "seed": 611
             },
             "opponent2": {
-                "id": null
+                "id": "002a835c-5752-11f0-958d-92d95f13cf21",
+                "name": "Kana",
+                "seed": 547
             },
             "match_games": []
         },
