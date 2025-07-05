@@ -53478,11 +53478,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cba9a8e2-521a-11f0-8137-de3adb5e464d",
                 "name": "Loco-Poco",
-                "seed": 39
+                "seed": 39,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "dcfa5c54-521a-11f0-a683-de3adb5e464d",
@@ -54438,18 +54439,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "df45e1c2-521a-11f0-b44e-de3adb5e464d",
                 "name": "Jobless Esports",
-                "seed": 203
+                "seed": 203,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2791b2fa-58c7-11f0-814f-5a04b25de3e5",
                 "name": "VG|esport",
-                "seed": 587
+                "seed": 587,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "df45e1c2-521a-11f0-b44e-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2791b2fa-58c7-11f0-814f-5a04b25de3e5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "df45e1c2-521a-11f0-b44e-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2791b2fa-58c7-11f0-814f-5a04b25de3e5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "df45e1c2-521a-11f0-b44e-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2791b2fa-58c7-11f0-814f-5a04b25de3e5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 959,
@@ -54988,7 +55039,9 @@
                 "seed": 794
             },
             "opponent2": {
-                "id": null
+                "id": "dcfa5c54-521a-11f0-a683-de3adb5e464d",
+                "name": "Vision is Bad",
+                "seed": 90
             },
             "match_games": []
         },
@@ -55160,7 +55213,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "2791b2fa-58c7-11f0-814f-5a04b25de3e5",
+                "name": "VG|esport",
+                "seed": 587
             },
             "match_games": []
         },
