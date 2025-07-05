@@ -4581,18 +4581,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "39cddada-542f-11f0-b3b9-f23e1b03c8de",
                 "name": "ちょけ大陸",
-                "seed": 98
+                "seed": 98,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "115a118e-537d-11f0-97d9-f23e1b03c8de",
                 "name": "Zora 🔱",
-                "seed": 159
+                "seed": 159,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "39cddada-542f-11f0-b3b9-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "115a118e-537d-11f0-97d9-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "39cddada-542f-11f0-b3b9-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "115a118e-537d-11f0-97d9-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 71,
@@ -6283,7 +6318,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "39cddada-542f-11f0-b3b9-f23e1b03c8de",
+                "name": "ちょけ大陸",
+                "seed": 98
             },
             "match_games": []
         },
