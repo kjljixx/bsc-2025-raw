@@ -1546,7 +1546,7 @@
             "name": "Team Gazpacho",
             "players": [
                 {
-                    "name": "Antonio pro",
+                    "name": "TG | Drimin",
                     "gamerTag": "#QUQR82CP"
                 },
                 {
@@ -3926,7 +3926,7 @@
             "name": "FreedomFighters",
             "players": [
                 {
-                    "name": "Bloodzfox|BS",
+                    "name": "FF|Pookiefox🦊",
                     "gamerTag": "#U0VY2L2Y"
                 },
                 {
@@ -21535,18 +21535,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a428fa80-54f3-11f0-8a2b-f23e1b03c8de",
                 "name": "Lily",
-                "seed": 356
+                "seed": 356,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6f69d6a8-5380-11f0-9af7-f23e1b03c8de",
                 "name": "GMX",
-                "seed": 669
+                "seed": 669,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "a428fa80-54f3-11f0-8a2b-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6f69d6a8-5380-11f0-9af7-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "a428fa80-54f3-11f0-8a2b-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6f69d6a8-5380-11f0-9af7-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a428fa80-54f3-11f0-8a2b-f23e1b03c8de",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6f69d6a8-5380-11f0-9af7-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 153,
@@ -34004,7 +34054,9 @@
                 "seed": 157
             },
             "opponent2": {
-                "id": null
+                "id": "6f69d6a8-5380-11f0-9af7-f23e1b03c8de",
+                "name": "GMX",
+                "seed": 669
             },
             "match_games": []
         },
