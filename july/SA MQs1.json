@@ -24717,18 +24717,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6a8b99a8-576f-11f0-b61f-f23e1b03c8de",
                 "name": "Outdrafters",
-                "seed": 335
+                "seed": 335,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f973a678-521b-11f0-b398-de3adb5e464d",
                 "name": "Be Bold",
-                "seed": 146
+                "seed": 146,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "6a8b99a8-576f-11f0-b61f-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f973a678-521b-11f0-b398-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "6a8b99a8-576f-11f0-b61f-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f973a678-521b-11f0-b398-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "6a8b99a8-576f-11f0-b61f-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f973a678-521b-11f0-b398-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 491,
@@ -24792,18 +24842,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fbe8d7ac-521b-11f0-9ca8-de3adb5e464d",
                 "name": "3DBR",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fb60e108-521b-11f0-9f33-de3adb5e464d",
                 "name": "Dark Night",
-                "seed": 87
+                "seed": 87,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "fbe8d7ac-521b-11f0-9ca8-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fb60e108-521b-11f0-9f33-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "fbe8d7ac-521b-11f0-9ca8-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb60e108-521b-11f0-9f33-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fbe8d7ac-521b-11f0-9ca8-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb60e108-521b-11f0-9f33-de3adb5e464d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 493,

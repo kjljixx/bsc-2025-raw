@@ -7392,18 +7392,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6f560a80-53d3-11f0-8d5b-f23e1b03c8de",
                 "name": "Apollo Code",
-                "seed": 249
+                "seed": 249,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b186e458-5570-11f0-be2f-f23e1b03c8de",
                 "name": "TQ | GAMING",
-                "seed": 264
+                "seed": 264,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "6f560a80-53d3-11f0-8d5b-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b186e458-5570-11f0-be2f-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "6f560a80-53d3-11f0-8d5b-f23e1b03c8de",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b186e458-5570-11f0-be2f-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "6f560a80-53d3-11f0-8d5b-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b186e458-5570-11f0-be2f-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -8362,18 +8412,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "449fb8d6-59b4-11f0-91e3-a2dba56828cf",
                 "name": "os insanos",
-                "seed": 221
+                "seed": 221,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d0304dae-57cd-11f0-a7b0-92d95f13cf21",
                 "name": "Sixth Sense",
-                "seed": 292
+                "seed": 292,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "449fb8d6-59b4-11f0-91e3-a2dba56828cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d0304dae-57cd-11f0-a7b0-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "449fb8d6-59b4-11f0-91e3-a2dba56828cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d0304dae-57cd-11f0-a7b0-92d95f13cf21",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 79,
@@ -12767,7 +12852,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "b186e458-5570-11f0-be2f-f23e1b03c8de",
+                "name": "TQ | GAMING",
+                "seed": 264
             },
             "match_games": []
         },
@@ -13191,7 +13278,9 @@
                 "seed": 36
             },
             "opponent2": {
-                "id": null
+                "id": "d0304dae-57cd-11f0-a7b0-92d95f13cf21",
+                "name": "Sixth Sense",
+                "seed": 292
             },
             "match_games": []
         },
