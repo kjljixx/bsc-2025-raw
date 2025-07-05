@@ -3906,7 +3906,7 @@
             "name": "The Winners",
             "players": [
                 {
-                    "name": "TTM|Coscu🌴",
+                    "name": "KZ|Coscu⚡️",
                     "gamerTag": "#Y8P9Y9QJC"
                 },
                 {
@@ -27807,18 +27807,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d78d3534-521a-11f0-bdc2-de3adb5e464d",
                 "name": "Sigma Boys",
-                "seed": 423
+                "seed": 423,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "32effe40-5462-11f0-bb14-f23e1b03c8de",
                 "name": "FSK OLLARE",
-                "seed": 602
+                "seed": 602,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "d78d3534-521a-11f0-bdc2-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "32effe40-5462-11f0-bb14-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "d78d3534-521a-11f0-bdc2-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "32effe40-5462-11f0-bb14-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "d78d3534-521a-11f0-bdc2-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "32effe40-5462-11f0-bb14-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 351,
@@ -36135,7 +36185,9 @@
                 "seed": 90
             },
             "opponent2": {
-                "id": null
+                "id": "32effe40-5462-11f0-bb14-f23e1b03c8de",
+                "name": "FSK OLLARE",
+                "seed": 602
             },
             "match_games": []
         },
