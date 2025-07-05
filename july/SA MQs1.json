@@ -11010,18 +11010,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "452ff024-5444-11f0-b815-92d95f13cf21",
                 "name": "Los Tralaleros",
-                "seed": 223
+                "seed": 223,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "58d9dc26-53d0-11f0-aff3-f23e1b03c8de",
                 "name": "Insanos",
-                "seed": 290
+                "seed": 290,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "452ff024-5444-11f0-b815-92d95f13cf21",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "58d9dc26-53d0-11f0-aff3-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "452ff024-5444-11f0-b815-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "58d9dc26-53d0-11f0-aff3-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "452ff024-5444-11f0-b815-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "58d9dc26-53d0-11f0-aff3-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 143,
@@ -15295,7 +15345,9 @@
                 "seed": 34
             },
             "opponent2": {
-                "id": null
+                "id": "58d9dc26-53d0-11f0-aff3-f23e1b03c8de",
+                "name": "Insanos",
+                "seed": 290
             },
             "match_games": []
         },
@@ -15492,9 +15544,7 @@
                 "name": "Ultimate Recharge",
                 "seed": 7
             },
-            "opponent2": {
-                "id": null
-            },
+            "opponent2": null,
             "match_games": []
         },
         {
