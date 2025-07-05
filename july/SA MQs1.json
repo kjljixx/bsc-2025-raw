@@ -9125,18 +9125,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "705b86b0-5939-11f0-b4cb-2a6dde516047",
                 "name": "Shadow",
-                "seed": 216
+                "seed": 216,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "60bcdac4-5556-11f0-b5a7-f23e1b03c8de",
                 "name": "Esparta Team Br Ofc",
-                "seed": 297
+                "seed": 297,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "705b86b0-5939-11f0-b4cb-2a6dde516047",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "60bcdac4-5556-11f0-b5a7-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "705b86b0-5939-11f0-b4cb-2a6dde516047",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "60bcdac4-5556-11f0-b5a7-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "705b86b0-5939-11f0-b4cb-2a6dde516047",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "60bcdac4-5556-11f0-b5a7-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 63,
@@ -14345,7 +14395,9 @@
                 "seed": 41
             },
             "opponent2": {
-                "id": null
+                "id": "60bcdac4-5556-11f0-b5a7-f23e1b03c8de",
+                "name": "Esparta Team Br Ofc",
+                "seed": 297
             },
             "match_games": []
         },
