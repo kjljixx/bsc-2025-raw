@@ -10086,7 +10086,7 @@
             "name": "GZ|E-sports",
             "players": [
                 {
-                    "name": "SiloWestside",
+                    "name": "AoV|Hades",
                     "gamerTag": "#92JJ2CVQR"
                 },
                 {
@@ -52358,18 +52358,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da487432-521a-11f0-973c-de3adb5e464d",
                 "name": "Synchronic Gaming",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c752da3e-521a-11f0-ab6d-de3adb5e464d",
                 "name": "Flash Esports",
-                "seed": 142
+                "seed": 142,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "da487432-521a-11f0-973c-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c752da3e-521a-11f0-ab6d-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "da487432-521a-11f0-973c-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c752da3e-521a-11f0-ab6d-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 950,
@@ -53016,7 +53051,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "da487432-521a-11f0-973c-de3adb5e464d",
+                "name": "Synchronic Gaming",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
