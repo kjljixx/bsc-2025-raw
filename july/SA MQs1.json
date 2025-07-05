@@ -19247,18 +19247,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "78cda878-5493-11f0-8bc5-92d95f13cf21",
                 "name": "GARAMARARAM",
-                "seed": 257
+                "seed": 257,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fb1bf8cc-521b-11f0-9561-de3adb5e464d",
                 "name": "COSMIC V2",
-                "seed": 128
+                "seed": 128,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "78cda878-5493-11f0-8bc5-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb1bf8cc-521b-11f0-9561-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "78cda878-5493-11f0-8bc5-92d95f13cf21",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fb1bf8cc-521b-11f0-9561-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "78cda878-5493-11f0-8bc5-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb1bf8cc-521b-11f0-9561-de3adb5e464d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 386,
@@ -22665,10 +22715,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "78cda878-5493-11f0-8bc5-92d95f13cf21",
+                "name": "GARAMARARAM",
+                "seed": 257
             },
             "opponent2": {
-                "id": null
+                "id": "f773f7a6-521b-11f0-8493-de3adb5e464d",
+                "name": "7 Shots",
+                "seed": 64
             },
             "match_games": []
         },
