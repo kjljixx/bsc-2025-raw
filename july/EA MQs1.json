@@ -6885,18 +6885,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4fb1abd6-521a-11f0-95a4-de3adb5e464d",
                 "name": "∑boys",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c909e744-5807-11f0-836e-f23e1b03c8de",
                 "name": "GAN.G ESPORTS",
-                "seed": 156
+                "seed": 156,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4fb1abd6-521a-11f0-95a4-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c909e744-5807-11f0-836e-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4fb1abd6-521a-11f0-95a4-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c909e744-5807-11f0-836e-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 156,
@@ -7960,7 +7995,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c909e744-5807-11f0-836e-f23e1b03c8de",
+                "name": "GAN.G ESPORTS",
+                "seed": 156
             },
             "opponent2": {
                 "id": null
