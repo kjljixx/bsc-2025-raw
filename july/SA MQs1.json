@@ -24342,18 +24342,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa7b9ed6-521b-11f0-8c71-de3adb5e464d",
                 "name": "Use Code",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fa7580e6-521b-11f0-8aa5-de3adb5e464d",
                 "name": "MAO DE RAQUETE",
-                "seed": 36
+                "seed": 36,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "fa7b9ed6-521b-11f0-8c71-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa7580e6-521b-11f0-8aa5-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "fa7b9ed6-521b-11f0-8c71-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa7580e6-521b-11f0-8aa5-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 486,
