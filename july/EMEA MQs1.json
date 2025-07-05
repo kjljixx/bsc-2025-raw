@@ -54957,18 +54957,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d4b39876-521a-11f0-9149-de3adb5e464d",
                 "name": "MBT SUMMIT",
-                "seed": 1
+                "seed": 1,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "711bedb4-543f-11f0-ac01-f23e1b03c8de",
                 "name": "F/A🇨🇳",
-                "seed": 576
+                "seed": 576,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "d4b39876-521a-11f0-9149-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "711bedb4-543f-11f0-ac01-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "d4b39876-521a-11f0-9149-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "711bedb4-543f-11f0-ac01-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "d4b39876-521a-11f0-9149-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "711bedb4-543f-11f0-ac01-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 962,
@@ -56687,10 +56737,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "711bedb4-543f-11f0-ac01-f23e1b03c8de",
+                "name": "F/A🇨🇳",
+                "seed": 576
             },
             "opponent2": {
-                "id": null
+                "id": "df2d33b6-521a-11f0-b646-de3adb5e464d",
+                "name": "Autoaim abuser",
+                "seed": 96
             },
             "match_games": []
         },
