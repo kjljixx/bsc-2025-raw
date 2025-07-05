@@ -52728,18 +52728,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cd9e96f8-521a-11f0-a596-de3adb5e464d",
                 "name": "DPB Academy",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c65430ce-521a-11f0-9312-de3adb5e464d",
                 "name": "La cuadrilla",
-                "seed": 140
+                "seed": 140,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cd9e96f8-521a-11f0-a596-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c65430ce-521a-11f0-9312-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cd9e96f8-521a-11f0-a596-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c65430ce-521a-11f0-9312-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "cd9e96f8-521a-11f0-a596-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c65430ce-521a-11f0-9312-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 926,
@@ -54184,18 +54234,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fe8922f6-5413-11f0-88f1-92d95f13cf21",
                 "name": "AM UN GRATAR",
-                "seed": 518
+                "seed": 518,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1980fa3a-54e5-11f0-9b0f-f23e1b03c8de",
                 "name": "Aogiri Esports",
-                "seed": 646
+                "seed": 646,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "fe8922f6-5413-11f0-88f1-92d95f13cf21",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1980fa3a-54e5-11f0-9b0f-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "fe8922f6-5413-11f0-88f1-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1980fa3a-54e5-11f0-9b0f-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 954,
@@ -54902,7 +54987,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cd9e96f8-521a-11f0-a596-de3adb5e464d",
+                "name": "DPB Academy",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
@@ -55172,10 +55259,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1980fa3a-54e5-11f0-9b0f-f23e1b03c8de",
+                "name": "Aogiri Esports",
+                "seed": 646
             },
             "opponent2": {
-                "id": null
+                "id": "cd25c20a-521a-11f0-9221-de3adb5e464d",
+                "name": "Nebonbo",
+                "seed": 59
             },
             "match_games": []
         },
