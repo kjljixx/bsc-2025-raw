@@ -3750,7 +3750,7 @@
                     "gamerTag": "#9CR8UV9Y"
                 },
                 {
-                    "name": "Igorzzk",
+                    "name": "ZZK | Igorzzk",
                     "gamerTag": "#9YG089RU"
                 },
                 {
@@ -3826,7 +3826,7 @@
             "name": "PARADOX BR🇧🇷",
             "players": [
                 {
-                    "name": "LunobatistBR",
+                    "name": "PAD|Lunobatist",
                     "gamerTag": "#2PP9V9RRV"
                 },
                 {
@@ -8132,18 +8132,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f3f416c-5556-11f0-965c-f23e1b03c8de",
                 "name": "Houston Outlaws",
-                "seed": 209
+                "seed": 209,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "31378626-53e1-11f0-93ee-92d95f13cf21",
                 "name": "Papu's Crew",
-                "seed": 304
+                "seed": 304,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "7f3f416c-5556-11f0-965c-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31378626-53e1-11f0-93ee-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "7f3f416c-5556-11f0-965c-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "31378626-53e1-11f0-93ee-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7f3f416c-5556-11f0-965c-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31378626-53e1-11f0-93ee-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 31,
@@ -13375,7 +13425,9 @@
                 "seed": 48
             },
             "opponent2": {
-                "id": null
+                "id": "7f3f416c-5556-11f0-965c-f23e1b03c8de",
+                "name": "Houston Outlaws",
+                "seed": 209
             },
             "match_games": []
         },
