@@ -20337,18 +20337,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6639210e-555d-11f0-bc39-f23e1b03c8de",
                 "name": "MAGISTER DEL VALLE",
-                "seed": 301
+                "seed": 301,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e9801c62-5381-11f0-bb96-92d95f13cf21",
                 "name": "Bahia abuss",
-                "seed": 340
+                "seed": 340,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6639210e-555d-11f0-bc39-f23e1b03c8de",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e9801c62-5381-11f0-bb96-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "6639210e-555d-11f0-bc39-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9801c62-5381-11f0-bb96-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "6639210e-555d-11f0-bc39-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e9801c62-5381-11f0-bb96-92d95f13cf21",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 409,
@@ -20542,18 +20592,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f80481e0-521b-11f0-948f-de3adb5e464d",
                 "name": "Team Salchipapa",
-                "seed": 12
+                "seed": 12,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fb34a660-521b-11f0-8c21-de3adb5e464d",
                 "name": "Team Milanesa",
-                "seed": 140
+                "seed": 140,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "f80481e0-521b-11f0-948f-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fb34a660-521b-11f0-8c21-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "f80481e0-521b-11f0-948f-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fb34a660-521b-11f0-8c21-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 414,
@@ -21457,18 +21542,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f644a8d0-521b-11f0-ab1c-de3adb5e464d",
                 "name": "Espanta Insanos",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "99efaee4-538e-11f0-af05-92d95f13cf21",
                 "name": "LORGED_FC",
-                "seed": 350
+                "seed": 350,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "f644a8d0-521b-11f0-ab1c-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "99efaee4-538e-11f0-af05-92d95f13cf21",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "f644a8d0-521b-11f0-ab1c-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "99efaee4-538e-11f0-af05-92d95f13cf21",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 437,
@@ -22274,7 +22394,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "e9801c62-5381-11f0-bb96-92d95f13cf21",
+                "name": "Bahia abuss",
+                "seed": 340
             },
             "match_games": []
         },
@@ -22323,7 +22445,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb34a660-521b-11f0-8c21-de3adb5e464d",
+                "name": "Team Milanesa",
+                "seed": 140
             },
             "opponent2": {
                 "id": null
