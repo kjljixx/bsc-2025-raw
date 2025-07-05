@@ -21565,18 +21565,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7dbdbf04-521c-11f0-a85b-de3adb5e464d",
                 "name": "RaulLovers",
-                "seed": 32
+                "seed": 32,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d20d391a-5382-11f0-9b55-92d95f13cf21",
                 "name": "Welovecheese",
-                "seed": 289
+                "seed": 289,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7dbdbf04-521c-11f0-a85b-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d20d391a-5382-11f0-9b55-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7dbdbf04-521c-11f0-a85b-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d20d391a-5382-11f0-9b55-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 451,
