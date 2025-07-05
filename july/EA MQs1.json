@@ -11551,18 +11551,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f6dd960-521a-11f0-b378-de3adb5e464d",
                 "name": "どれいくイク逝く",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
                 "name": "어디까지 따라와 진짜",
-                "seed": 166
+                "seed": 166,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4f6dd960-521a-11f0-b378-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4f6dd960-521a-11f0-b378-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4f6dd960-521a-11f0-b378-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "159f9fb6-58eb-11f0-989d-1e24f81217de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 240,
