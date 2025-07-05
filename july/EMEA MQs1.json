@@ -53233,18 +53233,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cd5bd0de-521a-11f0-a9ad-de3adb5e464d",
                 "name": "Niks",
-                "seed": 311
+                "seed": 311,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d64244a8-521a-11f0-97a4-de3adb5e464d",
                 "name": "Blue Hearts 🩵",
-                "seed": 74
+                "seed": 74,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cd5bd0de-521a-11f0-a9ad-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d64244a8-521a-11f0-97a4-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cd5bd0de-521a-11f0-a9ad-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d64244a8-521a-11f0-97a4-de3adb5e464d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 943,
