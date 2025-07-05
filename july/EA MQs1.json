@@ -5409,18 +5409,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1dd3132a-5436-11f0-9335-f23e1b03c8de",
                 "name": "人参農場",
-                "seed": 102
+                "seed": 102,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bf6ae2d8-5375-11f0-bada-92d95f13cf21",
                 "name": "LPS",
-                "seed": 155
+                "seed": 155,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "1dd3132a-5436-11f0-9335-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf6ae2d8-5375-11f0-bada-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "1dd3132a-5436-11f0-9335-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf6ae2d8-5375-11f0-bada-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 119,
@@ -6698,7 +6733,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "1dd3132a-5436-11f0-9335-f23e1b03c8de",
+                "name": "人参農場",
+                "seed": 102
             },
             "match_games": []
         },
