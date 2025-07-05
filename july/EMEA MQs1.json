@@ -52483,18 +52483,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c0a33b56-591e-11f0-aea5-1e24f81217de",
                 "name": "Overrated",
-                "seed": 828
+                "seed": 828,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a26520d2-5865-11f0-800c-fa0a0b1c0479",
                 "name": "Black and White",
-                "seed": 581
+                "seed": 581,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c0a33b56-591e-11f0-aea5-1e24f81217de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a26520d2-5865-11f0-800c-fa0a0b1c0479",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c0a33b56-591e-11f0-aea5-1e24f81217de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a26520d2-5865-11f0-800c-fa0a0b1c0479",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "c0a33b56-591e-11f0-aea5-1e24f81217de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a26520d2-5865-11f0-800c-fa0a0b1c0479",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 923,
@@ -53168,18 +53218,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5b2f4d30-5911-11f0-bdbd-a6eacc049bbc",
                 "name": "gang kastich",
-                "seed": 826
+                "seed": 826,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "da475ce6-521a-11f0-bb09-de3adb5e464d",
                 "name": "Remicas Hairline",
-                "seed": 71
+                "seed": 71,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "5b2f4d30-5911-11f0-bdbd-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "da475ce6-521a-11f0-bb09-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "5b2f4d30-5911-11f0-bdbd-a6eacc049bbc",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "da475ce6-521a-11f0-bb09-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "5b2f4d30-5911-11f0-bdbd-a6eacc049bbc",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "da475ce6-521a-11f0-bb09-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 939,
@@ -54327,7 +54427,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "a26520d2-5865-11f0-800c-fa0a0b1c0479",
+                "name": "Black and White",
+                "seed": 581
             },
             "match_games": []
         },
@@ -54473,7 +54575,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "da475ce6-521a-11f0-bb09-de3adb5e464d",
+                "name": "Remicas Hairline",
+                "seed": 71
             },
             "match_games": []
         },
