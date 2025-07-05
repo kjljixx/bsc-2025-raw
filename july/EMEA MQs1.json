@@ -55424,18 +55424,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da2d4202-521a-11f0-87e7-de3adb5e464d",
                 "name": "NANI ABUSERS",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d8a30b92-521a-11f0-94b1-de3adb5e464d",
                 "name": "Mango",
-                "seed": 468
+                "seed": 468,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "da2d4202-521a-11f0-87e7-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d8a30b92-521a-11f0-94b1-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "da2d4202-521a-11f0-87e7-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d8a30b92-521a-11f0-94b1-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "da2d4202-521a-11f0-87e7-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d8a30b92-521a-11f0-94b1-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 973,
@@ -56100,18 +56150,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cf99e9a8-521a-11f0-8cc7-de3adb5e464d",
                 "name": "RVP Gaming",
-                "seed": 3
+                "seed": 3,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5bf44e6c-5922-11f0-86ca-1e24f81217de",
                 "name": "APSIDE",
-                "seed": 830
+                "seed": 830,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "cf99e9a8-521a-11f0-8cc7-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5bf44e6c-5922-11f0-86ca-1e24f81217de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "cf99e9a8-521a-11f0-8cc7-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5bf44e6c-5922-11f0-86ca-1e24f81217de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "cf99e9a8-521a-11f0-8cc7-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5bf44e6c-5922-11f0-86ca-1e24f81217de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 986,
@@ -56634,7 +56734,9 @@
                 "seed": 77
             },
             "opponent2": {
-                "id": null
+                "id": "da2d4202-521a-11f0-87e7-de3adb5e464d",
+                "name": "NANI ABUSERS",
+                "seed": 20
             },
             "match_games": []
         },
@@ -56767,10 +56869,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5bf44e6c-5922-11f0-86ca-1e24f81217de",
+                "name": "APSIDE",
+                "seed": 830
             },
             "opponent2": {
-                "id": null
+                "id": "002a835c-5752-11f0-958d-92d95f13cf21",
+                "name": "Kana",
+                "seed": 547
             },
             "match_games": []
         },
