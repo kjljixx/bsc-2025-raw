@@ -56810,18 +56810,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
                 "name": "Universum Gaming",
-                "seed": 328
+                "seed": 328,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d3a7cc90-521a-11f0-8f32-de3adb5e464d",
                 "name": "WeLoveYou",
-                "seed": 345
+                "seed": 345,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d3a7cc90-521a-11f0-8f32-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d3a7cc90-521a-11f0-8f32-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 996,
