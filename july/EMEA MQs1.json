@@ -49718,18 +49718,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "24158802-543c-11f0-8d8d-92d95f13cf21",
                 "name": "Kranj Esports",
-                "seed": 574
+                "seed": 574,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5bf44e6c-5922-11f0-86ca-1e24f81217de",
                 "name": "APSIDE",
-                "seed": 830
+                "seed": 830,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "24158802-543c-11f0-8d8d-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5bf44e6c-5922-11f0-86ca-1e24f81217de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "24158802-543c-11f0-8d8d-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5bf44e6c-5922-11f0-86ca-1e24f81217de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "24158802-543c-11f0-8d8d-92d95f13cf21",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5bf44e6c-5922-11f0-86ca-1e24f81217de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 868,
@@ -52249,8 +52299,16 @@
             "round_id": 4,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "5bf44e6c-5922-11f0-86ca-1e24f81217de",
+                "name": "APSIDE",
+                "seed": 830
+            },
+            "opponent2": {
+                "id": "db5bc0b8-521a-11f0-a801-de3adb5e464d",
+                "name": "ONLY UP",
+                "seed": 67
+            },
             "match_games": []
         },
         {
