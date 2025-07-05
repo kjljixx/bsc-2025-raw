@@ -7822,18 +7822,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4b3c4cdc-542c-11f0-9198-92d95f13cf21",
                 "name": "Comeback",
-                "seed": 55
+                "seed": 55,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "431d4b7a-54b6-11f0-a56a-f23e1b03c8de",
                 "name": "FSGD",
-                "seed": 74
+                "seed": 74,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4b3c4cdc-542c-11f0-9198-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "431d4b7a-54b6-11f0-a56a-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4b3c4cdc-542c-11f0-9198-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "431d4b7a-54b6-11f0-a56a-f23e1b03c8de",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 175,
@@ -8732,7 +8767,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "4b3c4cdc-542c-11f0-9198-92d95f13cf21",
+                "name": "Comeback",
+                "seed": 55
             },
             "match_games": []
         },
