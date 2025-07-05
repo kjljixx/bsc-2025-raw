@@ -11416,18 +11416,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f86f922-521a-11f0-b18b-de3adb5e464d",
                 "name": "TGK",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4e3dea44-521a-11f0-a3ea-de3adb5e464d",
                 "name": "Cuetest",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4f86f922-521a-11f0-b18b-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4e3dea44-521a-11f0-a3ea-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4f86f922-521a-11f0-b18b-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4e3dea44-521a-11f0-a3ea-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
