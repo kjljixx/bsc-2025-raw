@@ -45213,18 +45213,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca17561e-521a-11f0-bac3-de3adb5e464d",
                 "name": "Infinity Poisons",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dbf3ba44-521a-11f0-8847-de3adb5e464d",
                 "name": "Skeleton team",
-                "seed": 264
+                "seed": 264,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ca17561e-521a-11f0-bac3-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dbf3ba44-521a-11f0-8847-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "ca17561e-521a-11f0-bac3-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dbf3ba44-521a-11f0-8847-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "ca17561e-521a-11f0-bac3-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dbf3ba44-521a-11f0-8847-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 786,
@@ -45309,18 +45359,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca06a58a-521a-11f0-9486-de3adb5e464d",
                 "name": "Immortals Esports",
-                "seed": 72
+                "seed": 72,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
                 "name": "Universum Gaming",
-                "seed": 328
+                "seed": 328,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ca06a58a-521a-11f0-9486-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "ca06a58a-521a-11f0-9486-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 789,
@@ -45480,18 +45565,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d3359ec2-521a-11f0-9e8e-de3adb5e464d",
                 "name": "UNV Academy",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dbfe3e24-521a-11f0-9a73-de3adb5e464d",
                 "name": "JoATa",
-                "seed": 265
+                "seed": 265,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "d3359ec2-521a-11f0-9e8e-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dbfe3e24-521a-11f0-9a73-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "d3359ec2-521a-11f0-9e8e-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dbfe3e24-521a-11f0-9a73-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 794,
@@ -45555,18 +45675,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c9976cba-521a-11f0-b14a-de3adb5e464d",
                 "name": "HDC|eSports",
-                "seed": 56
+                "seed": 56,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5f5592d4-5907-11f0-bd66-4a7a15329a84",
                 "name": "NSW",
-                "seed": 824
+                "seed": 824,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c9976cba-521a-11f0-b14a-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f5592d4-5907-11f0-bd66-4a7a15329a84",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "c9976cba-521a-11f0-b14a-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f5592d4-5907-11f0-bd66-4a7a15329a84",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 796,
@@ -46191,18 +46346,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c3fb0992-521a-11f0-858d-de3adb5e464d",
                 "name": "Blue Octopus",
-                "seed": 52
+                "seed": 52,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "73dbdebc-5393-11f0-b766-92d95f13cf21",
                 "name": "trio frozen",
-                "seed": 717
+                "seed": 717,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c3fb0992-521a-11f0-858d-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73dbdebc-5393-11f0-b766-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "c3fb0992-521a-11f0-858d-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73dbdebc-5393-11f0-b766-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 812,
@@ -47027,18 +47217,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d9bcfc54-521a-11f0-9aae-de3adb5e464d",
                 "name": "Los avionetas",
-                "seed": 63
+                "seed": 63,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d0ed704a-521a-11f0-97f1-de3adb5e464d",
                 "name": "Strenox",
-                "seed": 319
+                "seed": 319,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "d9bcfc54-521a-11f0-9aae-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d0ed704a-521a-11f0-97f1-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "d9bcfc54-521a-11f0-9aae-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d0ed704a-521a-11f0-97f1-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 836,
@@ -47349,18 +47574,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f86d7188-58d7-11f0-9ccb-a6eacc049bbc",
                 "name": "Pimpon Come Back💔🙏",
-                "seed": 591
+                "seed": 591,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d890a59c-521a-11f0-aebc-de3adb5e464d",
                 "name": "Frozen Rose",
-                "seed": 178
+                "seed": 178,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "f86d7188-58d7-11f0-9ccb-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d890a59c-521a-11f0-aebc-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "f86d7188-58d7-11f0-9ccb-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d890a59c-521a-11f0-aebc-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 845,
@@ -47690,18 +47950,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "caf2e9e0-521a-11f0-a56d-de3adb5e464d",
                 "name": "Kumbarnik",
-                "seed": 103
+                "seed": 103,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c9ce90c8-521a-11f0-ad42-de3adb5e464d",
                 "name": "Hunter",
-                "seed": 359
+                "seed": 359,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "caf2e9e0-521a-11f0-a56d-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c9ce90c8-521a-11f0-ad42-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "caf2e9e0-521a-11f0-a56d-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c9ce90c8-521a-11f0-ad42-de3adb5e464d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 855,
@@ -48546,18 +48841,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dc9fef58-521a-11f0-bb76-de3adb5e464d",
                 "name": "LUX Gaming",
-                "seed": 46
+                "seed": 46,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7f889f3e-58de-11f0-8b9a-a664fabac6ee",
                 "name": "F/A RIS",
-                "seed": 814
+                "seed": 814,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dc9fef58-521a-11f0-bb76-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f889f3e-58de-11f0-8b9a-a664fabac6ee",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "dc9fef58-521a-11f0-bb76-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f889f3e-58de-11f0-8b9a-a664fabac6ee",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 880,
@@ -49363,10 +49693,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ca17561e-521a-11f0-bac3-de3adb5e464d",
+                "name": "Infinity Poisons",
+                "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "d26586b0-521a-11f0-b7ee-de3adb5e464d",
+                "name": "Thunder Wolves",
+                "seed": 121
             },
             "match_games": []
         },
@@ -49384,7 +49718,9 @@
                 "seed": 712
             },
             "opponent2": {
-                "id": null
+                "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
+                "name": "Universum Gaming",
+                "seed": 328
             },
             "match_games": []
         },
@@ -49435,10 +49771,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d3359ec2-521a-11f0-9e8e-de3adb5e464d",
+                "name": "UNV Academy",
+                "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "df3fab0e-521a-11f0-b1ef-de3adb5e464d",
+                "name": "HPN",
+                "seed": 137
             },
             "match_games": []
         },
@@ -49451,7 +49791,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c9976cba-521a-11f0-b14a-de3adb5e464d",
+                "name": "HDC|eSports",
+                "seed": 56
             },
             "opponent2": {
                 "id": null
@@ -49597,10 +49939,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c3fb0992-521a-11f0-858d-de3adb5e464d",
+                "name": "Blue Octopus",
+                "seed": 52
             },
             "opponent2": {
-                "id": null
+                "id": "c819a7d6-521a-11f0-96a9-de3adb5e464d",
+                "name": "GBB Esports",
+                "seed": 77
             },
             "match_games": []
         },
@@ -49815,10 +50161,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d0ed704a-521a-11f0-97f1-de3adb5e464d",
+                "name": "Strenox",
+                "seed": 319
             },
             "opponent2": {
-                "id": null
+                "id": "6cc1206c-5440-11f0-9451-f23e1b03c8de",
+                "name": "Zero Cycle",
+                "seed": 578
             },
             "match_games": []
         },
@@ -50215,10 +50565,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dc9fef58-521a-11f0-bb76-de3adb5e464d",
+                "name": "LUX Gaming",
+                "seed": 46
             },
             "opponent2": {
-                "id": null
+                "id": "d62c2dc6-521a-11f0-aaa5-de3adb5e464d",
+                "name": "Trust Us.",
+                "seed": 174
             },
             "match_games": []
         },
