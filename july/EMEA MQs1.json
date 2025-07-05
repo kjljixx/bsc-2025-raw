@@ -55038,18 +55038,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca17561e-521a-11f0-bac3-de3adb5e464d",
                 "name": "Infinity Poisons",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
                 "name": "Universum Gaming",
-                "seed": 328
+                "seed": 328,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "ca17561e-521a-11f0-bac3-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "ca17561e-521a-11f0-bac3-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 966,
@@ -55530,18 +55565,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "df0b4120-521a-11f0-8041-de3adb5e464d",
                 "name": "chippy chips",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "df132bba-521a-11f0-a904-de3adb5e464d",
                 "name": "Name For Fame",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "df0b4120-521a-11f0-8041-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "df132bba-521a-11f0-a904-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "df0b4120-521a-11f0-8041-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "df132bba-521a-11f0-a904-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 980,
@@ -55925,18 +55995,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cdfbdfac-521a-11f0-9b68-de3adb5e464d",
                 "name": "Own Close Team",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d0485470-521a-11f0-acde-de3adb5e464d",
                 "name": "Dynasty Division",
-                "seed": 166
+                "seed": 166,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "cdfbdfac-521a-11f0-9b68-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d0485470-521a-11f0-acde-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "cdfbdfac-521a-11f0-9b68-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d0485470-521a-11f0-acde-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 991,
@@ -56089,7 +56194,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bae33b86-53a5-11f0-8108-f23e1b03c8de",
+                "name": "Universum Gaming",
+                "seed": 328
             },
             "opponent2": {
                 "id": null
@@ -56211,10 +56318,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "df132bba-521a-11f0-a904-de3adb5e464d",
+                "name": "Name For Fame",
+                "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "e80c600a-5559-11f0-882e-f23e1b03c8de",
+                "name": "Bad Ping",
+                "seed": 722
             },
             "match_games": []
         },
@@ -56298,7 +56409,9 @@
                 "seed": 646
             },
             "opponent2": {
-                "id": null
+                "id": "cdfbdfac-521a-11f0-9b68-de3adb5e464d",
+                "name": "Own Close Team",
+                "seed": 27
             },
             "match_games": []
         },
