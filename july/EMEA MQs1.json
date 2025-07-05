@@ -33079,18 +33079,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dcaf6d02-521a-11f0-b2ac-de3adb5e464d",
                 "name": "7W",
-                "seed": 193
+                "seed": 193,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2d6cfe88-538f-11f0-a11c-92d95f13cf21",
                 "name": "LM | Germany",
-                "seed": 705
+                "seed": 705,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "dcaf6d02-521a-11f0-b2ac-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2d6cfe88-538f-11f0-a11c-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "dcaf6d02-521a-11f0-b2ac-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2d6cfe88-538f-11f0-a11c-92d95f13cf21",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 519,
@@ -33285,18 +33320,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c2687146-521a-11f0-a6fd-de3adb5e464d",
                 "name": "16 Shards",
-                "seed": 97
+                "seed": 97,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "93955ca4-54d0-11f0-b2a7-92d95f13cf21",
                 "name": "Novastrike",
-                "seed": 416
+                "seed": 416,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "c2687146-521a-11f0-a6fd-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "93955ca4-54d0-11f0-b2a7-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "c2687146-521a-11f0-a6fd-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "93955ca4-54d0-11f0-b2a7-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 524,
@@ -33975,18 +34045,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c511f5a2-521a-11f0-ab75-de3adb5e464d",
                 "name": "Cosmic Players",
-                "seed": 112
+                "seed": 112,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d634500a-521a-11f0-94a1-de3adb5e464d",
                 "name": "JINX",
-                "seed": 401
+                "seed": 401,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "c511f5a2-521a-11f0-ab75-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d634500a-521a-11f0-94a1-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "c511f5a2-521a-11f0-ab75-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d634500a-521a-11f0-94a1-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c511f5a2-521a-11f0-ab75-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d634500a-521a-11f0-94a1-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 540,
@@ -35539,18 +35659,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d3db07b8-521a-11f0-9fe8-de3adb5e464d",
                 "name": "XAKAIO",
-                "seed": 125
+                "seed": 125,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "116e2024-5374-11f0-92ed-f23e1b03c8de",
                 "name": "EXR ESPORT",
-                "seed": 637
+                "seed": 637,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "d3db07b8-521a-11f0-9fe8-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "116e2024-5374-11f0-92ed-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "d3db07b8-521a-11f0-9fe8-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "116e2024-5374-11f0-92ed-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d3db07b8-521a-11f0-9fe8-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "116e2024-5374-11f0-92ed-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 580,
@@ -35753,18 +35923,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d814f9f6-521a-11f0-b230-de3adb5e464d",
                 "name": "Bs-God Squads",
-                "seed": 228
+                "seed": 228,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "46cfe99c-55e4-11f0-a822-92d95f13cf21",
                 "name": "The Golden Kiwis",
-                "seed": 740
+                "seed": 740,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "d814f9f6-521a-11f0-b230-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "46cfe99c-55e4-11f0-a822-92d95f13cf21",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "d814f9f6-521a-11f0-b230-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "46cfe99c-55e4-11f0-a822-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d814f9f6-521a-11f0-b230-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "46cfe99c-55e4-11f0-a822-92d95f13cf21",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 587,
@@ -36345,18 +36565,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d6413c34-521a-11f0-9955-de3adb5e464d",
                 "name": "The Untolds Esports",
-                "seed": 109
+                "seed": 109,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "50523ac2-5465-11f0-b175-92d95f13cf21",
                 "name": "On Top Picks",
-                "seed": 404
+                "seed": 404,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "d6413c34-521a-11f0-9955-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "50523ac2-5465-11f0-b175-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "d6413c34-521a-11f0-9955-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50523ac2-5465-11f0-b175-92d95f13cf21",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d6413c34-521a-11f0-9955-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50523ac2-5465-11f0-b175-92d95f13cf21",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 604,
@@ -36551,18 +36821,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d5d75972-521a-11f0-9093-de3adb5e464d",
                 "name": "FİF|GOATS",
-                "seed": 173
+                "seed": 173,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c19d8658-545d-11f0-b535-92d95f13cf21",
                 "name": "Durag Esports",
-                "seed": 340
+                "seed": 340,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "d5d75972-521a-11f0-9093-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c19d8658-545d-11f0-b535-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "d5d75972-521a-11f0-9093-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c19d8658-545d-11f0-b535-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d5d75972-521a-11f0-9093-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c19d8658-545d-11f0-b535-92d95f13cf21",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 609,
@@ -43472,7 +43792,9 @@
                 "seed": 576
             },
             "opponent2": {
-                "id": null
+                "id": "2d6cfe88-538f-11f0-a11c-92d95f13cf21",
+                "name": "LM | Germany",
+                "seed": 705
             },
             "match_games": []
         },
@@ -43525,10 +43847,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c2687146-521a-11f0-a6fd-de3adb5e464d",
+                "name": "16 Shards",
+                "seed": 97
             },
             "opponent2": {
-                "id": null
+                "id": "d53a7fbc-521a-11f0-ba10-de3adb5e464d",
+                "name": "The Lethal Force",
+                "seed": 353
             },
             "match_games": []
         },
@@ -43681,10 +44007,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d634500a-521a-11f0-94a1-de3adb5e464d",
+                "name": "JINX",
+                "seed": 401
             },
             "opponent2": {
-                "id": null
+                "id": "101ce234-537c-11f0-9988-92d95f13cf21",
+                "name": "JAN BS",
+                "seed": 657
             },
             "match_games": []
         },
@@ -44067,10 +44397,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d3db07b8-521a-11f0-9fe8-de3adb5e464d",
+                "name": "XAKAIO",
+                "seed": 125
             },
             "opponent2": {
-                "id": null
+                "id": "dc753290-521a-11f0-955d-de3adb5e464d",
+                "name": "Zone 7",
+                "seed": 132
             },
             "match_games": []
         },
@@ -44128,7 +44462,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "d814f9f6-521a-11f0-b230-de3adb5e464d",
+                "name": "Bs-God Squads",
+                "seed": 228
             },
             "match_games": []
         },
@@ -44295,10 +44631,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d6413c34-521a-11f0-9955-de3adb5e464d",
+                "name": "The Untolds Esports",
+                "seed": 109
             },
             "opponent2": {
-                "id": null
+                "id": "d1457e16-521a-11f0-b08a-de3adb5e464d",
+                "name": "Sweet peepers",
+                "seed": 148
             },
             "match_games": []
         },
@@ -44336,7 +44676,9 @@
                 "seed": 596
             },
             "opponent2": {
-                "id": null
+                "id": "d5d75972-521a-11f0-9093-de3adb5e464d",
+                "name": "FİF|GOATS",
+                "seed": 173
             },
             "match_games": []
         },
