@@ -6981,18 +6981,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4d8222d2-521a-11f0-896c-de3adb5e464d",
                 "name": "息くさい",
-                "seed": 41
+                "seed": 41,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "56bd2072-5409-11f0-894d-f23e1b03c8de",
                 "name": "ℕight𝕋ide",
-                "seed": 88
+                "seed": 88,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4d8222d2-521a-11f0-896c-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "56bd2072-5409-11f0-894d-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4d8222d2-521a-11f0-896c-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "56bd2072-5409-11f0-894d-f23e1b03c8de",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 145,
@@ -8960,7 +8995,9 @@
                 "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "4d8222d2-521a-11f0-896c-de3adb5e464d",
+                "name": "息くさい",
+                "seed": 41
             },
             "match_games": []
         },
