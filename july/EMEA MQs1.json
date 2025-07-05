@@ -40691,18 +40691,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1b0befac-582f-11f0-b66d-2a6dde516047",
                 "name": "Bankrupt",
-                "seed": 794
+                "seed": 794,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2b6b939e-545a-11f0-b429-92d95f13cf21",
                 "name": "Tsunami Academy",
-                "seed": 282
+                "seed": 282,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "1b0befac-582f-11f0-b66d-2a6dde516047",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b6b939e-545a-11f0-b429-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "1b0befac-582f-11f0-b66d-2a6dde516047",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2b6b939e-545a-11f0-b429-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1b0befac-582f-11f0-b66d-2a6dde516047",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b6b939e-545a-11f0-b429-92d95f13cf21",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 683,
@@ -46302,7 +46352,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "1b0befac-582f-11f0-b66d-2a6dde516047",
+                "name": "Bankrupt",
+                "seed": 794
             },
             "match_games": []
         },
