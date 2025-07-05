@@ -24427,18 +24427,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fae95fa2-521b-11f0-a5f3-de3adb5e464d",
                 "name": "Ignition",
-                "seed": 58
+                "seed": 58,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f66c17f8-521b-11f0-a611-de3adb5e464d",
                 "name": "Aura division",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "fae95fa2-521b-11f0-a5f3-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f66c17f8-521b-11f0-a611-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "fae95fa2-521b-11f0-a5f3-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f66c17f8-521b-11f0-a611-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 492,
