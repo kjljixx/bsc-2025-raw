@@ -4212,18 +4212,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f0cf88c-54b2-11f0-bc24-f23e1b03c8de",
                 "name": "だーしまーだー",
-                "seed": 116
+                "seed": 116,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "772e27ce-5356-11f0-ad9d-92d95f13cf21",
                 "name": "apanya",
-                "seed": 141
+                "seed": 141,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "7f0cf88c-54b2-11f0-bc24-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "772e27ce-5356-11f0-ad9d-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "7f0cf88c-54b2-11f0-bc24-f23e1b03c8de",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "772e27ce-5356-11f0-ad9d-92d95f13cf21",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -5081,18 +5116,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9490954a-572a-11f0-9009-92d95f13cf21",
                 "name": "Avantgarde",
-                "seed": 103
+                "seed": 103,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "59b289b8-57fe-11f0-8de3-92d95f13cf21",
                 "name": "お姫様と家畜を連れて",
-                "seed": 154
+                "seed": 154,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "9490954a-572a-11f0-9009-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "59b289b8-57fe-11f0-8de3-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "9490954a-572a-11f0-9009-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "59b289b8-57fe-11f0-8de3-92d95f13cf21",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 87,
@@ -6441,7 +6511,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "772e27ce-5356-11f0-ad9d-92d95f13cf21",
+                "name": "apanya",
+                "seed": 141
             },
             "match_games": []
         },
@@ -6877,7 +6949,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "9490954a-572a-11f0-9009-92d95f13cf21",
+                "name": "Avantgarde",
+                "seed": 103
             },
             "match_games": []
         },
