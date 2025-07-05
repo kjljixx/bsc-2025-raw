@@ -51703,18 +51703,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd146766-521a-11f0-b12c-de3adb5e464d",
                 "name": "F/A Lithuania",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cef160a8-521a-11f0-a29c-de3adb5e464d",
                 "name": "Pro>Teó",
-                "seed": 81
+                "seed": 81,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "dd146766-521a-11f0-b12c-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cef160a8-521a-11f0-a29c-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "dd146766-521a-11f0-b12c-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cef160a8-521a-11f0-a29c-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "dd146766-521a-11f0-b12c-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cef160a8-521a-11f0-a29c-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 905,
@@ -54973,7 +55023,11 @@
                 "name": "F/A BBC 1",
                 "seed": 17
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "dd146766-521a-11f0-b12c-de3adb5e464d",
+                "name": "F/A Lithuania",
+                "seed": 48
+            },
             "match_games": []
         },
         {
