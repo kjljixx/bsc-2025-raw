@@ -10469,18 +10469,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "326c8302-549a-11f0-b8cb-92d95f13cf21",
                 "name": "TPT",
-                "seed": 218
+                "seed": 218,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "262b9c08-5388-11f0-a4c7-f23e1b03c8de",
                 "name": "CHE",
-                "seed": 295
+                "seed": 295,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "326c8302-549a-11f0-b8cb-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "262b9c08-5388-11f0-a4c7-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "326c8302-549a-11f0-b8cb-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "262b9c08-5388-11f0-a4c7-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 175,
@@ -13999,7 +14034,9 @@
                 "seed": 39
             },
             "opponent2": {
-                "id": null
+                "id": "262b9c08-5388-11f0-a4c7-f23e1b03c8de",
+                "name": "CHE",
+                "seed": 295
             },
             "match_games": []
         },
