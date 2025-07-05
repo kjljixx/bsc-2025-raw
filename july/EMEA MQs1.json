@@ -47164,18 +47164,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a1b18424-5463-11f0-aa1a-92d95f13cf21",
                 "name": "Marrakech",
-                "seed": 604
+                "seed": 604,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "492dfbe6-54d3-11f0-b7a9-f23e1b03c8de",
                 "name": "RZA | Esport",
-                "seed": 348
+                "seed": 348,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a1b18424-5463-11f0-aa1a-92d95f13cf21",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "492dfbe6-54d3-11f0-b7a9-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "a1b18424-5463-11f0-aa1a-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "492dfbe6-54d3-11f0-b7a9-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a1b18424-5463-11f0-aa1a-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "492dfbe6-54d3-11f0-b7a9-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 825,
@@ -50659,7 +50709,9 @@
                 "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "a1b18424-5463-11f0-aa1a-92d95f13cf21",
+                "name": "Marrakech",
+                "seed": 604
             },
             "match_games": []
         },
