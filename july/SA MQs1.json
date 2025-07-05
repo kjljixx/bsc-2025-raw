@@ -7941,18 +7941,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "faf39332-521b-11f0-9ad3-de3adb5e464d",
                 "name": "Os Amostradinhos",
-                "seed": 145
+                "seed": 145,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "01a369f8-53a9-11f0-9e49-92d95f13cf21",
                 "name": "910",
-                "seed": 368
+                "seed": 368,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "faf39332-521b-11f0-9ad3-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01a369f8-53a9-11f0-9e49-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "faf39332-521b-11f0-9ad3-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01a369f8-53a9-11f0-9e49-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -8801,18 +8836,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "49cb7f72-5999-11f0-a2b8-222bd7d5741a",
                 "name": "Los shadows",
-                "seed": 228
+                "seed": 228,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "03b5c38e-5530-11f0-9f67-92d95f13cf21",
                 "name": "MDK",
-                "seed": 285
+                "seed": 285,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "49cb7f72-5999-11f0-a2b8-222bd7d5741a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "03b5c38e-5530-11f0-9f67-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "49cb7f72-5999-11f0-a2b8-222bd7d5741a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "03b5c38e-5530-11f0-9f67-92d95f13cf21",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 75,
@@ -9161,18 +9231,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8552cbec-5924-11f0-8ab2-1e24f81217de",
                 "name": "ARMYYMRA",
-                "seed": 212
+                "seed": 212,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6639210e-555d-11f0-bc39-f23e1b03c8de",
                 "name": "MAGISTER DEL VALLE",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8552cbec-5924-11f0-8ab2-1e24f81217de",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6639210e-555d-11f0-bc39-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "8552cbec-5924-11f0-8ab2-1e24f81217de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6639210e-555d-11f0-bc39-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 95,
@@ -12143,18 +12248,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "48199cf6-53b1-11f0-93eb-f23e1b03c8de",
                 "name": "Xz|The Beasts",
-                "seed": 246
+                "seed": 246,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "15f01a6c-5509-11f0-8b85-92d95f13cf21",
                 "name": "DARK SHADE",
-                "seed": 267
+                "seed": 267,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "48199cf6-53b1-11f0-93eb-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "15f01a6c-5509-11f0-8b85-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "48199cf6-53b1-11f0-93eb-f23e1b03c8de",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "15f01a6c-5509-11f0-8b85-92d95f13cf21",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 243,
@@ -12677,7 +12817,9 @@
                 "seed": 112
             },
             "opponent2": {
-                "id": null
+                "id": "faf39332-521b-11f0-9ad3-de3adb5e464d",
+                "name": "Os Amostradinhos",
+                "seed": 145
             },
             "match_games": []
         },
@@ -13117,7 +13259,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "03b5c38e-5530-11f0-9f67-92d95f13cf21",
+                "name": "MDK",
+                "seed": 285
             },
             "match_games": []
         },
@@ -13307,7 +13451,9 @@
                 "seed": 45
             },
             "opponent2": {
-                "id": null
+                "id": "6639210e-555d-11f0-bc39-f23e1b03c8de",
+                "name": "MAGISTER DEL VALLE",
+                "seed": 301
             },
             "match_games": []
         },
@@ -14753,7 +14899,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "15f01a6c-5509-11f0-8b85-92d95f13cf21",
+                "name": "DARK SHADE",
+                "seed": 267
             },
             "match_games": []
         },
