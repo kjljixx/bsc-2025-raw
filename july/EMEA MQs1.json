@@ -41982,18 +41982,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d7029a00-521a-11f0-8f0c-de3adb5e464d",
                 "name": "Broken Dreams",
-                "seed": 227
+                "seed": 227,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d048d9e6-5520-11f0-baf5-f23e1b03c8de",
                 "name": "🌝🗿🌚",
-                "seed": 286
+                "seed": 286,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "d7029a00-521a-11f0-8f0c-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d048d9e6-5520-11f0-baf5-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "d7029a00-521a-11f0-8f0c-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d048d9e6-5520-11f0-baf5-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d7029a00-521a-11f0-8f0c-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d048d9e6-5520-11f0-baf5-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 715,
@@ -46671,7 +46721,11 @@
                 "name": "Eternality Gaming",
                 "seed": 30
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "d048d9e6-5520-11f0-baf5-f23e1b03c8de",
+                "name": "🌝🗿🌚",
+                "seed": 286
+            },
             "match_games": []
         },
         {
