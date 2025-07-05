@@ -9792,18 +9792,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4ff3dba0-521a-11f0-be64-de3adb5e464d",
                 "name": "Shadow Phoenix",
-                "seed": 31
+                "seed": 31,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3bb0d22e-58d2-11f0-af1a-5a04b25de3e5",
                 "name": "皮むきクラス",
-                "seed": 162
+                "seed": 162,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4ff3dba0-521a-11f0-be64-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3bb0d22e-58d2-11f0-af1a-5a04b25de3e5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "4ff3dba0-521a-11f0-be64-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3bb0d22e-58d2-11f0-af1a-5a04b25de3e5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 211,
@@ -9867,18 +9902,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0ce820a6-58a4-11f0-93c8-1ada70887f6f",
                 "name": "renkon",
-                "seed": 111
+                "seed": 111,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "55c31606-53f3-11f0-8eb8-f23e1b03c8de",
                 "name": "GenGCut",
-                "seed": 82
+                "seed": 82,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "0ce820a6-58a4-11f0-93c8-1ada70887f6f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55c31606-53f3-11f0-8eb8-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "0ce820a6-58a4-11f0-93c8-1ada70887f6f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55c31606-53f3-11f0-8eb8-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 213,
@@ -10539,7 +10609,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "0ce820a6-58a4-11f0-93c8-1ada70887f6f",
+                "name": "renkon",
+                "seed": 111
             },
             "match_games": []
         },
