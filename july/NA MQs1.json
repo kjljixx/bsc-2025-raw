@@ -8014,18 +8014,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "950d0d60-53d7-11f0-b603-f23e1b03c8de",
                 "name": "21 Vol",
-                "seed": 253
+                "seed": 253,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c060b2e-5560-11f0-a1c6-92d95f13cf21",
                 "name": "No Mercy",
-                "seed": 260
+                "seed": 260,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "950d0d60-53d7-11f0-b603-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c060b2e-5560-11f0-a1c6-92d95f13cf21",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "950d0d60-53d7-11f0-b603-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c060b2e-5560-11f0-a1c6-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 67,
@@ -8811,18 +8846,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a5cebf6-53b4-11f0-9cc9-92d95f13cf21",
                 "name": "SK 1 ESPARTANS",
-                "seed": 229
+                "seed": 229,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f59c6c92-576b-11f0-9faa-92d95f13cf21",
                 "name": "Panfletitos",
-                "seed": 284
+                "seed": 284,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "3a5cebf6-53b4-11f0-9cc9-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f59c6c92-576b-11f0-9faa-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "3a5cebf6-53b4-11f0-9cc9-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f59c6c92-576b-11f0-9faa-92d95f13cf21",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 107,
@@ -9225,18 +9295,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1950590c-5990-11f0-a86c-a2dba56828cf",
                 "name": "lost causes",
-                "seed": 213
+                "seed": 213,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9c58646c-588b-11f0-a934-6629350dbe22",
                 "name": "PHOENIX MEN",
-                "seed": 300
+                "seed": 300,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "1950590c-5990-11f0-a86c-a2dba56828cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9c58646c-588b-11f0-a934-6629350dbe22",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "1950590c-5990-11f0-a86c-a2dba56828cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9c58646c-588b-11f0-a934-6629350dbe22",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 127,
@@ -9979,18 +10084,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a60c9b3e-5941-11f0-9548-6629350dbe22",
                 "name": "RPS",
-                "seed": 199
+                "seed": 199,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "22d542ec-5960-11f0-bc00-2a6dde516047",
                 "name": "Dig AB’s",
-                "seed": 314
+                "seed": 314,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "a60c9b3e-5941-11f0-9548-6629350dbe22",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "22d542ec-5960-11f0-bc00-2a6dde516047",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "a60c9b3e-5941-11f0-9548-6629350dbe22",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "22d542ec-5960-11f0-bc00-2a6dde516047",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 167,
@@ -10086,18 +10226,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "40214d06-53ba-11f0-a756-92d95f13cf21",
                 "name": "HRC",
-                "seed": 231
+                "seed": 231,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f5b39664-56db-11f0-8e8c-92d95f13cf21",
                 "name": "poo",
-                "seed": 282
+                "seed": 282,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "40214d06-53ba-11f0-a756-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f5b39664-56db-11f0-8e8c-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "40214d06-53ba-11f0-a756-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f5b39664-56db-11f0-8e8c-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 171,
@@ -10362,18 +10537,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6d05f12e-5512-11f0-bd6f-92d95f13cf21",
                 "name": "PHX",
-                "seed": 234
+                "seed": 234,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e709a0ba-536e-11f0-a343-92d95f13cf21",
                 "name": "3sherms",
-                "seed": 279
+                "seed": 279,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "6d05f12e-5512-11f0-bd6f-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e709a0ba-536e-11f0-a343-92d95f13cf21",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "6d05f12e-5512-11f0-bd6f-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e709a0ba-536e-11f0-a343-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 187,
@@ -11083,18 +11293,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "545ad59a-597c-11f0-a217-aa50a2bb5182",
                 "name": "Germany>USA",
-                "seed": 211
+                "seed": 211,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ff8bed2e-58d6-11f0-9089-fa0a0b1c0479",
                 "name": "CLK TEAM",
-                "seed": 302
+                "seed": 302,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "545ad59a-597c-11f0-a217-aa50a2bb5182",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ff8bed2e-58d6-11f0-9089-fa0a0b1c0479",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "545ad59a-597c-11f0-a217-aa50a2bb5182",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ff8bed2e-58d6-11f0-9089-fa0a0b1c0479",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 223,
@@ -11600,18 +11845,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55832f16-5955-11f0-a90f-a6eacc049bbc",
                 "name": "Washeds Return",
-                "seed": 203
+                "seed": 203,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "15c3ad0c-5954-11f0-8074-a6eacc049bbc",
                 "name": "ARI PILATES",
-                "seed": 310
+                "seed": 310,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "55832f16-5955-11f0-a90f-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "15c3ad0c-5954-11f0-8074-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "55832f16-5955-11f0-a90f-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "15c3ad0c-5954-11f0-8074-a6eacc049bbc",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 247,
@@ -11740,18 +12020,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8fc4d908-5497-11f0-a387-92d95f13cf21",
                 "name": "LEC|Leveling🏴‍☠️",
-                "seed": 214
+                "seed": 214,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "06b38908-5397-11f0-a062-f23e1b03c8de",
                 "name": "Hueso Peludo",
-                "seed": 299
+                "seed": 299,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8fc4d908-5497-11f0-a387-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "06b38908-5397-11f0-a062-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "8fc4d908-5497-11f0-a387-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "06b38908-5397-11f0-a062-f23e1b03c8de",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 255,
@@ -12411,7 +12726,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "950d0d60-53d7-11f0-b603-f23e1b03c8de",
+                "name": "21 Vol",
+                "seed": 253
             },
             "match_games": []
         },
@@ -12791,7 +13108,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "3a5cebf6-53b4-11f0-9cc9-92d95f13cf21",
+                "name": "SK 1 ESPARTANS",
+                "seed": 229
             },
             "match_games": []
         },
@@ -12983,7 +13302,9 @@
                 "seed": 44
             },
             "opponent2": {
-                "id": null
+                "id": "9c58646c-588b-11f0-a934-6629350dbe22",
+                "name": "PHOENIX MEN",
+                "seed": 300
             },
             "match_games": []
         },
@@ -13365,7 +13686,9 @@
                 "seed": 58
             },
             "opponent2": {
-                "id": null
+                "id": "a60c9b3e-5941-11f0-9548-6629350dbe22",
+                "name": "RPS",
+                "seed": 199
             },
             "match_games": []
         },
@@ -13403,7 +13726,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "40214d06-53ba-11f0-a756-92d95f13cf21",
+                "name": "HRC",
+                "seed": 231
             },
             "match_games": []
         },
@@ -13553,7 +13878,9 @@
                 "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "6d05f12e-5512-11f0-bd6f-92d95f13cf21",
+                "name": "PHX",
+                "seed": 234
             },
             "match_games": []
         },
@@ -13899,7 +14226,9 @@
                 "seed": 46
             },
             "opponent2": {
-                "id": null
+                "id": "ff8bed2e-58d6-11f0-9089-fa0a0b1c0479",
+                "name": "CLK TEAM",
+                "seed": 302
             },
             "match_games": []
         },
@@ -14131,7 +14460,9 @@
                 "seed": 54
             },
             "opponent2": {
-                "id": null
+                "id": "55832f16-5955-11f0-a90f-a6eacc049bbc",
+                "name": "Washeds Return",
+                "seed": 203
             },
             "match_games": []
         },
@@ -14205,7 +14536,9 @@
                 "seed": 43
             },
             "opponent2": {
-                "id": null
+                "id": "8fc4d908-5497-11f0-a387-92d95f13cf21",
+                "name": "LEC|Leveling🏴‍☠️",
+                "seed": 214
             },
             "match_games": []
         },
