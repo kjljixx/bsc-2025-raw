@@ -21445,18 +21445,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dec3400a-521a-11f0-903a-de3adb5e464d",
                 "name": "CPAKOTAN",
-                "seed": 277
+                "seed": 277,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1fd038e6-5662-11f0-b098-92d95f13cf21",
                 "name": "Três bandoleros",
-                "seed": 748
+                "seed": 748,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "dec3400a-521a-11f0-903a-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1fd038e6-5662-11f0-b098-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "dec3400a-521a-11f0-903a-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1fd038e6-5662-11f0-b098-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 245,
