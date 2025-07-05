@@ -14039,18 +14039,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f7761c98-521b-11f0-9a85-de3adb5e464d",
                 "name": "ALLIANCE X",
-                "seed": 97
+                "seed": 97,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fb834c3e-521b-11f0-9a71-de3adb5e464d",
                 "name": "Hibou",
-                "seed": 160
+                "seed": 160,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f7761c98-521b-11f0-9a85-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fb834c3e-521b-11f0-9a71-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "f7761c98-521b-11f0-9a85-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fb834c3e-521b-11f0-9a71-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 263,
@@ -14259,18 +14294,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f84bd694-521b-11f0-8fe4-de3adb5e464d",
                 "name": "ECLIPSE",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3602eaa8-5484-11f0-b721-92d95f13cf21",
                 "name": "TEAM TRALALERO",
-                "seed": 249
+                "seed": 249,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f84bd694-521b-11f0-8fe4-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3602eaa8-5484-11f0-b721-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "f84bd694-521b-11f0-8fe4-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3602eaa8-5484-11f0-b721-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 274,
@@ -16629,7 +16699,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f84bd694-521b-11f0-8fe4-de3adb5e464d",
+                "name": "ECLIPSE",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
