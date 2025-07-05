@@ -56895,18 +56895,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
                 "name": "FUT Academy",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "be4758fe-5853-11f0-9690-a664fabac6ee",
                 "name": "BLOB",
-                "seed": 802
+                "seed": 802,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "be4758fe-5853-11f0-9690-a664fabac6ee",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "be4758fe-5853-11f0-9690-a664fabac6ee",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1002,
