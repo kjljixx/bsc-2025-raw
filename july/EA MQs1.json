@@ -11191,18 +11191,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f5ceaf6-521a-11f0-85f1-de3adb5e464d",
                 "name": "Fug",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0ce820a6-58a4-11f0-93c8-1ada70887f6f",
                 "name": "renkon",
-                "seed": 111
+                "seed": 111,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4f5ceaf6-521a-11f0-85f1-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0ce820a6-58a4-11f0-93c8-1ada70887f6f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4f5ceaf6-521a-11f0-85f1-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0ce820a6-58a4-11f0-93c8-1ada70887f6f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 235,
