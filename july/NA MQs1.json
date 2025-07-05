@@ -13510,7 +13510,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7cdea42c-521c-11f0-ade3-de3adb5e464d",
                 "name": "Ping Warriors",
@@ -13519,7 +13519,8 @@
             "opponent2": {
                 "id": "47f3b07c-537a-11f0-917b-92d95f13cf21",
                 "name": "🥶COLD CLAN🥶",
-                "seed": 285
+                "seed": 285,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -15640,7 +15641,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7cdea42c-521c-11f0-ade3-de3adb5e464d",
+                "name": "Ping Warriors",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
