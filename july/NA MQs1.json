@@ -7635,18 +7635,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ba16d6e-59ac-11f0-92c7-a2dba56828cf",
                 "name": "SOP| E-Sports",
-                "seed": 217
+                "seed": 217,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "20368c02-5862-11f0-aa0c-fa0a0b1c0479",
                 "name": "Teamzilla",
-                "seed": 296
+                "seed": 296,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "2ba16d6e-59ac-11f0-92c7-a2dba56828cf",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "20368c02-5862-11f0-aa0c-fa0a0b1c0479",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "2ba16d6e-59ac-11f0-92c7-a2dba56828cf",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "20368c02-5862-11f0-aa0c-fa0a0b1c0479",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -10572,18 +10607,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fcf77f42-53d1-11f0-98de-92d95f13cf21",
                 "name": "Chicken Gaming",
-                "seed": 247
+                "seed": 247,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cace351c-55e1-11f0-83f8-92d95f13cf21",
                 "name": "PuxitasBSC",
-                "seed": 266
+                "seed": 266,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fcf77f42-53d1-11f0-98de-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cace351c-55e1-11f0-83f8-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "fcf77f42-53d1-11f0-98de-92d95f13cf21",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cace351c-55e1-11f0-83f8-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fcf77f42-53d1-11f0-98de-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cace351c-55e1-11f0-83f8-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 179,
@@ -12796,7 +12881,9 @@
                 "seed": 40
             },
             "opponent2": {
-                "id": null
+                "id": "20368c02-5862-11f0-aa0c-fa0a0b1c0479",
+                "name": "Teamzilla",
+                "seed": 296
             },
             "match_games": []
         },
@@ -14074,7 +14161,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "fcf77f42-53d1-11f0-98de-92d95f13cf21",
+                "name": "Chicken Gaming",
+                "seed": 247
             },
             "match_games": []
         },
