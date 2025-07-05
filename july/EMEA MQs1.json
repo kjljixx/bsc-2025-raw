@@ -53878,18 +53878,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dc9fef58-521a-11f0-bb76-de3adb5e464d",
                 "name": "LUX Gaming",
-                "seed": 46
+                "seed": 46,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d62c2dc6-521a-11f0-aaa5-de3adb5e464d",
                 "name": "Trust Us.",
-                "seed": 174
+                "seed": 174,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "dc9fef58-521a-11f0-bb76-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d62c2dc6-521a-11f0-aaa5-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "dc9fef58-521a-11f0-bb76-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d62c2dc6-521a-11f0-aaa5-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "dc9fef58-521a-11f0-bb76-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d62c2dc6-521a-11f0-aaa5-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 953,
@@ -54178,18 +54228,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d0cfb726-521a-11f0-89e0-de3adb5e464d",
                 "name": "Spicy Spaghetti",
-                "seed": 43
+                "seed": 43,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "df5d537e-5388-11f0-a947-f23e1b03c8de",
                 "name": "Carbonat",
-                "seed": 683
+                "seed": 683,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "d0cfb726-521a-11f0-89e0-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "df5d537e-5388-11f0-a947-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d0cfb726-521a-11f0-89e0-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "df5d537e-5388-11f0-a947-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "d0cfb726-521a-11f0-89e0-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "df5d537e-5388-11f0-a947-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 961,
@@ -54705,7 +54805,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "dc9fef58-521a-11f0-bb76-de3adb5e464d",
+                "name": "LUX Gaming",
+                "seed": 46
             },
             "match_games": []
         },
@@ -54775,7 +54877,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "df5d537e-5388-11f0-a947-f23e1b03c8de",
+                "name": "Carbonat",
+                "seed": 683
             },
             "match_games": []
         },
