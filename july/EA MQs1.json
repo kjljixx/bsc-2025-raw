@@ -9142,18 +9142,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4dab5ea4-521a-11f0-99bf-de3adb5e464d",
                 "name": "ボリビア軍団",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3716245c-552c-11f0-8efc-92d95f13cf21",
                 "name": "A8",
-                "seed": 80
+                "seed": 80,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4dab5ea4-521a-11f0-99bf-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3716245c-552c-11f0-8efc-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "4dab5ea4-521a-11f0-99bf-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3716245c-552c-11f0-8efc-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 196,
@@ -9657,18 +9692,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f5ed00a-521a-11f0-bdb8-de3adb5e464d",
                 "name": "迷子のろいろい",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0ae56c4e-54fa-11f0-8d4c-92d95f13cf21",
                 "name": "Summer pockets",
-                "seed": 78
+                "seed": 78,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4f5ed00a-521a-11f0-bdb8-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0ae56c4e-54fa-11f0-8d4c-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "4f5ed00a-521a-11f0-bdb8-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0ae56c4e-54fa-11f0-8d4c-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 220,
@@ -9830,7 +9900,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4dab5ea4-521a-11f0-99bf-de3adb5e464d",
+                "name": "ボリビア軍団",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
@@ -10024,7 +10096,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f5ed00a-521a-11f0-bdb8-de3adb5e464d",
+                "name": "迷子のろいろい",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
