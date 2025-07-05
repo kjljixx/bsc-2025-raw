@@ -321,6 +321,46 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "fa497550-521b-11f0-9ab0-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "SKCalalas SA",
+            "players": [
+                {
+                    "name": "SKC|Rhz",
+                    "gamerTag": "#89PVJG9R0"
+                },
+                {
+                    "name": "SKC|Kr",
+                    "gamerTag": "#PR0P8QVQ"
+                },
+                {
+                    "name": "SKC|Prozy🦙",
+                    "gamerTag": "#GYCYCLRJL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/SKCalalas SA.png"
+        },
+        {
+            "id": "1159f910-59e0-11f0-81bc-222bd7d5741a",
+            "tournament_id": 0,
+            "name": "Farofeiros F/A",
+            "players": [
+                {
+                    "name": "Farcic 🇭🇷",
+                    "gamerTag": "#98L2G2UP9"
+                },
+                {
+                    "name": "NeeFex❤️Kengas",
+                    "gamerTag": "#2VYUY0GL8"
+                },
+                {
+                    "name": "Studio🗽",
+                    "gamerTag": "#8QRQCQUG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Farofeiros FA.png"
+        },
+        {
             "id": "fa45f164-521b-11f0-8892-de3adb5e464d",
             "tournament_id": 0,
             "name": "UNNAMED F/A",
@@ -835,8 +875,28 @@
             "match_games": []
         },
         {
-            "id": 10,
+            "id": 9,
             "number": 9,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "fa497550-521b-11f0-9ab0-de3adb5e464d",
+                "name": "SKCalalas SA",
+                "seed": 2
+            },
+            "opponent2": {
+                "id": "1159f910-59e0-11f0-81bc-222bd7d5741a",
+                "name": "Farofeiros F/A",
+                "seed": 31
+            },
+            "match_games": []
+        },
+        {
+            "id": 10,
+            "number": 10,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -856,7 +916,7 @@
         },
         {
             "id": 11,
-            "number": 10,
+            "number": 11,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -876,7 +936,7 @@
         },
         {
             "id": 12,
-            "number": 11,
+            "number": 12,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -896,7 +956,7 @@
         },
         {
             "id": 13,
-            "number": 12,
+            "number": 13,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -916,7 +976,7 @@
         },
         {
             "id": 14,
-            "number": 13,
+            "number": 14,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -936,7 +996,7 @@
         },
         {
             "id": 15,
-            "number": 14,
+            "number": 15,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -956,7 +1016,7 @@
         },
         {
             "id": 16,
-            "number": 15,
+            "number": 16,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
