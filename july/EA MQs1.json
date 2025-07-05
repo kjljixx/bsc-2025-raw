@@ -3933,18 +3933,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b5afb1c-57f9-11f0-806c-f23e1b03c8de",
                 "name": "はむちーず",
-                "seed": 105
+                "seed": 105,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2320a60c-5757-11f0-aec8-f23e1b03c8de",
                 "name": "べじるぞ！",
-                "seed": 152
+                "seed": 152,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "3b5afb1c-57f9-11f0-806c-f23e1b03c8de",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2320a60c-5757-11f0-aec8-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "3b5afb1c-57f9-11f0-806c-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2320a60c-5757-11f0-aec8-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 31,
@@ -6288,7 +6323,9 @@
                 "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "2320a60c-5757-11f0-aec8-f23e1b03c8de",
+                "name": "べじるぞ！",
+                "seed": 152
             },
             "match_games": []
         },
