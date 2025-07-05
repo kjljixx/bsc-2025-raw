@@ -51958,18 +51958,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
                 "name": "FUT Academy",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c4853cc8-54e2-11f0-a50e-f23e1b03c8de",
                 "name": "Begemotiki",
-                "seed": 642
+                "seed": 642,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c4853cc8-54e2-11f0-a50e-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c4853cc8-54e2-11f0-a50e-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 930,
@@ -52278,18 +52313,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cf99e9a8-521a-11f0-8cc7-de3adb5e464d",
                 "name": "RVP Gaming",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c63462f8-521a-11f0-b53a-de3adb5e464d",
                 "name": "SQD Division",
-                "seed": 387
+                "seed": 387,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cf99e9a8-521a-11f0-8cc7-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c63462f8-521a-11f0-b53a-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cf99e9a8-521a-11f0-8cc7-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c63462f8-521a-11f0-b53a-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 946,
@@ -52891,7 +52961,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "da4582c2-521a-11f0-a440-de3adb5e464d",
+                "name": "FUT Academy",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -53019,7 +53091,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cf99e9a8-521a-11f0-8cc7-de3adb5e464d",
+                "name": "RVP Gaming",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
