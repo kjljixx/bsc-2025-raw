@@ -3556,18 +3556,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "612258f6-58ba-11f0-8d77-fa0a0b1c0479",
                 "name": "🐙🐙",
-                "seed": 113
+                "seed": 113,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f91513c6-5651-11f0-ac7d-f23e1b03c8de",
                 "name": "KJJHS",
-                "seed": 144
+                "seed": 144,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "612258f6-58ba-11f0-8d77-fa0a0b1c0479",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f91513c6-5651-11f0-ac7d-f23e1b03c8de",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "612258f6-58ba-11f0-8d77-fa0a0b1c0479",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f91513c6-5651-11f0-ac7d-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "612258f6-58ba-11f0-8d77-fa0a0b1c0479",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f91513c6-5651-11f0-ac7d-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -6109,18 +6159,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ff1d32e0-54c5-11f0-985a-f23e1b03c8de",
                 "name": "TKG",
-                "seed": 118
+                "seed": 118,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9073ac44-5352-11f0-b8c7-f677c6a6d51a",
                 "name": "理由のない恋",
-                "seed": 139
+                "seed": 139,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "ff1d32e0-54c5-11f0-985a-f23e1b03c8de",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9073ac44-5352-11f0-b8c7-f677c6a6d51a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "ff1d32e0-54c5-11f0-985a-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9073ac44-5352-11f0-b8c7-f677c6a6d51a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "ff1d32e0-54c5-11f0-985a-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9073ac44-5352-11f0-b8c7-f677c6a6d51a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 123,
@@ -6317,7 +6417,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "f91513c6-5651-11f0-ac7d-f23e1b03c8de",
+                "name": "KJJHS",
+                "seed": 144
             },
             "match_games": []
         },
@@ -7433,7 +7535,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "9073ac44-5352-11f0-b8c7-f677c6a6d51a",
+                "name": "理由のない恋",
+                "seed": 139
             },
             "match_games": []
         },
