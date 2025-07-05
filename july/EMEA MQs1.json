@@ -56815,18 +56815,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e9c7350-576e-11f0-9d25-92d95f13cf21",
                 "name": "CDA Esports",
-                "seed": 772
+                "seed": 772,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cf481ca4-521a-11f0-8957-de3adb5e464d",
                 "name": "RKV | Esports",
-                "seed": 164
+                "seed": 164,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "2e9c7350-576e-11f0-9d25-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cf481ca4-521a-11f0-8957-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2e9c7350-576e-11f0-9d25-92d95f13cf21",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cf481ca4-521a-11f0-8957-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 998,
