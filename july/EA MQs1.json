@@ -10821,18 +10821,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4dab5ea4-521a-11f0-99bf-de3adb5e464d",
                 "name": "ボリビア軍団",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4dc9c6c8-521a-11f0-928f-de3adb5e464d",
                 "name": "さいかて",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4dab5ea4-521a-11f0-99bf-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4dc9c6c8-521a-11f0-928f-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4dab5ea4-521a-11f0-99bf-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4dc9c6c8-521a-11f0-928f-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 227,
@@ -10976,18 +11011,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9c8ad3a-5433-11f0-826c-f23e1b03c8de",
                 "name": "鼻くそ",
-                "seed": 53
+                "seed": 53,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d2567964-554d-11f0-b81f-92d95f13cf21",
                 "name": "TENSAI",
-                "seed": 85
+                "seed": 85,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e9c8ad3a-5433-11f0-826c-f23e1b03c8de",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d2567964-554d-11f0-b81f-92d95f13cf21",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e9c8ad3a-5433-11f0-826c-f23e1b03c8de",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d2567964-554d-11f0-b81f-92d95f13cf21",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 233,
