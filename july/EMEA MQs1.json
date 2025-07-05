@@ -55053,18 +55053,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c6fcbe74-521a-11f0-953e-de3adb5e464d",
                 "name": "F/A BBC 1",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dd146766-521a-11f0-b12c-de3adb5e464d",
                 "name": "F/A Lithuania",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "c6fcbe74-521a-11f0-953e-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dd146766-521a-11f0-b12c-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "c6fcbe74-521a-11f0-953e-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dd146766-521a-11f0-b12c-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 965,
@@ -56288,7 +56323,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "dd146766-521a-11f0-b12c-de3adb5e464d",
+                "name": "F/A Lithuania",
+                "seed": 48
             },
             "match_games": []
         },
