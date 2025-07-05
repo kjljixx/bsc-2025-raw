@@ -20068,18 +20068,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d53b3e66-521a-11f0-9a01-de3adb5e464d",
                 "name": "FreedomFighters",
-                "seed": 361
+                "seed": 361,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bb52ef5e-54f3-11f0-a6a3-f23e1b03c8de",
                 "name": "Mount Olympus",
-                "seed": 664
+                "seed": 664,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "d53b3e66-521a-11f0-9a01-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bb52ef5e-54f3-11f0-a6a3-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "d53b3e66-521a-11f0-9a01-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bb52ef5e-54f3-11f0-a6a3-f23e1b03c8de",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 121,
@@ -29524,7 +29559,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "cf8386ea-521a-11f0-802c-de3adb5e464d",
                 "name": "RRC|ESPORT",
@@ -31403,7 +31438,9 @@
                 "seed": 152
             },
             "opponent2": {
-                "id": null
+                "id": "d53b3e66-521a-11f0-9a01-de3adb5e464d",
+                "name": "FreedomFighters",
+                "seed": 361
             },
             "match_games": []
         },
