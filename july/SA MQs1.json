@@ -14362,18 +14362,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f8469a3a-521b-11f0-82fd-de3adb5e464d",
                 "name": "DETROIT BRASIL",
-                "seed": 113
+                "seed": 113,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f9a70ee6-521b-11f0-8d99-de3adb5e464d",
                 "name": "Las trolitas",
-                "seed": 144
+                "seed": 144,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f8469a3a-521b-11f0-82fd-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f9a70ee6-521b-11f0-8d99-de3adb5e464d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "f8469a3a-521b-11f0-82fd-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f9a70ee6-521b-11f0-8d99-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f8469a3a-521b-11f0-82fd-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f9a70ee6-521b-11f0-8d99-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 267,
@@ -19234,7 +19284,9 @@
                 "seed": 241
             },
             "opponent2": {
-                "id": null
+                "id": "f9a70ee6-521b-11f0-8d99-de3adb5e464d",
+                "name": "Las trolitas",
+                "seed": 144
             },
             "match_games": []
         },
