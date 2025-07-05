@@ -56830,18 +56830,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c9976cba-521a-11f0-b14a-de3adb5e464d",
                 "name": "HDC|eSports",
-                "seed": 56
+                "seed": 56,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a56f390-582e-11f0-84f9-4a7a15329a84",
                 "name": "VERACITY",
-                "seed": 792
+                "seed": 792,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c9976cba-521a-11f0-b14a-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a56f390-582e-11f0-84f9-4a7a15329a84",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "c9976cba-521a-11f0-b14a-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a56f390-582e-11f0-84f9-4a7a15329a84",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 997,
