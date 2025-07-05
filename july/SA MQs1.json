@@ -17222,18 +17222,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f4f2cc14-521b-11f0-b4eb-de3adb5e464d",
                 "name": "Black sunshine",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c33c603c-53e6-11f0-b580-f23e1b03c8de",
                 "name": "LosCheritos",
-                "seed": 306
+                "seed": 306,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f4f2cc14-521b-11f0-b4eb-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c33c603c-53e6-11f0-b580-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "f4f2cc14-521b-11f0-b4eb-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c33c603c-53e6-11f0-b580-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f4f2cc14-521b-11f0-b4eb-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c33c603c-53e6-11f0-b580-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 332,
@@ -19939,10 +19989,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f4f2cc14-521b-11f0-b4eb-de3adb5e464d",
+                "name": "Black sunshine",
+                "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "6a8b99a8-576f-11f0-b61f-f23e1b03c8de",
+                "name": "Outdrafters",
+                "seed": 335
             },
             "match_games": []
         },
