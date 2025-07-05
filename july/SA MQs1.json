@@ -14269,18 +14269,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f7e69ec8-521b-11f0-867a-de3adb5e464d",
                 "name": "OS INCRÍVEIS",
-                "seed": 112
+                "seed": 112,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "faf39332-521b-11f0-9ad3-de3adb5e464d",
                 "name": "Os Amostradinhos",
-                "seed": 145
+                "seed": 145,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f7e69ec8-521b-11f0-867a-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "faf39332-521b-11f0-9ad3-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "f7e69ec8-521b-11f0-867a-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "faf39332-521b-11f0-9ad3-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 271,
@@ -16009,18 +16044,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f4319bf2-521b-11f0-9333-de3adb5e464d",
                 "name": "Team FLM",
-                "seed": 106
+                "seed": 106,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a3c352f8-5475-11f0-b526-92d95f13cf21",
                 "name": "Sport Gaming",
-                "seed": 151
+                "seed": 151,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f4319bf2-521b-11f0-9333-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3c352f8-5475-11f0-b526-92d95f13cf21",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "f4319bf2-521b-11f0-9333-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3c352f8-5475-11f0-b526-92d95f13cf21",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 351,
@@ -16109,18 +16179,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb9ef088-521b-11f0-acf5-de3adb5e464d",
                 "name": "LEGIT PRIDE🪐",
-                "seed": 62
+                "seed": 62,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "77547eaa-550f-11f0-90c9-f23e1b03c8de",
                 "name": "Crazy world🌎",
-                "seed": 195
+                "seed": 195,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "fb9ef088-521b-11f0-acf5-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "77547eaa-550f-11f0-90c9-f23e1b03c8de",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "fb9ef088-521b-11f0-acf5-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "77547eaa-550f-11f0-90c9-f23e1b03c8de",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 356,
@@ -16564,18 +16669,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f369b09c-521b-11f0-a19b-de3adb5e464d",
                 "name": "HACHIKOS",
-                "seed": 91
+                "seed": 91,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f355828e-58ec-11f0-a9ef-5a04b25de3e5",
                 "name": "Farofeiros F/A",
-                "seed": 347
+                "seed": 347,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f369b09c-521b-11f0-a19b-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f355828e-58ec-11f0-a9ef-5a04b25de3e5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "f369b09c-521b-11f0-a19b-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f355828e-58ec-11f0-a9ef-5a04b25de3e5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 377,
@@ -17536,7 +17676,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb9ef088-521b-11f0-acf5-de3adb5e464d",
+                "name": "LEGIT PRIDE🪐",
+                "seed": 62
             },
             "opponent2": {
                 "id": null
