@@ -23073,18 +23073,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f5b41bb2-521b-11f0-bdc5-de3adb5e464d",
                 "name": "GE4R",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6a8b99a8-576f-11f0-b61f-f23e1b03c8de",
                 "name": "Outdrafters",
-                "seed": 335
+                "seed": 335,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "f5b41bb2-521b-11f0-bdc5-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6a8b99a8-576f-11f0-b61f-f23e1b03c8de",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "f5b41bb2-521b-11f0-bdc5-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6a8b99a8-576f-11f0-b61f-f23e1b03c8de",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 468,
@@ -23213,18 +23248,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb02291a-521b-11f0-8af0-de3adb5e464d",
                 "name": "BLK | YA TE GANE🤷",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f644a8d0-521b-11f0-ab1c-de3adb5e464d",
                 "name": "Espanta Insanos",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "fb02291a-521b-11f0-8af0-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f644a8d0-521b-11f0-ab1c-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "fb02291a-521b-11f0-8af0-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f644a8d0-521b-11f0-ab1c-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 475,
@@ -23499,7 +23569,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6a8b99a8-576f-11f0-b61f-f23e1b03c8de",
+                "name": "Outdrafters",
+                "seed": 335
             },
             "opponent2": {
                 "id": null
