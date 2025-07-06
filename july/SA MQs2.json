@@ -3580,18 +3580,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa474f14-521b-11f0-a7c9-de3adb5e464d",
                 "name": "F4TALITY",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
                 "name": "Artisan Black",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fa474f14-521b-11f0-a7c9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fa474f14-521b-11f0-a7c9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fa474f14-521b-11f0-a7c9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 40,
@@ -3670,7 +3720,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fa474f14-521b-11f0-a7c9-de3adb5e464d",
+                "name": "F4TALITY",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
