@@ -4300,18 +4300,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
                 "name": "GAN.G ESPORTS",
-                "seed": 32
+                "seed": 32,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
                 "name": "どれいくイク逝く",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -4387,7 +4437,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                "name": "GAN.G ESPORTS",
+                "seed": 32
             },
             "match_games": []
         },
