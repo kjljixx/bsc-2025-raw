@@ -3023,11 +3023,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c10b81c0-5969-11f0-8e5c-a6eacc049bbc",
                 "name": "TENSAI",
-                "seed": 29
+                "seed": 29,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "4f5f8950-521a-11f0-bb5d-de3adb5e464d",
@@ -3198,7 +3199,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c109d38e-5969-11f0-a978-a6eacc049bbc",
                 "name": "Comeback",
@@ -3207,7 +3208,8 @@
             "opponent2": {
                 "id": "4f6056c8-521a-11f0-9704-de3adb5e464d",
                 "name": "No Organization Team",
-                "seed": 10
+                "seed": 10,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -3435,7 +3437,9 @@
                 "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "4f5f8950-521a-11f0-bb5d-de3adb5e464d",
+                "name": "HighPing😵‍💫",
+                "seed": 13
             },
             "match_games": []
         },
@@ -3493,7 +3497,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "c109d38e-5969-11f0-a978-a6eacc049bbc",
+                "name": "Comeback",
+                "seed": 26
             },
             "match_games": []
         },
