@@ -4380,18 +4380,98 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1159f910-59e0-11f0-81bc-222bd7d5741a",
                 "name": "Farofeiros F/A",
-                "seed": 31
+                "seed": 31,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "115456ae-59e0-11f0-9a8a-222bd7d5741a",
                 "name": "Be Bold",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "1159f910-59e0-11f0-81bc-222bd7d5741a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "115456ae-59e0-11f0-9a8a-222bd7d5741a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "1159f910-59e0-11f0-81bc-222bd7d5741a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "115456ae-59e0-11f0-9a8a-222bd7d5741a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1159f910-59e0-11f0-81bc-222bd7d5741a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "115456ae-59e0-11f0-9a8a-222bd7d5741a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "1159f910-59e0-11f0-81bc-222bd7d5741a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "115456ae-59e0-11f0-9a8a-222bd7d5741a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "1159f910-59e0-11f0-81bc-222bd7d5741a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "115456ae-59e0-11f0-9a8a-222bd7d5741a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 48,
@@ -4467,7 +4547,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "1159f910-59e0-11f0-81bc-222bd7d5741a",
+                "name": "Farofeiros F/A",
+                "seed": 31
             },
             "match_games": []
         },
