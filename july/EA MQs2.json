@@ -3440,18 +3440,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f5064a2-521a-11f0-bb1d-de3adb5e464d",
                 "name": "Feasible Gaming",
-                "seed": 11
+                "seed": 11,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
                 "name": "GAN.G ESPORTS",
-                "seed": 32
+                "seed": 32,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4f5064a2-521a-11f0-bb1d-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "4f5064a2-521a-11f0-bb1d-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4f5064a2-521a-11f0-bb1d-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "4f5064a2-521a-11f0-bb1d-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 34,
@@ -3867,10 +3932,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                "name": "GAN.G ESPORTS",
+                "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
+                "name": "どれいくイク逝く",
+                "seed": 19
             },
             "match_games": []
         },
