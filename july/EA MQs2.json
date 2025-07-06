@@ -699,6 +699,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "c10a654c-5969-11f0-82ec-a6eacc049bbc",
+            "tournament_id": 0,
+            "name": "アガ民ズ",
+            "players": [
+                {
+                    "name": "Muso019",
+                    "gamerTag": "#YJ8GVRRJ"
+                },
+                {
+                    "name": "のんく往復ビンタ顔パンパン",
+                    "gamerTag": "#GVY2C98R"
+                },
+                {
+                    "name": "Ayn.",
+                    "gamerTag": "#2GLJ2G8G2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1211,18 +1231,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
                 "name": "Frenzy Gaming",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c10a654c-5969-11f0-82ec-a6eacc049bbc",
                 "name": "アガ民ズ",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c10a654c-5969-11f0-82ec-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c10a654c-5969-11f0-82ec-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c10a654c-5969-11f0-82ec-a6eacc049bbc",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 16,
@@ -1371,7 +1441,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
+                "name": "Frenzy Gaming",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
@@ -1569,7 +1641,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c10a654c-5969-11f0-82ec-a6eacc049bbc",
+                "name": "アガ民ズ",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
