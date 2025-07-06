@@ -701,6 +701,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "1158d058-59e0-11f0-9138-222bd7d5741a",
+            "tournament_id": 0,
+            "name": "GARAMARARAM",
+            "players": [
+                {
+                    "name": "NXS|Wakiya文",
+                    "gamerTag": "#Q0PLPCGR2"
+                },
+                {
+                    "name": "UDINDINDINDUN",
+                    "gamerTag": "#9LJP8UPYQ"
+                },
+                {
+                    "name": "'𝙈𝙤𝙝𝙨𝙚𝙣⸙",
+                    "gamerTag": "#PPY08CL9J"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "1157af2a-59e0-11f0-ad0e-222bd7d5741a",
             "tournament_id": 0,
             "name": "Team Milanesa",
@@ -1111,18 +1131,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa4a3990-521b-11f0-8c24-de3adb5e464d",
                 "name": "CASA BRAWL",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1158d058-59e0-11f0-9138-222bd7d5741a",
                 "name": "GARAMARARAM",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fa4a3990-521b-11f0-8c24-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1158d058-59e0-11f0-9138-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "fa4a3990-521b-11f0-8c24-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1158d058-59e0-11f0-9138-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fa4a3990-521b-11f0-8c24-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1158d058-59e0-11f0-9138-222bd7d5741a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -1592,7 +1662,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fa4a3990-521b-11f0-8c24-de3adb5e464d",
+                "name": "CASA BRAWL",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -1796,7 +1868,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1158d058-59e0-11f0-9138-222bd7d5741a",
+                "name": "GARAMARARAM",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
