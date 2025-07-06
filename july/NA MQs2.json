@@ -859,6 +859,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "0961242a-59ec-11f0-974d-aa44cc06adde",
+            "tournament_id": 0,
+            "name": "Real Ones",
+            "players": [
+                {
+                    "name": "razuen",
+                    "gamerTag": "#8Q2QUV00J"
+                },
+                {
+                    "name": "tuni",
+                    "gamerTag": "#90RCQQJ"
+                },
+                {
+                    "name": "ELV|snoiy",
+                    "gamerTag": "#YUJ8PJ0LR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Real Ones.png"
         }
     ],
     "stage": [
@@ -1595,18 +1615,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7ce00060-521c-11f0-aee9-de3adb5e464d",
                 "name": "New Heights Gaming",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0961242a-59ec-11f0-974d-aa44cc06adde",
                 "name": "Real Ones",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "7ce00060-521c-11f0-aee9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0961242a-59ec-11f0-974d-aa44cc06adde",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "7ce00060-521c-11f0-aee9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0961242a-59ec-11f0-974d-aa44cc06adde",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7ce00060-521c-11f0-aee9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0961242a-59ec-11f0-974d-aa44cc06adde",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -1752,7 +1822,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "7ce00060-521c-11f0-aee9-de3adb5e464d",
+                "name": "New Heights Gaming",
+                "seed": 11
             },
             "match_games": []
         },
@@ -1964,7 +2036,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "0961242a-59ec-11f0-974d-aa44cc06adde",
+                "name": "Real Ones",
+                "seed": 22
             },
             "match_games": []
         },
