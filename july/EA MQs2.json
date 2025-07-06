@@ -3570,18 +3570,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c1050ac0-5969-11f0-a380-a6eacc049bbc",
                 "name": "Fug",
-                "seed": 21
+                "seed": 21,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c10c9bc8-5969-11f0-a6ac-a6eacc049bbc",
                 "name": "Avantgarde",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "c1050ac0-5969-11f0-a380-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c10c9bc8-5969-11f0-a6ac-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "c1050ac0-5969-11f0-a380-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c10c9bc8-5969-11f0-a6ac-a6eacc049bbc",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c1050ac0-5969-11f0-a380-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c10c9bc8-5969-11f0-a6ac-a6eacc049bbc",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 38,
@@ -3736,7 +3786,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c1050ac0-5969-11f0-a380-a6eacc049bbc",
+                "name": "Fug",
+                "seed": 21
             },
             "opponent2": {
                 "id": null
