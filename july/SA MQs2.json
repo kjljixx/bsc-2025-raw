@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "f75036b8-521b-11f0-8c3f-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "Universum Gaming",
+            "players": [
+                {
+                    "name": "Vexxx🍥",
+                    "gamerTag": "#Y0VGCP2QU"
+                },
+                {
+                    "name": "Teusx🪐",
+                    "gamerTag": "#P2P0VR0G"
+                },
+                {
+                    "name": "oNUGGETS_",
+                    "gamerTag": "#CQ00V99"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Universum Gaming.png"
+        },
+        {
             "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
             "tournament_id": 0,
             "name": "atentado ao pudor",
@@ -1011,18 +1031,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f75036b8-521b-11f0-8c3f-de3adb5e464d",
                 "name": "Universum Gaming",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "11557dd6-59e0-11f0-a1f7-222bd7d5741a",
                 "name": "Use Code",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f75036b8-521b-11f0-8c3f-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "11557dd6-59e0-11f0-a1f7-222bd7d5741a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "f75036b8-521b-11f0-8c3f-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "11557dd6-59e0-11f0-a1f7-222bd7d5741a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f75036b8-521b-11f0-8c3f-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "11557dd6-59e0-11f0-a1f7-222bd7d5741a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -1769,7 +1839,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "11557dd6-59e0-11f0-a1f7-222bd7d5741a",
+                "name": "Use Code",
+                "seed": 17
             },
             "match_games": []
         },
@@ -1981,7 +2053,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "f75036b8-521b-11f0-8c3f-de3adb5e464d",
+                "name": "Universum Gaming",
+                "seed": 16
             },
             "match_games": []
         },
