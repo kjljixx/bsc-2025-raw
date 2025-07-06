@@ -2848,18 +2848,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f6408b8-521a-11f0-ae32-de3adb5e464d",
                 "name": "NAVI",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
                 "name": "Frenzy Gaming",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4f6408b8-521a-11f0-ae32-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "4f6408b8-521a-11f0-ae32-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "4f6408b8-521a-11f0-ae32-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 17,
@@ -3430,18 +3480,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c1042e52-5969-11f0-b986-a6eacc049bbc",
                 "name": "Cuetest",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4f5f8950-521a-11f0-bb5d-de3adb5e464d",
                 "name": "HighPing😵‍💫",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "c1042e52-5969-11f0-b986-a6eacc049bbc",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f5f8950-521a-11f0-bb5d-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "c1042e52-5969-11f0-b986-a6eacc049bbc",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4f5f8950-521a-11f0-bb5d-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c1042e52-5969-11f0-b986-a6eacc049bbc",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f5f8950-521a-11f0-bb5d-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -3568,7 +3668,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f5f8950-521a-11f0-bb5d-de3adb5e464d",
+                "name": "HighPing😵‍💫",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
@@ -3648,7 +3750,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
+                "name": "Frenzy Gaming",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
