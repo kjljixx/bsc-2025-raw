@@ -721,6 +721,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "095f5f6e-59ec-11f0-8753-aa44cc06adde",
+            "tournament_id": 0,
+            "name": "GG",
+            "players": [
+                {
+                    "name": "Mommy Kaze 💐",
+                    "gamerTag": "#2LYQQY92QQ"
+                },
+                {
+                    "name": "Nerfsvn",
+                    "gamerTag": "#9YYUPGJ2V"
+                },
+                {
+                    "name": "winq🪸",
+                    "gamerTag": "#8UL0U08V"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "095d2d5c-59ec-11f0-bb50-aa44cc06adde",
             "tournament_id": 0,
             "name": "sua",
@@ -1163,18 +1183,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7ce26512-521c-11f0-b98d-de3adb5e464d",
                 "name": "IX Squares",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "095f5f6e-59ec-11f0-8753-aa44cc06adde",
                 "name": "GG",
-                "seed": 20
+                "seed": 20,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "7ce26512-521c-11f0-b98d-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "095f5f6e-59ec-11f0-8753-aa44cc06adde",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "7ce26512-521c-11f0-b98d-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "095f5f6e-59ec-11f0-8753-aa44cc06adde",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7ce26512-521c-11f0-b98d-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "095f5f6e-59ec-11f0-8753-aa44cc06adde",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "7ce26512-521c-11f0-b98d-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "095f5f6e-59ec-11f0-8753-aa44cc06adde",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -1730,7 +1815,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "7ce26512-521c-11f0-b98d-de3adb5e464d",
+                "name": "IX Squares",
+                "seed": 13
             },
             "match_games": []
         },
@@ -1944,7 +2031,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "095f5f6e-59ec-11f0-8753-aa44cc06adde",
+                "name": "GG",
+                "seed": 20
             },
             "match_games": []
         },
