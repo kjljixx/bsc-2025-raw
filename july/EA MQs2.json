@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+            "tournament_id": 0,
+            "name": "GAN.G ESPORTS",
+            "players": [
+                {
+                    "name": "stans hating me",
+                    "gamerTag": "#98YCV0RQU"
+                },
+                {
+                    "name": "Minzzun",
+                    "gamerTag": "#Y0PQYLQ9"
+                },
+                {
+                    "name": "지니",
+                    "gamerTag": "#PRCUP8RVC"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "c1092e48-5969-11f0-9d38-a6eacc049bbc",
             "tournament_id": 0,
             "name": "GOOD MOM ESPORTS",
@@ -961,18 +981,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f639dba-521a-11f0-8d19-de3adb5e464d",
                 "name": "ZETA DIVISION",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
                 "name": "GAN.G ESPORTS",
-                "seed": 32
+                "seed": 32,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4f639dba-521a-11f0-8d19-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "4f639dba-521a-11f0-8d19-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4f639dba-521a-11f0-8d19-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "4f639dba-521a-11f0-8d19-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -1800,7 +1885,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f639dba-521a-11f0-8d19-de3adb5e464d",
+                "name": "ZETA DIVISION",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -2016,7 +2103,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                "name": "GAN.G ESPORTS",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
