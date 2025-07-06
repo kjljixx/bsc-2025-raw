@@ -4868,18 +4868,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a2d4076-59b0-11f0-a25c-8aa36873ca99",
                 "name": "FUT Academy",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
                 "name": "KDS Esports",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "2a2d4076-59b0-11f0-a25c-8aa36873ca99",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "2a2d4076-59b0-11f0-a25c-8aa36873ca99",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "2a2d4076-59b0-11f0-a25c-8aa36873ca99",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 51,
