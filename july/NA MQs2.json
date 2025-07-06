@@ -2350,18 +2350,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7ce3d0f0-521c-11f0-a138-de3adb5e464d",
                 "name": "Elevate",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "095e890e-59ec-11f0-b4f7-aa44cc06adde",
                 "name": "Complexity",
-                "seed": 18
+                "seed": 18,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "7ce3d0f0-521c-11f0-a138-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "095e890e-59ec-11f0-b4f7-aa44cc06adde",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "7ce3d0f0-521c-11f0-a138-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "095e890e-59ec-11f0-b4f7-aa44cc06adde",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7ce3d0f0-521c-11f0-a138-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "095e890e-59ec-11f0-b4f7-aa44cc06adde",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "7ce3d0f0-521c-11f0-a138-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "095e890e-59ec-11f0-b4f7-aa44cc06adde",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 30,
@@ -2587,7 +2652,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7ce3d0f0-521c-11f0-a138-de3adb5e464d",
+                "name": "Elevate",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -3171,10 +3238,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "095e890e-59ec-11f0-b4f7-aa44cc06adde",
+                "name": "Complexity",
+                "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "095d2d5c-59ec-11f0-bb50-aa44cc06adde",
+                "name": "sua",
+                "seed": 21
             },
             "match_games": []
         },
