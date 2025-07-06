@@ -4102,18 +4102,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da4c96de-521a-11f0-aad6-de3adb5e464d",
                 "name": "Reply Totem",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a2c2a1a-59b0-11f0-b3ca-8aa36873ca99",
                 "name": "Freezer Esports",
-                "seed": 19
+                "seed": 19,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "da4c96de-521a-11f0-aad6-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a2c2a1a-59b0-11f0-b3ca-8aa36873ca99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "da4c96de-521a-11f0-aad6-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2a2c2a1a-59b0-11f0-b3ca-8aa36873ca99",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "da4c96de-521a-11f0-aad6-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a2c2a1a-59b0-11f0-b3ca-8aa36873ca99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "da4c96de-521a-11f0-aad6-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a2c2a1a-59b0-11f0-b3ca-8aa36873ca99",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 40,
@@ -4202,7 +4267,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "da4c96de-521a-11f0-aad6-de3adb5e464d",
+                "name": "Reply Totem",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
