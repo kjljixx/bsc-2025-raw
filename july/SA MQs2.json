@@ -2595,7 +2595,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1159f910-59e0-11f0-81bc-222bd7d5741a",
                 "name": "Farofeiros F/A",
@@ -2604,7 +2604,8 @@
             "opponent2": {
                 "id": "1154f050-59e0-11f0-a493-222bd7d5741a",
                 "name": "AC/DC⚡",
-                "seed": 18
+                "seed": 18,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2615,7 +2616,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "115456ae-59e0-11f0-9a8a-222bd7d5741a",
                 "name": "Be Bold",
@@ -2624,7 +2625,8 @@
             "opponent2": {
                 "id": "1152a6b0-59e0-11f0-ad88-222bd7d5741a",
                 "name": "Corazoncitos",
-                "seed": 23
+                "seed": 23,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2635,7 +2637,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
                 "name": "Artisan Black",
@@ -2644,7 +2646,8 @@
             "opponent2": {
                 "id": "fa43e6e4-521b-11f0-a2f5-de3adb5e464d",
                 "name": "Não treinamos",
-                "seed": 14
+                "seed": 14,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2764,7 +2767,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "115456ae-59e0-11f0-9a8a-222bd7d5741a",
+                "name": "Be Bold",
+                "seed": 26
             },
             "match_games": []
         },
