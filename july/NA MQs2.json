@@ -4183,18 +4183,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7ce0cf4a-521c-11f0-a80b-de3adb5e464d",
                 "name": "LLC eSports",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7ce26512-521c-11f0-b98d-de3adb5e464d",
                 "name": "IX Squares",
-                "seed": 13
+                "seed": 13,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "7ce0cf4a-521c-11f0-a80b-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ce26512-521c-11f0-b98d-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7ce0cf4a-521c-11f0-a80b-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ce26512-521c-11f0-b98d-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7ce0cf4a-521c-11f0-a80b-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ce26512-521c-11f0-b98d-de3adb5e464d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 48,
@@ -4268,7 +4318,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "7ce0cf4a-521c-11f0-a80b-de3adb5e464d",
+                "name": "LLC eSports",
+                "seed": 12
             },
             "match_games": []
         },
