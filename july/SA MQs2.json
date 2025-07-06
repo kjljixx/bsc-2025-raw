@@ -899,6 +899,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "1151b6a6-59e0-11f0-9677-222bd7d5741a",
+            "tournament_id": 0,
+            "name": "Ñam Sports",
+            "players": [
+                {
+                    "name": "ÑM|𝑳𝒆𝒏𝒛𝒛⚜️",
+                    "gamerTag": "#90J0R9LPP"
+                },
+                {
+                    "name": "𝑇𝑢𝑧𝑧𝑖💊",
+                    "gamerTag": "#9GVJQ90G0"
+                },
+                {
+                    "name": "ÑM|𝐕𝖎𝖈𝖊⚜️",
+                    "gamerTag": "#9V8LQR9CY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1897,18 +1917,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa47a360-521b-11f0-9e22-de3adb5e464d",
                 "name": "Quilmes     F/A",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1151b6a6-59e0-11f0-9677-222bd7d5741a",
                 "name": "Ñam Sports",
-                "seed": 22
+                "seed": 22,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fa47a360-521b-11f0-9e22-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1151b6a6-59e0-11f0-9677-222bd7d5741a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "fa47a360-521b-11f0-9e22-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1151b6a6-59e0-11f0-9677-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fa47a360-521b-11f0-9e22-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1151b6a6-59e0-11f0-9677-222bd7d5741a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fa47a360-521b-11f0-9e22-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1151b6a6-59e0-11f0-9677-222bd7d5741a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 25,
