@@ -719,6 +719,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
+            "tournament_id": 0,
+            "name": "Artisan Black",
+            "players": [
+                {
+                    "name": "𝐻𝑦𝑜𝑔𝑎 🦢",
+                    "gamerTag": "#VPV0UPU"
+                },
+                {
+                    "name": "Sssl🧟‍♂️",
+                    "gamerTag": "#2CPGLYC9"
+                },
+                {
+                    "name": "ATS|Eros🥀",
+                    "gamerTag": "#R9PPQQC9"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1192,18 +1212,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa4b0b5e-521b-11f0-b513-de3adb5e464d",
                 "name": "BC* Gaming SA",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
                 "name": "Artisan Black",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fa4b0b5e-521b-11f0-b513-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "fa4b0b5e-521b-11f0-b513-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fa4b0b5e-521b-11f0-b513-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 14,
@@ -1374,7 +1444,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fa4b0b5e-521b-11f0-b513-de3adb5e464d",
+                "name": "BC* Gaming SA",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -1570,7 +1642,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1159663a-59e0-11f0-9955-222bd7d5741a",
+                "name": "Artisan Black",
+                "seed": 30
             },
             "opponent2": {
                 "id": null
