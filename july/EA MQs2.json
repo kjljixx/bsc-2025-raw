@@ -741,6 +741,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "4f6056c8-521a-11f0-9704-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "No Organization Team",
+            "players": [
+                {
+                    "name": "Stardragon",
+                    "gamerTag": "#90R9Q2UP"
+                },
+                {
+                    "name": "GOO|Harrison",
+                    "gamerTag": "#9J9UQ0U9"
+                },
+                {
+                    "name": "GOO|Tiger",
+                    "gamerTag": "#2228G2Q8G0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "c10c0ca8-5969-11f0-9422-a6eacc049bbc",
             "tournament_id": 0,
             "name": "PikoPiko",
@@ -776,6 +796,26 @@
                 {
                     "name": "Ayn.",
                     "gamerTag": "#2GLJ2G8G2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "c103505e-5969-11f0-b15c-a6eacc049bbc",
+            "tournament_id": 0,
+            "name": "ボリビア軍団",
+            "players": [
+                {
+                    "name": "ボリビアニキ",
+                    "gamerTag": "#9U2QJ0P"
+                },
+                {
+                    "name": "sen_KaZ",
+                    "gamerTag": "#2JPQ29VV2"
+                },
+                {
+                    "name": "すあちゃん!!",
+                    "gamerTag": "#2UJ02PULU"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -1331,11 +1371,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f6056c8-521a-11f0-9704-de3adb5e464d",
                 "name": "No Organization Team",
-                "seed": 10
+                "seed": 10,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "c1042e52-5969-11f0-b986-a6eacc049bbc",
@@ -1511,7 +1552,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f5064a2-521a-11f0-bb1d-de3adb5e464d",
                 "name": "Feasible Gaming",
@@ -1520,7 +1561,8 @@
             "opponent2": {
                 "id": "c103505e-5969-11f0-b15c-a6eacc049bbc",
                 "name": "ボリビア軍団",
-                "seed": 22
+                "seed": 22,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1660,7 +1702,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "4f5064a2-521a-11f0-bb1d-de3adb5e464d",
+                "name": "Feasible Gaming",
+                "seed": 11
             },
             "match_games": []
         },
@@ -1864,7 +1908,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "c103505e-5969-11f0-b15c-a6eacc049bbc",
+                "name": "ボリビア軍団",
+                "seed": 22
             },
             "match_games": []
         },
