@@ -3682,18 +3682,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a2f7ee0-59b0-11f0-8c6c-8aa36873ca99",
                 "name": "Code : Gas",
-                "seed": 18
+                "seed": 18,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a35a90a-59b0-11f0-9a70-8aa36873ca99",
                 "name": "Universum Gaming",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "2a2f7ee0-59b0-11f0-8c6c-8aa36873ca99",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a35a90a-59b0-11f0-9a70-8aa36873ca99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2a2f7ee0-59b0-11f0-8c6c-8aa36873ca99",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a35a90a-59b0-11f0-9a70-8aa36873ca99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "2a2f7ee0-59b0-11f0-8c6c-8aa36873ca99",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a35a90a-59b0-11f0-9a70-8aa36873ca99",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 37,
@@ -3805,7 +3855,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "2a2f7ee0-59b0-11f0-8c6c-8aa36873ca99",
+                "name": "Code : Gas",
+                "seed": 18
             },
             "match_games": []
         },
