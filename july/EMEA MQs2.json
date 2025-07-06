@@ -721,6 +721,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/FA Poland.png"
         },
         {
+            "id": "2a31caba-59b0-11f0-b885-8aa36873ca99",
+            "tournament_id": 0,
+            "name": "LEW’S",
+            "players": [
+                {
+                    "name": "➳L❦rxia𓆩♡𓆪",
+                    "gamerTag": "#8YLLGG809"
+                },
+                {
+                    "name": "𝙀𝙡𝙘𝙩𝙧𝙤🔱",
+                    "gamerTag": "#98C9CJUCP"
+                },
+                {
+                    "name": "I'm Searl🤍",
+                    "gamerTag": "#PJ9RJY09Q"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "2a39281e-59b0-11f0-9574-8aa36873ca99",
             "tournament_id": 0,
             "name": "Kana",
@@ -1241,18 +1261,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
                 "name": "KDS Esports",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a31caba-59b0-11f0-b885-8aa36873ca99",
                 "name": "LEW’S",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a31caba-59b0-11f0-b885-8aa36873ca99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a31caba-59b0-11f0-b885-8aa36873ca99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a31caba-59b0-11f0-b885-8aa36873ca99",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 13,
