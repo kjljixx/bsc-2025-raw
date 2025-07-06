@@ -901,6 +901,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "Angry Bear",
+            "players": [
+                {
+                    "name": "無名ᴿᵒʸᵃᴸ",
+                    "gamerTag": "#YJ8VV2C9G"
+                },
+                {
+                    "name": "RINGO",
+                    "gamerTag": "#PJYGUJLPY"
+                },
+                {
+                    "name": "Menmi",
+                    "gamerTag": "#QCLV9CL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "c10a654c-5969-11f0-82ec-a6eacc049bbc",
             "tournament_id": 0,
             "name": "アガ民ズ",
@@ -1942,18 +1962,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
                 "name": "Angry Bear",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
                 "name": "どれいくイク逝く",
-                "seed": 19
+                "seed": 19,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -2180,7 +2280,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "c107f4c4-5969-11f0-a6c9-a6eacc049bbc",
+                "name": "どれいくイク逝く",
+                "seed": 19
             },
             "match_games": []
         },
@@ -2402,7 +2504,9 @@
                 "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+                "name": "Angry Bear",
+                "seed": 14
             },
             "match_games": []
         },
