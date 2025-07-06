@@ -3550,18 +3550,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa46b0b8-521b-11f0-a033-de3adb5e464d",
                 "name": "bolibas gordinhas",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1158d058-59e0-11f0-9138-222bd7d5741a",
                 "name": "GARAMARARAM",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fa46b0b8-521b-11f0-a033-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1158d058-59e0-11f0-9138-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fa46b0b8-521b-11f0-a033-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1158d058-59e0-11f0-9138-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fa46b0b8-521b-11f0-a033-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1158d058-59e0-11f0-9138-222bd7d5741a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -3892,10 +3942,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fa46b0b8-521b-11f0-a033-de3adb5e464d",
+                "name": "bolibas gordinhas",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "fa45f164-521b-11f0-8892-de3adb5e464d",
+                "name": "UNNAMED F/A",
+                "seed": 15
             },
             "match_games": []
         },
