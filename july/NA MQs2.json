@@ -2730,18 +2730,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7ce3d0f0-521c-11f0-a138-de3adb5e464d",
                 "name": "Elevate",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7ce07c5c-521c-11f0-80b9-de3adb5e464d",
                 "name": "ultbobs aura",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7ce3d0f0-521c-11f0-a138-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ce07c5c-521c-11f0-80b9-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "7ce3d0f0-521c-11f0-a138-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ce07c5c-521c-11f0-80b9-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "7ce3d0f0-521c-11f0-a138-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ce07c5c-521c-11f0-80b9-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 44,
@@ -3745,7 +3795,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7ce07c5c-521c-11f0-80b9-de3adb5e464d",
+                "name": "ultbobs aura",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
