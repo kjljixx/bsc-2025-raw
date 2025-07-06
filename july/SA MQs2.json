@@ -741,6 +741,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "f8cd7e42-521b-11f0-b045-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "777",
+            "players": [
+                {
+                    "name": "777 ✧ DK",
+                    "gamerTag": "#G00UG8YVR"
+                },
+                {
+                    "name": "777 ✧ TICAS",
+                    "gamerTag": "#8C8988222"
+                },
+                {
+                    "name": "777 ✧ NO̸ZES 🌰",
+                    "gamerTag": "#RRVUUPG0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "1157af2a-59e0-11f0-ad0e-222bd7d5741a",
             "tournament_id": 0,
             "name": "Team Milanesa",
@@ -1311,18 +1331,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f8cd7e42-521b-11f0-b045-de3adb5e464d",
                 "name": "777",
-                "seed": 13
+                "seed": 13,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "115345f2-59e0-11f0-af62-222bd7d5741a",
                 "name": "Aura division",
-                "seed": 20
+                "seed": 20,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f8cd7e42-521b-11f0-b045-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "115345f2-59e0-11f0-af62-222bd7d5741a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "f8cd7e42-521b-11f0-b045-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "115345f2-59e0-11f0-af62-222bd7d5741a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f8cd7e42-521b-11f0-b045-de3adb5e464d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "115345f2-59e0-11f0-af62-222bd7d5741a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f8cd7e42-521b-11f0-b045-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "115345f2-59e0-11f0-af62-222bd7d5741a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -1879,7 +1964,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "115345f2-59e0-11f0-af62-222bd7d5741a",
+                "name": "Aura division",
+                "seed": 20
             },
             "match_games": []
         },
@@ -2093,7 +2180,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "f8cd7e42-521b-11f0-b045-de3adb5e464d",
+                "name": "777",
+                "seed": 13
             },
             "match_games": []
         },
