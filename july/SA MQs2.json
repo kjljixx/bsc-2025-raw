@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
+            "tournament_id": 0,
+            "name": "atentado ao pudor",
+            "players": [
+                {
+                    "name": "MoniZ 🌊",
+                    "gamerTag": "#8JU00V2L"
+                },
+                {
+                    "name": "RZ|Yuri",
+                    "gamerTag": "#RLJYUGPQ"
+                },
+                {
+                    "name": "LuNo :D",
+                    "gamerTag": "#2JGRJ8VL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "1154f050-59e0-11f0-a493-222bd7d5741a",
             "tournament_id": 0,
             "name": "AC/DC⚡",
@@ -781,18 +801,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa48c2c2-521b-11f0-ad85-de3adb5e464d",
                 "name": "Dropeados F/A",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
                 "name": "atentado ao pudor",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fa48c2c2-521b-11f0-ad85-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "fa48c2c2-521b-11f0-ad85-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fa48c2c2-521b-11f0-ad85-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -1080,7 +1150,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fa48c2c2-521b-11f0-ad85-de3adb5e464d",
+                "name": "Dropeados F/A",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -1272,7 +1344,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
+                "name": "atentado ao pudor",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
