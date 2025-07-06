@@ -3947,18 +3947,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d4b3f2a8-521a-11f0-8968-de3adb5e464d",
                 "name": "Bound By Oath",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "da49b0c2-521a-11f0-9264-de3adb5e464d",
                 "name": "F/A Poland",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "d4b3f2a8-521a-11f0-8968-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "da49b0c2-521a-11f0-9264-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d4b3f2a8-521a-11f0-8968-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "da49b0c2-521a-11f0-9264-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "d4b3f2a8-521a-11f0-8968-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "da49b0c2-521a-11f0-9264-de3adb5e464d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 38,
@@ -4132,10 +4182,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d4b3f2a8-521a-11f0-8968-de3adb5e464d",
+                "name": "Bound By Oath",
+                "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "2a34e092-59b0-11f0-815f-8aa36873ca99",
+                "name": "Name For Fame",
+                "seed": 26
             },
             "match_games": []
         },
