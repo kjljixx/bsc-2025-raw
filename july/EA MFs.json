@@ -1,10 +1,171 @@
 {
-    "participant": [],
+    "participant": [
+        {
+            "id": "4f639dba-521a-11f0-8d19-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "ZETA DIVISION",
+            "players": [
+                {
+                    "name": "ZETA|Sizuku",
+                    "gamerTag": "#P90RJQ8C"
+                },
+                {
+                    "name": "ZETA|Sitetampo",
+                    "gamerTag": "#8Y98Q8U"
+                },
+                {
+                    "name": "ZETA|Levi",
+                    "gamerTag": "#29UGLJV2G"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/ZETA DIVISION.png"
+        },
+        {
+            "id": "4f627606-521a-11f0-ba80-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "REJECT",
+            "players": [
+                {
+                    "name": "RC|Shu",
+                    "gamerTag": "#2G0RRLU2R"
+                },
+                {
+                    "name": "nyamura",
+                    "gamerTag": "#2PV9R9Q28"
+                },
+                {
+                    "name": "RC|Battoman",
+                    "gamerTag": "#P0Y8JGL0U"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/REJECT.png"
+        },
+        {
+            "id": "4f633a78-521a-11f0-a09f-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "Crazy Raccoon",
+            "players": [
+                {
+                    "name": "Tensai 천재",
+                    "gamerTag": "#9ULYPV8"
+                },
+                {
+                    "name": "CR|Milkreo",
+                    "gamerTag": "#20C0LL00"
+                },
+                {
+                    "name": "CR|Moya",
+                    "gamerTag": "#UR2UL8YR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Crazy Raccoon.png"
+        },
+        {
+            "id": "4f621e68-521a-11f0-983a-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "Rival Esports",
+            "players": [
+                {
+                    "name": "RVL|Mameshi",
+                    "gamerTag": "#2UQCRP90"
+                },
+                {
+                    "name": "RVL|Terry",
+                    "gamerTag": "#LJ0288PRG"
+                },
+                {
+                    "name": "Isee in Bush",
+                    "gamerTag": "#8Y2Y0GYYG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Rival Esports.webp"
+        },
+        {
+            "id": "4f6408b8-521a-11f0-ae32-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "NAVI",
+            "players": [
+                {
+                    "name": "NAVI|Kuru",
+                    "gamerTag": "#J99YU9QY"
+                },
+                {
+                    "name": "NAVI|Ryohei",
+                    "gamerTag": "#82PQUPGU0"
+                },
+                {
+                    "name": "NAVI|Achapi",
+                    "gamerTag": "#28PU0P9L0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/NAVI.png"
+        },
+        {
+            "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "Frenzy Gaming",
+            "players": [
+                {
+                    "name": "FZ|だん子",
+                    "gamerTag": "#99GGUPY2U"
+                },
+                {
+                    "name": "FZ|チャンカパーナ🤦‍♀",
+                    "gamerTag": "#88LLQGP0Q"
+                },
+                {
+                    "name": "FZ|Torideyansu",
+                    "gamerTag": "#89UUQLJCC"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Frenzy Gaming.png"
+        },
+        {
+            "id": "4f61042e-521a-11f0-8b64-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "Gen.G Esports",
+            "players": [
+                {
+                    "name": "GEN|BONOX2",
+                    "gamerTag": "#CPPC8282"
+                },
+                {
+                    "name": "GEN|Moding",
+                    "gamerTag": "#8CYJ8QGR"
+                },
+                {
+                    "name": "GEN|cookie",
+                    "gamerTag": "#L08Q9J09"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Gen.G Esports.png"
+        },
+        {
+            "id": "4f6164aa-521a-11f0-bcc1-de3adb5e464d",
+            "tournament_id": 0,
+            "name": "EffortResult",
+            "players": [
+                {
+                    "name": "ER|Wahochi🍬",
+                    "gamerTag": "#80YVJGRY"
+                },
+                {
+                    "name": "ER|JeneAzure",
+                    "gamerTag": "#8GUPLYY"
+                },
+                {
+                    "name": "ER|Naipishu😎",
+                    "gamerTag": "#2G2P99ULJP"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/EffortResult.png"
+        },
+    ],
     "stage": [
         {
             "id": 0,
             "tournament_id": 0,
-            "name": "Bracket not available yet...",
+            "name": "EA MFs",
             "type": "single_elimination",
             "number": 1,
             "settings": {
@@ -52,10 +213,12 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f627606-521a-11f0-ba80-de3adb5e464d",
+                "name": "REJECT"
             },
             "opponent2": {
-                "id": null
+                "id": "4f6164aa-521a-11f0-bcc1-de3adb5e464d",
+                "name": "EffortResult"
             },
             "match_games": []
         },
@@ -68,10 +231,12 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f61042e-521a-11f0-8b64-de3adb5e464d",
+                "name": "Gen.G Esports"
             },
             "opponent2": {
-                "id": null
+                "id": "4f647f1e-521a-11f0-be22-de3adb5e464d",
+                "name": "Frenzy Gaming"
             },
             "match_games": []
         },
@@ -84,10 +249,12 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f6408b8-521a-11f0-ae32-de3adb5e464d",
+                "name": "NAVI"
             },
             "opponent2": {
-                "id": null
+                "id": "4f621e68-521a-11f0-983a-de3adb5e464d",
+                "name": "Rival Esports"
             },
             "match_games": []
         },
@@ -100,10 +267,12 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f633a78-521a-11f0-a09f-de3adb5e464d",
+                "name": "Crazy Raccoon"
             },
             "opponent2": {
-                "id": null
+                "id": "4f639dba-521a-11f0-8d19-de3adb5e464d",
+                "name": "ZETA DIVISION"
             },
             "match_games": []
         },
