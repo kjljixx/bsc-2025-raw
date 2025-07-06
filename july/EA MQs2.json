@@ -2585,18 +2585,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
                 "name": "GAN.G ESPORTS",
-                "seed": 32
+                "seed": 32,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c1068ed6-5969-11f0-a703-a6eacc049bbc",
                 "name": "RedBull",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c1068ed6-5969-11f0-a703-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c1068ed6-5969-11f0-a703-a6eacc049bbc",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c10d21d8-5969-11f0-a8d0-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c1068ed6-5969-11f0-a703-a6eacc049bbc",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 18,
