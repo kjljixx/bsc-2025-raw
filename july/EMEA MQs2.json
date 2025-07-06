@@ -3982,68 +3982,18 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 4,
+            "status": 3,
             "opponent1": {
                 "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
                 "name": "KDS Esports",
-                "seed": 10,
-                "score": 0,
-                "result": "loss"
+                "seed": 10
             },
             "opponent2": {
                 "id": "2a37ab06-59b0-11f0-a044-8aa36873ca99",
                 "name": "Aogiri Esports",
-                "seed": 29,
-                "score": 3,
-                "result": "win"
+                "seed": 29
             },
-            "match_games": [
-                {
-                    "id": 0,
-                    "name": "match_1",
-                    "gameMode": "Gem Grab",
-                    "mapName": "Double Swoosh",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
-                    "opponent1": {
-                        "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
-                        "score": 1
-                    },
-                    "opponent2": {
-                        "id": "2a37ab06-59b0-11f0-a044-8aa36873ca99",
-                        "score": 2
-                    }
-                },
-                {
-                    "id": 1,
-                    "name": "match_2",
-                    "gameMode": "Hot Zone",
-                    "mapName": "Ring of Fire",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
-                    "opponent1": {
-                        "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
-                        "score": 0
-                    },
-                    "opponent2": {
-                        "id": "2a37ab06-59b0-11f0-a044-8aa36873ca99",
-                        "score": 2
-                    }
-                },
-                {
-                    "id": 2,
-                    "name": "match_3",
-                    "gameMode": "Knockout",
-                    "mapName": "Belle's Rock",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
-                    "opponent1": {
-                        "id": "da4bade6-521a-11f0-ae2e-de3adb5e464d",
-                        "score": 1
-                    },
-                    "opponent2": {
-                        "id": "2a37ab06-59b0-11f0-a044-8aa36873ca99",
-                        "score": 2
-                    }
-                }
-            ]
+            "match_games": []
         },
         {
             "id": 36,
@@ -4468,16 +4418,8 @@
             "round_id": 3,
             "child_count": 5,
             "status": 3,
-            "opponent1": {
-                "id": "2a37ab06-59b0-11f0-a044-8aa36873ca99",
-                "name": "Aogiri Esports",
-                "seed": 29
-            },
-            "opponent2": {
-                "id": "2a2f7ee0-59b0-11f0-8c6c-8aa36873ca99",
-                "name": "Code : Gas",
-                "seed": 18
-            },
+            "opponent1": null,
+            "opponent2": null,
             "match_games": []
         },
         {
