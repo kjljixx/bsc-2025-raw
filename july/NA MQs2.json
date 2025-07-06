@@ -3497,18 +3497,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7ce20dce-521c-11f0-88c5-de3adb5e464d",
                 "name": "Nameless",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0960b116-59ec-11f0-8227-aa44cc06adde",
                 "name": "RaulLovers",
-                "seed": 25
+                "seed": 25,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "7ce20dce-521c-11f0-88c5-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0960b116-59ec-11f0-8227-aa44cc06adde",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "7ce20dce-521c-11f0-88c5-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0960b116-59ec-11f0-8227-aa44cc06adde",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7ce20dce-521c-11f0-88c5-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0960b116-59ec-11f0-8227-aa44cc06adde",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "7ce20dce-521c-11f0-88c5-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0960b116-59ec-11f0-8227-aa44cc06adde",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -3875,7 +3940,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "7ce20dce-521c-11f0-88c5-de3adb5e464d",
+                "name": "Nameless",
+                "seed": 14
             },
             "match_games": []
         },
