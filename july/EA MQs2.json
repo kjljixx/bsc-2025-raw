@@ -3069,18 +3069,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c10c0ca8-5969-11f0-9422-a6eacc049bbc",
                 "name": "PikoPiko",
-                "seed": 30
+                "seed": 30,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
                 "name": "Angry Bear",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "c10c0ca8-5969-11f0-9422-a6eacc049bbc",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "c10c0ca8-5969-11f0-9422-a6eacc049bbc",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c10c0ca8-5969-11f0-9422-a6eacc049bbc",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "c10c0ca8-5969-11f0-9422-a6eacc049bbc",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f593ac8-521a-11f0-a888-de3adb5e464d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 24,
