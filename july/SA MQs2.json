@@ -2689,18 +2689,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
                 "name": "atentado ao pudor",
-                "seed": 25
+                "seed": 25,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
                 "name": "Codinome z",
-                "seed": 24
+                "seed": 24,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1153d77e-59e0-11f0-b3c9-222bd7d5741a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 19,
@@ -2907,7 +2972,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
+                "name": "Codinome z",
+                "seed": 24
             },
             "match_games": []
         },
