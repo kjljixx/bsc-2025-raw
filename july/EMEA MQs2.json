@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Crows Nest Esports.png"
         },
         {
+            "id": "2a2b38f8-59b0-11f0-a4b1-8aa36873ca99",
+            "tournament_id": 0,
+            "name": "GLXY GAMING",
+            "players": [
+                {
+                    "name": "GLXY|KEVSHO",
+                    "gamerTag": "#9LU8P802"
+                },
+                {
+                    "name": "GLXY | Guifer",
+                    "gamerTag": "#9C8Q8CJ9L"
+                },
+                {
+                    "name": "GLXY | Master",
+                    "gamerTag": "#GG2LG00P"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/GLXY GAMING.PNG"
+        },
+        {
             "id": "2a3a3cea-59b0-11f0-8244-8aa36873ca99",
             "tournament_id": 0,
             "name": "CDA Esports",
@@ -911,18 +931,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "da4b1e94-521a-11f0-b2ee-de3adb5e464d",
                 "name": "XPERION NXT",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a2b38f8-59b0-11f0-a4b1-8aa36873ca99",
                 "name": "GLXY GAMING",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "da4b1e94-521a-11f0-b2ee-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a2b38f8-59b0-11f0-a4b1-8aa36873ca99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "da4b1e94-521a-11f0-b2ee-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a2b38f8-59b0-11f0-a4b1-8aa36873ca99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "da4b1e94-521a-11f0-b2ee-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a2b38f8-59b0-11f0-a4b1-8aa36873ca99",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
