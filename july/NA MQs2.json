@@ -2519,18 +2519,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "095e2a68-59ec-11f0-8dc3-aa44cc06adde",
                 "name": "Tilinesios",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0961242a-59ec-11f0-974d-aa44cc06adde",
                 "name": "Real Ones",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "095e2a68-59ec-11f0-8dc3-aa44cc06adde",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0961242a-59ec-11f0-974d-aa44cc06adde",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "095e2a68-59ec-11f0-8dc3-aa44cc06adde",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0961242a-59ec-11f0-974d-aa44cc06adde",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "095e2a68-59ec-11f0-8dc3-aa44cc06adde",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0961242a-59ec-11f0-974d-aa44cc06adde",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 33,
