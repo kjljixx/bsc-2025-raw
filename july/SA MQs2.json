@@ -681,6 +681,46 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
+            "tournament_id": 0,
+            "name": "Codinome z",
+            "players": [
+                {
+                    "name": "ALL |Chongo™",
+                    "gamerTag": "#2V92LJU8R"
+                },
+                {
+                    "name": "𝐒𝐥𝐮𝐠𝐠𝐞𝐫҂",
+                    "gamerTag": "#YYJY8CL0G"
+                },
+                {
+                    "name": "VAMP",
+                    "gamerTag": "#9CVR92GQP"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "1157af2a-59e0-11f0-ad0e-222bd7d5741a",
+            "tournament_id": 0,
+            "name": "Team Milanesa",
+            "players": [
+                {
+                    "name": "TM|Prodigy",
+                    "gamerTag": "#P0UPLJ29Q"
+                },
+                {
+                    "name": "™ Ｎｉｃｏ彡",
+                    "gamerTag": "#2L9U8Y992Y"
+                },
+                {
+                    "name": "PINTA <3",
+                    "gamerTag": "#8299C9YGL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "fa48074c-521b-11f0-97ce-de3adb5e464d",
             "tournament_id": 0,
             "name": "La Fúria",
@@ -1001,18 +1041,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa474f14-521b-11f0-a7c9-de3adb5e464d",
                 "name": "F4TALITY",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
                 "name": "Codinome z",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fa474f14-521b-11f0-a7c9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "fa474f14-521b-11f0-a7c9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fa474f14-521b-11f0-a7c9-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -1061,18 +1151,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa4b6978-521b-11f0-8b09-de3adb5e464d",
                 "name": "Alpha7 Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1157af2a-59e0-11f0-ad0e-222bd7d5741a",
                 "name": "Team Milanesa",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fa4b6978-521b-11f0-8b09-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1157af2a-59e0-11f0-ad0e-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "fa4b6978-521b-11f0-8b09-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1157af2a-59e0-11f0-ad0e-222bd7d5741a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fa4b6978-521b-11f0-8b09-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1157af2a-59e0-11f0-ad0e-222bd7d5741a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 8,
@@ -1437,7 +1577,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "fa474f14-521b-11f0-a7c9-de3adb5e464d",
+                "name": "F4TALITY",
+                "seed": 9
             },
             "match_games": []
         },
@@ -1466,10 +1608,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fa4b6978-521b-11f0-8b09-de3adb5e464d",
+                "name": "Alpha7 Esports",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "11561124-59e0-11f0-9b5d-222bd7d5741a",
+                "name": "CONTRA SQUAD UI",
+                "seed": 21
             },
             "match_games": []
         },
@@ -1635,7 +1781,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "1156a2b0-59e0-11f0-88a2-222bd7d5741a",
+                "name": "Codinome z",
+                "seed": 24
             },
             "match_games": []
         },
@@ -1664,10 +1812,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1157af2a-59e0-11f0-ad0e-222bd7d5741a",
+                "name": "Team Milanesa",
+                "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "fa48074c-521b-11f0-97ce-de3adb5e464d",
+                "name": "La Fúria",
+                "seed": 12
             },
             "match_games": []
         },
