@@ -4347,18 +4347,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da4d275c-521a-11f0-bb74-de3adb5e464d",
                 "name": "FUT Esports",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a2dcf0a-59b0-11f0-8808-8aa36873ca99",
                 "name": "TOP|Academy",
-                "seed": 22
+                "seed": 22,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "da4d275c-521a-11f0-bb74-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a2dcf0a-59b0-11f0-8808-8aa36873ca99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "da4d275c-521a-11f0-bb74-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a2dcf0a-59b0-11f0-8808-8aa36873ca99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "da4d275c-521a-11f0-bb74-de3adb5e464d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2a2dcf0a-59b0-11f0-8808-8aa36873ca99",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "da4d275c-521a-11f0-bb74-de3adb5e464d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a2dcf0a-59b0-11f0-8808-8aa36873ca99",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 45,
@@ -4434,7 +4499,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "da4d275c-521a-11f0-bb74-de3adb5e464d",
+                "name": "FUT Esports",
+                "seed": 1
             },
             "match_games": []
         },
