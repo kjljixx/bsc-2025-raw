@@ -1,10 +1,171 @@
 {
-    "participant": [],
+    "participant": [
+        {
+            "id": "a61bd394-5abb-11f0-af2e-8aa36873ca99",
+            "tournament_id": 0,
+            "name": "Elevate",
+            "players": [
+                {
+                    "name": "ELV|Diegogamer",
+                    "gamerTag": "#QLCJGQUP"
+                },
+                {
+                    "name": "ELV|Evx",
+                    "gamerTag": "#2PGGR8Y9P"
+                },
+                {
+                    "name": "ELV|Patchy",
+                    "gamerTag": "#RLLRJ2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Elevate.png"
+        },
+        {
+            "id": "a61c49f0-5abb-11f0-a61c-8aa36873ca99",
+            "tournament_id": 0,
+            "name": "Pioneers",
+            "players": [
+                {
+                    "name": "KCP|Zoulan",
+                    "gamerTag": "#LYR0Q9C"
+                },
+                {
+                    "name": "KCP|Fade",
+                    "gamerTag": "#2LG8QJ9L"
+                },
+                {
+                    "name": "KCP|Tyrant",
+                    "gamerTag": "#VPVLG2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Pioneers.png"
+        },
+        {
+            "id": "a619f2f4-5abb-11f0-911d-8aa36873ca99",
+            "tournament_id": 0,
+            "name": "Eternal",
+            "players": [
+                {
+                    "name": "ETN|AlyanxZ🀄️",
+                    "gamerTag": "#2LQ0RGCRU"
+                },
+                {
+                    "name": "ETN|ImTired💔",
+                    "gamerTag": "#2LL892UU"
+                },
+                {
+                    "name": "ETN|Frixi🇲🇽🦇",
+                    "gamerTag": "#QUG9RP9"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Eternal.png"
+        },
+        {
+            "id": "a61ca9a4-5abb-11f0-9a89-8aa36873ca99",
+            "tournament_id": 0,
+            "name": "SSG",
+            "players": [
+                {
+                    "name": "SSG|bobby",
+                    "gamerTag": "#LVRRYPV"
+                },
+                {
+                    "name": "SSG|chino",
+                    "gamerTag": "#VJUQ0Y"
+                },
+                {
+                    "name": "SSG|sans",
+                    "gamerTag": "#QUYCVC2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/SSG.png"
+        },
+        {
+            "id": "a61adc0a-5abb-11f0-894e-8aa36873ca99",
+            "tournament_id": 0,
+            "name": "STMN",
+            "players": [
+                {
+                    "name": "STMN|JuanCarlos",
+                    "gamerTag": "#PR9U2JL"
+                },
+                {
+                    "name": "STMN Lucy🤍",
+                    "gamerTag": "#GCJCRVQ8"
+                },
+                {
+                    "name": "STMN|PaiN",
+                    "gamerTag": "#GVLRUG9Q"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/STMN.png"
+        },
+        {
+            "id": "a61923e2-5abb-11f0-8a3a-8aa36873ca99",
+            "tournament_id": 0,
+            "name": "ultbobs aura",
+            "players": [
+                {
+                    "name": "ultbob19",
+                    "gamerTag": "#RYY2VYU9"
+                },
+                {
+                    "name": "BrriN",
+                    "gamerTag": "#8YVJRYGG"
+                },
+                {
+                    "name": "Mine",
+                    "gamerTag": "#V888YPGU"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "a61a666c-5abb-11f0-bff3-8aa36873ca99",
+            "tournament_id": 0,
+            "name": "Team Elektros",
+            "players": [
+                {
+                    "name": "TE|Rafikii",
+                    "gamerTag": "#R9CCLP8Q"
+                },
+                {
+                    "name": "TE|Belal",
+                    "gamerTag": "#Q2VCLG9Y9"
+                },
+                {
+                    "name": "TE|Ezlivi",
+                    "gamerTag": "#QURVLPG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Team Elektros.png"
+        },
+        {
+            "id": "a61b5504-5abb-11f0-8e28-8aa36873ca99",
+            "tournament_id": 0,
+            "name": "Tribe Gaming",
+            "players": [
+                {
+                    "name": "TRB|R B M",
+                    "gamerTag": "#U9GC8G02"
+                },
+                {
+                    "name": "TRB|Lxffy",
+                    "gamerTag": "#82RCQCVG"
+                },
+                {
+                    "name": "TRB|Zeus",
+                    "gamerTag": "#2Q028GQQP"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Tribe Gaming.png"
+        }
+    ],
     "stage": [
         {
             "id": 0,
             "tournament_id": 0,
-            "name": "Bracket not available yet...",
+            "name": "NA MFs",
             "type": "single_elimination",
             "number": 1,
             "settings": {
@@ -52,10 +213,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a61bd394-5abb-11f0-af2e-8aa36873ca99",
+                "name": "Elevate",
+                "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "a61c49f0-5abb-11f0-a61c-8aa36873ca99",
+                "name": "Pioneers",
+                "seed": 8
             },
             "match_games": []
         },
@@ -68,10 +233,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a619f2f4-5abb-11f0-911d-8aa36873ca99",
+                "name": "Eternal",
+                "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "a61ca9a4-5abb-11f0-9a89-8aa36873ca99",
+                "name": "SSG",
+                "seed": 5
             },
             "match_games": []
         },
@@ -84,10 +253,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a61adc0a-5abb-11f0-894e-8aa36873ca99",
+                "name": "STMN",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "a61923e2-5abb-11f0-8a3a-8aa36873ca99",
+                "name": "ultbobs aura",
+                "seed": 7
             },
             "match_games": []
         },
@@ -100,10 +273,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a61a666c-5abb-11f0-bff3-8aa36873ca99",
+                "name": "Team Elektros",
+                "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "a61b5504-5abb-11f0-8e28-8aa36873ca99",
+                "name": "Tribe Gaming",
+                "seed": 6
             },
             "match_games": []
         },
