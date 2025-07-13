@@ -211,18 +211,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "f97a8f28-5a96-11f0-a6ff-a2dba56828cf",
                 "name": "SK Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f978a4f6-5a96-11f0-855d-a2dba56828cf",
                 "name": "KDS Esports",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97a8f28-5a96-11f0-a6ff-a2dba56828cf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f978a4f6-5a96-11f0-855d-a2dba56828cf",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97a8f28-5a96-11f0-a6ff-a2dba56828cf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f978a4f6-5a96-11f0-855d-a2dba56828cf",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97a8f28-5a96-11f0-a6ff-a2dba56828cf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f978a4f6-5a96-11f0-855d-a2dba56828cf",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -293,7 +343,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f97a8f28-5a96-11f0-a6ff-a2dba56828cf",
+                "name": "SK Gaming",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
