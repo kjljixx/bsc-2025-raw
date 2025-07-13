@@ -651,18 +651,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f97975ca-5a96-11f0-9d3d-a2dba56828cf",
                 "name": "Reply Totem",
-                "seed": 7
+                "seed": 7,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f979d1aa-5a96-11f0-8015-a2dba56828cf",
                 "name": "HMBLE",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97975ca-5a96-11f0-9d3d-a2dba56828cf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f979d1aa-5a96-11f0-8015-a2dba56828cf",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97975ca-5a96-11f0-9d3d-a2dba56828cf",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f979d1aa-5a96-11f0-8015-a2dba56828cf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97975ca-5a96-11f0-9d3d-a2dba56828cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f979d1aa-5a96-11f0-8015-a2dba56828cf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97975ca-5a96-11f0-9d3d-a2dba56828cf",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f979d1aa-5a96-11f0-8015-a2dba56828cf",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -678,7 +743,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "f979d1aa-5a96-11f0-8015-a2dba56828cf",
+                "name": "HMBLE",
+                "seed": 3
             },
             "match_games": []
         }
