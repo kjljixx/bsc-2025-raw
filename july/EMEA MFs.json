@@ -281,18 +281,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f97837f0-5a96-11f0-8bfa-a2dba56828cf",
                 "name": "XPERION NXT",
-                "seed": 4
+                "seed": 4,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f97a38e8-5a96-11f0-b02f-a2dba56828cf",
                 "name": "NOVO Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97837f0-5a96-11f0-8bfa-a2dba56828cf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f97a38e8-5a96-11f0-b02f-a2dba56828cf",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97837f0-5a96-11f0-8bfa-a2dba56828cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f97a38e8-5a96-11f0-b02f-a2dba56828cf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97837f0-5a96-11f0-8bfa-a2dba56828cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f97a38e8-5a96-11f0-b02f-a2dba56828cf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f97837f0-5a96-11f0-8bfa-a2dba56828cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f97a38e8-5a96-11f0-b02f-a2dba56828cf",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -348,7 +413,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "f97a38e8-5a96-11f0-b02f-a2dba56828cf",
+                "name": "NOVO Esports",
+                "seed": 5
             },
             "match_games": []
         },
