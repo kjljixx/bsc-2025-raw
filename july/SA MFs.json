@@ -591,18 +591,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28d4cabe-5aa5-11f0-8073-76adfd113985",
                 "name": "BC* Gaming SA",
-                "seed": 2
+                "seed": 2,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "28d3162e-5aa5-11f0-9135-76adfd113985",
                 "name": "SKCalalas SA",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d4cabe-5aa5-11f0-8073-76adfd113985",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "28d3162e-5aa5-11f0-9135-76adfd113985",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d4cabe-5aa5-11f0-8073-76adfd113985",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "28d3162e-5aa5-11f0-9135-76adfd113985",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d4cabe-5aa5-11f0-8073-76adfd113985",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "28d3162e-5aa5-11f0-9135-76adfd113985",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -618,7 +668,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "28d3162e-5aa5-11f0-9135-76adfd113985",
+                "name": "SKCalalas SA",
+                "seed": 6
             },
             "match_games": []
         }
