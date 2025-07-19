@@ -521,18 +521,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28d45c3c-5aa5-11f0-83ca-76adfd113985",
                 "name": "LOUD",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "28d53e54-5aa5-11f0-9014-76adfd113985",
                 "name": "Alpha7 Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d45c3c-5aa5-11f0-83ca-76adfd113985",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28d53e54-5aa5-11f0-9014-76adfd113985",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d45c3c-5aa5-11f0-83ca-76adfd113985",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28d53e54-5aa5-11f0-9014-76adfd113985",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d45c3c-5aa5-11f0-83ca-76adfd113985",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28d53e54-5aa5-11f0-9014-76adfd113985",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -563,7 +613,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "28d45c3c-5aa5-11f0-83ca-76adfd113985",
+                "name": "LOUD",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
