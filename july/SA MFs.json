@@ -281,18 +281,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28d375b0-5aa5-11f0-a378-76adfd113985",
                 "name": "Fênix",
-                "seed": 4
+                "seed": 4,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "28d53e54-5aa5-11f0-9014-76adfd113985",
                 "name": "Alpha7 Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d375b0-5aa5-11f0-a378-76adfd113985",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "28d53e54-5aa5-11f0-9014-76adfd113985",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d375b0-5aa5-11f0-a378-76adfd113985",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28d53e54-5aa5-11f0-9014-76adfd113985",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d375b0-5aa5-11f0-a378-76adfd113985",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "28d53e54-5aa5-11f0-9014-76adfd113985",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d375b0-5aa5-11f0-a378-76adfd113985",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "28d53e54-5aa5-11f0-9014-76adfd113985",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -348,7 +413,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "28d53e54-5aa5-11f0-9014-76adfd113985",
+                "name": "Alpha7 Esports",
+                "seed": 5
             },
             "match_games": []
         },
