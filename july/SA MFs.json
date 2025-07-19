@@ -366,18 +366,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28d4cabe-5aa5-11f0-8073-76adfd113985",
                 "name": "BC* Gaming SA",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "28d2523e-5aa5-11f0-9f91-76adfd113985",
                 "name": "Dropeados F/A",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d4cabe-5aa5-11f0-8073-76adfd113985",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28d2523e-5aa5-11f0-9f91-76adfd113985",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d4cabe-5aa5-11f0-8073-76adfd113985",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28d2523e-5aa5-11f0-9f91-76adfd113985",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "28d4cabe-5aa5-11f0-8073-76adfd113985",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28d2523e-5aa5-11f0-9f91-76adfd113985",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -386,7 +436,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "28d3e25c-5aa5-11f0-93e9-76adfd113985",
                 "name": "CASA BRAWL",
@@ -428,7 +478,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "28d4cabe-5aa5-11f0-8073-76adfd113985",
+                "name": "BC* Gaming SA",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
