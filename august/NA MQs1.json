@@ -15073,18 +15073,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "12e46dec-6692-11f0-b6dd-06c972f0ca4f",
                 "name": "Sigma Gaming",
-                "seed": 48
+                "seed": 48,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "161497da-6692-11f0-917a-06c972f0ca4f",
                 "name": "Crazy Peggys eSports",
-                "seed": 176
+                "seed": 176,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "12e46dec-6692-11f0-b6dd-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161497da-6692-11f0-917a-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "12e46dec-6692-11f0-b6dd-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "161497da-6692-11f0-917a-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "12e46dec-6692-11f0-b6dd-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "161497da-6692-11f0-917a-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 393,
@@ -15805,7 +15855,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "13e5fb52-6692-11f0-b19e-06c972f0ca4f",
                 "name": "Red Devils",
@@ -15814,7 +15864,8 @@
             "opponent2": {
                 "id": "02ca617c-6d69-11f0-96d9-16d27960efb2",
                 "name": "Hunters",
-                "seed": 109
+                "seed": 109,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -16407,18 +16458,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1366df2a-6692-11f0-ace7-06c972f0ca4f",
                 "name": "RVTY",
-                "seed": 31
+                "seed": 31,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
                 "name": "TrustTheProcess",
-                "seed": 98
+                "seed": 98,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "1366df2a-6692-11f0-ace7-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "1366df2a-6692-11f0-ace7-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "1366df2a-6692-11f0-ace7-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 420,
@@ -17822,7 +17923,9 @@
                 "seed": 145
             },
             "opponent2": {
-                "id": null
+                "id": "161497da-6692-11f0-917a-06c972f0ca4f",
+                "name": "Crazy Peggys eSports",
+                "seed": 176
             },
             "match_games": []
         },
@@ -17973,10 +18076,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "13e5fb52-6692-11f0-b19e-06c972f0ca4f",
+                "name": "Red Devils",
+                "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "16876cce-6692-11f0-8081-06c972f0ca4f",
+                "name": "Lmc",
+                "seed": 45
             },
             "match_games": []
         },
@@ -18089,10 +18196,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
+                "name": "TrustTheProcess",
+                "seed": 98
             },
             "opponent2": {
-                "id": null
+                "id": "17add82c-6692-11f0-916a-06c972f0ca4f",
+                "name": "The Shibas",
+                "seed": 34
             },
             "match_games": []
         },
