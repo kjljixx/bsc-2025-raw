@@ -12064,7 +12064,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "100c3bfe-6692-11f0-8f8c-06c972f0ca4f",
                 "name": "Cobra Jets",
@@ -12737,18 +12737,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fff2feea-6f58-11f0-aa96-66037d8ec741",
                 "name": "Laughing Coffin ⚰️",
-                "seed": 103
+                "seed": 103,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3fc09e60-6f22-11f0-b5e8-424e76861b12",
                 "name": "The Pretenders",
-                "seed": 154
+                "seed": 154,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "fff2feea-6f58-11f0-aa96-66037d8ec741",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3fc09e60-6f22-11f0-b5e8-424e76861b12",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fff2feea-6f58-11f0-aa96-66037d8ec741",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3fc09e60-6f22-11f0-b5e8-424e76861b12",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "fff2feea-6f58-11f0-aa96-66037d8ec741",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3fc09e60-6f22-11f0-b5e8-424e76861b12",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 343,
@@ -15143,7 +15193,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "3fc09e60-6f22-11f0-b5e8-424e76861b12",
+                "name": "The Pretenders",
+                "seed": 154
             },
             "match_games": []
         },
