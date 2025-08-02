@@ -49586,18 +49586,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
                 "name": "ZeroEsports",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b6ed41c8-668f-11f0-9dfd-06c972f0ca4f",
                 "name": "Nova Rift",
-                "seed": 165
+                "seed": 165,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b6ed41c8-668f-11f0-9dfd-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b6ed41c8-668f-11f0-9dfd-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 975,
@@ -50007,18 +50042,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "90d27688-6f19-11f0-938c-7aebd65a6bec",
                 "name": "70 Ping",
-                "seed": 531
+                "seed": 531,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ad39c750-668f-11f0-82e0-06c972f0ca4f",
                 "name": "Czech Heroes",
-                "seed": 46
+                "seed": 46,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "90d27688-6f19-11f0-938c-7aebd65a6bec",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad39c750-668f-11f0-82e0-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "90d27688-6f19-11f0-938c-7aebd65a6bec",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad39c750-668f-11f0-82e0-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 989,
@@ -50257,7 +50327,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
+                "name": "ZeroEsports",
+                "seed": 28
             },
             "match_games": []
         },
@@ -50377,7 +50449,9 @@
                 "seed": 51
             },
             "opponent2": {
-                "id": null
+                "id": "90d27688-6f19-11f0-938c-7aebd65a6bec",
+                "name": "70 Ping",
+                "seed": 531
             },
             "match_games": []
         },
