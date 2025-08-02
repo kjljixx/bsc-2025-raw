@@ -10254,18 +10254,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
                 "name": "Max Gaming",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dbc59968-6af5-11f0-ba58-2ed1da989a97",
                 "name": "dairy products",
-                "seed": 249
+                "seed": 249,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dbc59968-6af5-11f0-ba58-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dbc59968-6af5-11f0-ba58-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dbc59968-6af5-11f0-ba58-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 274,
@@ -14739,10 +14789,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
+                "name": "Max Gaming",
+                "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "17b2a0c8-6692-11f0-a893-06c972f0ca4f",
+                "name": "Los papus",
+                "seed": 121
             },
             "match_games": []
         },
