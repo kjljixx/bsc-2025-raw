@@ -9020,18 +9020,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "254cd1cc-695d-11f0-b05b-16d27960efb2",
                 "name": "ZXN",
-                "seed": 160
+                "seed": 160,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "50ecb908-6e46-11f0-8a1b-16d27960efb2",
                 "name": "Adrenaline",
-                "seed": 96
+                "seed": 96,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "254cd1cc-695d-11f0-b05b-16d27960efb2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "50ecb908-6e46-11f0-8a1b-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "254cd1cc-695d-11f0-b05b-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "50ecb908-6e46-11f0-8a1b-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 195,
