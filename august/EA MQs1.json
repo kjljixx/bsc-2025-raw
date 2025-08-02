@@ -4004,18 +4004,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1f25a8fe-6eea-11f0-bae3-3a6800809723",
                 "name": "くさかんむり",
-                "seed": 100
+                "seed": 100,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "04fce69c-6ee8-11f0-9cbf-424e76861b12",
                 "name": "Team Unite",
-                "seed": 157
+                "seed": 157,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1f25a8fe-6eea-11f0-bae3-3a6800809723",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04fce69c-6ee8-11f0-9cbf-424e76861b12",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1f25a8fe-6eea-11f0-bae3-3a6800809723",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04fce69c-6ee8-11f0-9cbf-424e76861b12",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 39,
@@ -4553,18 +4588,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f8eddaec-6edc-11f0-89db-2ed1da989a97",
                 "name": "rabbit foot",
-                "seed": 98
+                "seed": 98,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "56feada0-6eec-11f0-acfe-7aebd65a6bec",
                 "name": "지구엄마화이팅",
-                "seed": 159
+                "seed": 159,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "f8eddaec-6edc-11f0-89db-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "56feada0-6eec-11f0-acfe-7aebd65a6bec",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f8eddaec-6edc-11f0-89db-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "56feada0-6eec-11f0-acfe-7aebd65a6bec",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 71,
@@ -6034,7 +6104,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "1f25a8fe-6eea-11f0-bae3-3a6800809723",
+                "name": "くさかんむり",
+                "seed": 100
             },
             "match_games": []
         },
@@ -6348,7 +6420,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "56feada0-6eec-11f0-acfe-7aebd65a6bec",
+                "name": "지구엄마화이팅",
+                "seed": 159
             },
             "match_games": []
         },
