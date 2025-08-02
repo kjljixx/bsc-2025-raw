@@ -3868,18 +3868,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
                 "name": "XO FREE AGENTS",
-                "seed": 105
+                "seed": 105,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "64c17082-693b-11f0-b67b-5a619cf14437",
                 "name": "Sorry",
-                "seed": 152
+                "seed": 152,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "64c17082-693b-11f0-b67b-5a619cf14437",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "64c17082-693b-11f0-b67b-5a619cf14437",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 31,
@@ -6168,7 +6203,9 @@
                 "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
+                "name": "XO FREE AGENTS",
+                "seed": 105
             },
             "match_games": []
         },
