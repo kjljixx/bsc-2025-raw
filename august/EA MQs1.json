@@ -6595,18 +6595,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb239712-668e-11f0-858f-06c972f0ca4f",
                 "name": "ÖceanRoute",
-                "seed": 52
+                "seed": 52,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e7dbed9c-6a91-11f0-8f23-1601ae2b404f",
                 "name": "てマンディ江口ブロスタﾋﾟｸ支部",
-                "seed": 77
+                "seed": 77,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "fb239712-668e-11f0-858f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e7dbed9c-6a91-11f0-8f23-1601ae2b404f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fb239712-668e-11f0-858f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e7dbed9c-6a91-11f0-8f23-1601ae2b404f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 151,
