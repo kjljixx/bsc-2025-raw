@@ -6296,18 +6296,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "faedba02-668e-11f0-b8ae-06c972f0ca4f",
                 "name": "ぶたごりら",
-                "seed": 17
+                "seed": 17,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "333f39e2-6961-11f0-9673-16d27960efb2",
                 "name": "知更鸟的狗",
-                "seed": 112
+                "seed": 112,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "faedba02-668e-11f0-b8ae-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "333f39e2-6961-11f0-9673-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "faedba02-668e-11f0-b8ae-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "333f39e2-6961-11f0-9673-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 136,
@@ -8647,10 +8682,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "faedba02-668e-11f0-b8ae-06c972f0ca4f",
+                "name": "ぶたごりら",
+                "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "faa0ced6-668e-11f0-b731-06c972f0ca4f",
+                "name": "SuzuEcho",
+                "seed": 48
             },
             "match_games": []
         },
