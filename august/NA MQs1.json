@@ -18645,7 +18645,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "100fec7c-6692-11f0-89f7-06c972f0ca4f",
                 "name": "High ping merchants",
@@ -18654,7 +18654,8 @@
             "opponent2": {
                 "id": "7f1eae30-69dc-11f0-bfeb-9ee1c70021ab",
                 "name": "No PL",
-                "seed": 181
+                "seed": 181,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -19738,10 +19739,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "100fec7c-6692-11f0-89f7-06c972f0ca4f",
+                "name": "High ping merchants",
+                "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "14ec51ea-6692-11f0-a4d2-06c972f0ca4f",
+                "name": "DMNT",
+                "seed": 21
             },
             "match_games": []
         },
