@@ -9165,18 +9165,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "faedba02-668e-11f0-b8ae-06c972f0ca4f",
                 "name": "ぶたごりら",
-                "seed": 17
+                "seed": 17,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "faa0ced6-668e-11f0-b731-06c972f0ca4f",
                 "name": "SuzuEcho",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "faedba02-668e-11f0-b8ae-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "faa0ced6-668e-11f0-b731-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "faedba02-668e-11f0-b8ae-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "faa0ced6-668e-11f0-b731-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "faedba02-668e-11f0-b8ae-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "faa0ced6-668e-11f0-b731-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 197,
@@ -10517,7 +10567,9 @@
                 "seed": 49
             },
             "opponent2": {
-                "id": null
+                "id": "faa0ced6-668e-11f0-b731-06c972f0ca4f",
+                "name": "SuzuEcho",
+                "seed": 48
             },
             "match_games": []
         },
