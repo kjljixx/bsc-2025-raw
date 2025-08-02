@@ -29185,18 +29185,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b6337c20-668f-11f0-ae9c-06c972f0ca4f",
                 "name": "Chaos zone",
-                "seed": 240
+                "seed": 240,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ac543afa-668f-11f0-8c7c-06c972f0ca4f",
                 "name": "the streetz",
-                "seed": 273
+                "seed": 273,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "b6337c20-668f-11f0-ae9c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ac543afa-668f-11f0-8c7c-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "b6337c20-668f-11f0-ae9c-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ac543afa-668f-11f0-8c7c-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "b6337c20-668f-11f0-ae9c-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ac543afa-668f-11f0-8c7c-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 539,
@@ -39339,7 +39389,11 @@
                 "name": "Chippy Chips",
                 "seed": 529
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "ac543afa-668f-11f0-8c7c-06c972f0ca4f",
+                "name": "the streetz",
+                "seed": 273
+            },
             "match_games": []
         },
         {
