@@ -21988,18 +21988,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bd43b274-6b98-11f0-adec-2ed1da989a97",
                 "name": "Air Esport",
-                "seed": 419
+                "seed": 419,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "26fd54f0-6ba7-11f0-90d3-16d27960efb2",
                 "name": "Crickos",
-                "seed": 606
+                "seed": 606,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "bd43b274-6b98-11f0-adec-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "26fd54f0-6ba7-11f0-90d3-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bd43b274-6b98-11f0-adec-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "26fd54f0-6ba7-11f0-90d3-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 415,
@@ -23580,18 +23615,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9ef82fc-698c-11f0-9f69-2ed1da989a97",
                 "name": "PITRILU",
-                "seed": 363
+                "seed": 363,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5864f09a-6d76-11f0-bd87-16d27960efb2",
                 "name": "Nemesis Aca",
-                "seed": 662
+                "seed": 662,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e9ef82fc-698c-11f0-9f69-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5864f09a-6d76-11f0-bd87-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e9ef82fc-698c-11f0-9f69-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5864f09a-6d76-11f0-bd87-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 505,
@@ -27525,7 +27595,9 @@
                 "seed": 94
             },
             "opponent2": {
-                "id": null
+                "id": "bd43b274-6b98-11f0-adec-2ed1da989a97",
+                "name": "Air Esport",
+                "seed": 419
             },
             "match_games": []
         },
@@ -28349,7 +28421,9 @@
                 "seed": 150
             },
             "opponent2": {
-                "id": null
+                "id": "5864f09a-6d76-11f0-bd87-16d27960efb2",
+                "name": "Nemesis Aca",
+                "seed": 662
             },
             "match_games": []
         },
