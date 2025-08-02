@@ -9275,18 +9275,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fbc0192a-668e-11f0-b5f7-06c972f0ca4f",
                 "name": "PikoPiko",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9db55504-69fc-11f0-b077-16d27960efb2",
                 "name": "KO Crew",
-                "seed": 69
+                "seed": 69,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "fbc0192a-668e-11f0-b5f7-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9db55504-69fc-11f0-b077-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "fbc0192a-668e-11f0-b5f7-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9db55504-69fc-11f0-b077-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 206,
@@ -9845,7 +9880,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fbc0192a-668e-11f0-b5f7-06c972f0ca4f",
+                "name": "PikoPiko",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
