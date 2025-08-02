@@ -49320,7 +49320,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b3fcc218-668f-11f0-b06e-06c972f0ca4f",
                 "name": "Krono Esports",
@@ -49329,7 +49329,8 @@
             "opponent2": {
                 "id": "02d30936-6af2-11f0-b2bc-9ee1c70021ab",
                 "name": "Prime Guild",
-                "seed": 325
+                "seed": 325,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -49440,18 +49441,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a48ec952-668f-11f0-97bc-06c972f0ca4f",
                 "name": "RGG|Esport 🐉",
-                "seed": 114
+                "seed": 114,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a2a830ba-668f-11f0-8f5a-06c972f0ca4f",
                 "name": "Fiftigivti",
-                "seed": 79
+                "seed": 79,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a48ec952-668f-11f0-97bc-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a2a830ba-668f-11f0-8f5a-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a48ec952-668f-11f0-97bc-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a2a830ba-668f-11f0-8f5a-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 980,
@@ -49819,7 +49855,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b3fcc218-668f-11f0-b06e-06c972f0ca4f",
+                "name": "Krono Esports",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
@@ -49867,7 +49905,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a2a830ba-668f-11f0-8f5a-06c972f0ca4f",
+                "name": "Fiftigivti",
+                "seed": 79
             },
             "opponent2": {
                 "id": null
