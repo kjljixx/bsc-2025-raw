@@ -21827,18 +21827,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fe1f184e-6d76-11f0-9ba8-16d27960efb2",
                 "name": "Team Légendaire 🇫🇷",
-                "seed": 479
+                "seed": 479,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6364e82e-6afb-11f0-ac76-2ed1da989a97",
                 "name": "PLQS",
-                "seed": 546
+                "seed": 546,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fe1f184e-6d76-11f0-9ba8-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6364e82e-6afb-11f0-ac76-2ed1da989a97",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fe1f184e-6d76-11f0-9ba8-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6364e82e-6afb-11f0-ac76-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fe1f184e-6d76-11f0-9ba8-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6364e82e-6afb-11f0-ac76-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 283,
@@ -30760,7 +30810,9 @@
                 "seed": 34
             },
             "opponent2": {
-                "id": null
+                "id": "6364e82e-6afb-11f0-ac76-2ed1da989a97",
+                "name": "PLQS",
+                "seed": 546
             },
             "match_games": []
         },
