@@ -43317,18 +43317,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55b8ba06-6c50-11f0-9850-16d27960efb2",
                 "name": "Mr Masters",
-                "seed": 439
+                "seed": 439,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "111eca22-695b-11f0-8992-1601ae2b404f",
                 "name": "TOPO ROJO",
-                "seed": 695
+                "seed": 695,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "55b8ba06-6c50-11f0-9850-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "111eca22-695b-11f0-8992-1601ae2b404f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "55b8ba06-6c50-11f0-9850-16d27960efb2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "111eca22-695b-11f0-8992-1601ae2b404f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "55b8ba06-6c50-11f0-9850-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "111eca22-695b-11f0-8992-1601ae2b404f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 861,
@@ -45885,7 +45935,9 @@
                 "seed": 55
             },
             "opponent2": {
-                "id": null
+                "id": "111eca22-695b-11f0-8992-1601ae2b404f",
+                "name": "TOPO ROJO",
+                "seed": 695
             },
             "match_games": []
         },
