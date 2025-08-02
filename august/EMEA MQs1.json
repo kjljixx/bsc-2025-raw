@@ -29665,18 +29665,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ab889fb2-668f-11f0-a8db-06c972f0ca4f",
                 "name": "EA Wannabes",
-                "seed": 93
+                "seed": 93,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7afa4fe0-69b3-11f0-a249-1601ae2b404f",
                 "name": "Team Astro",
-                "seed": 420
+                "seed": 420,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "ab889fb2-668f-11f0-a8db-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7afa4fe0-69b3-11f0-a249-1601ae2b404f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ab889fb2-668f-11f0-a8db-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7afa4fe0-69b3-11f0-a249-1601ae2b404f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 592,
@@ -32145,7 +32180,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "b41c9d2c-668f-11f0-b167-06c972f0ca4f",
                 "name": "Natare Six",
@@ -33220,18 +33255,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d7f75e4-668f-11f0-840f-06c972f0ca4f",
                 "name": "EZZ ESPORTS",
-                "seed": 86
+                "seed": 86,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "04c9d68c-6b7b-11f0-b280-16d27960efb2",
                 "name": "CIP-Brawlerz",
-                "seed": 598
+                "seed": 598,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "9d7f75e4-668f-11f0-840f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04c9d68c-6b7b-11f0-b280-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "9d7f75e4-668f-11f0-840f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04c9d68c-6b7b-11f0-b280-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 768,
@@ -33886,7 +33956,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7afa4fe0-69b3-11f0-a249-1601ae2b404f",
+                "name": "Team Astro",
+                "seed": 420
             },
             "opponent2": {
                 "id": null
@@ -35294,7 +35366,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9d7f75e4-668f-11f0-840f-06c972f0ca4f",
+                "name": "EZZ ESPORTS",
+                "seed": 86
             },
             "opponent2": {
                 "id": null
