@@ -3490,18 +3490,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6d2bbb98-6a7f-11f0-ad72-2ed1da989a97",
                 "name": "Riberte one",
-                "seed": 113
+                "seed": 113,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fbd5895e-668e-11f0-a988-06c972f0ca4f",
                 "name": "皮むきクラス",
-                "seed": 144
+                "seed": 144,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "6d2bbb98-6a7f-11f0-ad72-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbd5895e-668e-11f0-a988-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6d2bbb98-6a7f-11f0-ad72-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbd5895e-668e-11f0-a988-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -5379,18 +5414,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
                 "name": "ちくわの穴",
-                "seed": 102
+                "seed": 102,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c96c8a4a-6eda-11f0-b9f8-16d27960efb2",
                 "name": "琥珀大魔王親衛隊",
-                "seed": 155
+                "seed": 155,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c96c8a4a-6eda-11f0-b9f8-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c96c8a4a-6eda-11f0-b9f8-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 119,
@@ -5516,18 +5586,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
                 "name": "High ping🖕",
-                "seed": 107
+                "seed": 107,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7f416f04-6934-11f0-a0aa-5a619cf14437",
                 "name": "SGSの誇り",
-                "seed": 150
+                "seed": 150,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f416f04-6934-11f0-a0aa-5a619cf14437",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f416f04-6934-11f0-a0aa-5a619cf14437",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 127,
@@ -5655,7 +5760,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "6d2bbb98-6a7f-11f0-ad72-2ed1da989a97",
+                "name": "Riberte one",
+                "seed": 113
             },
             "match_games": []
         },
@@ -6709,7 +6816,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
+                "name": "ちくわの穴",
+                "seed": 102
             },
             "match_games": []
         },
@@ -6787,7 +6896,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
+                "name": "High ping🖕",
+                "seed": 107
             },
             "match_games": []
         },
