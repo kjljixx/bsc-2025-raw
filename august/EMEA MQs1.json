@@ -45675,18 +45675,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b2ac5608-668f-11f0-b644-06c972f0ca4f",
                 "name": "Spiuk Friends",
-                "seed": 49
+                "seed": 49,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a9010d10-668f-11f0-8329-06c972f0ca4f",
                 "name": "Twist Esports",
-                "seed": 80
+                "seed": 80,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b2ac5608-668f-11f0-b644-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9010d10-668f-11f0-8329-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "b2ac5608-668f-11f0-b644-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a9010d10-668f-11f0-8329-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 903,
@@ -45695,18 +45730,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2de7248c-6f15-11f0-b0f4-d2f369ca1296",
                 "name": "Chippy Chips",
-                "seed": 529
+                "seed": 529,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b23a5bfc-668f-11f0-bde6-06c972f0ca4f",
                 "name": "PSOE eSports",
-                "seed": 145
+                "seed": 145,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2de7248c-6f15-11f0-b0f4-d2f369ca1296",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b23a5bfc-668f-11f0-bde6-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "2de7248c-6f15-11f0-b0f4-d2f369ca1296",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b23a5bfc-668f-11f0-bde6-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 904,
@@ -46201,18 +46271,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e1d881da-6d66-11f0-a311-16d27960efb2",
                 "name": "BC* Academy",
-                "seed": 477
+                "seed": 477,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "eb7c59e2-6e2d-11f0-a6a1-2ed1da989a97",
                 "name": "Loyalty City",
-                "seed": 676
+                "seed": 676,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e1d881da-6d66-11f0-a311-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "eb7c59e2-6e2d-11f0-a6a1-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "e1d881da-6d66-11f0-a311-16d27960efb2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "eb7c59e2-6e2d-11f0-a6a1-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 917,
@@ -46352,18 +46457,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9e4b416-668f-11f0-952f-06c972f0ca4f",
                 "name": "Xolibze E-sport",
-                "seed": 45
+                "seed": 45,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f7b0702a-6957-11f0-959a-16d27960efb2",
                 "name": "Perro Sánchez Fuera",
-                "seed": 685
+                "seed": 685,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a9e4b416-668f-11f0-952f-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f7b0702a-6957-11f0-959a-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a9e4b416-668f-11f0-952f-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f7b0702a-6957-11f0-959a-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 921,
@@ -46412,18 +46552,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
                 "name": "ZeroEsports",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b5c62148-668f-11f0-8772-06c972f0ca4f",
                 "name": "Kranj Esports",
-                "seed": 101
+                "seed": 101,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5c62148-668f-11f0-8772-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5c62148-668f-11f0-8772-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 924,
@@ -47083,18 +47258,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f496b80-6a3e-11f0-abeb-1601ae2b404f",
                 "name": "Random Meeting",
-                "seed": 282
+                "seed": 282,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c38bd1fe-6d80-11f0-a4b6-16d27960efb2",
                 "name": "DNA",
-                "seed": 666
+                "seed": 666,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8f496b80-6a3e-11f0-abeb-1601ae2b404f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c38bd1fe-6d80-11f0-a4b6-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "8f496b80-6a3e-11f0-abeb-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c38bd1fe-6d80-11f0-a4b6-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 940,
@@ -47474,18 +47684,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b6517c0c-668f-11f0-b9f9-06c972f0ca4f",
                 "name": "Noobies",
-                "seed": 291
+                "seed": 291,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b0f84a42-668f-11f0-9ede-06c972f0ca4f",
                 "name": "Team Heroes",
-                "seed": 94
+                "seed": 94,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b6517c0c-668f-11f0-b9f9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b0f84a42-668f-11f0-9ede-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "b6517c0c-668f-11f0-b9f9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b0f84a42-668f-11f0-9ede-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 949,
@@ -47927,10 +48172,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2de7248c-6f15-11f0-b0f4-d2f369ca1296",
+                "name": "Chippy Chips",
+                "seed": 529
             },
             "opponent2": {
-                "id": null
+                "id": "d27cc278-6ec4-11f0-bb84-2ed1da989a97",
+                "name": "Bober",
+                "seed": 688
             },
             "match_games": []
         },
@@ -48078,7 +48327,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "f7b0702a-6957-11f0-959a-16d27960efb2",
+                "name": "Perro Sánchez Fuera",
+                "seed": 685
             },
             "match_games": []
         },
@@ -48107,7 +48358,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
+                "name": "ZeroEsports",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
@@ -48253,10 +48506,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c38bd1fe-6d80-11f0-a4b6-16d27960efb2",
+                "name": "DNA",
+                "seed": 666
             },
             "opponent2": {
-                "id": null
+                "id": "9b6f3a6e-668f-11f0-abeb-06c972f0ca4f",
+                "name": "BulgarianPros",
+                "seed": 39
             },
             "match_games": []
         },
@@ -48332,7 +48589,9 @@
                 "seed": 99
             },
             "opponent2": {
-                "id": null
+                "id": "b6517c0c-668f-11f0-b9f9-06c972f0ca4f",
+                "name": "Noobies",
+                "seed": 291
             },
             "match_games": []
         },
