@@ -18176,7 +18176,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e37f2b32-69c5-11f0-9578-2ed1da989a97",
                 "name": "GUAYABA SILVESTRE",
@@ -18185,7 +18185,8 @@
             "opponent2": {
                 "id": "161497da-6692-11f0-917a-06c972f0ca4f",
                 "name": "Crazy Peggys eSports",
-                "seed": 176
+                "seed": 176,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -19622,7 +19623,9 @@
                 "seed": 144
             },
             "opponent2": {
-                "id": null
+                "id": "e37f2b32-69c5-11f0-9578-2ed1da989a97",
+                "name": "GUAYABA SILVESTRE",
+                "seed": 145
             },
             "match_games": []
         },
