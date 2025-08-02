@@ -39257,18 +39257,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "78223bf8-6c91-11f0-a0fd-16d27960efb2",
                 "name": "Sheepy Esports",
-                "seed": 449
+                "seed": 449,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ae9c6eea-668f-11f0-8aff-06c972f0ca4f",
                 "name": "Reatmyte | Esport",
-                "seed": 193
+                "seed": 193,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "78223bf8-6c91-11f0-a0fd-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ae9c6eea-668f-11f0-8aff-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "78223bf8-6c91-11f0-a0fd-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae9c6eea-668f-11f0-8aff-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "78223bf8-6c91-11f0-a0fd-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae9c6eea-668f-11f0-8aff-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 772,
@@ -45392,10 +45442,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ae9c6eea-668f-11f0-8aff-06c972f0ca4f",
+                "name": "Reatmyte | Esport",
+                "seed": 193
             },
             "opponent2": {
-                "id": null
+                "id": "120455d0-6a26-11f0-b3f3-16d27960efb2",
+                "name": "Urano Gaming",
+                "seed": 448
             },
             "match_games": []
         },
