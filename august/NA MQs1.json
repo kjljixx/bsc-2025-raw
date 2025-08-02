@@ -20018,18 +20018,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "135f3004-6692-11f0-b6b6-06c972f0ca4f",
                 "name": "weenie warriors",
-                "seed": 50
+                "seed": 50,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "12b3301a-6692-11f0-950e-06c972f0ca4f",
                 "name": "TEAM HORIZON",
-                "seed": 210
+                "seed": 210,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "135f3004-6692-11f0-b6b6-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "12b3301a-6692-11f0-950e-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "135f3004-6692-11f0-b6b6-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "12b3301a-6692-11f0-950e-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "135f3004-6692-11f0-b6b6-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "12b3301a-6692-11f0-950e-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 491,
