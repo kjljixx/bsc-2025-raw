@@ -10827,18 +10827,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f9ff2b12-668e-11f0-9e9b-06c972f0ca4f",
                 "name": "悪鬼滅殺",
-                "seed": 64
+                "seed": 64,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "50ecb908-6e46-11f0-8a1b-16d27960efb2",
                 "name": "Adrenaline",
-                "seed": 96
+                "seed": 96,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "f9ff2b12-668e-11f0-9e9b-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "50ecb908-6e46-11f0-8a1b-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f9ff2b12-668e-11f0-9e9b-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "50ecb908-6e46-11f0-8a1b-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 226,
@@ -11002,7 +11037,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "f90ad09e-668e-11f0-b3e6-06c972f0ca4f",
                 "name": "HiHiHiHA",
