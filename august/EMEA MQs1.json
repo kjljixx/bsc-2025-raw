@@ -51497,18 +51497,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d6aadac2-6ec1-11f0-a200-16d27960efb2",
                 "name": "Tsunami Esports",
-                "seed": 503
+                "seed": 503,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3fe65b16-6e58-11f0-aa13-2ed1da989a97",
                 "name": "Crumbs EU",
-                "seed": 682
+                "seed": 682,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d6aadac2-6ec1-11f0-a200-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3fe65b16-6e58-11f0-aa13-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "d6aadac2-6ec1-11f0-a200-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3fe65b16-6e58-11f0-aa13-2ed1da989a97",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "d6aadac2-6ec1-11f0-a200-16d27960efb2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3fe65b16-6e58-11f0-aa13-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1005,
