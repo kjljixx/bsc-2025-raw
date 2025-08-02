@@ -20728,18 +20728,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4eb8f6dc-69b5-11f0-a357-1601ae2b404f",
                 "name": "Crow'S Gang",
-                "seed": 262
+                "seed": 262,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "782e11e8-6e6d-11f0-8f3c-2ed1da989a97",
                 "name": "STG Team",
-                "seed": 198
+                "seed": 198,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4eb8f6dc-69b5-11f0-a357-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "782e11e8-6e6d-11f0-8f3c-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "4eb8f6dc-69b5-11f0-a357-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "782e11e8-6e6d-11f0-8f3c-2ed1da989a97",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 478,
@@ -21042,7 +21077,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4eb8f6dc-69b5-11f0-a357-1601ae2b404f",
+                "name": "Crow'S Gang",
+                "seed": 262
             },
             "opponent2": {
                 "id": null
