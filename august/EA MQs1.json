@@ -11132,18 +11132,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
                 "name": "天才只是見owo的門檻",
-                "seed": 135
+                "seed": 135,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fb6f8c4e-668e-11f0-9011-06c972f0ca4f",
                 "name": "らーとむ",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb6f8c4e-668e-11f0-9011-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb6f8c4e-668e-11f0-9011-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 236,
