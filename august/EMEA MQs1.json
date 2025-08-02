@@ -16608,18 +16608,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d2daba5e-6a2d-11f0-a62a-1601ae2b404f",
                 "name": "GX | Army ⚔️",
-                "seed": 456
+                "seed": 456,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "78d300e6-6971-11f0-8d33-1601ae2b404f",
                 "name": "BerryNana",
-                "seed": 569
+                "seed": 569,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "d2daba5e-6a2d-11f0-a62a-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "78d300e6-6971-11f0-8d33-1601ae2b404f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d2daba5e-6a2d-11f0-a62a-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "78d300e6-6971-11f0-8d33-1601ae2b404f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "d2daba5e-6a2d-11f0-a62a-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "78d300e6-6971-11f0-8d33-1601ae2b404f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 75,
@@ -21795,18 +21845,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc0f4dd8-69ac-11f0-b12e-16d27960efb2",
                 "name": "Team zaza",
-                "seed": 418
+                "seed": 418,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4211af9a-692f-11f0-bd95-5a619cf14437",
                 "name": "Mupsy",
-                "seed": 607
+                "seed": 607,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "cc0f4dd8-69ac-11f0-b12e-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4211af9a-692f-11f0-bd95-5a619cf14437",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "cc0f4dd8-69ac-11f0-b12e-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4211af9a-692f-11f0-bd95-5a619cf14437",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "cc0f4dd8-69ac-11f0-b12e-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4211af9a-692f-11f0-bd95-5a619cf14437",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 287,
@@ -28480,7 +28580,9 @@
                 "seed": 57
             },
             "opponent2": {
-                "id": null
+                "id": "78d300e6-6971-11f0-8d33-1601ae2b404f",
+                "name": "BerryNana",
+                "seed": 569
             },
             "match_games": []
         },
@@ -30594,7 +30696,9 @@
                 "seed": 95
             },
             "opponent2": {
-                "id": null
+                "id": "cc0f4dd8-69ac-11f0-b12e-16d27960efb2",
+                "name": "Team zaza",
+                "seed": 418
             },
             "match_games": []
         },
