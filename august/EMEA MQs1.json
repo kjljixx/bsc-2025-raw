@@ -41122,18 +41122,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bd6b84b2-6caf-11f0-a6d6-16d27960efb2",
                 "name": "play donto",
-                "seed": 638
+                "seed": 638,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7546aba8-6b6f-11f0-881f-16d27960efb2",
                 "name": "ZENITH DIVISION",
-                "seed": 382
+                "seed": 382,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "bd6b84b2-6caf-11f0-a6d6-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7546aba8-6b6f-11f0-881f-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "bd6b84b2-6caf-11f0-a6d6-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7546aba8-6b6f-11f0-881f-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 867,
@@ -41542,7 +41577,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "a558518c-668f-11f0-bb19-06c972f0ca4f",
                 "name": "Shoguns 🌊",
