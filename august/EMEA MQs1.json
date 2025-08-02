@@ -42730,18 +42730,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c03fb540-6ae9-11f0-ae01-16d27960efb2",
                 "name": "F/A GIOLI",
-                "seed": 530
+                "seed": 530,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b607f014-668f-11f0-ab2e-06c972f0ca4f",
                 "name": "Fishbon",
-                "seed": 239
+                "seed": 239,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "c03fb540-6ae9-11f0-ae01-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b607f014-668f-11f0-ab2e-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "c03fb540-6ae9-11f0-ae01-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b607f014-668f-11f0-ab2e-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 846,
@@ -46087,10 +46122,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c03fb540-6ae9-11f0-ae01-16d27960efb2",
+                "name": "F/A GIOLI",
+                "seed": 530
             },
             "opponent2": {
-                "id": null
+                "id": "a204b8d6-668f-11f0-a78d-06c972f0ca4f",
+                "name": "Milan Comp.",
+                "seed": 111
             },
             "match_games": []
         },
