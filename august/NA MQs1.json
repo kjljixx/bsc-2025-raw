@@ -18462,18 +18462,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "13e5fb52-6692-11f0-b19e-06c972f0ca4f",
                 "name": "Red Devils",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "16876cce-6692-11f0-8081-06c972f0ca4f",
                 "name": "Lmc",
-                "seed": 45
+                "seed": 45,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "13e5fb52-6692-11f0-b19e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16876cce-6692-11f0-8081-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "13e5fb52-6692-11f0-b19e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16876cce-6692-11f0-8081-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 461,
@@ -18813,18 +18848,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
                 "name": "HeavenZ",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "12b3301a-6692-11f0-950e-06c972f0ca4f",
                 "name": "TEAM HORIZON",
-                "seed": 210
+                "seed": 210,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "12b3301a-6692-11f0-950e-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "12b3301a-6692-11f0-950e-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 469,
@@ -19599,7 +19669,9 @@
                 "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "12b3301a-6692-11f0-950e-06c972f0ca4f",
+                "name": "TEAM HORIZON",
+                "seed": 210
             },
             "match_games": []
         },
