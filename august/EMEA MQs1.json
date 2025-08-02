@@ -33599,18 +33599,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9fb4e24-668f-11f0-aafe-06c972f0ca4f",
                 "name": "LHM esport",
-                "seed": 63
+                "seed": 63,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "60fe8ace-6a27-11f0-b819-2ed1da989a97",
                 "name": "JGM|e-sport",
-                "seed": 450
+                "seed": 450,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "a9fb4e24-668f-11f0-aafe-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "60fe8ace-6a27-11f0-b819-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a9fb4e24-668f-11f0-aafe-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "60fe8ace-6a27-11f0-b819-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "a9fb4e24-668f-11f0-aafe-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "60fe8ace-6a27-11f0-b819-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 646,
@@ -35548,18 +35598,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9aa1fb26-668f-11f0-9e09-06c972f0ca4f",
                 "name": "Barcelona",
-                "seed": 10
+                "seed": 10,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d6aadac2-6ec1-11f0-a200-16d27960efb2",
                 "name": "Tsunami Esports",
-                "seed": 503
+                "seed": 503,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "9aa1fb26-668f-11f0-9e09-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6aadac2-6ec1-11f0-a200-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "9aa1fb26-668f-11f0-9e09-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d6aadac2-6ec1-11f0-a200-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "9aa1fb26-668f-11f0-9e09-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d6aadac2-6ec1-11f0-a200-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 690,
@@ -40154,10 +40254,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9fb4e24-668f-11f0-aafe-06c972f0ca4f",
+                "name": "LHM esport",
+                "seed": 63
             },
             "opponent2": {
-                "id": null
+                "id": "c67af4ca-6f02-11f0-a494-06810c721b8e",
+                "name": "F/A CARTAGONOVA",
+                "seed": 706
             },
             "match_games": []
         },
@@ -40588,10 +40692,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d6aadac2-6ec1-11f0-a200-16d27960efb2",
+                "name": "Tsunami Esports",
+                "seed": 503
             },
             "opponent2": {
-                "id": null
+                "id": "5c8a3fc8-6a5a-11f0-8b68-16d27960efb2",
+                "name": "BHG ESPORTS",
+                "seed": 266
             },
             "match_games": []
         },
