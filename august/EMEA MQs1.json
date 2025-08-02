@@ -50847,18 +50847,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a381226c-668f-11f0-a692-06c972f0ca4f",
                 "name": "Freezer Esports",
-                "seed": 1
+                "seed": 1,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "59e9d0aa-6954-11f0-a534-16d27960efb2",
                 "name": "best turkish team",
-                "seed": 673
+                "seed": 673,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a381226c-668f-11f0-a692-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "59e9d0aa-6954-11f0-a534-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "a381226c-668f-11f0-a692-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "59e9d0aa-6954-11f0-a534-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 994,
@@ -50867,18 +50902,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c2e33be-6e53-11f0-aac9-2ed1da989a97",
                 "name": "LGSEO",
-                "seed": 497
+                "seed": 497,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2de7248c-6f15-11f0-b0f4-d2f369ca1296",
                 "name": "Chippy Chips",
-                "seed": 529
+                "seed": 529,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2c2e33be-6e53-11f0-aac9-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2de7248c-6f15-11f0-b0f4-d2f369ca1296",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "2c2e33be-6e53-11f0-aac9-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2de7248c-6f15-11f0-b0f4-d2f369ca1296",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 995,
@@ -51002,18 +51072,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b3fcc218-668f-11f0-b06e-06c972f0ca4f",
                 "name": "Krono Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
                 "name": "ZeroEsports",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b3fcc218-668f-11f0-b06e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "b3fcc218-668f-11f0-b06e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5c982ac-668f-11f0-ab87-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1000,
