@@ -29041,18 +29041,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b23a5bfc-668f-11f0-bde6-06c972f0ca4f",
                 "name": "PSOE eSports",
-                "seed": 145
+                "seed": 145,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f4741eca-694d-11f0-9d1f-2ed1da989a97",
                 "name": "Portals Gaming",
-                "seed": 657
+                "seed": 657,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "b23a5bfc-668f-11f0-bde6-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f4741eca-694d-11f0-9d1f-2ed1da989a97",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "b23a5bfc-668f-11f0-bde6-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f4741eca-694d-11f0-9d1f-2ed1da989a97",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 541,
@@ -33782,18 +33817,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d86c088-668f-11f0-87d5-06c972f0ca4f",
                 "name": "F/A Kebaby v osusce",
-                "seed": 122
+                "seed": 122,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d4f7a690-6c93-11f0-9b93-2ed1da989a97",
                 "name": "Chronixus",
-                "seed": 634
+                "seed": 634,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "9d86c088-668f-11f0-87d5-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d4f7a690-6c93-11f0-9b93-2ed1da989a97",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "9d86c088-668f-11f0-87d5-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d4f7a690-6c93-11f0-9b93-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "9d86c088-668f-11f0-87d5-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d4f7a690-6c93-11f0-9b93-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 676,
@@ -33899,18 +33984,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b035f582-668f-11f0-aa18-06c972f0ca4f",
                 "name": "Die Losties",
-                "seed": 71
+                "seed": 71,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d52c490c-6975-11f0-b71a-9ee1c70021ab",
                 "name": "MAGIC TEAM",
-                "seed": 583
+                "seed": 583,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "b035f582-668f-11f0-aa18-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d52c490c-6975-11f0-b71a-9ee1c70021ab",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "b035f582-668f-11f0-aa18-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d52c490c-6975-11f0-b71a-9ee1c70021ab",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 680,
@@ -37250,7 +37370,9 @@
                 "seed": 112
             },
             "opponent2": {
-                "id": null
+                "id": "b23a5bfc-668f-11f0-bde6-06c972f0ca4f",
+                "name": "PSOE eSports",
+                "seed": 145
             },
             "match_games": []
         },
@@ -38527,10 +38649,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9d86c088-668f-11f0-87d5-06c972f0ca4f",
+                "name": "F/A Kebaby v osusce",
+                "seed": 122
             },
             "opponent2": {
-                "id": null
+                "id": "ab3b42d0-668f-11f0-936c-06c972f0ca4f",
+                "name": "Purple Lock",
+                "seed": 135
             },
             "match_games": []
         },
@@ -38563,10 +38689,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b035f582-668f-11f0-aa18-06c972f0ca4f",
+                "name": "Die Losties",
+                "seed": 71
             },
             "opponent2": {
-                "id": null
+                "id": "108942ea-6ee7-11f0-a929-ea4a4267d7a2",
+                "name": "LUX LRJ",
+                "seed": 698
             },
             "match_games": []
         },
