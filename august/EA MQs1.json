@@ -8854,18 +8854,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "faca5a62-668e-11f0-b9e6-06c972f0ca4f",
                 "name": "わからせclan",
-                "seed": 54
+                "seed": 54,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3931e900-6a4a-11f0-ad5a-1601ae2b404f",
                 "name": "morimoribababa",
-                "seed": 75
+                "seed": 75,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "faca5a62-668e-11f0-b9e6-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3931e900-6a4a-11f0-ad5a-1601ae2b404f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "faca5a62-668e-11f0-b9e6-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3931e900-6a4a-11f0-ad5a-1601ae2b404f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "faca5a62-668e-11f0-b9e6-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3931e900-6a4a-11f0-ad5a-1601ae2b404f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 191,
@@ -9557,7 +9607,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "3931e900-6a4a-11f0-ad5a-1601ae2b404f",
+                "name": "morimoribababa",
+                "seed": 75
             },
             "match_games": []
         },
