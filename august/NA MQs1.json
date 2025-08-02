@@ -19752,18 +19752,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16a9c238-6692-11f0-8484-06c972f0ca4f",
                 "name": "Queremos Unas Güeras",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "11d5f98e-6692-11f0-b048-06c972f0ca4f",
                 "name": "LLB",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "16a9c238-6692-11f0-8484-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "11d5f98e-6692-11f0-b048-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "16a9c238-6692-11f0-8484-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "11d5f98e-6692-11f0-b048-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 488,
@@ -19887,18 +19922,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "170d843a-6692-11f0-b4cf-06c972f0ca4f",
                 "name": "Zenith 0",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "146f8890-6692-11f0-8b37-06c972f0ca4f",
                 "name": "LOS CARAMELITOS",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "170d843a-6692-11f0-b4cf-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "146f8890-6692-11f0-8b37-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "170d843a-6692-11f0-b4cf-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "146f8890-6692-11f0-8b37-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 493,
@@ -20002,18 +20072,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "15c53528-6692-11f0-9e40-06c972f0ca4f",
                 "name": "Ping Warriors",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "17281b9c-6692-11f0-a04a-06c972f0ca4f",
                 "name": "Evangelion",
-                "seed": 43
+                "seed": 43,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "15c53528-6692-11f0-9e40-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17281b9c-6692-11f0-a04a-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "15c53528-6692-11f0-9e40-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17281b9c-6692-11f0-a04a-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         }
     ]
 }
