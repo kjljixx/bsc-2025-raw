@@ -3382,18 +3382,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d400e8dc-69fa-11f0-9ba4-16d27960efb2",
                 "name": "Triple Kill",
-                "seed": 97
+                "seed": 97,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "254cd1cc-695d-11f0-b05b-16d27960efb2",
                 "name": "ZXN",
-                "seed": 160
+                "seed": 160,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "d400e8dc-69fa-11f0-9ba4-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "254cd1cc-695d-11f0-b05b-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d400e8dc-69fa-11f0-9ba4-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "254cd1cc-695d-11f0-b05b-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -4692,18 +4727,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5ffd0cbc-696f-11f0-a8c7-1601ae2b404f",
                 "name": "HM",
-                "seed": 122
+                "seed": 122,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
                 "name": "天才只是見owo的門檻",
-                "seed": 135
+                "seed": 135,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "5ffd0cbc-696f-11f0-a8c7-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5ffd0cbc-696f-11f0-a8c7-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 83,
@@ -5545,7 +5615,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "254cd1cc-695d-11f0-b05b-16d27960efb2",
+                "name": "ZXN",
+                "seed": 160
             },
             "match_games": []
         },
@@ -6283,7 +6355,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
+                "name": "天才只是見owo的門檻",
+                "seed": 135
             },
             "match_games": []
         },
