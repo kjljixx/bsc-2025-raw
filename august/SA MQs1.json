@@ -17923,18 +17923,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e4872f3a-6690-11f0-bb55-06c972f0ca4f",
                 "name": "atentado ao pudor",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3b1cc4dc-6a41-11f0-b7d9-2ed1da989a97",
                 "name": "Tk Titans",
-                "seed": 143
+                "seed": 143,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e4872f3a-6690-11f0-bb55-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b1cc4dc-6a41-11f0-b7d9-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "e4872f3a-6690-11f0-bb55-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b1cc4dc-6a41-11f0-b7d9-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 422,
@@ -18083,18 +18118,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e68ec446-6690-11f0-88dd-06c972f0ca4f",
                 "name": "MAO DE RAQUETE",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c81edabc-6bc9-11f0-970b-2ed1da989a97",
                 "name": "DADA",
-                "seed": 119
+                "seed": 119,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e68ec446-6690-11f0-88dd-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c81edabc-6bc9-11f0-970b-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "e68ec446-6690-11f0-88dd-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c81edabc-6bc9-11f0-970b-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 430,
@@ -18103,18 +18173,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f4980d0-6edd-11f0-a897-16d27960efb2",
                 "name": "Moto Moto BC",
-                "seed": 202
+                "seed": 202,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e027dc50-6690-11f0-b3fb-06c972f0ca4f",
                 "name": "Knight of Shadow",
-                "seed": 183
+                "seed": 183,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4f4980d0-6edd-11f0-a897-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e027dc50-6690-11f0-b3fb-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "4f4980d0-6edd-11f0-a897-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e027dc50-6690-11f0-b3fb-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 431,
@@ -18548,18 +18653,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "04d0c5aa-69c3-11f0-9b82-1601ae2b404f",
                 "name": "Nós Três",
-                "seed": 278
+                "seed": 278,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e22eb474-6690-11f0-be1c-06c972f0ca4f",
                 "name": "BLUE LOCK",
-                "seed": 107
+                "seed": 107,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "04d0c5aa-69c3-11f0-9b82-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e22eb474-6690-11f0-be1c-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "04d0c5aa-69c3-11f0-9b82-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e22eb474-6690-11f0-be1c-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 448,
@@ -18900,7 +19040,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e4872f3a-6690-11f0-bb55-06c972f0ca4f",
+                "name": "atentado ao pudor",
+                "seed": 15
             },
             "opponent2": {
                 "id": null
@@ -18964,10 +19106,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e68ec446-6690-11f0-88dd-06c972f0ca4f",
+                "name": "MAO DE RAQUETE",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "e027dc50-6690-11f0-b3fb-06c972f0ca4f",
+                "name": "Knight of Shadow",
+                "seed": 183
             },
             "match_games": []
         },
@@ -19112,7 +19258,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e22eb474-6690-11f0-be1c-06c972f0ca4f",
+                "name": "BLUE LOCK",
+                "seed": 107
             },
             "opponent2": {
                 "id": null
