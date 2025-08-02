@@ -18111,18 +18111,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
                 "name": "Max Gaming",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "126298b2-6692-11f0-9732-06c972f0ca4f",
                 "name": "The Brother Gaming",
-                "seed": 72
+                "seed": 72,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "126298b2-6692-11f0-9732-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "126298b2-6692-11f0-9732-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 454,
@@ -18917,18 +18952,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b5a03a24-6b75-11f0-8c9f-16d27960efb2",
                 "name": "El Cabrito Regional",
-                "seed": 227
+                "seed": 227,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "106266fa-6692-11f0-a5d4-06c972f0ca4f",
                 "name": "Zunters",
-                "seed": 35
+                "seed": 35,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b5a03a24-6b75-11f0-8c9f-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "106266fa-6692-11f0-a5d4-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "b5a03a24-6b75-11f0-8c9f-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "106266fa-6692-11f0-a5d4-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 475,
@@ -18992,18 +19062,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "106eda8e-6692-11f0-9195-06c972f0ca4f",
                 "name": "Chambeadores NA",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "16596ef0-6692-11f0-ae29-06c972f0ca4f",
                 "name": "LSP",
-                "seed": 46
+                "seed": 46,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "106eda8e-6692-11f0-9195-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "16596ef0-6692-11f0-ae29-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "106eda8e-6692-11f0-9195-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "16596ef0-6692-11f0-ae29-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 477,
@@ -19198,10 +19303,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
+                "name": "Max Gaming",
+                "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "10402bee-6692-11f0-be77-06c972f0ca4f",
+                "name": "W boys",
+                "seed": 25
             },
             "match_games": []
         },
@@ -19381,7 +19490,9 @@
                 "seed": 195
             },
             "opponent2": {
-                "id": null
+                "id": "b5a03a24-6b75-11f0-8c9f-16d27960efb2",
+                "name": "El Cabrito Regional",
+                "seed": 227
             },
             "match_games": []
         },
@@ -19399,7 +19510,9 @@
                 "seed": 179
             },
             "opponent2": {
-                "id": null
+                "id": "16596ef0-6692-11f0-ae29-06c972f0ca4f",
+                "name": "LSP",
+                "seed": 46
             },
             "match_games": []
         },
