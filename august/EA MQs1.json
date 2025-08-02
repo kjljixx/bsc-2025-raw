@@ -9140,18 +9140,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
                 "name": "XO FREE AGENTS",
-                "seed": 105
+                "seed": 105,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d94baca6-6d46-11f0-b067-16d27960efb2",
                 "name": "逆境にスマイル",
-                "seed": 88
+                "seed": 88,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d94baca6-6d46-11f0-b067-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d94baca6-6d46-11f0-b067-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 201,
