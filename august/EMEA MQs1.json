@@ -17558,18 +17558,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d63ef392-699f-11f0-8d0a-16d27960efb2",
                 "name": "GrindZone",
-                "seed": 408
+                "seed": 408,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6c7600da-6937-11f0-ac26-06c972f0ca4f",
                 "name": "SOUTH SIDE GANG",
-                "seed": 617
+                "seed": 617,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "d63ef392-699f-11f0-8d0a-16d27960efb2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6c7600da-6937-11f0-ac26-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d63ef392-699f-11f0-8d0a-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c7600da-6937-11f0-ac26-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "d63ef392-699f-11f0-8d0a-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c7600da-6937-11f0-ac26-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 119,
@@ -29070,7 +29120,9 @@
                 "seed": 105
             },
             "opponent2": {
-                "id": null
+                "id": "d63ef392-699f-11f0-8d0a-16d27960efb2",
+                "name": "GrindZone",
+                "seed": 408
             },
             "match_games": []
         },
