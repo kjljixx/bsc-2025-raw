@@ -12199,7 +12199,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "100c3bfe-6692-11f0-8f8c-06c972f0ca4f",
                 "name": "Cobra Jets",
@@ -12208,7 +12208,8 @@
             "opponent2": {
                 "id": "78e5ae18-6fb0-11f0-a2a6-1604b8deae2f",
                 "name": "Zob humide",
-                "seed": 258
+                "seed": 258,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -15208,10 +15209,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "100c3bfe-6692-11f0-8f8c-06c972f0ca4f",
+                "name": "Cobra Jets",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "77a3b380-6a5e-11f0-8ebd-1601ae2b404f",
+                "name": "HOUSEHOLD ITEMS",
+                "seed": 127
             },
             "match_games": []
         },
