@@ -11382,18 +11382,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fbd53116-668e-11f0-88d4-06c972f0ca4f",
                 "name": "Venom Vortex",
-                "seed": 142
+                "seed": 142,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e3078d3e-6d58-11f0-b584-16d27960efb2",
                 "name": "味方に任せる👍",
-                "seed": 147
+                "seed": 147,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fbd53116-668e-11f0-88d4-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3078d3e-6d58-11f0-b584-16d27960efb2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fbd53116-668e-11f0-88d4-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3078d3e-6d58-11f0-b584-16d27960efb2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 239,
