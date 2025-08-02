@@ -41522,18 +41522,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aac174e6-668f-11f0-bc5e-06c972f0ca4f",
                 "name": "I San Marinesi",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b6babf3c-668f-11f0-b0f8-06c972f0ca4f",
                 "name": "ADH CREW",
-                "seed": 245
+                "seed": 245,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "aac174e6-668f-11f0-bc5e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b6babf3c-668f-11f0-b0f8-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "aac174e6-668f-11f0-bc5e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b6babf3c-668f-11f0-b0f8-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 826,
@@ -41953,18 +41988,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0bef2124-6c89-11f0-895f-16d27960efb2",
                 "name": "F/A CED",
-                "seed": 447
+                "seed": 447,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "df1d7472-695c-11f0-a2b9-2ed1da989a97",
                 "name": "Trust US",
-                "seed": 703
+                "seed": 703,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "0bef2124-6c89-11f0-895f-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "df1d7472-695c-11f0-a2b9-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "0bef2124-6c89-11f0-895f-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "df1d7472-695c-11f0-a2b9-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "0bef2124-6c89-11f0-895f-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "df1d7472-695c-11f0-a2b9-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 837,
@@ -42440,18 +42525,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ac5d57ac-668f-11f0-a989-06c972f0ca4f",
                 "name": "Gooner Squad",
-                "seed": 82
+                "seed": 82,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "445e159c-6acc-11f0-a711-16d27960efb2",
                 "name": "TEAM PISA",
-                "seed": 338
+                "seed": 338,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "ac5d57ac-668f-11f0-a989-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "445e159c-6acc-11f0-a711-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "ac5d57ac-668f-11f0-a989-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "445e159c-6acc-11f0-a711-16d27960efb2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "ac5d57ac-668f-11f0-a989-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "445e159c-6acc-11f0-a711-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 849,
@@ -44420,18 +44555,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a96df2ae-668f-11f0-8f7f-06c972f0ca4f",
                 "name": "Vigilante",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9f9e6dd0-668f-11f0-ae10-06c972f0ca4f",
                 "name": "Italian Deities",
-                "seed": 299
+                "seed": 299,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "a96df2ae-668f-11f0-8f7f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9f9e6dd0-668f-11f0-ae10-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "a96df2ae-668f-11f0-8f7f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9f9e6dd0-668f-11f0-ae10-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 896,
@@ -45000,10 +45170,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "aac174e6-668f-11f0-bc5e-06c972f0ca4f",
+                "name": "I San Marinesi",
+                "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "b0334e04-668f-11f0-9eaf-06c972f0ca4f",
+                "name": "AMA",
+                "seed": 140
             },
             "match_games": []
         },
@@ -45095,7 +45269,9 @@
                 "seed": 706
             },
             "opponent2": {
-                "id": null
+                "id": "0bef2124-6c89-11f0-895f-16d27960efb2",
+                "name": "F/A CED",
+                "seed": 447
             },
             "match_games": []
         },
@@ -45207,7 +45383,9 @@
                 "seed": 210
             },
             "opponent2": {
-                "id": null
+                "id": "ac5d57ac-668f-11f0-a989-06c972f0ca4f",
+                "name": "Gooner Squad",
+                "seed": 82
             },
             "match_games": []
         },
@@ -45660,7 +45838,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a96df2ae-668f-11f0-8f7f-06c972f0ca4f",
+                "name": "Vigilante",
+                "seed": 43
             },
             "opponent2": {
                 "id": null
