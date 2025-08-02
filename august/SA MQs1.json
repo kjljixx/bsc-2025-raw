@@ -17492,18 +17492,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dfd444b4-6690-11f0-b8f8-06c972f0ca4f",
                 "name": "MPK elite",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e8b09d58-6690-11f0-a4e5-06c972f0ca4f",
                 "name": "Black house",
-                "seed": 132
+                "seed": 132,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "dfd444b4-6690-11f0-b8f8-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8b09d58-6690-11f0-a4e5-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "dfd444b4-6690-11f0-b8f8-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8b09d58-6690-11f0-a4e5-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 402,
@@ -17752,18 +17787,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e76e0a0c-6690-11f0-8d27-06c972f0ca4f",
                 "name": "COSMIC",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e72bcc3c-6690-11f0-8a7d-06c972f0ca4f",
                 "name": "RAGNAROK",
-                "seed": 148
+                "seed": 148,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e76e0a0c-6690-11f0-8d27-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e72bcc3c-6690-11f0-8a7d-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "e76e0a0c-6690-11f0-8d27-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e72bcc3c-6690-11f0-8a7d-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 408,
@@ -18502,18 +18572,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7f14066-6690-11f0-b790-06c972f0ca4f",
                 "name": "Calçadão",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e9e453ae-6690-11f0-aee1-06c972f0ca4f",
                 "name": "STORMS",
-                "seed": 186
+                "seed": 186,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e7f14066-6690-11f0-b790-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9e453ae-6690-11f0-aee1-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "e7f14066-6690-11f0-b790-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9e453ae-6690-11f0-aee1-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 427,
@@ -19529,7 +19634,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dfd444b4-6690-11f0-b8f8-06c972f0ca4f",
+                "name": "MPK elite",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -19585,10 +19692,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e72bcc3c-6690-11f0-8a7d-06c972f0ca4f",
+                "name": "RAGNAROK",
+                "seed": 148
             },
             "opponent2": {
-                "id": null
+                "id": "ca42567c-6ee7-11f0-8490-d21b0379af73",
+                "name": "FUG F/A",
+                "seed": 301
             },
             "match_games": []
         },
