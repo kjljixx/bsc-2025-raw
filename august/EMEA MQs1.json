@@ -50977,18 +50977,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d399a6d4-6a2e-11f0-9510-1601ae2b404f",
                 "name": "Team ipads",
-                "seed": 312
+                "seed": 312,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "805839b2-6df9-11f0-a0f7-16d27960efb2",
                 "name": "Opp Stoppa",
-                "seed": 489
+                "seed": 489,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d399a6d4-6a2e-11f0-9510-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "805839b2-6df9-11f0-a0f7-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "d399a6d4-6a2e-11f0-9510-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "805839b2-6df9-11f0-a0f7-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 997,
@@ -51372,18 +51407,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2f83f1a-668f-11f0-ad69-06c972f0ca4f",
                 "name": "DPB Academy",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b3adf9da-668f-11f0-bc39-06c972f0ca4f",
                 "name": "Orion",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a2f83f1a-668f-11f0-ad69-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b3adf9da-668f-11f0-bc39-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "a2f83f1a-668f-11f0-ad69-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b3adf9da-668f-11f0-bc39-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1008,
