@@ -25272,18 +25272,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a73f99a4-699d-11f0-9530-1601ae2b404f",
                 "name": "MLN",
-                "seed": 379
+                "seed": 379,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "05aca7bc-6d30-11f0-81d9-16d27960efb2",
                 "name": "[ωuƦ$†]",
-                "seed": 646
+                "seed": 646,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a73f99a4-699d-11f0-9530-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "05aca7bc-6d30-11f0-81d9-16d27960efb2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a73f99a4-699d-11f0-9530-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "05aca7bc-6d30-11f0-81d9-16d27960efb2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 457,
@@ -28057,7 +28092,9 @@
                 "seed": 196
             },
             "opponent2": {
-                "id": null
+                "id": "ecb8ce68-6f03-11f0-9ef3-d21b0379af73",
+                "name": "FCB",
+                "seed": 708
             },
             "match_games": []
         },
@@ -31173,7 +31210,9 @@
                 "seed": 134
             },
             "opponent2": {
-                "id": null
+                "id": "a73f99a4-699d-11f0-9530-1601ae2b404f",
+                "name": "MLN",
+                "seed": 379
             },
             "match_games": []
         },
