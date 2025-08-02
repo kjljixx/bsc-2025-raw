@@ -16182,18 +16182,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bcc39dbe-6d3c-11f0-988f-2ed1da989a97",
                 "name": "LTH |FINALRUSH👀",
-                "seed": 465
+                "seed": 465,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dd526250-6b10-11f0-9edf-2ed1da989a97",
                 "name": "Cripie club",
-                "seed": 560
+                "seed": 560,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "bcc39dbe-6d3c-11f0-988f-2ed1da989a97",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dd526250-6b10-11f0-9edf-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bcc39dbe-6d3c-11f0-988f-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd526250-6b10-11f0-9edf-2ed1da989a97",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "bcc39dbe-6d3c-11f0-988f-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd526250-6b10-11f0-9edf-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 59,
@@ -28622,7 +28672,9 @@
                 "seed": 48
             },
             "opponent2": {
-                "id": null
+                "id": "dd526250-6b10-11f0-9edf-2ed1da989a97",
+                "name": "Cripie club",
+                "seed": 560
             },
             "match_games": []
         },
