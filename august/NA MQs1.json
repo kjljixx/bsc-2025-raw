@@ -17996,18 +17996,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "15c41df0-6692-11f0-8d99-06c972f0ca4f",
                 "name": "Octane Esports",
-                "seed": 1
+                "seed": 1,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "164aabc2-6692-11f0-916b-06c972f0ca4f",
                 "name": "Nom Nom Gaming",
-                "seed": 64
+                "seed": 64,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "15c41df0-6692-11f0-8d99-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "164aabc2-6692-11f0-916b-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "15c41df0-6692-11f0-8d99-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "164aabc2-6692-11f0-916b-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 450,
@@ -18211,18 +18246,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f8a991e-6692-11f0-9035-06c972f0ca4f",
                 "name": "Timeless",
-                "seed": 228
+                "seed": 228,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fdeb035a-6976-11f0-810a-2ed1da989a97",
                 "name": "Brawl Havoc",
-                "seed": 93
+                "seed": 93,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0f8a991e-6692-11f0-9035-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fdeb035a-6976-11f0-810a-2ed1da989a97",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0f8a991e-6692-11f0-9035-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fdeb035a-6976-11f0-810a-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 459,
@@ -18431,18 +18501,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "99e72dda-6c22-11f0-b6e1-2ed1da989a97",
                 "name": "The skulls aura💀",
-                "seed": 122
+                "seed": 122,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "293619d0-6dd4-11f0-9e22-16d27960efb2",
                 "name": "Junnie K",
-                "seed": 199
+                "seed": 199,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "99e72dda-6c22-11f0-b6e1-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "293619d0-6dd4-11f0-9e22-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "99e72dda-6c22-11f0-b6e1-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "293619d0-6dd4-11f0-9e22-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 470,
@@ -18451,18 +18556,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3fc09e60-6f22-11f0-b5e8-424e76861b12",
                 "name": "The Pretenders",
-                "seed": 154
+                "seed": 154,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "11f8efe8-6692-11f0-a6d3-06c972f0ca4f",
                 "name": "RAYTHOS",
-                "seed": 90
+                "seed": 90,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3fc09e60-6f22-11f0-b5e8-424e76861b12",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "11f8efe8-6692-11f0-a6d3-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3fc09e60-6f22-11f0-b5e8-424e76861b12",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "11f8efe8-6692-11f0-a6d3-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 471,
@@ -18778,7 +18918,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "15c41df0-6692-11f0-8d99-06c972f0ca4f",
+                "name": "Octane Esports",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -18847,7 +18989,9 @@
                 "seed": 260
             },
             "opponent2": {
-                "id": null
+                "id": "0f8a991e-6692-11f0-9035-06c972f0ca4f",
+                "name": "Timeless",
+                "seed": 228
             },
             "match_games": []
         },
@@ -18940,10 +19084,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "293619d0-6dd4-11f0-9e22-16d27960efb2",
+                "name": "Junnie K",
+                "seed": 199
             },
             "opponent2": {
-                "id": null
+                "id": "11f8efe8-6692-11f0-a6d3-06c972f0ca4f",
+                "name": "RAYTHOS",
+                "seed": 90
             },
             "match_games": []
         },
