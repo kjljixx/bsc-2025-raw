@@ -7628,18 +7628,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb07eb20-668e-11f0-b39b-06c972f0ca4f",
                 "name": "かむかむれもん",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0c55fc5e-6933-11f0-8791-5a619cf14437",
                 "name": "ゆうりは雑魚い",
-                "seed": 146
+                "seed": 146,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "fb07eb20-668e-11f0-b39b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0c55fc5e-6933-11f0-8791-5a619cf14437",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fb07eb20-668e-11f0-b39b-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0c55fc5e-6933-11f0-8791-5a619cf14437",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "fb07eb20-668e-11f0-b39b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0c55fc5e-6933-11f0-8791-5a619cf14437",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 168,
@@ -9134,10 +9184,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb07eb20-668e-11f0-b39b-06c972f0ca4f",
+                "name": "かむかむれもん",
+                "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "2e5c3f7a-6b9f-11f0-bf76-2ed1da989a97",
+                "name": "alt+F4",
+                "seed": 82
             },
             "match_games": []
         },
