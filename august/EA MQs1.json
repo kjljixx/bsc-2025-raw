@@ -8789,11 +8789,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f88f2480-668e-11f0-ab55-06c972f0ca4f",
                 "name": "YYクラブ",
-                "seed": 22
+                "seed": 22,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
@@ -9476,10 +9477,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
+                "name": "High ping🖕",
+                "seed": 107
             },
             "opponent2": {
-                "id": null
+                "id": "24af6d9e-6d0c-11f0-abd8-16d27960efb2",
+                "name": "WiFi切れても勝ちます",
+                "seed": 86
             },
             "match_games": []
         },
