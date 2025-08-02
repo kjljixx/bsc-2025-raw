@@ -10947,18 +10947,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fbc0192a-668e-11f0-b5f7-06c972f0ca4f",
                 "name": "PikoPiko",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6fbbd0da-6a0e-11f0-bd91-2ed1da989a97",
                 "name": "OM!",
-                "seed": 101
+                "seed": 101,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fbc0192a-668e-11f0-b5f7-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6fbbd0da-6a0e-11f0-bd91-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fbc0192a-668e-11f0-b5f7-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6fbbd0da-6a0e-11f0-bd91-2ed1da989a97",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 232,
@@ -11197,18 +11232,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f97909ce-668e-11f0-a141-06c972f0ca4f",
                 "name": "BN最強",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
                 "name": "High ping🖕",
-                "seed": 107
+                "seed": 107,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "f97909ce-668e-11f0-a141-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f97909ce-668e-11f0-a141-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
