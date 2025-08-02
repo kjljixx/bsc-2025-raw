@@ -25105,18 +25105,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7378825c-69a7-11f0-9899-9ee1c70021ab",
                 "name": "Team 7",
-                "seed": 414
+                "seed": 414,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "96953814-6936-11f0-97d8-06c972f0ca4f",
                 "name": "banderuku",
-                "seed": 611
+                "seed": 611,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7378825c-69a7-11f0-9899-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "96953814-6936-11f0-97d8-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7378825c-69a7-11f0-9899-9ee1c70021ab",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "96953814-6936-11f0-97d8-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7378825c-69a7-11f0-9899-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "96953814-6936-11f0-97d8-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 407,
@@ -32050,7 +32100,9 @@
                 "seed": 99
             },
             "opponent2": {
-                "id": null
+                "id": "7378825c-69a7-11f0-9899-9ee1c70021ab",
+                "name": "Team 7",
+                "seed": 414
             },
             "match_games": []
         },
