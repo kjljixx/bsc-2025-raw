@@ -19109,18 +19109,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e01f314a-6690-11f0-80dc-06c972f0ca4f",
                 "name": "GoldenArmor",
-                "seed": 62
+                "seed": 62,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "38523038-6d5d-11f0-8d59-2ed1da989a97",
                 "name": "Agorasim3",
-                "seed": 190
+                "seed": 190,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e01f314a-6690-11f0-80dc-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "38523038-6d5d-11f0-8d59-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "e01f314a-6690-11f0-80dc-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "38523038-6d5d-11f0-8d59-2ed1da989a97",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e01f314a-6690-11f0-80dc-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "38523038-6d5d-11f0-8d59-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 435,
@@ -20290,7 +20340,9 @@
                 "seed": 131
             },
             "opponent2": {
-                "id": null
+                "id": "38523038-6d5d-11f0-8d59-2ed1da989a97",
+                "name": "Agorasim3",
+                "seed": 190
             },
             "match_games": []
         },
