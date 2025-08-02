@@ -21885,18 +21885,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e4a106da-6690-11f0-b233-06c972f0ca4f",
                 "name": "ECLIPSE",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e1c74ffa-6690-11f0-bec7-06c972f0ca4f",
                 "name": "Jokers🤡",
-                "seed": 92
+                "seed": 92,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e4a106da-6690-11f0-b233-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e1c74ffa-6690-11f0-bec7-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e4a106da-6690-11f0-b233-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e1c74ffa-6690-11f0-bec7-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 488,
@@ -22045,18 +22080,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4eb8f6dc-69b5-11f0-a357-1601ae2b404f",
                 "name": "Crow'S Gang",
-                "seed": 262
+                "seed": 262,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ff892466-6cb0-11f0-acba-16d27960efb2",
                 "name": "Biotec",
-                "seed": 283
+                "seed": 283,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "4eb8f6dc-69b5-11f0-a357-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ff892466-6cb0-11f0-acba-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4eb8f6dc-69b5-11f0-a357-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ff892466-6cb0-11f0-acba-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 496,
