@@ -4177,18 +4177,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9797021c-696b-11f0-8c05-1601ae2b404f",
                 "name": "본계정15승실패하하하하",
-                "seed": 116
+                "seed": 116,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc39a510-6ba2-11f0-8bb3-2ed1da989a97",
                 "name": "LJH DDONTGO'S",
-                "seed": 141
+                "seed": 141,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "9797021c-696b-11f0-8c05-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc39a510-6ba2-11f0-8bb3-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9797021c-696b-11f0-8c05-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc39a510-6ba2-11f0-8bb3-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9797021c-696b-11f0-8c05-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc39a510-6ba2-11f0-8bb3-2ed1da989a97",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -4521,11 +4571,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3f4ebc86-6960-11f0-82f6-2ed1da989a97",
                 "name": "WN1",
-                "seed": 108
+                "seed": 108,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "9cb10b46-6e0a-11f0-8de3-16d27960efb2",
@@ -6323,7 +6374,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "9797021c-696b-11f0-8c05-1601ae2b404f",
+                "name": "본계정15승실패하하하하",
+                "seed": 116
             },
             "match_games": []
         },
@@ -6521,7 +6574,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "9cb10b46-6e0a-11f0-8de3-16d27960efb2",
+                "name": "GPT pick our brawler",
+                "seed": 149
             },
             "match_games": []
         },
