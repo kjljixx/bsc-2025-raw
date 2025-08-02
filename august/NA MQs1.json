@@ -18051,18 +18051,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1824669a-6692-11f0-b8f8-06c972f0ca4f",
                 "name": "Team Wolvate 2",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1780be28-6692-11f0-a945-06c972f0ca4f",
                 "name": "The Other Guys",
-                "seed": 33
+                "seed": 33,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1824669a-6692-11f0-b8f8-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1780be28-6692-11f0-a945-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "1824669a-6692-11f0-b8f8-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1780be28-6692-11f0-a945-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 451,
@@ -18521,7 +18556,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "100fec7c-6692-11f0-89f7-06c972f0ca4f",
                 "name": "High ping merchants",
@@ -18651,18 +18686,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
                 "name": "TrustTheProcess",
-                "seed": 98
+                "seed": 98,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "17add82c-6692-11f0-916a-06c972f0ca4f",
                 "name": "The Shibas",
-                "seed": 34
+                "seed": 34,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "17add82c-6692-11f0-916a-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17add82c-6692-11f0-916a-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17add82c-6692-11f0-916a-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 467,
@@ -19344,7 +19429,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "1780be28-6692-11f0-a945-06c972f0ca4f",
+                "name": "The Other Guys",
+                "seed": 33
             },
             "match_games": []
         },
@@ -19486,7 +19573,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
+                "name": "TrustTheProcess",
+                "seed": 98
             },
             "match_games": []
         },
