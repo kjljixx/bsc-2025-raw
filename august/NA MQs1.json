@@ -7445,18 +7445,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1354ae9a-6692-11f0-9fb5-06c972f0ca4f",
                 "name": "Dad Bods Inc.",
-                "seed": 255
+                "seed": 255,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "78e5ae18-6fb0-11f0-a2a6-1604b8deae2f",
                 "name": "Zob humide",
-                "seed": 258
+                "seed": 258,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1354ae9a-6692-11f0-9fb5-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "78e5ae18-6fb0-11f0-a2a6-1604b8deae2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1354ae9a-6692-11f0-9fb5-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "78e5ae18-6fb0-11f0-a2a6-1604b8deae2f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "1354ae9a-6692-11f0-9fb5-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "78e5ae18-6fb0-11f0-a2a6-1604b8deae2f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 131,
@@ -12020,7 +12070,11 @@
                 "name": "Cobra Jets",
                 "seed": 2
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "78e5ae18-6fb0-11f0-a2a6-1604b8deae2f",
+                "name": "Zob humide",
+                "seed": 258
+            },
             "match_games": []
         },
         {
