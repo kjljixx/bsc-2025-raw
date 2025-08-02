@@ -22636,18 +22636,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8cce4646-6a3e-11f0-a587-2ed1da989a97",
                 "name": "Calamity",
-                "seed": 466
+                "seed": 466,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "00274f0a-696f-11f0-8199-9ee1c70021ab",
                 "name": "TrzyPoZero",
-                "seed": 559
+                "seed": 559,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8cce4646-6a3e-11f0-a587-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00274f0a-696f-11f0-8199-9ee1c70021ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "8cce4646-6a3e-11f0-a587-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00274f0a-696f-11f0-8199-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8cce4646-6a3e-11f0-a587-2ed1da989a97",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "00274f0a-696f-11f0-8199-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 315,
@@ -30976,7 +31026,9 @@
                 "seed": 47
             },
             "opponent2": {
-                "id": null
+                "id": "00274f0a-696f-11f0-8199-9ee1c70021ab",
+                "name": "TrzyPoZero",
+                "seed": 559
             },
             "match_games": []
         },
