@@ -7715,18 +7715,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b847d06-69fa-11f0-98f0-9ee1c70021ab",
                 "name": "そばかすダイスケ",
-                "seed": 43
+                "seed": 43,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "24af6d9e-6d0c-11f0-abd8-16d27960efb2",
                 "name": "WiFi切れても勝ちます",
-                "seed": 86
+                "seed": 86,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "0b847d06-69fa-11f0-98f0-9ee1c70021ab",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "24af6d9e-6d0c-11f0-abd8-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "0b847d06-69fa-11f0-98f0-9ee1c70021ab",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "24af6d9e-6d0c-11f0-abd8-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 193,
