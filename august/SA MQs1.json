@@ -22235,18 +22235,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9b7a462-6690-11f0-bfe9-06c972f0ca4f",
                 "name": "Artisan Black",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e7336f0a-6690-11f0-93d0-06c972f0ca4f",
                 "name": "Game Life 💜",
-                "seed": 19
+                "seed": 19,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e9b7a462-6690-11f0-bfe9-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e7336f0a-6690-11f0-93d0-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e9b7a462-6690-11f0-bfe9-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e7336f0a-6690-11f0-93d0-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 495,
@@ -22310,18 +22345,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5112c30-6690-11f0-80ea-06c972f0ca4f",
                 "name": "zWim",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e4173156-6e85-11f0-b290-16d27960efb2",
                 "name": "Complex Team",
-                "seed": 299
+                "seed": 299,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e5112c30-6690-11f0-80ea-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e4173156-6e85-11f0-b290-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e5112c30-6690-11f0-80ea-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e4173156-6e85-11f0-b290-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
