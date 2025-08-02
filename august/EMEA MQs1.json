@@ -12770,7 +12770,7 @@
                     "gamerTag": "#2JV8UG9PL"
                 },
                 {
-                    "name": "BC*|Tobi🩵",
+                    "name": "Tobi🍉",
                     "gamerTag": "#9RL29CQUP"
                 },
                 {
@@ -22365,18 +22365,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7ab8ffa4-6990-11f0-aa9f-9ee1c70021ab",
                 "name": "Bananki",
-                "seed": 367
+                "seed": 367,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c9480e96-6d5d-11f0-aa41-2ed1da989a97",
                 "name": "French Dynasty🇫🇷",
-                "seed": 658
+                "seed": 658,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7ab8ffa4-6990-11f0-aa9f-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c9480e96-6d5d-11f0-aa41-2ed1da989a97",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7ab8ffa4-6990-11f0-aa9f-9ee1c70021ab",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c9480e96-6d5d-11f0-aa41-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7ab8ffa4-6990-11f0-aa9f-9ee1c70021ab",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c9480e96-6d5d-11f0-aa41-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 313,
@@ -30663,7 +30713,9 @@
                 "seed": 146
             },
             "opponent2": {
-                "id": null
+                "id": "c9480e96-6d5d-11f0-aa41-2ed1da989a97",
+                "name": "French Dynasty🇫🇷",
+                "seed": 658
             },
             "match_games": []
         },
