@@ -9735,18 +9735,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "17b2a0c8-6692-11f0-a893-06c972f0ca4f",
                 "name": "Los papus",
-                "seed": 121
+                "seed": 121,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1df20f2a-6f32-11f0-9093-261b052702ab",
                 "name": "CipherX_",
-                "seed": 136
+                "seed": 136,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "17b2a0c8-6692-11f0-a893-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1df20f2a-6f32-11f0-9093-261b052702ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "17b2a0c8-6692-11f0-a893-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1df20f2a-6f32-11f0-9093-261b052702ab",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 275,
