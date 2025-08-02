@@ -5210,7 +5210,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "129abade-6ab2-11f0-be15-16d27960efb2",
                 "name": "ほりだしもの",
@@ -5219,7 +5219,8 @@
             "opponent2": {
                 "id": "fbd362e6-668e-11f0-a2fc-06c972f0ca4f",
                 "name": "🐙🐙",
-                "seed": 138
+                "seed": 138,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -6904,7 +6905,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "129abade-6ab2-11f0-be15-16d27960efb2",
+                "name": "ほりだしもの",
+                "seed": 119
             },
             "match_games": []
         },
