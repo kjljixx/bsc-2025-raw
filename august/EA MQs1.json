@@ -7740,18 +7740,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb44057e-668e-11f0-b90b-06c972f0ca4f",
                 "name": "にー族",
-                "seed": 38
+                "seed": 38,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "73208216-69dc-11f0-87ae-1601ae2b404f",
                 "name": "ZeroHour",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "fb44057e-668e-11f0-b90b-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "73208216-69dc-11f0-87ae-1601ae2b404f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fb44057e-668e-11f0-b90b-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "73208216-69dc-11f0-87ae-1601ae2b404f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 189,
@@ -8395,7 +8430,9 @@
                 "seed": 102
             },
             "opponent2": {
-                "id": null
+                "id": "73208216-69dc-11f0-87ae-1601ae2b404f",
+                "name": "ZeroHour",
+                "seed": 91
             },
             "match_games": []
         },
