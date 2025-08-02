@@ -13004,7 +13004,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e24f2856-6d1d-11f0-8f0e-2ed1da989a97",
                 "name": "HRZ | Mars",
@@ -13013,7 +13013,8 @@
             "opponent2": {
                 "id": "530fc4e4-6e1b-11f0-ae70-2ed1da989a97",
                 "name": "Sneaky",
-                "seed": 138
+                "seed": 138,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -15337,7 +15338,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "e24f2856-6d1d-11f0-8f0e-2ed1da989a97",
+                "name": "HRZ | Mars",
+                "seed": 119
             },
             "match_games": []
         },
