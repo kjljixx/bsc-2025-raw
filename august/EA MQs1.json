@@ -5349,18 +5349,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6b478210-6aa4-11f0-80a1-16d27960efb2",
                 "name": "Reinforced Concrete",
-                "seed": 115
+                "seed": 115,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fbd53116-668e-11f0-88d4-06c972f0ca4f",
                 "name": "Venom Vortex",
-                "seed": 142
+                "seed": 142,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "6b478210-6aa4-11f0-80a1-16d27960efb2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fbd53116-668e-11f0-88d4-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6b478210-6aa4-11f0-80a1-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fbd53116-668e-11f0-88d4-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 107,
@@ -6883,7 +6918,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "fbd53116-668e-11f0-88d4-06c972f0ca4f",
+                "name": "Venom Vortex",
+                "seed": 142
             },
             "match_games": []
         },
