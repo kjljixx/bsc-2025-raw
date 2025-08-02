@@ -7085,18 +7085,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb6f8c4e-668e-11f0-9011-06c972f0ca4f",
                 "name": "らーとむ",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7c8f37ae-6a16-11f0-bf34-9ee1c70021ab",
                 "name": "E.P",
-                "seed": 103
+                "seed": 103,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "fb6f8c4e-668e-11f0-9011-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7c8f37ae-6a16-11f0-bf34-9ee1c70021ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fb6f8c4e-668e-11f0-9011-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7c8f37ae-6a16-11f0-bf34-9ee1c70021ab",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 172,
@@ -7380,18 +7415,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ad67e58a-6a5a-11f0-9fd5-2ed1da989a97",
                 "name": "蟾蜍與狗生出御姐",
-                "seed": 46
+                "seed": 46,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c48b3ada-6af7-11f0-b789-2ed1da989a97",
                 "name": "うんち",
-                "seed": 83
+                "seed": 83,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "ad67e58a-6a5a-11f0-9fd5-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c48b3ada-6af7-11f0-b789-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ad67e58a-6a5a-11f0-9fd5-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c48b3ada-6af7-11f0-b789-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 185,
@@ -7475,18 +7545,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f88367b2-668e-11f0-9ef0-06c972f0ca4f",
                 "name": "Z-STAR",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
                 "name": "ちくわの穴",
-                "seed": 102
+                "seed": 102,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "f88367b2-668e-11f0-9ef0-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f88367b2-668e-11f0-9ef0-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 188,
@@ -7974,7 +8079,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb6f8c4e-668e-11f0-9011-06c972f0ca4f",
+                "name": "らーとむ",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
@@ -8104,7 +8211,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
+                "name": "ちくわの穴",
+                "seed": 102
             },
             "opponent2": {
                 "id": null
