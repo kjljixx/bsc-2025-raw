@@ -15517,18 +15517,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
                 "name": "HeavenZ",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "58a0cbfc-6faa-11f0-9604-9e8a8b1b21cf",
                 "name": "Lobotomie",
-                "seed": 111
+                "seed": 111,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "58a0cbfc-6faa-11f0-9604-9e8a8b1b21cf",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "58a0cbfc-6faa-11f0-9604-9e8a8b1b21cf",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 424,
@@ -16378,7 +16413,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
+                "name": "HeavenZ",
+                "seed": 18
             },
             "opponent2": {
                 "id": null
