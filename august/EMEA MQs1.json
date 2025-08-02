@@ -34082,16 +34082,20 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b5e6793e-668f-11f0-9eba-06c972f0ca4f",
                 "name": "Tsunami Academy",
-                "seed": 159
+                "seed": 159,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ef1ea11c-6af0-11f0-84ac-9ee1c70021ab",
                 "name": "Lidl",
-                "seed": 354
+                "seed": 354,
+                "score": 1,
+                "result": "loss"
             },
             "match_games": []
         },
@@ -40529,7 +40533,11 @@
                 "name": "South London F/A",
                 "seed": 415
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "b5e6793e-668f-11f0-9eba-06c972f0ca4f",
+                "name": "Tsunami Academy",
+                "seed": 159
+            },
             "match_games": []
         },
         {
