@@ -19977,11 +19977,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e55efd2a-6690-11f0-a9b2-06c972f0ca4f",
                 "name": "MASTER  TOP",
-                "seed": 32
+                "seed": 32,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "7fca9c62-6b13-11f0-b19c-2ed1da989a97",
@@ -20322,18 +20323,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bda87414-6b3b-11f0-b3b5-16d27960efb2",
                 "name": "OVERFLAG!",
-                "seed": 156
+                "seed": 156,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e1c74ffa-6690-11f0-bec7-06c972f0ca4f",
                 "name": "Jokers🤡",
-                "seed": 92
+                "seed": 92,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "bda87414-6b3b-11f0-b3b5-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e1c74ffa-6690-11f0-bec7-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "bda87414-6b3b-11f0-b3b5-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e1c74ffa-6690-11f0-bec7-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 463,
