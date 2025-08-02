@@ -6509,18 +6509,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "253a35a6-698c-11f0-b9e6-1601ae2b404f",
                 "name": "Khonfia🙋🇩🇪",
-                "seed": 224
+                "seed": 224,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fc2e94ee-6d60-11f0-9202-2ed1da989a97",
                 "name": "Ñam sports",
-                "seed": 289
+                "seed": 289,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "253a35a6-698c-11f0-b9e6-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc2e94ee-6d60-11f0-9202-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "253a35a6-698c-11f0-b9e6-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc2e94ee-6d60-11f0-9202-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -7157,18 +7192,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "007fa9e2-6a65-11f0-9c1c-16d27960efb2",
                 "name": "Supermasiveblaze",
-                "seed": 217
+                "seed": 217,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d52460d8-6962-11f0-a927-2ed1da989a97",
                 "name": "ZoonFoxy",
-                "seed": 296
+                "seed": 296,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "007fa9e2-6a65-11f0-9c1c-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d52460d8-6962-11f0-a927-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "007fa9e2-6a65-11f0-9c1c-16d27960efb2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d52460d8-6962-11f0-a927-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -11430,7 +11500,9 @@
                 "seed": 33
             },
             "opponent2": {
-                "id": null
+                "id": "fc2e94ee-6d60-11f0-9202-2ed1da989a97",
+                "name": "Ñam sports",
+                "seed": 289
             },
             "match_games": []
         },
@@ -11748,7 +11820,9 @@
                 "seed": 40
             },
             "opponent2": {
-                "id": null
+                "id": "d52460d8-6962-11f0-a927-2ed1da989a97",
+                "name": "ZoonFoxy",
+                "seed": 296
             },
             "match_games": []
         },
