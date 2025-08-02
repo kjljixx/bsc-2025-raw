@@ -48049,18 +48049,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b2cf718-6c96-11f0-a8fa-2ed1da989a97",
                 "name": "JWX SQ",
-                "seed": 451
+                "seed": 451,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7fec1952-6ef4-11f0-9924-d62b3f4a36bf",
                 "name": "TwenyWonn",
-                "seed": 702
+                "seed": 702,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0b2cf718-6c96-11f0-a8fa-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7fec1952-6ef4-11f0-9924-d62b3f4a36bf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0b2cf718-6c96-11f0-a8fa-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fec1952-6ef4-11f0-9924-d62b3f4a36bf",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "0b2cf718-6c96-11f0-a8fa-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fec1952-6ef4-11f0-9924-d62b3f4a36bf",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 947,
@@ -49257,7 +49307,9 @@
                 "seed": 638
             },
             "opponent2": {
-                "id": null
+                "id": "0b2cf718-6c96-11f0-a8fa-2ed1da989a97",
+                "name": "JWX SQ",
+                "seed": 451
             },
             "match_games": []
         },
