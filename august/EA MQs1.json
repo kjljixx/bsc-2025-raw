@@ -7420,18 +7420,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "196fb408-6aa9-11f0-91ab-9ee1c70021ab",
                 "name": "Brothers",
-                "seed": 59
+                "seed": 59,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fbb2ce32-668e-11f0-8303-06c972f0ca4f",
                 "name": "LINK NEXUS",
-                "seed": 70
+                "seed": 70,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "196fb408-6aa9-11f0-91ab-9ee1c70021ab",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fbb2ce32-668e-11f0-8303-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "196fb408-6aa9-11f0-91ab-9ee1c70021ab",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fbb2ce32-668e-11f0-8303-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 187,
@@ -7480,18 +7515,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f97909ce-668e-11f0-a141-06c972f0ca4f",
                 "name": "BN最強",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "aca8d794-6b8b-11f0-bd0e-16d27960efb2",
                 "name": "DarkVaLous",
-                "seed": 139
+                "seed": 139,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "f97909ce-668e-11f0-a141-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aca8d794-6b8b-11f0-bd0e-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f97909ce-668e-11f0-a141-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aca8d794-6b8b-11f0-bd0e-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 190,
@@ -8050,7 +8120,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f97909ce-668e-11f0-a141-06c972f0ca4f",
+                "name": "BN最強",
+                "seed": 11
             },
             "opponent2": {
                 "id": null
