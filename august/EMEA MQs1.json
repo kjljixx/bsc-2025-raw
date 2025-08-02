@@ -30004,18 +30004,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ae37dd0e-668f-11f0-92e2-06c972f0ca4f",
                 "name": "JZ",
-                "seed": 217
+                "seed": 217,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b5123eee-668f-11f0-a106-06c972f0ca4f",
                 "name": "TEAM PALEST",
-                "seed": 296
+                "seed": 296,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "ae37dd0e-668f-11f0-92e2-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5123eee-668f-11f0-a106-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ae37dd0e-668f-11f0-92e2-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b5123eee-668f-11f0-a106-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "ae37dd0e-668f-11f0-92e2-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5123eee-668f-11f0-a106-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 559,
@@ -39437,7 +39487,9 @@
                 "seed": 473
             },
             "opponent2": {
-                "id": null
+                "id": "ae37dd0e-668f-11f0-92e2-06c972f0ca4f",
+                "name": "JZ",
+                "seed": 217
             },
             "match_games": []
         },
