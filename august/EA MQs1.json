@@ -9925,18 +9925,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb6f8c4e-668e-11f0-9011-06c972f0ca4f",
                 "name": "らーとむ",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fbc145c0-668e-11f0-9ef2-06c972f0ca4f",
                 "name": "T.rex Legacy",
-                "seed": 39
+                "seed": 39,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "fb6f8c4e-668e-11f0-9011-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbc145c0-668e-11f0-9ef2-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "fb6f8c4e-668e-11f0-9011-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbc145c0-668e-11f0-9ef2-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 215,
