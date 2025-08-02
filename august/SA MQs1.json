@@ -14243,18 +14243,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e3838142-6690-11f0-b022-06c972f0ca4f",
                 "name": "Divine Intervention",
-                "seed": 82
+                "seed": 82,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "18853290-6bbf-11f0-b829-16d27960efb2",
                 "name": "Raspados OG",
-                "seed": 175
+                "seed": 175,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "e3838142-6690-11f0-b022-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18853290-6bbf-11f0-b829-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "e3838142-6690-11f0-b022-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18853290-6bbf-11f0-b829-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 337,
@@ -14333,18 +14368,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8770cdc-6690-11f0-b3ef-06c972f0ca4f",
                 "name": ">Art<",
-                "seed": 122
+                "seed": 122,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0540bacc-6ba8-11f0-8964-2ed1da989a97",
                 "name": "DRAKION ESPORT",
-                "seed": 135
+                "seed": 135,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "e8770cdc-6690-11f0-b3ef-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0540bacc-6ba8-11f0-8964-2ed1da989a97",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "e8770cdc-6690-11f0-b3ef-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0540bacc-6ba8-11f0-8964-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "e8770cdc-6690-11f0-b3ef-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0540bacc-6ba8-11f0-8964-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 339,
@@ -16789,7 +16874,9 @@
                 "seed": 47
             },
             "opponent2": {
-                "id": null
+                "id": "e3838142-6690-11f0-b022-06c972f0ca4f",
+                "name": "Divine Intervention",
+                "seed": 82
             },
             "match_games": []
         },
@@ -16807,7 +16894,9 @@
                 "seed": 250
             },
             "opponent2": {
-                "id": null
+                "id": "0540bacc-6ba8-11f0-8964-2ed1da989a97",
+                "name": "DRAKION ESPORT",
+                "seed": 135
             },
             "match_games": []
         },
