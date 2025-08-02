@@ -39167,18 +39167,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a17fdc38-668f-11f0-8e96-06c972f0ca4f",
                 "name": "LUNAR",
-                "seed": 128
+                "seed": 128,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2591327e-69a6-11f0-a6db-2ed1da989a97",
                 "name": "cursed dynasty",
-                "seed": 384
+                "seed": 384,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "a17fdc38-668f-11f0-8e96-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2591327e-69a6-11f0-a6db-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "a17fdc38-668f-11f0-8e96-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2591327e-69a6-11f0-a6db-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 771,
@@ -39467,18 +39502,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a027d93a-668f-11f0-b6e4-06c972f0ca4f",
                 "name": "F/A Fullclip",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e09828fa-6b38-11f0-8164-2ed1da989a97",
                 "name": "LP Magik",
-                "seed": 249
+                "seed": 249,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "a027d93a-668f-11f0-b6e4-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e09828fa-6b38-11f0-8164-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "a027d93a-668f-11f0-b6e4-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e09828fa-6b38-11f0-8164-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 786,
@@ -39667,18 +39737,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7069a1f0-6cc6-11f0-ac4d-2ed1da989a97",
                 "name": "McLovin's Soldiers",
-                "seed": 457
+                "seed": 457,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d399a6d4-6a2e-11f0-9510-1601ae2b404f",
                 "name": "Team ipads",
-                "seed": 312
+                "seed": 312,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "7069a1f0-6cc6-11f0-ac4d-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d399a6d4-6a2e-11f0-9510-1601ae2b404f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "7069a1f0-6cc6-11f0-ac4d-2ed1da989a97",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d399a6d4-6a2e-11f0-9510-1601ae2b404f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 796,
@@ -41097,18 +41202,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a933ed2a-668f-11f0-8aa5-06c972f0ca4f",
                 "name": "UMC",
-                "seed": 42
+                "seed": 42,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1eb99b7e-6b33-11f0-b20e-9ee1c70021ab",
                 "name": "Amnesia Academy",
-                "seed": 298
+                "seed": 298,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "a933ed2a-668f-11f0-8aa5-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1eb99b7e-6b33-11f0-b20e-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "a933ed2a-668f-11f0-8aa5-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1eb99b7e-6b33-11f0-b20e-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 864,
@@ -41607,18 +41747,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b3adf9da-668f-11f0-bc39-06c972f0ca4f",
                 "name": "Orion",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9fe6b2a2-668f-11f0-bc69-06c972f0ca4f",
                 "name": "JŽL",
-                "seed": 283
+                "seed": 283,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "b3adf9da-668f-11f0-bc39-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9fe6b2a2-668f-11f0-bc69-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "b3adf9da-668f-11f0-bc39-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9fe6b2a2-668f-11f0-bc69-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 886,
@@ -41977,7 +42152,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a027d93a-668f-11f0-b6e4-06c972f0ca4f",
+                "name": "F/A Fullclip",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -42057,7 +42234,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d399a6d4-6a2e-11f0-9510-1601ae2b404f",
+                "name": "Team ipads",
+                "seed": 312
             },
             "opponent2": {
                 "id": null
@@ -42601,7 +42780,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1eb99b7e-6b33-11f0-b20e-9ee1c70021ab",
+                "name": "Amnesia Academy",
+                "seed": 298
             },
             "opponent2": {
                 "id": null
@@ -42779,7 +42960,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b3adf9da-668f-11f0-bc39-06c972f0ca4f",
+                "name": "Orion",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
