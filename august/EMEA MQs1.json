@@ -30322,18 +30322,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a3342318-668f-11f0-a9fe-06c972f0ca4f",
                 "name": "Oregairu",
-                "seed": 201
+                "seed": 201,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d399a6d4-6a2e-11f0-9510-1601ae2b404f",
                 "name": "Team ipads",
-                "seed": 312
+                "seed": 312,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "a3342318-668f-11f0-a9fe-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d399a6d4-6a2e-11f0-9510-1601ae2b404f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a3342318-668f-11f0-a9fe-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d399a6d4-6a2e-11f0-9510-1601ae2b404f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 567,
