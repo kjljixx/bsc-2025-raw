@@ -19707,18 +19707,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
                 "name": "Max Gaming",
-                "seed": 8
+                "seed": 8,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "10402bee-6692-11f0-be77-06c972f0ca4f",
                 "name": "W boys",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "10402bee-6692-11f0-be77-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "10402bee-6692-11f0-be77-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "0f068e8a-6692-11f0-b916-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "10402bee-6692-11f0-be77-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 484,
@@ -19897,7 +19947,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "100c3bfe-6692-11f0-8f8c-06c972f0ca4f",
                 "name": "Cobra Jets",
@@ -19906,7 +19956,8 @@
             "opponent2": {
                 "id": "7a797662-6a36-11f0-8ae2-9ee1c70021ab",
                 "name": "TrustTheProcess",
-                "seed": 98
+                "seed": 98,
+                "forfeit": 1
             },
             "match_games": []
         },
