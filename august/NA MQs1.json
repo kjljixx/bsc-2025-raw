@@ -19892,18 +19892,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "42ca1568-6f73-11f0-a5d1-3a6800809723",
                 "name": "Frigo est gros",
-                "seed": 179
+                "seed": 179,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "16596ef0-6692-11f0-ae29-06c972f0ca4f",
                 "name": "LSP",
-                "seed": 46
+                "seed": 46,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "42ca1568-6f73-11f0-a5d1-3a6800809723",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16596ef0-6692-11f0-ae29-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "42ca1568-6f73-11f0-a5d1-3a6800809723",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16596ef0-6692-11f0-ae29-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 495,
