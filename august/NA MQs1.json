@@ -11899,18 +11899,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0315ee1a-6b4f-11f0-b75c-2ed1da989a97",
                 "name": "Team NAsty",
-                "seed": 92
+                "seed": 92,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a41a0682-6f61-11f0-b7d8-66037d8ec741",
                 "name": "Gambling All In",
-                "seed": 165
+                "seed": 165,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "0315ee1a-6b4f-11f0-b75c-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a41a0682-6f61-11f0-b7d8-66037d8ec741",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "0315ee1a-6b4f-11f0-b75c-2ed1da989a97",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a41a0682-6f61-11f0-b7d8-66037d8ec741",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "0315ee1a-6b4f-11f0-b75c-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a41a0682-6f61-11f0-b7d8-66037d8ec741",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 313,
@@ -15254,7 +15304,9 @@
                 "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "0315ee1a-6b4f-11f0-b75c-2ed1da989a97",
+                "name": "Team NAsty",
+                "seed": 92
             },
             "match_games": []
         },
