@@ -6753,18 +6753,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f8b56b68-668e-11f0-9587-06c972f0ca4f",
                 "name": "Dusk",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
                 "name": "XO FREE AGENTS",
-                "seed": 105
+                "seed": 105,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "f8b56b68-668e-11f0-9587-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f8b56b68-668e-11f0-9587-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 144,
@@ -9057,10 +9092,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9ff72e72-6a25-11f0-832b-9ee1c70021ab",
+                "name": "XO FREE AGENTS",
+                "seed": 105
             },
             "opponent2": {
-                "id": null
+                "id": "d94baca6-6d46-11f0-b067-16d27960efb2",
+                "name": "逆境にスマイル",
+                "seed": 88
             },
             "match_games": []
         },
