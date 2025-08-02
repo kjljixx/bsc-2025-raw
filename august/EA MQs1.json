@@ -4764,18 +4764,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87b878e2-6a4e-11f0-be17-9ee1c70021ab",
                 "name": "TR!AL",
-                "seed": 111
+                "seed": 111,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0c55fc5e-6933-11f0-8791-5a619cf14437",
                 "name": "ゆうりは雑魚い",
-                "seed": 146
+                "seed": 146,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "87b878e2-6a4e-11f0-be17-9ee1c70021ab",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0c55fc5e-6933-11f0-8791-5a619cf14437",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "87b878e2-6a4e-11f0-be17-9ee1c70021ab",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0c55fc5e-6933-11f0-8791-5a619cf14437",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 79,
@@ -6498,7 +6533,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "0c55fc5e-6933-11f0-8791-5a619cf14437",
+                "name": "ゆうりは雑魚い",
+                "seed": 146
             },
             "match_games": []
         },
