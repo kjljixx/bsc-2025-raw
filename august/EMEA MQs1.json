@@ -28745,18 +28745,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a027d93a-668f-11f0-b6e4-06c972f0ca4f",
                 "name": "F/A Fullclip",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d958dcf2-6ad8-11f0-9856-16d27960efb2",
                 "name": "Dominion Elite",
-                "seed": 520
+                "seed": 520,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "a027d93a-668f-11f0-b6e4-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d958dcf2-6ad8-11f0-9856-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a027d93a-668f-11f0-b6e4-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d958dcf2-6ad8-11f0-9856-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 546,
@@ -29465,18 +29500,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a61f1600-668f-11f0-b4f8-06c972f0ca4f",
                 "name": "SR1",
-                "seed": 61
+                "seed": 61,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "06a4e63a-6a28-11f0-a6de-16d27960efb2",
                 "name": "F/A Pringles",
-                "seed": 452
+                "seed": 452,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "a61f1600-668f-11f0-b4f8-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "06a4e63a-6a28-11f0-a6de-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a61f1600-668f-11f0-b4f8-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "06a4e63a-6a28-11f0-a6de-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 582,
@@ -29960,18 +30030,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b3453206-668f-11f0-9d7c-06c972f0ca4f",
                 "name": "LOS NOBLES",
-                "seed": 148
+                "seed": 148,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3286ba76-6d66-11f0-a15a-16d27960efb2",
                 "name": "EL TRIDENTE",
-                "seed": 660
+                "seed": 660,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "b3453206-668f-11f0-9d7c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3286ba76-6d66-11f0-a15a-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "b3453206-668f-11f0-9d7c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3286ba76-6d66-11f0-a15a-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 605,
@@ -33588,7 +33693,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a027d93a-668f-11f0-b6e4-06c972f0ca4f",
+                "name": "F/A Fullclip",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -33876,7 +33983,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "06a4e63a-6a28-11f0-a6de-16d27960efb2",
+                "name": "F/A Pringles",
+                "seed": 452
             },
             "opponent2": {
                 "id": null
