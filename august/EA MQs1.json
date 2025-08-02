@@ -9830,18 +9830,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
                 "name": "High ping🖕",
-                "seed": 107
+                "seed": 107,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "24af6d9e-6d0c-11f0-abd8-16d27960efb2",
                 "name": "WiFi切れても勝ちます",
-                "seed": 86
+                "seed": 86,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24af6d9e-6d0c-11f0-abd8-16d27960efb2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24af6d9e-6d0c-11f0-abd8-16d27960efb2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 225,
@@ -10103,7 +10138,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "fc9af21a-6a2c-11f0-b25d-16d27960efb2",
+                "name": "High ping🖕",
+                "seed": 107
             },
             "match_games": []
         }
