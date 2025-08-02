@@ -17547,18 +17547,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dfc7d35a-6690-11f0-aaa7-06c972f0ca4f",
                 "name": "HGA",
-                "seed": 61
+                "seed": 61,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5f622eae-69d3-11f0-a26f-9ee1c70021ab",
                 "name": "Leitões BR",
-                "seed": 189
+                "seed": 189,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "dfc7d35a-6690-11f0-aaa7-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5f622eae-69d3-11f0-a26f-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "dfc7d35a-6690-11f0-aaa7-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f622eae-69d3-11f0-a26f-9ee1c70021ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "dfc7d35a-6690-11f0-aaa7-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5f622eae-69d3-11f0-a26f-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 403,
@@ -19189,18 +19239,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9b7a462-6690-11f0-bfe9-06c972f0ca4f",
                 "name": "Artisan Black",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e1380692-6690-11f0-b32b-06c972f0ca4f",
                 "name": "Los flappys",
-                "seed": 115
+                "seed": 115,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e9b7a462-6690-11f0-bfe9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e1380692-6690-11f0-b32b-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "e9b7a462-6690-11f0-bfe9-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e1380692-6690-11f0-b32b-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e9b7a462-6690-11f0-bfe9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e1380692-6690-11f0-b32b-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 438,
@@ -19824,7 +19924,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "5f622eae-69d3-11f0-a26f-9ee1c70021ab",
+                "name": "Leitões BR",
+                "seed": 189
             },
             "match_games": []
         },
@@ -20171,10 +20273,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e9b7a462-6690-11f0-bfe9-06c972f0ca4f",
+                "name": "Artisan Black",
+                "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "8014400a-6f38-11f0-aec9-8ec65ad283e0",
+                "name": "Neo Egoist",
+                "seed": 206
             },
             "match_games": []
         },
