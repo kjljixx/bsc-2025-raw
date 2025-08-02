@@ -49430,18 +49430,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "805839b2-6df9-11f0-a0f7-16d27960efb2",
                 "name": "Opp Stoppa",
-                "seed": 489
+                "seed": 489,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cde30a76-6b89-11f0-b01e-9ee1c70021ab",
                 "name": "JAR",
-                "seed": 600
+                "seed": 600,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "805839b2-6df9-11f0-a0f7-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cde30a76-6b89-11f0-b01e-9ee1c70021ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "805839b2-6df9-11f0-a0f7-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cde30a76-6b89-11f0-b01e-9ee1c70021ab",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 969,
@@ -50006,18 +50041,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "339099b4-6ef6-11f0-b4e2-d2f369ca1296",
                 "name": "F/A Angelic Tears",
-                "seed": 519
+                "seed": 519,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "108942ea-6ee7-11f0-a929-ea4a4267d7a2",
                 "name": "LUX LRJ",
-                "seed": 698
+                "seed": 698,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "339099b4-6ef6-11f0-b4e2-d2f369ca1296",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "108942ea-6ee7-11f0-a929-ea4a4267d7a2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "339099b4-6ef6-11f0-b4e2-d2f369ca1296",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "108942ea-6ee7-11f0-a929-ea4a4267d7a2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 982,
@@ -50382,18 +50452,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d9180fe-668f-11f0-8e0c-06c972f0ca4f",
                 "name": "F/A BBC 1",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3b32ab90-6964-11f0-8f5a-9ee1c70021ab",
                 "name": "SMB Esports",
-                "seed": 715
+                "seed": 715,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "9d9180fe-668f-11f0-8e0c-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3b32ab90-6964-11f0-8f5a-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9d9180fe-668f-11f0-8e0c-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3b32ab90-6964-11f0-8f5a-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 992,
@@ -50487,7 +50592,9 @@
                 "seed": 312
             },
             "opponent2": {
-                "id": null
+                "id": "805839b2-6df9-11f0-a0f7-16d27960efb2",
+                "name": "Opp Stoppa",
+                "seed": 489
             },
             "match_games": []
         },
@@ -50616,7 +50723,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "339099b4-6ef6-11f0-b4e2-d2f369ca1296",
+                "name": "F/A Angelic Tears",
+                "seed": 519
             },
             "opponent2": {
                 "id": null
@@ -50704,7 +50813,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b32ab90-6964-11f0-8f5a-9ee1c70021ab",
+                "name": "SMB Esports",
+                "seed": 715
             },
             "opponent2": {
                 "id": null
