@@ -14859,18 +14859,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e618abee-6690-11f0-bc80-06c972f0ca4f",
                 "name": "Reign Sakura",
-                "seed": 71
+                "seed": 71,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e9e453ae-6690-11f0-aee1-06c972f0ca4f",
                 "name": "STORMS",
-                "seed": 186
+                "seed": 186,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "e618abee-6690-11f0-bc80-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e9e453ae-6690-11f0-aee1-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "e618abee-6690-11f0-bc80-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9e453ae-6690-11f0-aee1-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "e618abee-6690-11f0-bc80-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e9e453ae-6690-11f0-aee1-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 341,
@@ -17525,7 +17575,9 @@
                 "seed": 58
             },
             "opponent2": {
-                "id": null
+                "id": "e9e453ae-6690-11f0-aee1-06c972f0ca4f",
+                "name": "STORMS",
+                "seed": 186
             },
             "match_games": []
         },
