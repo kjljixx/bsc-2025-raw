@@ -51127,18 +51127,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dae0e9b6-6f1a-11f0-9ae0-66037d8ec741",
                 "name": "F/A Rentner",
-                "seed": 716
+                "seed": 716,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d6b94476-6f1c-11f0-bf68-d21b0379af73",
                 "name": "Idk",
-                "seed": 533
+                "seed": 533,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dae0e9b6-6f1a-11f0-9ae0-66037d8ec741",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6b94476-6f1c-11f0-bf68-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "dae0e9b6-6f1a-11f0-9ae0-66037d8ec741",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6b94476-6f1c-11f0-bf68-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1001,
