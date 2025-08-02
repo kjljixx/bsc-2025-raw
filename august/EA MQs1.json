@@ -7345,18 +7345,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa3946ee-668e-11f0-ab98-06c972f0ca4f",
                 "name": "Demon Dougs",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "efd7403c-6a14-11f0-9623-16d27960efb2",
                 "name": "RAZE",
-                "seed": 71
+                "seed": 71,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "fa3946ee-668e-11f0-ab98-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efd7403c-6a14-11f0-9623-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fa3946ee-668e-11f0-ab98-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efd7403c-6a14-11f0-9623-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 171,
@@ -7615,18 +7650,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "facb1a2e-668e-11f0-a1db-06c972f0ca4f",
                 "name": "JKS",
-                "seed": 35
+                "seed": 35,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4ccc2bb2-6e21-11f0-81ab-16d27960efb2",
                 "name": "ケツデカ高校尻アナ部",
-                "seed": 94
+                "seed": 94,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "facb1a2e-668e-11f0-a1db-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ccc2bb2-6e21-11f0-81ab-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "facb1a2e-668e-11f0-a1db-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ccc2bb2-6e21-11f0-81ab-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 181,
@@ -8426,7 +8496,9 @@
                 "seed": 135
             },
             "opponent2": {
-                "id": null
+                "id": "fa3946ee-668e-11f0-ab98-06c972f0ca4f",
+                "name": "Demon Dougs",
+                "seed": 58
             },
             "match_games": []
         },
