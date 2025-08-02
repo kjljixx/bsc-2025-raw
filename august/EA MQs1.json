@@ -7045,18 +7045,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f9fbae60-668e-11f0-919d-06c972f0ca4f",
                 "name": "帰ってきた特別支援学級",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
                 "name": "天才只是見owo的門檻",
-                "seed": 135
+                "seed": 135,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "f9fbae60-668e-11f0-919d-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f9fbae60-668e-11f0-919d-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 170,
@@ -8098,7 +8133,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6c9379e8-6b6d-11f0-b150-9ee1c70021ab",
+                "name": "天才只是見owo的門檻",
+                "seed": 135
             },
             "opponent2": {
                 "id": null
