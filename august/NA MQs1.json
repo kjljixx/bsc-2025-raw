@@ -14817,7 +14817,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1780be28-6692-11f0-a945-06c972f0ca4f",
                 "name": "The Other Guys",
@@ -14826,7 +14826,8 @@
             "opponent2": {
                 "id": "cc5dc442-6b58-11f0-9a12-1601ae2b404f",
                 "name": "Sakai is buns",
-                "seed": 96
+                "seed": 96,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -15127,7 +15128,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1239633e-6692-11f0-8394-06c972f0ca4f",
                 "name": "YSL GAMING",
@@ -15136,7 +15137,8 @@
             "opponent2": {
                 "id": "eb51dafc-6a61-11f0-80a3-1601ae2b404f",
                 "name": "NAVI | JR",
-                "seed": 169
+                "seed": 169,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -15167,7 +15169,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "17912ee8-6692-11f0-89fb-06c972f0ca4f",
                 "name": "Chicken Gaming",
@@ -15176,7 +15178,8 @@
             "opponent2": {
                 "id": "171da1ee-6692-11f0-9811-06c972f0ca4f",
                 "name": "Team Baited",
-                "seed": 68
+                "seed": 68,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -15342,18 +15345,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16a9c238-6692-11f0-8484-06c972f0ca4f",
                 "name": "Queremos Unas Güeras",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "48423e4a-6a6d-11f0-a7c8-16d27960efb2",
                 "name": "Tralaleritos",
-                "seed": 124
+                "seed": 124,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "16a9c238-6692-11f0-8484-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48423e4a-6a6d-11f0-a7c8-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "16a9c238-6692-11f0-8484-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48423e4a-6a6d-11f0-a7c8-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 410,
@@ -15522,11 +15560,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4e333058-6f80-11f0-af2c-9e8a8b1b21cf",
                 "name": "Storm",
-                "seed": 194
+                "seed": 194,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "1782c588-6692-11f0-bf04-06c972f0ca4f",
@@ -15562,7 +15601,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "17add82c-6692-11f0-916a-06c972f0ca4f",
                 "name": "The Shibas",
@@ -15571,7 +15610,8 @@
             "opponent2": {
                 "id": "b2fa96d4-6ca1-11f0-ae69-16d27960efb2",
                 "name": "Sm/OverEyes",
-                "seed": 95
+                "seed": 95,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -15812,18 +15852,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "170d843a-6692-11f0-b4cf-06c972f0ca4f",
                 "name": "Zenith 0",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e24f2856-6d1d-11f0-8f0e-2ed1da989a97",
                 "name": "HRZ | Mars",
-                "seed": 119
+                "seed": 119,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "170d843a-6692-11f0-b4cf-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e24f2856-6d1d-11f0-8f0e-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "170d843a-6692-11f0-b4cf-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e24f2856-6d1d-11f0-8f0e-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 430,
@@ -15872,11 +15947,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4ca3feaa-699c-11f0-acab-16d27960efb2",
                 "name": "Plkzeæ | 😴☘️",
-                "seed": 215
+                "seed": 215,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "6fcef66c-69df-11f0-8bdb-2ed1da989a97",
@@ -15912,7 +15988,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "68504d9c-6f51-11f0-ba55-8ec65ad283e0",
                 "name": "Broke and a dream",
@@ -15921,7 +15997,8 @@
             "opponent2": {
                 "id": "162a2758-6692-11f0-bbc6-06c972f0ca4f",
                 "name": "TAN TAN",
-                "seed": 67
+                "seed": 67,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -16047,7 +16124,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "106eda8e-6692-11f0-9195-06c972f0ca4f",
                 "name": "Chambeadores NA",
@@ -16056,7 +16133,8 @@
             "opponent2": {
                 "id": "7bfb0c1e-6f5c-11f0-abf9-261b052702ab",
                 "name": "Rise Nation",
-                "seed": 110
+                "seed": 110,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -16087,7 +16165,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "155cc38a-6692-11f0-9253-06c972f0ca4f",
                 "name": "Natare Six",
@@ -16096,7 +16174,8 @@
             "opponent2": {
                 "id": "4742f300-6b02-11f0-967d-2ed1da989a97",
                 "name": "sc progect",
-                "seed": 134
+                "seed": 134,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -16127,11 +16206,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "164f8926-6692-11f0-998f-06c972f0ca4f",
                 "name": "Elites of Doug",
-                "seed": 27
+                "seed": 27,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "aaeb41c8-69d6-11f0-ae2f-16d27960efb2",
@@ -16167,18 +16247,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "15c53528-6692-11f0-9e40-06c972f0ca4f",
                 "name": "Ping Warriors",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07b657a2-6a82-11f0-9f01-1601ae2b404f",
                 "name": "Team Capi",
-                "seed": 118
+                "seed": 118,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "15c53528-6692-11f0-9e40-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07b657a2-6a82-11f0-9f01-1601ae2b404f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "15c53528-6692-11f0-9e40-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07b657a2-6a82-11f0-9f01-1601ae2b404f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 446,
@@ -16227,7 +16342,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "17281b9c-6692-11f0-a04a-06c972f0ca4f",
                 "name": "Evangelion",
@@ -16236,7 +16351,8 @@
             "opponent2": {
                 "id": "e1efc0a2-6960-11f0-8df4-16d27960efb2",
                 "name": "NC |GOD",
-                "seed": 171
+                "seed": 171,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -16445,7 +16561,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "16a9c238-6692-11f0-8484-06c972f0ca4f",
+                "name": "Queremos Unas Güeras",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
@@ -16607,7 +16725,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "170d843a-6692-11f0-b4cf-06c972f0ca4f",
+                "name": "Zenith 0",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
@@ -16687,7 +16807,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "106eda8e-6692-11f0-9195-06c972f0ca4f",
+                "name": "Chambeadores NA",
+                "seed": 19
             },
             "opponent2": {
                 "id": null
@@ -16703,7 +16825,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "155cc38a-6692-11f0-9253-06c972f0ca4f",
+                "name": "Natare Six",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
@@ -16719,7 +16843,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "aaeb41c8-69d6-11f0-ae2f-16d27960efb2",
+                "name": "﷽ ﷽ ﷽ ﷽ ﷽ ﷽ ﷽ ﷽ ﷽ ﷽ ﷽",
+                "seed": 155
             },
             "opponent2": {
                 "id": null
@@ -16735,7 +16861,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "15c53528-6692-11f0-9e40-06c972f0ca4f",
+                "name": "Ping Warriors",
+                "seed": 11
             },
             "opponent2": {
                 "id": null
