@@ -8422,18 +8422,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6ef54332-6a88-11f0-b70f-1601ae2b404f",
                 "name": "✓",
-                "seed": 254
+                "seed": 254,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f59b0820-69a4-11f0-a828-16d27960efb2",
                 "name": "MONUDOS_503",
-                "seed": 259
+                "seed": 259,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "6ef54332-6a88-11f0-b70f-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f59b0820-69a4-11f0-a828-16d27960efb2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6ef54332-6a88-11f0-b70f-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f59b0820-69a4-11f0-a828-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 195,
@@ -9490,18 +9525,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "14d339e4-6692-11f0-aabc-06c972f0ca4f",
                 "name": "Prestiges",
-                "seed": 65
+                "seed": 65,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0cbcace0-6aac-11f0-88ea-1601ae2b404f",
                 "name": "STM",
-                "seed": 192
+                "seed": 192,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "14d339e4-6692-11f0-aabc-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0cbcace0-6aac-11f0-88ea-1601ae2b404f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "14d339e4-6692-11f0-aabc-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0cbcace0-6aac-11f0-88ea-1601ae2b404f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 261,
@@ -9590,18 +9660,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "167ce290-6692-11f0-817e-06c972f0ca4f",
                 "name": "DarkStars",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "61603950-6b70-11f0-9a13-16d27960efb2",
                 "name": "Rainbow Shaggy",
-                "seed": 241
+                "seed": 241,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "167ce290-6692-11f0-817e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61603950-6b70-11f0-9a13-16d27960efb2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "167ce290-6692-11f0-817e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61603950-6b70-11f0-9a13-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 266,
@@ -9650,18 +9755,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "142f1fe4-6692-11f0-bb6f-06c972f0ca4f",
                 "name": "Bingle , Bean, Bud",
-                "seed": 80
+                "seed": 80,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "602e6ba2-6c23-11f0-b820-16d27960efb2",
                 "name": "Funnydog",
-                "seed": 177
+                "seed": 177,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "142f1fe4-6692-11f0-bb6f-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "602e6ba2-6c23-11f0-b820-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "142f1fe4-6692-11f0-bb6f-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "602e6ba2-6c23-11f0-b820-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 269,
@@ -9690,7 +9830,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "0fd90fe0-6692-11f0-a3bb-06c972f0ca4f",
                 "name": "Sigmas",
@@ -9945,18 +10085,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f59dc02-6692-11f0-a8be-06c972f0ca4f",
                 "name": "Triunfadores",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0633de98-69e4-11f0-9afd-1601ae2b404f",
                 "name": "0-11",
-                "seed": 248
+                "seed": 248,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "0f59dc02-6692-11f0-a8be-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0633de98-69e4-11f0-9afd-1601ae2b404f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "0f59dc02-6692-11f0-a8be-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0633de98-69e4-11f0-9afd-1601ae2b404f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 282,
@@ -10140,7 +10315,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "109cf1e4-6692-11f0-9d97-06c972f0ca4f",
                 "name": "Red 5",
@@ -10300,18 +10475,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "145e995e-6692-11f0-8d4d-06c972f0ca4f",
                 "name": "Quebec Elite",
-                "seed": 13
+                "seed": 13,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0ee14e48-6d92-11f0-bfbc-16d27960efb2",
                 "name": "100 ping",
-                "seed": 244
+                "seed": 244,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "145e995e-6692-11f0-8d4d-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0ee14e48-6d92-11f0-bfbc-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "145e995e-6692-11f0-8d4d-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0ee14e48-6d92-11f0-bfbc-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 298,
@@ -10576,18 +10786,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f65b572-6692-11f0-ae26-06c972f0ca4f",
                 "name": "Fraud Squad",
-                "seed": 37
+                "seed": 37,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "82dbcdb0-6a53-11f0-9e38-2ed1da989a97",
                 "name": "balls",
-                "seed": 220
+                "seed": 220,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "0f65b572-6692-11f0-ae26-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "82dbcdb0-6a53-11f0-9e38-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "0f65b572-6692-11f0-ae26-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "82dbcdb0-6a53-11f0-9e38-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 312,
@@ -11152,18 +11397,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
                 "name": "HeavenZ",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "52378bba-69a2-11f0-bad7-2ed1da989a97",
                 "name": "DREAMPRO",
-                "seed": 239
+                "seed": 239,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "52378bba-69a2-11f0-bad7-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "52378bba-69a2-11f0-bad7-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 334,
@@ -11587,13 +11867,17 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "11825d1a-6692-11f0-a639-06c972f0ca4f",
                 "name": "Clutch Or Cope🏆🤡",
                 "seed": 3
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "6ef54332-6a88-11f0-b70f-1601ae2b404f",
+                "name": "✓",
+                "seed": 254
+            },
             "match_games": []
         },
         {
@@ -11623,18 +11907,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "15410a64-6692-11f0-9047-06c972f0ca4f",
                 "name": "Game Over",
-                "seed": 62
+                "seed": 62,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "68504d9c-6f51-11f0-ba55-8ec65ad283e0",
                 "name": "Broke and a dream",
-                "seed": 195
+                "seed": 195,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "15410a64-6692-11f0-9047-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "68504d9c-6f51-11f0-ba55-8ec65ad283e0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "15410a64-6692-11f0-9047-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "68504d9c-6f51-11f0-ba55-8ec65ad283e0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 356,
@@ -11838,18 +12157,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "126f5a70-6692-11f0-9633-06c972f0ca4f",
                 "name": "Tacks",
-                "seed": 78
+                "seed": 78,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "42ca1568-6f73-11f0-a5d1-3a6800809723",
                 "name": "Frigo est gros",
-                "seed": 179
+                "seed": 179,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "126f5a70-6692-11f0-9633-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "42ca1568-6f73-11f0-a5d1-3a6800809723",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "126f5a70-6692-11f0-9633-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "42ca1568-6f73-11f0-a5d1-3a6800809723",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 365,
@@ -11938,18 +12292,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "155cc38a-6692-11f0-9253-06c972f0ca4f",
                 "name": "Natare Six",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4e1eb4cc-6f60-11f0-9f45-1604b8deae2f",
                 "name": "Ren",
-                "seed": 251
+                "seed": 251,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "155cc38a-6692-11f0-9253-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4e1eb4cc-6f60-11f0-9f45-1604b8deae2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "155cc38a-6692-11f0-9253-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4e1eb4cc-6f60-11f0-9f45-1604b8deae2f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 370,
@@ -12429,7 +12818,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "167ce290-6692-11f0-817e-06c972f0ca4f",
+                "name": "DarkStars",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
@@ -12557,10 +12948,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0f59dc02-6692-11f0-a8be-06c972f0ca4f",
+                "name": "Triunfadores",
+                "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "8dfccdc2-6de9-11f0-83d1-2ed1da989a97",
+                "name": "Mango Munch",
+                "seed": 137
             },
             "match_games": []
         },
@@ -12685,7 +13080,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "145e995e-6692-11f0-8d4d-06c972f0ca4f",
+                "name": "Quebec Elite",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
@@ -12797,7 +13194,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0f65b572-6692-11f0-ae26-06c972f0ca4f",
+                "name": "Fraud Squad",
+                "seed": 37
             },
             "opponent2": {
                 "id": null
@@ -12977,7 +13376,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0f2c161e-6692-11f0-915b-06c972f0ca4f",
+                "name": "HeavenZ",
+                "seed": 18
             },
             "opponent2": {
                 "id": null
@@ -13155,7 +13556,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "68504d9c-6f51-11f0-ba55-8ec65ad283e0",
+                "name": "Broke and a dream",
+                "seed": 195
             },
             "opponent2": {
                 "id": null
@@ -13269,7 +13672,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "155cc38a-6692-11f0-9253-06c972f0ca4f",
+                "name": "Natare Six",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
