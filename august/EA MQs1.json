@@ -11172,18 +11172,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb6fcf92-668e-11f0-82b0-06c972f0ca4f",
                 "name": "Fラン",
-                "seed": 62
+                "seed": 62,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4ccc2bb2-6e21-11f0-81ab-16d27960efb2",
                 "name": "ケツデカ高校尻アナ部",
-                "seed": 94
+                "seed": 94,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fb6fcf92-668e-11f0-82b0-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ccc2bb2-6e21-11f0-81ab-16d27960efb2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fb6fcf92-668e-11f0-82b0-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ccc2bb2-6e21-11f0-81ab-16d27960efb2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 238,
