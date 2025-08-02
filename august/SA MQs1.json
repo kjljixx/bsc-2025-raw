@@ -20088,18 +20088,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9e52798-6690-11f0-8bc9-06c972f0ca4f",
                 "name": "Strike Sports",
-                "seed": 17
+                "seed": 17,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e29d3f34-6690-11f0-b765-06c972f0ca4f",
                 "name": "Teste drive",
-                "seed": 48
+                "seed": 48,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e9e52798-6690-11f0-8bc9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e29d3f34-6690-11f0-b765-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "e9e52798-6690-11f0-8bc9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e29d3f34-6690-11f0-b765-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 453,
@@ -21220,7 +21255,9 @@
                 "seed": 80
             },
             "opponent2": {
-                "id": null
+                "id": "e9e52798-6690-11f0-8bc9-06c972f0ca4f",
+                "name": "Strike Sports",
+                "seed": 17
             },
             "match_games": []
         },
