@@ -20472,18 +20472,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "645c1b8c-6af9-11f0-9cc8-1601ae2b404f",
                 "name": "Team Necro F/A",
-                "seed": 131
+                "seed": 131,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "38523038-6d5d-11f0-8d59-2ed1da989a97",
                 "name": "Agorasim3",
-                "seed": 190
+                "seed": 190,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "645c1b8c-6af9-11f0-9cc8-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "38523038-6d5d-11f0-8d59-2ed1da989a97",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "645c1b8c-6af9-11f0-9cc8-1601ae2b404f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "38523038-6d5d-11f0-8d59-2ed1da989a97",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 474,
@@ -20828,7 +20863,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "38523038-6d5d-11f0-8d59-2ed1da989a97",
+                "name": "Agorasim3",
+                "seed": 190
             },
             "opponent2": {
                 "id": null
