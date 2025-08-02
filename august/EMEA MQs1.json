@@ -14206,7 +14206,7 @@
             "name": "K.D.P",
             "players": [
                 {
-                    "name": "montañoo☠️",
+                    "name": "KDP|MONTAÑO☠️",
                     "gamerTag": "#LLGRYGLGR"
                 },
                 {
@@ -19584,18 +19584,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b6ee9be0-668f-11f0-b077-06c972f0ca4f",
                 "name": "South London F/A",
-                "seed": 415
+                "seed": 415,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7f917c38-6bc3-11f0-ae7e-16d27960efb2",
                 "name": "PorKoalasTodo",
-                "seed": 610
+                "seed": 610,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "b6ee9be0-668f-11f0-b077-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f917c38-6bc3-11f0-ae7e-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b6ee9be0-668f-11f0-b077-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f917c38-6bc3-11f0-ae7e-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 279,
@@ -20540,18 +20575,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4cf44dac-6a36-11f0-900e-2ed1da989a97",
                 "name": "Talents",
-                "seed": 314
+                "seed": 314,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "895d7a08-6963-11f0-9583-9ee1c70021ab",
                 "name": "HD|E-sports",
-                "seed": 711
+                "seed": 711,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "4cf44dac-6a36-11f0-900e-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "895d7a08-6963-11f0-9583-9ee1c70021ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4cf44dac-6a36-11f0-900e-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "895d7a08-6963-11f0-9583-9ee1c70021ab",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 333,
@@ -26349,7 +26419,9 @@
                 "seed": 98
             },
             "opponent2": {
-                "id": null
+                "id": "b6ee9be0-668f-11f0-b077-06c972f0ca4f",
+                "name": "South London F/A",
+                "seed": 415
             },
             "match_games": []
         },
@@ -26843,7 +26915,9 @@
                 "seed": 199
             },
             "opponent2": {
-                "id": null
+                "id": "4cf44dac-6a36-11f0-900e-2ed1da989a97",
+                "name": "Talents",
+                "seed": 314
             },
             "match_games": []
         },
