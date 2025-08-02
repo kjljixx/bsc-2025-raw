@@ -20583,18 +20583,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e96a5928-6690-11f0-9070-06c972f0ca4f",
                 "name": "Renegados",
-                "seed": 146
+                "seed": 146,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e3838142-6690-11f0-b022-06c972f0ca4f",
                 "name": "Divine Intervention",
-                "seed": 82
+                "seed": 82,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e96a5928-6690-11f0-9070-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3838142-6690-11f0-b022-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "e96a5928-6690-11f0-9070-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3838142-6690-11f0-b022-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 469,
@@ -20623,18 +20658,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e995fd9e-6690-11f0-a248-06c972f0ca4f",
                 "name": "DIRETÓRIA F/A",
-                "seed": 103
+                "seed": 103,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfd67b30-6e4c-11f0-b6ad-16d27960efb2",
                 "name": "Vessete",
-                "seed": 295
+                "seed": 295,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e995fd9e-6690-11f0-a248-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfd67b30-6e4c-11f0-b6ad-16d27960efb2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "e995fd9e-6690-11f0-a248-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfd67b30-6e4c-11f0-b6ad-16d27960efb2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 471,
@@ -21142,7 +21212,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "e96a5928-6690-11f0-9070-06c972f0ca4f",
+                "name": "Renegados",
+                "seed": 146
             },
             "match_games": []
         },
