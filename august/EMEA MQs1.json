@@ -42048,18 +42048,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "50352b28-6a0c-11f0-92ca-2ed1da989a97",
                 "name": "Bboss",
-                "seed": 405
+                "seed": 405,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b34c7d5e-668f-11f0-9776-06c972f0ca4f",
                 "name": "LosKiflakos",
-                "seed": 149
+                "seed": 149,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "50352b28-6a0c-11f0-92ca-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b34c7d5e-668f-11f0-9776-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "50352b28-6a0c-11f0-92ca-2ed1da989a97",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b34c7d5e-668f-11f0-9776-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "50352b28-6a0c-11f0-92ca-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b34c7d5e-668f-11f0-9776-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 831,
@@ -46061,7 +46111,11 @@
                 "name": "Idk",
                 "seed": 533
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "50352b28-6a0c-11f0-92ca-2ed1da989a97",
+                "name": "Bboss",
+                "seed": 405
+            },
             "match_games": []
         },
         {
