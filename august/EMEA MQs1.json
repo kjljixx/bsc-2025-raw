@@ -51387,18 +51387,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b6d0b922-668f-11f0-87e6-06c972f0ca4f",
                 "name": "VERACITY",
-                "seed": 51
+                "seed": 51,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "90d27688-6f19-11f0-938c-7aebd65a6bec",
                 "name": "70 Ping",
-                "seed": 531
+                "seed": 531,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b6d0b922-668f-11f0-87e6-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "90d27688-6f19-11f0-938c-7aebd65a6bec",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "b6d0b922-668f-11f0-87e6-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "90d27688-6f19-11f0-938c-7aebd65a6bec",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "b6d0b922-668f-11f0-87e6-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "90d27688-6f19-11f0-938c-7aebd65a6bec",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1007,
@@ -51462,18 +51512,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b32ab90-6964-11f0-8f5a-9ee1c70021ab",
                 "name": "SMB Esports",
-                "seed": 715
+                "seed": 715,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b6ea5f9e-668f-11f0-ae35-06c972f0ca4f",
                 "name": "NSW",
-                "seed": 107
+                "seed": 107,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3b32ab90-6964-11f0-8f5a-9ee1c70021ab",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b6ea5f9e-668f-11f0-ae35-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "3b32ab90-6964-11f0-8f5a-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b6ea5f9e-668f-11f0-ae35-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "3b32ab90-6964-11f0-8f5a-9ee1c70021ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b6ea5f9e-668f-11f0-ae35-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         }
     ]
 }
