@@ -20254,18 +20254,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "32b3103e-6eb6-11f0-8ac2-16d27960efb2",
                 "name": "HYDRA",
-                "seed": 501
+                "seed": 501,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "86b569b4-6adf-11f0-866b-9ee1c70021ab",
                 "name": "BSK",
-                "seed": 524
+                "seed": 524,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "32b3103e-6eb6-11f0-8ac2-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86b569b4-6adf-11f0-866b-9ee1c70021ab",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "32b3103e-6eb6-11f0-8ac2-16d27960efb2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "86b569b4-6adf-11f0-866b-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "32b3103e-6eb6-11f0-8ac2-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "86b569b4-6adf-11f0-866b-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 227,
@@ -22007,18 +22057,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "21ed1722-6b23-11f0-bf93-2ed1da989a97",
                 "name": "🌬️ FRØZEN ❄️",
-                "seed": 370
+                "seed": 370,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "98d80ad6-694d-11f0-ba5c-9ee1c70021ab",
                 "name": "STM ESPORT",
-                "seed": 655
+                "seed": 655,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "21ed1722-6b23-11f0-bf93-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "98d80ad6-694d-11f0-ba5c-9ee1c70021ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "21ed1722-6b23-11f0-bf93-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "98d80ad6-694d-11f0-ba5c-9ee1c70021ab",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 297,
@@ -23489,18 +23574,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "db442042-6adf-11f0-9c1c-16d27960efb2",
                 "name": "Vulkane",
-                "seed": 346
+                "seed": 346,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "384741c4-6956-11f0-8255-9ee1c70021ab",
                 "name": "I 3 PALLIX",
-                "seed": 679
+                "seed": 679,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "db442042-6adf-11f0-9c1c-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "384741c4-6956-11f0-8255-9ee1c70021ab",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "db442042-6adf-11f0-9c1c-16d27960efb2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "384741c4-6956-11f0-8255-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "db442042-6adf-11f0-9c1c-16d27960efb2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "384741c4-6956-11f0-8255-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 353,
@@ -29861,7 +29996,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "86b569b4-6adf-11f0-866b-9ee1c70021ab",
+                "name": "BSK",
+                "seed": 524
             },
             "match_games": []
         },
@@ -30555,7 +30692,9 @@
                 "seed": 143
             },
             "opponent2": {
-                "id": null
+                "id": "21ed1722-6b23-11f0-bf93-2ed1da989a97",
+                "name": "🌬️ FRØZEN ❄️",
+                "seed": 370
             },
             "match_games": []
         },
@@ -31111,7 +31250,9 @@
                 "seed": 167
             },
             "opponent2": {
-                "id": null
+                "id": "384741c4-6956-11f0-8255-9ee1c70021ab",
+                "name": "I 3 PALLIX",
+                "seed": 679
             },
             "match_games": []
         },
