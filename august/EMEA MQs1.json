@@ -46156,18 +46156,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "591a3b5e-6f73-11f0-9e5f-ea4a4267d7a2",
                 "name": "Atlantic E-sport",
-                "seed": 728
+                "seed": 728,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cde30a76-6b89-11f0-b01e-9ee1c70021ab",
                 "name": "JAR",
-                "seed": 600
+                "seed": 600,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "591a3b5e-6f73-11f0-9e5f-ea4a4267d7a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cde30a76-6b89-11f0-b01e-9ee1c70021ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "591a3b5e-6f73-11f0-9e5f-ea4a4267d7a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cde30a76-6b89-11f0-b01e-9ee1c70021ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "591a3b5e-6f73-11f0-9e5f-ea4a4267d7a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cde30a76-6b89-11f0-b01e-9ee1c70021ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 913,
