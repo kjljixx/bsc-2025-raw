@@ -18156,18 +18156,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d2b5323e-6b86-11f0-8b12-1601ae2b404f",
                 "name": "🦗🦗🦗",
-                "seed": 260
+                "seed": 260,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "17912ee8-6692-11f0-89fb-06c972f0ca4f",
                 "name": "Chicken Gaming",
-                "seed": 61
+                "seed": 61,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d2b5323e-6b86-11f0-8b12-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17912ee8-6692-11f0-89fb-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d2b5323e-6b86-11f0-8b12-1601ae2b404f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17912ee8-6692-11f0-89fb-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 458,
@@ -18702,7 +18737,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d2b5323e-6b86-11f0-8b12-1601ae2b404f",
+                "name": "🦗🦗🦗",
+                "seed": 260
             },
             "opponent2": {
                 "id": null
