@@ -32848,18 +32848,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b4feae24-668f-11f0-b870-06c972f0ca4f",
                 "name": "Dark Wolfs",
-                "seed": 255
+                "seed": 255,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a184e57a-668f-11f0-bdb6-06c972f0ca4f",
                 "name": "LuxisGoHard",
-                "seed": 258
+                "seed": 258,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "b4feae24-668f-11f0-b870-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a184e57a-668f-11f0-bdb6-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "b4feae24-668f-11f0-b870-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a184e57a-668f-11f0-bdb6-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 643,
@@ -38922,7 +38957,9 @@
                 "seed": 511
             },
             "opponent2": {
-                "id": null
+                "id": "b4feae24-668f-11f0-b870-06c972f0ca4f",
+                "name": "Dark Wolfs",
+                "seed": 255
             },
             "match_games": []
         },
