@@ -50056,18 +50056,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c03fb540-6ae9-11f0-ae01-16d27960efb2",
                 "name": "F/A GIOLI",
-                "seed": 530
+                "seed": 530,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "abb557aa-668f-11f0-8117-06c972f0ca4f",
                 "name": "LTX team",
-                "seed": 210
+                "seed": 210,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "c03fb540-6ae9-11f0-ae01-16d27960efb2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "abb557aa-668f-11f0-8117-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c03fb540-6ae9-11f0-ae01-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "abb557aa-668f-11f0-8117-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c03fb540-6ae9-11f0-ae01-16d27960efb2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "abb557aa-668f-11f0-8117-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 981,
@@ -50882,7 +50932,9 @@
                 "seed": 79
             },
             "opponent2": {
-                "id": null
+                "id": "c03fb540-6ae9-11f0-ae01-16d27960efb2",
+                "name": "F/A GIOLI",
+                "seed": 530
             },
             "match_games": []
         },
