@@ -41212,18 +41212,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b2cf718-6c96-11f0-a8fa-2ed1da989a97",
                 "name": "JWX SQ",
-                "seed": 451
+                "seed": 451,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c0729664-6a43-11f0-9602-2ed1da989a97",
                 "name": "Forza|RO",
-                "seed": 318
+                "seed": 318,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "0b2cf718-6c96-11f0-a8fa-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0729664-6a43-11f0-9602-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "0b2cf718-6c96-11f0-a8fa-2ed1da989a97",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0729664-6a43-11f0-9602-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 868,
@@ -42598,7 +42633,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0b2cf718-6c96-11f0-a8fa-2ed1da989a97",
+                "name": "JWX SQ",
+                "seed": 451
             },
             "opponent2": {
                 "id": null
