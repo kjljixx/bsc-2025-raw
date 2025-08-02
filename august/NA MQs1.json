@@ -19657,18 +19657,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f59dc02-6692-11f0-a8be-06c972f0ca4f",
                 "name": "Triunfadores",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "171c4a88-6692-11f0-9cd9-06c972f0ca4f",
                 "name": "Luo Li from TBHX 😛",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "0f59dc02-6692-11f0-a8be-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "171c4a88-6692-11f0-9cd9-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0f59dc02-6692-11f0-a8be-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "171c4a88-6692-11f0-9cd9-06c972f0ca4f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 485,
