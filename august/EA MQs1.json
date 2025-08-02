@@ -9485,18 +9485,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb07eb20-668e-11f0-b39b-06c972f0ca4f",
                 "name": "かむかむれもん",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2e5c3f7a-6b9f-11f0-bf76-2ed1da989a97",
                 "name": "alt+F4",
-                "seed": 82
+                "seed": 82,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "fb07eb20-668e-11f0-b39b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2e5c3f7a-6b9f-11f0-bf76-2ed1da989a97",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "fb07eb20-668e-11f0-b39b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2e5c3f7a-6b9f-11f0-bf76-2ed1da989a97",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 213,
@@ -9685,18 +9720,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
                 "name": "ちくわの穴",
-                "seed": 102
+                "seed": 102,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "73208216-69dc-11f0-87ae-1601ae2b404f",
                 "name": "ZeroHour",
-                "seed": 91
+                "seed": 91,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73208216-69dc-11f0-87ae-1601ae2b404f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "61404bb4-6eee-11f0-9e0e-d62b3f4a36bf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73208216-69dc-11f0-87ae-1601ae2b404f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 223,
