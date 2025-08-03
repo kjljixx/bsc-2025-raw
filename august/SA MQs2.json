@@ -4443,18 +4443,83 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07c88574-6fcf-11f0-b03f-d21b0379af73",
                 "name": "DIRETÓRIA F/A",
-                "seed": 25
+                "seed": 25,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
                 "name": "Agorasim3",
-                "seed": 29
+                "seed": 29,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "07c88574-6fcf-11f0-b03f-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "07c88574-6fcf-11f0-b03f-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "07c88574-6fcf-11f0-b03f-d21b0379af73",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "07c88574-6fcf-11f0-b03f-d21b0379af73",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 51,
