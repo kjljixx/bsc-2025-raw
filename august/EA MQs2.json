@@ -3698,18 +3698,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
                 "name": "はぬかだダディダディ",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "81c92046-6f6a-11f0-8987-d21b0379af73",
                 "name": "ケツデカ高校尻アナ部",
-                "seed": 28
+                "seed": 28,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c92046-6f6a-11f0-8987-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c92046-6f6a-11f0-8987-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c92046-6f6a-11f0-8987-d21b0379af73",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 37,
