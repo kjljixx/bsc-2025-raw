@@ -3456,18 +3456,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b06c78aa-668f-11f0-8501-06c972f0ca4f",
                 "name": "Reply Totem",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a8abe13c-6fb3-11f0-b1f1-9e8a8b1b21cf",
                 "name": "70 Ping",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b06c78aa-668f-11f0-8501-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8abe13c-6fb3-11f0-b1f1-9e8a8b1b21cf",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "b06c78aa-668f-11f0-8501-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8abe13c-6fb3-11f0-b1f1-9e8a8b1b21cf",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b06c78aa-668f-11f0-8501-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8abe13c-6fb3-11f0-b1f1-9e8a8b1b21cf",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -3646,7 +3696,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b06c78aa-668f-11f0-8501-06c972f0ca4f",
+                "name": "Reply Totem",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
