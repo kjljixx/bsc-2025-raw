@@ -641,6 +641,66 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "6be8a31c-704d-11f0-a18f-c20410e2c299",
+            "tournament_id": 0,
+            "name": "play donto",
+            "players": [
+                {
+                    "name": "psychok1d",
+                    "gamerTag": "#PGL2UL0CR"
+                },
+                {
+                    "name": "Buzko",
+                    "gamerTag": "#2JY2JR09UC"
+                },
+                {
+                    "name": "Godmode_ON",
+                    "gamerTag": "#GQCJV0P8C"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
+            "tournament_id": 0,
+            "name": "F/A Angelic Tears",
+            "players": [
+                {
+                    "name": "ZuKi星河",
+                    "gamerTag": "#P92P8GJPP"
+                },
+                {
+                    "name": "YT : Roufio",
+                    "gamerTag": "#Y0JY2GCP"
+                },
+                {
+                    "name": "Qazor",
+                    "gamerTag": "#Y2JQ0CUY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "a8ac917c-6fb3-11f0-9966-9e8a8b1b21cf",
+            "tournament_id": 0,
+            "name": "F/A Rentner",
+            "players": [
+                {
+                    "name": "Heiko🧸",
+                    "gamerTag": "#RYGJJGLP"
+                },
+                {
+                    "name": "をSouxyt🏒",
+                    "gamerTag": "#YY2CLQRQV"
+                },
+                {
+                    "name": "SmT |Ace",
+                    "gamerTag": "#98CJVCQGY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "a8a20950-6fb3-11f0-b770-9e8a8b1b21cf",
             "tournament_id": 0,
             "name": "Fiftigivti",
@@ -841,7 +901,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "b069196c-668f-11f0-b55e-06c972f0ca4f",
                 "name": "Skepsis Gaming",
@@ -850,7 +910,8 @@
             "opponent2": {
                 "id": "6be8a31c-704d-11f0-a18f-c20410e2c299",
                 "name": "play donto",
-                "seed": 20
+                "seed": 20,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -861,7 +922,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "b06d336c-668f-11f0-bed5-06c972f0ca4f",
                 "name": "FUT Esports",
@@ -870,7 +931,8 @@
             "opponent2": {
                 "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
                 "name": "F/A Angelic Tears",
-                "seed": 28
+                "seed": 28,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -981,7 +1043,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "b06bef48-668f-11f0-b045-06c972f0ca4f",
                 "name": "Team Heretics",
@@ -990,7 +1052,8 @@
             "opponent2": {
                 "id": "a8ac917c-6fb3-11f0-9966-9e8a8b1b21cf",
                 "name": "F/A Rentner",
-                "seed": 30
+                "seed": 30,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1112,7 +1175,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b06d336c-668f-11f0-bed5-06c972f0ca4f",
+                "name": "FUT Esports",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
@@ -1160,10 +1225,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b06bef48-668f-11f0-b045-06c972f0ca4f",
+                "name": "Team Heretics",
+                "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "b06a1510-668f-11f0-98e3-06c972f0ca4f",
+                "name": "Crows Nest Esports",
+                "seed": 14
             },
             "match_games": []
         },
@@ -1304,7 +1373,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
+                "name": "F/A Angelic Tears",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
@@ -1352,10 +1423,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8ac917c-6fb3-11f0-9966-9e8a8b1b21cf",
+                "name": "F/A Rentner",
+                "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "a8a20950-6fb3-11f0-b770-9e8a8b1b21cf",
+                "name": "Fiftigivti",
+                "seed": 19
             },
             "match_games": []
         },
