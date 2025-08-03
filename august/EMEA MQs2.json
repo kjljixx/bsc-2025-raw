@@ -761,6 +761,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "a8a9369e-6fb3-11f0-bc18-9e8a8b1b21cf",
+            "tournament_id": 0,
+            "name": "Loyalty City",
+            "players": [
+                {
+                    "name": "knst🦇",
+                    "gamerTag": "#2JUCUV0YY"
+                },
+                {
+                    "name": "NaN|Matchless🪼",
+                    "gamerTag": "#22V2URV9V"
+                },
+                {
+                    "name": "Rohaan🧸💜",
+                    "gamerTag": "#222VQ8LQL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "26633c98-6fe0-11f0-abfd-261b052702ab",
             "tournament_id": 0,
             "name": "NSW",
@@ -1303,18 +1323,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "b06c78aa-668f-11f0-8501-06c972f0ca4f",
                 "name": "Reply Totem",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a8a9369e-6fb3-11f0-bc18-9e8a8b1b21cf",
                 "name": "Loyalty City",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "b06c78aa-668f-11f0-8501-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8a9369e-6fb3-11f0-bc18-9e8a8b1b21cf",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b06c78aa-668f-11f0-8501-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8a9369e-6fb3-11f0-bc18-9e8a8b1b21cf",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b06c78aa-668f-11f0-8501-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8a9369e-6fb3-11f0-bc18-9e8a8b1b21cf",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -1563,10 +1633,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b06c78aa-668f-11f0-8501-06c972f0ca4f",
+                "name": "Reply Totem",
+                "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "b06b9368-668f-11f0-891e-06c972f0ca4f",
+                "name": "KDS Esports",
+                "seed": 10
             },
             "match_games": []
         },
@@ -1765,10 +1839,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8a9369e-6fb3-11f0-bc18-9e8a8b1b21cf",
+                "name": "Loyalty City",
+                "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "26633c98-6fe0-11f0-abfd-261b052702ab",
+                "name": "NSW",
+                "seed": 23
             },
             "match_games": []
         },
