@@ -2670,18 +2670,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
                 "name": "F/A Angelic Tears",
-                "seed": 28
+                "seed": 28,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "72262284-6fcd-11f0-a517-3a6800809723",
                 "name": "Freezer Esports",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "72262284-6fcd-11f0-a517-3a6800809723",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "72262284-6fcd-11f0-a517-3a6800809723",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "72262284-6fcd-11f0-a517-3a6800809723",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 21,
@@ -3031,7 +3081,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
+                "name": "F/A Angelic Tears",
+                "seed": 28
             },
             "match_games": []
         },
