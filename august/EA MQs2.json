@@ -819,6 +819,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+            "tournament_id": 0,
+            "name": "본계정15승실패하하하하",
+            "players": [
+                {
+                    "name": "NNM | PLAYLIST",
+                    "gamerTag": "#2JRURRPU2V"
+                },
+                {
+                    "name": "級 : kazuha🖤",
+                    "gamerTag": "#GPLG8L2L8"
+                },
+                {
+                    "name": "🇰🇷꽃가족_규미🇰🇷",
+                    "gamerTag": "#22V9QURUL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1651,18 +1671,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb175290-668e-11f0-be61-06c972f0ca4f",
                 "name": "Feasible Gaming",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
                 "name": "본계정15승실패하하하하",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fb175290-668e-11f0-be61-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fb175290-668e-11f0-be61-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fb175290-668e-11f0-be61-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -1804,7 +1874,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "fb175290-668e-11f0-be61-06c972f0ca4f",
+                "name": "Feasible Gaming",
+                "seed": 11
             },
             "match_games": []
         },
@@ -2012,7 +2084,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                "name": "본계정15승실패하하하하",
+                "seed": 22
             },
             "match_games": []
         },
