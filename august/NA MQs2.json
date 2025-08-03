@@ -2899,11 +2899,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "efdb67c8-6fe8-11f0-8b0a-d21b0379af73",
                 "name": "ENTITY",
-                "seed": 27
+                "seed": 27,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "efd86348-6fe8-11f0-b603-d21b0379af73",
@@ -3052,7 +3053,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "efd86348-6fe8-11f0-b603-d21b0379af73",
+                "name": "Quebec Elite",
+                "seed": 22
             },
             "match_games": []
         },
