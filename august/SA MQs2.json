@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+            "tournament_id": 0,
+            "name": "Agorasim3",
+            "players": [
+                {
+                    "name": "Xyz",
+                    "gamerTag": "#228LCRC9P"
+                },
+                {
+                    "name": "Suf",
+                    "gamerTag": "#8JJ9YV0G"
+                },
+                {
+                    "name": "Makelele",
+                    "gamerTag": "#28VGUULP"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "e405b220-6690-11f0-a0b2-06c972f0ca4f",
             "tournament_id": 0,
             "name": "Universum Gaming",
@@ -696,6 +716,46 @@
                 {
                     "name": "Jean®",
                     "gamerTag": "#GLQG9CU20"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+            "tournament_id": 0,
+            "name": "Crow'S Gang",
+            "players": [
+                {
+                    "name": "FortiStars",
+                    "gamerTag": "#P9JLP88C8"
+                },
+                {
+                    "name": "KN|Jonatas",
+                    "gamerTag": "#GCRY9CJ0"
+                },
+                {
+                    "name": "mito",
+                    "gamerTag": "#2LU29UVQV"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "07cad5e0-6fcf-11f0-86e6-d21b0379af73",
+            "tournament_id": 0,
+            "name": "Complex Team",
+            "players": [
+                {
+                    "name": "CT| Zen",
+                    "gamerTag": "#8PRVQ8VCY"
+                },
+                {
+                    "name": "ʟᴀᴇ|KingSouls🎸",
+                    "gamerTag": "#PY2YJGVCR"
+                },
+                {
+                    "name": "CT| 민국",
+                    "gamerTag": "#8LR9J2QQC"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -902,18 +962,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
                 "name": "Alpha7 Esports",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
                 "name": "Agorasim3",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -1073,18 +1183,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6aa11ec-6690-11f0-a412-06c972f0ca4f",
                 "name": "Zurita Gang",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
                 "name": "Crow'S Gang",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e6aa11ec-6690-11f0-a412-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e6aa11ec-6690-11f0-a412-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e6aa11ec-6690-11f0-a412-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -1113,18 +1273,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6ab8f18-6690-11f0-9a96-06c972f0ca4f",
                 "name": "BC* Gaming SA",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07cad5e0-6fcf-11f0-86e6-d21b0379af73",
                 "name": "Complex Team",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e6ab8f18-6690-11f0-9a96-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07cad5e0-6fcf-11f0-86e6-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e6ab8f18-6690-11f0-9a96-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07cad5e0-6fcf-11f0-86e6-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e6ab8f18-6690-11f0-9a96-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07cad5e0-6fcf-11f0-86e6-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 14,
@@ -1278,7 +1488,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+                "name": "Alpha7 Esports",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -1326,7 +1538,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6aa11ec-6690-11f0-a412-06c972f0ca4f",
+                "name": "Zurita Gang",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -1342,10 +1556,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6ab8f18-6690-11f0-9a96-06c972f0ca4f",
+                "name": "BC* Gaming SA",
+                "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "07c6eaac-6fcf-11f0-b3f8-d21b0379af73",
+                "name": "MAO DE RAQUETE",
+                "seed": 19
             },
             "match_games": []
         },
@@ -1472,7 +1690,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+                "name": "Agorasim3",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
@@ -1520,7 +1740,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                "name": "Crow'S Gang",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
@@ -1536,10 +1758,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "07cad5e0-6fcf-11f0-86e6-d21b0379af73",
+                "name": "Complex Team",
+                "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "e9d7b7ac-6690-11f0-8bfa-06c972f0ca4f",
+                "name": "Enosis",
+                "seed": 14
             },
             "match_games": []
         },
