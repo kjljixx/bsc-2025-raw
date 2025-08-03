@@ -2799,18 +2799,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
                 "name": "SKCalalas SA",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e6aa11ec-6690-11f0-a412-06c972f0ca4f",
                 "name": "Zurita Gang",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e6aa11ec-6690-11f0-a412-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e6aa11ec-6690-11f0-a412-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e6aa11ec-6690-11f0-a412-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 44,
@@ -3447,18 +3497,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07c63a6c-6fcf-11f0-b62d-d21b0379af73",
                 "name": "atentado ao pudor",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
                 "name": "Crow'S Gang",
-                "seed": 26
+                "seed": 26,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "07c63a6c-6fcf-11f0-b62d-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "07c63a6c-6fcf-11f0-b62d-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "07c63a6c-6fcf-11f0-b62d-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 39,
@@ -3624,7 +3724,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6aa11ec-6690-11f0-a412-06c972f0ca4f",
+                "name": "Zurita Gang",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
