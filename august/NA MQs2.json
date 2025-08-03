@@ -761,6 +761,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "efd9b216-6fe8-11f0-a46a-d21b0379af73",
+            "tournament_id": 0,
+            "name": "Ping Warriors",
+            "players": [
+                {
+                    "name": "Dan-YT",
+                    "gamerTag": "#8CYYL8VJ"
+                },
+                {
+                    "name": "JuandaR💜",
+                    "gamerTag": "#2QQ0QVJYV"
+                },
+                {
+                    "name": "Bot | RalG8",
+                    "gamerTag": "#L90PLL89"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "efdd117c-6fe8-11f0-8e97-d21b0379af73",
             "tournament_id": 0,
             "name": "Broke and a dream",
@@ -1421,18 +1441,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1601ce0c-6692-11f0-b84b-06c972f0ca4f",
                 "name": "LLC eSports",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "efd9b216-6fe8-11f0-a46a-d21b0379af73",
                 "name": "Ping Warriors",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1601ce0c-6692-11f0-b84b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efd9b216-6fe8-11f0-a46a-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1601ce0c-6692-11f0-b84b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efd9b216-6fe8-11f0-a46a-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "1601ce0c-6692-11f0-b84b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efd9b216-6fe8-11f0-a46a-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 9,
@@ -1931,7 +2001,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "1601ce0c-6692-11f0-b84b-06c972f0ca4f",
+                "name": "LLC eSports",
+                "seed": 12
             },
             "match_games": []
         },
@@ -2147,7 +2219,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "efd9b216-6fe8-11f0-a46a-d21b0379af73",
+                "name": "Ping Warriors",
+                "seed": 21
             },
             "match_games": []
         },
