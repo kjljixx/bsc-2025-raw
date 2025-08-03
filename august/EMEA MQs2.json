@@ -2405,18 +2405,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8ac917c-6fb3-11f0-9966-9e8a8b1b21cf",
                 "name": "F/A Rentner",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a8a20950-6fb3-11f0-b770-9e8a8b1b21cf",
                 "name": "Fiftigivti",
-                "seed": 19
+                "seed": 19,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8ac917c-6fb3-11f0-9966-9e8a8b1b21cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a8a20950-6fb3-11f0-b770-9e8a8b1b21cf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a8ac917c-6fb3-11f0-9966-9e8a8b1b21cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a8a20950-6fb3-11f0-b770-9e8a8b1b21cf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "a8ac917c-6fb3-11f0-9966-9e8a8b1b21cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a8a20950-6fb3-11f0-b770-9e8a8b1b21cf",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 24,
@@ -2548,7 +2598,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "a8a20950-6fb3-11f0-b770-9e8a8b1b21cf",
+                "name": "Fiftigivti",
+                "seed": 19
             },
             "match_games": []
         },
