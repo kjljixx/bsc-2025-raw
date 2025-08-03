@@ -639,6 +639,66 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "07c73f84-6fcf-11f0-bcae-d21b0379af73",
+            "tournament_id": 0,
+            "name": "ICE SHOT WHITE",
+            "players": [
+                {
+                    "name": "Icejļ ❄️",
+                    "gamerTag": "#2JCCLL29U"
+                },
+                {
+                    "name": "MARCELEØN ✨️",
+                    "gamerTag": "#20UPRPV"
+                },
+                {
+                    "name": "LikiZinn'な",
+                    "gamerTag": "#8JUUCQLP0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "e663bd6e-6690-11f0-a04c-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "AC/DC⚡",
+            "players": [
+                {
+                    "name": "@zRickygg",
+                    "gamerTag": "#PY0CUPJC0"
+                },
+                {
+                    "name": "Spaceey🫧",
+                    "gamerTag": "#2929PL2YQ"
+                },
+                {
+                    "name": "Jean®",
+                    "gamerTag": "#GLQG9CU20"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "e9d7b7ac-6690-11f0-8bfa-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "Enosis",
+            "players": [
+                {
+                    "name": "Murilin 🦦",
+                    "gamerTag": "#98L2G2UP9"
+                },
+                {
+                    "name": "ENO|Neefex",
+                    "gamerTag": "#2VYUY0GL8"
+                },
+                {
+                    "name": "Studio",
+                    "gamerTag": "#8QRQCQUG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -781,7 +841,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6a8ece0-6690-11f0-91d1-06c972f0ca4f",
                 "name": "F4TALITY",
@@ -790,7 +850,8 @@
             "opponent2": {
                 "id": "07c73f84-6fcf-11f0-bcae-d21b0379af73",
                 "name": "ICE SHOT WHITE",
-                "seed": 24
+                "seed": 24,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -901,11 +962,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e663bd6e-6690-11f0-a04c-06c972f0ca4f",
                 "name": "AC/DC⚡",
-                "seed": 15
+                "seed": 15,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "07c6943a-6fcf-11f0-90d2-d21b0379af73",
@@ -981,11 +1043,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9d7b7ac-6690-11f0-8bfa-06c972f0ca4f",
                 "name": "Enosis",
-                "seed": 14
+                "seed": 14,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "07c6eaac-6fcf-11f0-b3f8-d21b0379af73",
