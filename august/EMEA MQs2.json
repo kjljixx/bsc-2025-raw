@@ -2180,18 +2180,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b06bef48-668f-11f0-b045-06c972f0ca4f",
                 "name": "Team Heretics",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b06a1510-668f-11f0-98e3-06c972f0ca4f",
                 "name": "Crows Nest Esports",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "b06bef48-668f-11f0-b045-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b06a1510-668f-11f0-98e3-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "b06bef48-668f-11f0-b045-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b06a1510-668f-11f0-98e3-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "b06bef48-668f-11f0-b045-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b06a1510-668f-11f0-98e3-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -2270,7 +2320,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b06bef48-668f-11f0-b045-06c972f0ca4f",
+                "name": "Team Heretics",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -2513,7 +2565,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b06a1510-668f-11f0-98e3-06c972f0ca4f",
+                "name": "Crows Nest Esports",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
