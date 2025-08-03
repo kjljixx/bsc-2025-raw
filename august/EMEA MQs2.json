@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "6be79814-704d-11f0-bd35-c20410e2c299",
+            "tournament_id": 0,
+            "name": "F/A Fullclip",
+            "players": [
+                {
+                    "name": "FLC|Jachi",
+                    "gamerTag": "#20GULVGU0"
+                },
+                {
+                    "name": "FLC|Benediction",
+                    "gamerTag": "#JRU9QJQ8"
+                },
+                {
+                    "name": "FLC|Dari",
+                    "gamerTag": "#2U9R88LU"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "6be8a31c-704d-11f0-a18f-c20410e2c299",
             "tournament_id": 0,
             "name": "play donto",
@@ -861,18 +881,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "b06ad270-668f-11f0-a200-06c972f0ca4f",
                 "name": "XPERION NXT",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6be79814-704d-11f0-bd35-c20410e2c299",
                 "name": "F/A Fullclip",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "b06ad270-668f-11f0-a200-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6be79814-704d-11f0-bd35-c20410e2c299",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b06ad270-668f-11f0-a200-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6be79814-704d-11f0-bd35-c20410e2c299",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b06ad270-668f-11f0-a200-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6be79814-704d-11f0-bd35-c20410e2c299",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
