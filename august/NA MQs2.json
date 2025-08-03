@@ -781,6 +781,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "efdca066-6fe8-11f0-9eae-d21b0379af73",
+            "tournament_id": 0,
+            "name": "KUSARI",
+            "players": [
+                {
+                    "name": "JuanCaballo🐛",
+                    "gamerTag": "#80CVRJYYU"
+                },
+                {
+                    "name": "MozKo",
+                    "gamerTag": "#8RJRRV0Q"
+                },
+                {
+                    "name": "kryokaa",
+                    "gamerTag": "#20VP90LRV"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "efdb67c8-6fe8-11f0-8b0a-d21b0379af73",
             "tournament_id": 0,
             "name": "ENTITY",
@@ -1373,18 +1393,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16056e68-6692-11f0-8b71-06c972f0ca4f",
                 "name": "SSG",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "efdca066-6fe8-11f0-9eae-d21b0379af73",
                 "name": "KUSARI",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "16056e68-6692-11f0-8b71-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efdca066-6fe8-11f0-9eae-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "16056e68-6692-11f0-8b71-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efdca066-6fe8-11f0-9eae-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "16056e68-6692-11f0-8b71-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efdca066-6fe8-11f0-9eae-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 14,
@@ -1613,7 +1683,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "16056e68-6692-11f0-8b71-06c972f0ca4f",
+                "name": "SSG",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -1819,7 +1891,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "efdca066-6fe8-11f0-9eae-d21b0379af73",
+                "name": "KUSARI",
+                "seed": 30
             },
             "opponent2": {
                 "id": null
