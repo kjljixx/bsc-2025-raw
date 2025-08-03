@@ -3396,18 +3396,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1601ce0c-6692-11f0-b84b-06c972f0ca4f",
                 "name": "LLC eSports",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "efd6abac-6fe8-11f0-aaa5-d21b0379af73",
                 "name": "Cobra Jets",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "1601ce0c-6692-11f0-b84b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efd6abac-6fe8-11f0-aaa5-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "1601ce0c-6692-11f0-b84b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efd6abac-6fe8-11f0-aaa5-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "1601ce0c-6692-11f0-b84b-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efd6abac-6fe8-11f0-aaa5-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 38,
@@ -3510,7 +3560,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1601ce0c-6692-11f0-b84b-06c972f0ca4f",
+                "name": "LLC eSports",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
