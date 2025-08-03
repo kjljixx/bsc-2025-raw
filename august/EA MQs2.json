@@ -639,6 +639,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
+            "tournament_id": 0,
+            "name": "GPT pick our brawler",
+            "players": [
+                {
+                    "name": "唉呀！",
+                    "gamerTag": "#Y889UUL0"
+                },
+                {
+                    "name": "昔我往矣 霧中有我 憶中無我",
+                    "gamerTag": "#GCPQV2GV9"
+                },
+                {
+                    "name": "安安安安🔙",
+                    "gamerTag": "#R0Y88LC8C"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1001,18 +1021,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb1cc9f0-668e-11f0-b49d-06c972f0ca4f",
                 "name": "Frenzy Gaming",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
                 "name": "GPT pick our brawler",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fb1cc9f0-668e-11f0-b49d-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fb1cc9f0-668e-11f0-b49d-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fb1cc9f0-668e-11f0-b49d-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 16,
@@ -1155,7 +1225,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb1cc9f0-668e-11f0-b49d-06c972f0ca4f",
+                "name": "Frenzy Gaming",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
@@ -1347,7 +1419,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
+                "name": "GPT pick our brawler",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
