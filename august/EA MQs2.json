@@ -2282,18 +2282,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
                 "name": "ZETA DIVISION",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
                 "name": "はぬかだダディダディ",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 30,
@@ -2396,7 +2446,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
+                "name": "ZETA DIVISION",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -2637,7 +2689,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                "name": "はぬかだダディダディ",
+                "seed": 18
             },
             "opponent2": {
                 "id": null
