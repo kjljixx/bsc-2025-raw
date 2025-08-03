@@ -3388,18 +3388,98 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
                 "name": "GPT pick our brawler",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
                 "name": "본계정15승실패하하하하",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 33,
@@ -3555,7 +3635,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                "name": "본계정15승실패하하하하",
+                "seed": 22
             },
             "match_games": []
         },
