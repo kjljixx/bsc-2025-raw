@@ -661,6 +661,46 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "81c859f4-6f6a-11f0-be3e-d21b0379af73",
+            "tournament_id": 0,
+            "name": "ORDER X",
+            "players": [
+                {
+                    "name": "Gretel",
+                    "gamerTag": "#PLPGP2V8R"
+                },
+                {
+                    "name": "Ori",
+                    "gamerTag": "#GL92QR808"
+                },
+                {
+                    "name": "2025.07.31~",
+                    "gamerTag": "#29CV8U0CG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "81c3efd6-6f6a-11f0-96c4-d21b0379af73",
+            "tournament_id": 0,
+            "name": "SuzuEcho",
+            "players": [
+                {
+                    "name": "spito_Mozutti⛩️",
+                    "gamerTag": "#PJV98PG2R"
+                },
+                {
+                    "name": "spito_TOMA🍅",
+                    "gamerTag": "#PUJVQRP9G"
+                },
+                {
+                    "name": "spito_nois",
+                    "gamerTag": "#Y22U08JU8"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "81c8bfc0-6f6a-11f0-99f4-d21b0379af73",
             "tournament_id": 0,
             "name": "GPT pick our brawler",
@@ -1011,18 +1051,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb1a29ca-668e-11f0-b2ef-06c972f0ca4f",
                 "name": "EffortResult",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81c859f4-6f6a-11f0-be3e-d21b0379af73",
                 "name": "ORDER X",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fb1a29ca-668e-11f0-b2ef-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c859f4-6f6a-11f0-be3e-d21b0379af73",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fb1a29ca-668e-11f0-b2ef-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c859f4-6f6a-11f0-be3e-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fb1a29ca-668e-11f0-b2ef-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c859f4-6f6a-11f0-be3e-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -1071,18 +1161,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
                 "name": "ブルとバズ",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81c3efd6-6f6a-11f0-96c4-d21b0379af73",
                 "name": "SuzuEcho",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c3efd6-6f6a-11f0-96c4-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c3efd6-6f6a-11f0-96c4-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c3efd6-6f6a-11f0-96c4-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -1263,7 +1403,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb1a29ca-668e-11f0-b2ef-06c972f0ca4f",
+                "name": "EffortResult",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -1457,7 +1599,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "81c859f4-6f6a-11f0-be3e-d21b0379af73",
+                "name": "ORDER X",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
