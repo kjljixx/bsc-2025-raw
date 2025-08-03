@@ -2404,18 +2404,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "efdb01b6-6fe8-11f0-81d0-d21b0379af73",
                 "name": "Luo Li from TBHX 😛",
-                "seed": 25
+                "seed": 25,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "efd8d4f4-6fe8-11f0-ab36-d21b0379af73",
                 "name": "DMNT",
-                "seed": 24
+                "seed": 24,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "efdb01b6-6fe8-11f0-81d0-d21b0379af73",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efd8d4f4-6fe8-11f0-ab36-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "efdb01b6-6fe8-11f0-81d0-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "efd8d4f4-6fe8-11f0-ab36-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "efdb01b6-6fe8-11f0-81d0-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "efd8d4f4-6fe8-11f0-ab36-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "efdb01b6-6fe8-11f0-81d0-d21b0379af73",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "efd8d4f4-6fe8-11f0-ab36-d21b0379af73",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 19,
