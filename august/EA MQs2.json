@@ -821,6 +821,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "81c9fc0a-6f6a-11f0-a0c0-d21b0379af73",
+            "tournament_id": 0,
+            "name": "くさかんむり",
+            "players": [
+                {
+                    "name": "トコロテン",
+                    "gamerTag": "#8UVQP9JJU"
+                },
+                {
+                    "name": "小さな恋の歌",
+                    "gamerTag": "#PGUYCPV8V"
+                },
+                {
+                    "name": "やますた",
+                    "gamerTag": "#2P90QL2VR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "81c3efd6-6f6a-11f0-96c4-d21b0379af73",
             "tournament_id": 0,
             "name": "SuzuEcho",
@@ -1602,18 +1622,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb1c63f2-668e-11f0-979e-06c972f0ca4f",
                 "name": "NAVI",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81c9fc0a-6f6a-11f0-a0c0-d21b0379af73",
                 "name": "くさかんむり",
-                "seed": 30
+                "seed": 30,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fb1c63f2-668e-11f0-979e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c9fc0a-6f6a-11f0-a0c0-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fb1c63f2-668e-11f0-979e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c9fc0a-6f6a-11f0-a0c0-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fb1c63f2-668e-11f0-979e-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c9fc0a-6f6a-11f0-a0c0-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fb1c63f2-668e-11f0-979e-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c9fc0a-6f6a-11f0-a0c0-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 14,
@@ -1948,10 +2033,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb1c63f2-668e-11f0-979e-06c972f0ca4f",
+                "name": "NAVI",
+                "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                "name": "ブルとバズ",
+                "seed": 14
             },
             "match_games": []
         },
@@ -2162,10 +2251,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "81c9fc0a-6f6a-11f0-a0c0-d21b0379af73",
+                "name": "くさかんむり",
+                "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "81c3efd6-6f6a-11f0-96c4-d21b0379af73",
+                "name": "SuzuEcho",
+                "seed": 19
             },
             "match_games": []
         },
