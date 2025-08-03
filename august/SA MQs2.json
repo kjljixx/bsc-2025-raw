@@ -2129,18 +2129,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
                 "name": "Alpha7 Esports",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07c63a6c-6fcf-11f0-b62d-d21b0379af73",
                 "name": "atentado ao pudor",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c63a6c-6fcf-11f0-b62d-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c63a6c-6fcf-11f0-b62d-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c63a6c-6fcf-11f0-b62d-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2267,7 +2317,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+                "name": "Alpha7 Esports",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -2555,7 +2607,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "07c63a6c-6fcf-11f0-b62d-d21b0379af73",
+                "name": "atentado ao pudor",
+                "seed": 20
             },
             "opponent2": {
                 "id": null
