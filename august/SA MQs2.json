@@ -919,6 +919,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "UNNAMED F/A",
+            "players": [
+                {
+                    "name": "T1ME|Nico",
+                    "gamerTag": "#PC9LPPYV"
+                },
+                {
+                    "name": "VenoX ツ",
+                    "gamerTag": "#80UQP9UYR"
+                },
+                {
+                    "name": "LVL|Todd",
+                    "gamerTag": "#22PGQU98R"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1884,18 +1904,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
                 "name": "UNNAMED F/A",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "07c7a9d8-6fcf-11f0-aa47-d21b0379af73",
                 "name": "Game Life 💜",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07c7a9d8-6fcf-11f0-aa47-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c7a9d8-6fcf-11f0-aa47-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c7a9d8-6fcf-11f0-aa47-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07c7a9d8-6fcf-11f0-aa47-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07c7a9d8-6fcf-11f0-aa47-d21b0379af73",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -2047,7 +2147,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "07c7a9d8-6fcf-11f0-aa47-d21b0379af73",
+                "name": "Game Life 💜",
+                "seed": 22
             },
             "match_games": []
         },
@@ -2265,7 +2367,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
+                "name": "UNNAMED F/A",
+                "seed": 11
             },
             "match_games": []
         },
