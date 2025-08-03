@@ -701,6 +701,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Universum Gaming.png"
         },
         {
+            "id": "07cb4a2a-6fcf-11f0-9a6f-d21b0379af73",
+            "tournament_id": 0,
+            "name": "FUG F/A",
+            "players": [
+                {
+                    "name": "Flush",
+                    "gamerTag": "#P9G2YLG"
+                },
+                {
+                    "name": "Lewa",
+                    "gamerTag": "#GVQG8J0R"
+                },
+                {
+                    "name": "Naksu",
+                    "gamerTag": "#20GRYULC2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "e663bd6e-6690-11f0-a04c-06c972f0ca4f",
             "tournament_id": 0,
             "name": "AC/DC⚡",
@@ -736,6 +756,26 @@
                 {
                     "name": "mito",
                     "gamerTag": "#2LU29UVQV"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
+            "tournament_id": 0,
+            "name": "Fire Lactators",
+            "players": [
+                {
+                    "name": "SIBYAI|YT",
+                    "gamerTag": "#8UUQ8JVC8"
+                },
+                {
+                    "name": "🦆Itsplay1436🦆",
+                    "gamerTag": "#GC08J8G0"
+                },
+                {
+                    "name": "Mishashi ✧",
+                    "gamerTag": "#2L9QJUQJC"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -1142,18 +1182,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
                 "name": "SKCalalas SA",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07cb4a2a-6fcf-11f0-9a6f-d21b0379af73",
                 "name": "FUG F/A",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07cb4a2a-6fcf-11f0-9a6f-d21b0379af73",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07cb4a2a-6fcf-11f0-9a6f-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07cb4a2a-6fcf-11f0-9a6f-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 10,
@@ -1253,18 +1343,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e59f37dc-6690-11f0-9ce6-06c972f0ca4f",
                 "name": "777",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
                 "name": "Fire Lactators",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e59f37dc-6690-11f0-9ce6-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e59f37dc-6690-11f0-9ce6-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e59f37dc-6690-11f0-9ce6-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 13,
@@ -1522,10 +1662,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
+                "name": "SKCalalas SA",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "07c6943a-6fcf-11f0-90d2-d21b0379af73",
+                "name": "ECLIPSE",
+                "seed": 18
             },
             "match_games": []
         },
@@ -1543,7 +1687,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "e59f37dc-6690-11f0-9ce6-06c972f0ca4f",
+                "name": "777",
+                "seed": 10
             },
             "match_games": []
         },
@@ -1724,10 +1870,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "07cb4a2a-6fcf-11f0-9a6f-d21b0379af73",
+                "name": "FUG F/A",
+                "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "e663bd6e-6690-11f0-a04c-06c972f0ca4f",
+                "name": "AC/DC⚡",
+                "seed": 15
             },
             "match_games": []
         },
@@ -1745,7 +1895,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
+                "name": "Fire Lactators",
+                "seed": 23
             },
             "match_games": []
         },
