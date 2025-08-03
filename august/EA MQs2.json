@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "81ca5b28-6f6a-11f0-8739-d21b0379af73",
+            "tournament_id": 0,
+            "name": "지구엄마화이팅",
+            "players": [
+                {
+                    "name": "Itoshi Sae",
+                    "gamerTag": "#R9QU0VJPR"
+                },
+                {
+                    "name": "Minzzun",
+                    "gamerTag": "#Y0PQYLQ9"
+                },
+                {
+                    "name": "スタインウェイ❦D-274",
+                    "gamerTag": "#LVUCR8CR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "81c859f4-6f6a-11f0-be3e-d21b0379af73",
             "tournament_id": 0,
             "name": "ORDER X",
@@ -1011,18 +1031,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
                 "name": "ZETA DIVISION",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81ca5b28-6f6a-11f0-8739-d21b0379af73",
                 "name": "지구엄마화이팅",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81ca5b28-6f6a-11f0-8739-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81ca5b28-6f6a-11f0-8739-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81ca5b28-6f6a-11f0-8739-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 10,
@@ -1387,7 +1457,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
+                "name": "ZETA DIVISION",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -1583,7 +1655,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "81ca5b28-6f6a-11f0-8739-d21b0379af73",
+                "name": "지구엄마화이팅",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
