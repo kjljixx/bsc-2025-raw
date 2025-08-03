@@ -2641,18 +2641,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8a9369e-6fb3-11f0-bc18-9e8a8b1b21cf",
                 "name": "Loyalty City",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "26633c98-6fe0-11f0-abfd-261b052702ab",
                 "name": "NSW",
-                "seed": 23
+                "seed": 23,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8a9369e-6fb3-11f0-bc18-9e8a8b1b21cf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "26633c98-6fe0-11f0-abfd-261b052702ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a8a9369e-6fb3-11f0-bc18-9e8a8b1b21cf",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "26633c98-6fe0-11f0-abfd-261b052702ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "a8a9369e-6fb3-11f0-bc18-9e8a8b1b21cf",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "26633c98-6fe0-11f0-abfd-261b052702ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 23,
