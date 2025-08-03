@@ -4223,18 +4223,98 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f941eef8-668e-11f0-ae9f-06c972f0ca4f",
                 "name": "無職透明",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
                 "name": "본계정15승실패하하하하",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "f941eef8-668e-11f0-ae9f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "f941eef8-668e-11f0-ae9f-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "f941eef8-668e-11f0-ae9f-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "f941eef8-668e-11f0-ae9f-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f941eef8-668e-11f0-ae9f-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 45,
@@ -4310,7 +4390,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                "name": "본계정15승실패하하하하",
+                "seed": 22
             },
             "match_games": []
         },
