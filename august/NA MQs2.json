@@ -2108,18 +2108,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "160473c8-6692-11f0-9c53-06c972f0ca4f",
                 "name": "Tribe Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "15c4e91a-6692-11f0-bfe3-06c972f0ca4f",
                 "name": "Crow's Nest Esports",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "160473c8-6692-11f0-9c53-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "15c4e91a-6692-11f0-bfe3-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "160473c8-6692-11f0-9c53-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "15c4e91a-6692-11f0-bfe3-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "160473c8-6692-11f0-9c53-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "15c4e91a-6692-11f0-bfe3-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 26,
@@ -2378,18 +2428,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16056e68-6692-11f0-8b71-06c972f0ca4f",
                 "name": "SSG",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "efda2b74-6fe8-11f0-80e2-d21b0379af73",
                 "name": "Queremos Unas Güeras",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinball Dreams",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000118.png",
+                    "opponent1": {
+                        "id": "16056e68-6692-11f0-8b71-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efda2b74-6fe8-11f0-80e2-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "16056e68-6692-11f0-8b71-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efda2b74-6fe8-11f0-80e2-d21b0379af73",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Crystal Arcade",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000008.png",
+                    "opponent1": {
+                        "id": "16056e68-6692-11f0-8b71-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efda2b74-6fe8-11f0-80e2-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -2420,7 +2520,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "160473c8-6692-11f0-9c53-06c972f0ca4f",
+                "name": "Tribe Gaming",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -2474,7 +2576,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "16056e68-6692-11f0-8b71-06c972f0ca4f",
+                "name": "SSG",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -2783,10 +2887,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "efda2b74-6fe8-11f0-80e2-d21b0379af73",
+                "name": "Queremos Unas Güeras",
+                "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "efd8d4f4-6fe8-11f0-ab36-d21b0379af73",
+                "name": "DMNT",
+                "seed": 24
             },
             "match_games": []
         },
@@ -2887,7 +2995,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "15c4e91a-6692-11f0-bfe3-06c972f0ca4f",
+                "name": "Crow's Nest Esports",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
