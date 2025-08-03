@@ -4678,18 +4678,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb1bb272-668e-11f0-b8e0-06c972f0ca4f",
                 "name": "Crazy Raccoon",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
                 "name": "ブルとバズ",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fb1bb272-668e-11f0-b8e0-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fb1bb272-668e-11f0-b8e0-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fb1bb272-668e-11f0-b8e0-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 50,
