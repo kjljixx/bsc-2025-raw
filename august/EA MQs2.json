@@ -681,6 +681,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "faae0e02-668e-11f0-9c5a-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "623",
+            "players": [
+                {
+                    "name": "まんまは強い",
+                    "gamerTag": "#PR8RGQVU9"
+                },
+                {
+                    "name": "ぞねちゃん",
+                    "gamerTag": "#Y0V0VG2QV"
+                },
+                {
+                    "name": "obaka",
+                    "gamerTag": "#2QY9G9Y9Y"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "81c859f4-6f6a-11f0-be3e-d21b0379af73",
             "tournament_id": 0,
             "name": "ORDER X",
@@ -1101,18 +1121,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "faae0e02-668e-11f0-9c5a-06c972f0ca4f",
                 "name": "623",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
                 "name": "はぬかだダディダディ",
-                "seed": 18
+                "seed": 18,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "faae0e02-668e-11f0-9c5a-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "faae0e02-668e-11f0-9c5a-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "faae0e02-668e-11f0-9c5a-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -1462,7 +1532,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "81c59502-6f6a-11f0-b95a-d21b0379af73",
+                "name": "はぬかだダディダディ",
+                "seed": 18
             },
             "match_games": []
         },
@@ -1660,7 +1732,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "faae0e02-668e-11f0-9c5a-06c972f0ca4f",
+                "name": "623",
+                "seed": 15
             },
             "match_games": []
         },
