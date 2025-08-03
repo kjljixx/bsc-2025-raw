@@ -2909,18 +2909,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
                 "name": "Crow'S Gang",
-                "seed": 26
+                "seed": 26,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
                 "name": "Fire Lactators",
-                "seed": 23
+                "seed": 23,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c81c42-6fcf-11f0-9615-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -3125,7 +3190,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "07c94b80-6fcf-11f0-b5ca-d21b0379af73",
+                "name": "Crow'S Gang",
+                "seed": 26
             },
             "match_games": []
         },
