@@ -2783,18 +2783,83 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16041d1a-6692-11f0-9487-06c972f0ca4f",
                 "name": "STMN",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "16051b16-6692-11f0-b785-06c972f0ca4f",
                 "name": "Pioneers",
-                "seed": 5
+                "seed": 5,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "16041d1a-6692-11f0-9487-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16051b16-6692-11f0-b785-06c972f0ca4f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "16041d1a-6692-11f0-9487-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "16051b16-6692-11f0-b785-06c972f0ca4f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "16041d1a-6692-11f0-9487-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16051b16-6692-11f0-b785-06c972f0ca4f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "16041d1a-6692-11f0-9487-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16051b16-6692-11f0-b785-06c972f0ca4f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -3802,7 +3867,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "16051b16-6692-11f0-b785-06c972f0ca4f",
+                "name": "Pioneers",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
