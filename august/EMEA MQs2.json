@@ -3606,18 +3606,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b005af62-668f-11f0-a52c-06c972f0ca4f",
                 "name": "FUT Academy",
-                "seed": 15
+                "seed": 15,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
                 "name": "F/A Angelic Tears",
-                "seed": 28
+                "seed": 28,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b005af62-668f-11f0-a52c-06c972f0ca4f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "b005af62-668f-11f0-a52c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b005af62-668f-11f0-a52c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Dry Season",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000083.png",
+                    "opponent1": {
+                        "id": "b005af62-668f-11f0-a52c-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8ab33fe-6fb3-11f0-8ec1-9e8a8b1b21cf",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 37,
@@ -3976,7 +4041,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "b005af62-668f-11f0-a52c-06c972f0ca4f",
+                "name": "FUT Academy",
+                "seed": 15
             },
             "match_games": []
         },
