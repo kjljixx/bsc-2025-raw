@@ -4433,18 +4433,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb19d04c-668e-11f0-8fce-06c972f0ca4f",
                 "name": "Gen.G Esports",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
                 "name": "본계정15승실패하하하하",
-                "seed": 22
+                "seed": 22,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fb19d04c-668e-11f0-8fce-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fb19d04c-668e-11f0-8fce-06c972f0ca4f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fb19d04c-668e-11f0-8fce-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000703.png",
+                    "opponent1": {
+                        "id": "fb19d04c-668e-11f0-8fce-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c6f94c-6f6a-11f0-b622-d21b0379af73",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 49,
@@ -4516,7 +4581,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "fb19d04c-668e-11f0-8fce-06c972f0ca4f",
+                "name": "Gen.G Esports",
+                "seed": 9
             },
             "match_games": []
         }
