@@ -3658,18 +3658,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
                 "name": "ブルとバズ",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81c7fb58-6f6a-11f0-8d32-d21b0379af73",
                 "name": "天才只是見owo的門檻",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c7fb58-6f6a-11f0-8d32-d21b0379af73",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c7fb58-6f6a-11f0-8d32-d21b0379af73",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81c7fb58-6f6a-11f0-8d32-d21b0379af73",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -4005,7 +4055,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "fa49de64-668e-11f0-8bb9-06c972f0ca4f",
+                "name": "ブルとバズ",
+                "seed": 14
             },
             "match_games": []
         },
