@@ -1,10 +1,171 @@
 {
-    "participant": [],
+    "participant": [
+        {
+            "id": "e6ab4652-6690-11f0-8707-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "LOUD",
+            "players": [
+                {
+                    "name": "LOUD|KaioDog",
+                    "gamerTag": "#GGUQCG0G"
+                },
+                {
+                    "name": "LOUD|Edinho",
+                    "gamerTag": "#QJULVGU"
+                },
+                {
+                    "name": "LOUD|FireCrow",
+                    "gamerTag": "#JQ8LLLY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/LOUD.png"
+        },
+        {
+            "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+            "tournament_id": 0,
+            "name": "Agorasim3",
+            "players": [
+                {
+                    "name": "Xyz",
+                    "gamerTag": "#228LCRC9P"
+                },
+                {
+                    "name": "Suf",
+                    "gamerTag": "#8JJ9YV0G"
+                },
+                {
+                    "name": "Makelele",
+                    "gamerTag": "#28VGUULP"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "e6aab084-6690-11f0-8988-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "Fênix",
+            "players": [
+                {
+                    "name": "FX|CaueBr",
+                    "gamerTag": "#JQ8L0YYL"
+                },
+                {
+                    "name": "FX|Wesley",
+                    "gamerTag": "#PLLRJC2V"
+                },
+                {
+                    "name": "REI DO FUT",
+                    "gamerTag": "#RVL0RPR9"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "e6aafae4-6690-11f0-831d-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "CASA BRAWL",
+            "players": [
+                {
+                    "name": "CASA|Mohtep",
+                    "gamerTag": "#R2LR2QLG"
+                },
+                {
+                    "name": "CASA|Pekka",
+                    "gamerTag": "#JVRCVJ9Q"
+                },
+                {
+                    "name": "Doritos🐉",
+                    "gamerTag": "#202GJJR28"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/CASA BRAWL.png"
+        },
+        {
+            "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "SKCalalas SA",
+            "players": [
+                {
+                    "name": "SKC|Rhz ✰",
+                    "gamerTag": "#89PVJG9R0"
+                },
+                {
+                    "name": "SKC|Kr",
+                    "gamerTag": "#PR0P8QVQ"
+                },
+                {
+                    "name": "SKC|Prozy",
+                    "gamerTag": "#GYCYCLRJL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/SKCalalas SA.png"
+        },
+        {
+            "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "UNNAMED F/A",
+            "players": [
+                {
+                    "name": "T1ME|Nico",
+                    "gamerTag": "#PC9LPPYV"
+                },
+                {
+                    "name": "VenoX ツ",
+                    "gamerTag": "#80UQP9UYR"
+                },
+                {
+                    "name": "LVL|Todd",
+                    "gamerTag": "#22PGQU98R"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "Alpha7 Esports",
+            "players": [
+                {
+                    "name": "YT:BrabaoBS🎩",
+                    "gamerTag": "#L9PQUV0YC"
+                },
+                {
+                    "name": "Golden💘Mai",
+                    "gamerTag": "#9QCJPL20"
+                },
+                {
+                    "name": "A7|IceCrow",
+                    "gamerTag": "#9CPYUCGQC"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Alpha7 Esports.png"
+        },
+        {
+            "id": "e6ab8f18-6690-11f0-9a96-06c972f0ca4f",
+            "tournament_id": 0,
+            "name": "BC* Gaming SA",
+            "players": [
+                {
+                    "name": "BC*|Loko",
+                    "gamerTag": "#YQLP8LP8"
+                },
+                {
+                    "name": "BC*|Derrp",
+                    "gamerTag": "#2QG9LQQC8Y"
+                },
+                {
+                    "name": "BC*|Jubileubr",
+                    "gamerTag": "#GVYLVUGR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/BC* Gaming SA.png"
+        }
+    ],
     "stage": [
         {
             "id": 0,
             "tournament_id": 0,
-            "name": "Bracket not available yet...",
+            "name": "SA MFs",
             "type": "single_elimination",
             "number": 1,
             "settings": {
@@ -52,10 +213,12 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6ab4652-6690-11f0-8707-06c972f0ca4f",
+                "name": "LOUD"
             },
             "opponent2": {
-                "id": null
+                "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+                "name": "Agorasim3"
             },
             "match_games": []
         },
@@ -68,10 +231,12 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6aab084-6690-11f0-8988-06c972f0ca4f",
+                "name": "Fênix"
             },
             "opponent2": {
-                "id": null
+                "id": "e6aafae4-6690-11f0-831d-06c972f0ca4f",
+                "name": "CASA BRAWL"
             },
             "match_games": []
         },
@@ -84,10 +249,12 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
+                "name": "SKCalalas SA"
             },
             "opponent2": {
-                "id": null
+                "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
+                "name": "UNNAMED F/A"
             },
             "match_games": []
         },
@@ -100,10 +267,12 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+                "name": "Alpha7 Esports"
             },
             "opponent2": {
-                "id": null
+                "id": "e6ab8f18-6690-11f0-9a96-06c972f0ca4f",
+                "name": "BC* Gaming SA"
             },
             "match_games": []
         },
