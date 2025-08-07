@@ -1,7 +1,7 @@
 {
     "participant": [
         {
-            "id": "fb1afe40-668e-11f0-8ee3-06c972f0ca4f",
+            "id": "2307917a-7058-11f0-85c4-c20410e2c299",
             "tournament_id": 0,
             "name": "REJECT",
             "players": [
@@ -21,7 +21,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/REJECT.png"
         },
         {
-            "id": "fa4a2f4a-668e-11f0-850b-06c972f0ca4f",
+            "id": "aa1e6e22-7058-11f0-9e4f-3a6800809723",
             "tournament_id": 0,
             "name": "GoNext",
             "players": [
@@ -30,23 +30,23 @@
                     "gamerTag": "#2RQQ9PGC"
                 },
                 {
-                    "name": "Tatsuki.💚",
-                    "gamerTag": "#C2RPQLRQ"
-                },
-                {
                     "name": "Yutapin",
                     "gamerTag": "#82CJYJPG2"
+                },
+                {
+                    "name": "FZ|Toridesu",
+                    "gamerTag": "#89UUQLJCC"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
-            "id": "fb1a8e10-668e-11f0-b5b3-06c972f0ca4f",
+            "id": "2306e18a-7058-11f0-b790-c20410e2c299",
             "tournament_id": 0,
             "name": "Rival Esports",
             "players": [
                 {
-                    "name": "Mameshi",
+                    "name": "GODの呼吸肆ノ型マメカミ神楽",
                     "gamerTag": "#2UQCRP90"
                 },
                 {
@@ -61,7 +61,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Rival Esports.webp"
         },
         {
-            "id": "fb1b5548-668e-11f0-9b54-06c972f0ca4f",
+            "id": "aa1fd442-7058-11f0-bbb1-3a6800809723",
             "tournament_id": 0,
             "name": "NIWA",
             "players": [
@@ -81,7 +81,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/NIWA.png"
         },
         {
-            "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
+            "id": "2307f7f0-7058-11f0-8e94-c20410e2c299",
             "tournament_id": 0,
             "name": "ZETA DIVISION",
             "players": [
@@ -90,18 +90,18 @@
                     "gamerTag": "#P90RJQ8C"
                 },
                 {
-                    "name": "あの頃のしてたんぽ👍",
-                    "gamerTag": "#8Y98Q8U"
-                },
-                {
                     "name": "すっぽん",
                     "gamerTag": "#29UGLJV2G"
+                },
+                {
+                    "name": "ER|Naipishu",
+                    "gamerTag": "#2G2P99ULJP"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/ZETA DIVISION.png"
         },
         {
-            "id": "fb19d04c-668e-11f0-8fce-06c972f0ca4f",
+            "id": "aa1f4004-7058-11f0-a0e6-3a6800809723",
             "tournament_id": 0,
             "name": "Gen.G Esports",
             "players": [
@@ -121,7 +121,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Gen.G Esports.png"
         },
         {
-            "id": "fb1c63f2-668e-11f0-979e-06c972f0ca4f",
+            "id": "23085bb4-7058-11f0-b357-c20410e2c299",
             "tournament_id": 0,
             "name": "NAVI",
             "players": [
@@ -141,7 +141,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/NAVI.png"
         },
         {
-            "id": "fb1bb272-668e-11f0-b8e0-06c972f0ca4f",
+            "id": "aa207078-7058-11f0-812e-3a6800809723",
             "tournament_id": 0,
             "name": "Crazy Raccoon",
             "players": [
@@ -213,12 +213,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "fb1afe40-668e-11f0-8ee3-06c972f0ca4f",
-                "name": "REJECT"
+                "id": "2307917a-7058-11f0-85c4-c20410e2c299",
+                "name": "REJECT",
+                "seed": 1
             },
             "opponent2": {
-                "id": "fa4a2f4a-668e-11f0-850b-06c972f0ca4f",
-                "name": "GoNext"
+                "id": "aa1e6e22-7058-11f0-9e4f-3a6800809723",
+                "name": "GoNext",
+                "seed": 8
             },
             "match_games": []
         },
@@ -231,12 +233,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "fb1a8e10-668e-11f0-b5b3-06c972f0ca4f",
-                "name": "Rival Esports"
+                "id": "2306e18a-7058-11f0-b790-c20410e2c299",
+                "name": "Rival Esports",
+                "seed": 4
             },
             "opponent2": {
-                "id": "fb1b5548-668e-11f0-9b54-06c972f0ca4f",
-                "name": "NIWA"
+                "id": "aa1fd442-7058-11f0-bbb1-3a6800809723",
+                "name": "NIWA",
+                "seed": 5
             },
             "match_games": []
         },
@@ -249,12 +253,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "fb1c0196-668e-11f0-9b1f-06c972f0ca4f",
-                "name": "ZETA DIVISION"
+                "id": "2307f7f0-7058-11f0-8e94-c20410e2c299",
+                "name": "ZETA DIVISION",
+                "seed": 2
             },
             "opponent2": {
-                "id": "fb19d04c-668e-11f0-8fce-06c972f0ca4f",
-                "name": "Gen.G Esports"
+                "id": "aa1f4004-7058-11f0-a0e6-3a6800809723",
+                "name": "Gen.G Esports",
+                "seed": 7
             },
             "match_games": []
         },
@@ -267,12 +273,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "fb1c63f2-668e-11f0-979e-06c972f0ca4f",
-                "name": "NAVI"
+                "id": "23085bb4-7058-11f0-b357-c20410e2c299",
+                "name": "NAVI",
+                "seed": 3
             },
             "opponent2": {
-                "id": "fb1bb272-668e-11f0-b8e0-06c972f0ca4f",
-                "name": "Crazy Raccoon"
+                "id": "aa207078-7058-11f0-812e-3a6800809723",
+                "name": "Crazy Raccoon",
+                "seed": 6
             },
             "match_games": []
         },
