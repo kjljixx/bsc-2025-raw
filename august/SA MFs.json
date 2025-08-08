@@ -1,7 +1,7 @@
 {
     "participant": [
         {
-            "id": "e6ab4652-6690-11f0-8707-06c972f0ca4f",
+            "id": "050c4590-70a7-11f0-ad75-c20410e2c299",
             "tournament_id": 0,
             "name": "LOUD",
             "players": [
@@ -21,7 +21,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/LOUD.png"
         },
         {
-            "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
+            "id": "050dd086-70a7-11f0-9c68-c20410e2c299",
             "tournament_id": 0,
             "name": "Agorasim3",
             "players": [
@@ -41,7 +41,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
-            "id": "e6aab084-6690-11f0-8988-06c972f0ca4f",
+            "id": "050b717e-70a7-11f0-8de3-c20410e2c299",
             "tournament_id": 0,
             "name": "Fênix",
             "players": [
@@ -61,7 +61,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
-            "id": "e6aafae4-6690-11f0-831d-06c972f0ca4f",
+            "id": "050bd38a-70a7-11f0-b76b-c20410e2c299",
             "tournament_id": 0,
             "name": "CASA BRAWL",
             "players": [
@@ -81,7 +81,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/CASA BRAWL.png"
         },
         {
-            "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
+            "id": "050af67c-70a7-11f0-b682-c20410e2c299",
             "tournament_id": 0,
             "name": "SKCalalas SA",
             "players": [
@@ -101,7 +101,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/SKCalalas SA.png"
         },
         {
-            "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
+            "id": "050a4aa6-70a7-11f0-8c77-c20410e2c299",
             "tournament_id": 0,
             "name": "UNNAMED F/A",
             "players": [
@@ -121,7 +121,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
-            "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
+            "id": "050d35ea-70a7-11f0-b3ec-c20410e2c299",
             "tournament_id": 0,
             "name": "Alpha7 Esports",
             "players": [
@@ -141,7 +141,7 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Alpha7 Esports.png"
         },
         {
-            "id": "e6ab8f18-6690-11f0-9a96-06c972f0ca4f",
+            "id": "050cbe4e-70a7-11f0-a909-c20410e2c299",
             "tournament_id": 0,
             "name": "BC* Gaming SA",
             "players": [
@@ -213,12 +213,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "e6ab4652-6690-11f0-8707-06c972f0ca4f",
-                "name": "LOUD"
+                "id": "050c4590-70a7-11f0-ad75-c20410e2c299",
+                "name": "LOUD",
+                "seed": 1
             },
             "opponent2": {
-                "id": "07ca6c9a-6fcf-11f0-96e4-d21b0379af73",
-                "name": "Agorasim3"
+                "id": "050dd086-70a7-11f0-9c68-c20410e2c299",
+                "name": "Agorasim3",
+                "seed": 8
             },
             "match_games": []
         },
@@ -231,12 +233,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "e6aab084-6690-11f0-8988-06c972f0ca4f",
-                "name": "Fênix"
+                "id": "050b717e-70a7-11f0-8de3-c20410e2c299",
+                "name": "Fênix",
+                "seed": 4
             },
             "opponent2": {
-                "id": "e6aafae4-6690-11f0-831d-06c972f0ca4f",
-                "name": "CASA BRAWL"
+                "id": "050bd38a-70a7-11f0-b76b-c20410e2c299",
+                "name": "CASA BRAWL",
+                "seed": 5
             },
             "match_games": []
         },
@@ -249,12 +253,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "e6aa6a8e-6690-11f0-bf4c-06c972f0ca4f",
-                "name": "SKCalalas SA"
+                "id": "050af67c-70a7-11f0-b682-c20410e2c299",
+                "name": "SKCalalas SA",
+                "seed": 2
             },
             "opponent2": {
-                "id": "e6a84fb0-6690-11f0-be2f-06c972f0ca4f",
-                "name": "UNNAMED F/A"
+                "id": "050a4aa6-70a7-11f0-8c77-c20410e2c299",
+                "name": "UNNAMED F/A",
+                "seed": 7
             },
             "match_games": []
         },
@@ -267,12 +273,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "e6abd6d0-6690-11f0-84d0-06c972f0ca4f",
-                "name": "Alpha7 Esports"
+                "id": "050d35ea-70a7-11f0-b3ec-c20410e2c299",
+                "name": "Alpha7 Esports",
+                "seed": 3
             },
             "opponent2": {
-                "id": "e6ab8f18-6690-11f0-9a96-06c972f0ca4f",
-                "name": "BC* Gaming SA"
+                "id": "050cbe4e-70a7-11f0-a909-c20410e2c299",
+                "name": "BC* Gaming SA",
+                "seed": 6
             },
             "match_games": []
         },
