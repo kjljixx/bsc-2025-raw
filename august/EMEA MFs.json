@@ -296,18 +296,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ad3051b0-72ac-11f0-b16d-c20410e2c299",
                 "name": "Inner Circle",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ad341264-72ac-11f0-8060-c20410e2c299",
                 "name": "NOVO Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ad3051b0-72ac-11f0-b16d-c20410e2c299",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad341264-72ac-11f0-8060-c20410e2c299",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ad3051b0-72ac-11f0-b16d-c20410e2c299",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad341264-72ac-11f0-8060-c20410e2c299",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ad3051b0-72ac-11f0-b16d-c20410e2c299",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad341264-72ac-11f0-8060-c20410e2c299",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -363,7 +413,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "ad3051b0-72ac-11f0-b16d-c20410e2c299",
+                "name": "Inner Circle",
+                "seed": 4
             },
             "match_games": []
         },
