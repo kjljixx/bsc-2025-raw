@@ -721,18 +721,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ad347a92-72ac-11f0-90da-c20410e2c299",
                 "name": "SK Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ad33336c-72ac-11f0-a368-c20410e2c299",
                 "name": "HMBLE",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ad347a92-72ac-11f0-90da-c20410e2c299",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ad33336c-72ac-11f0-a368-c20410e2c299",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ad347a92-72ac-11f0-90da-c20410e2c299",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ad33336c-72ac-11f0-a368-c20410e2c299",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ad347a92-72ac-11f0-90da-c20410e2c299",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ad33336c-72ac-11f0-a368-c20410e2c299",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
