@@ -366,18 +366,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ad33336c-72ac-11f0-a368-c20410e2c299",
                 "name": "HMBLE",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ad32c468-72ac-11f0-9d72-c20410e2c299",
                 "name": "Papara SuperMassive",
-                "seed": 7
+                "seed": 7,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ad33336c-72ac-11f0-a368-c20410e2c299",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ad32c468-72ac-11f0-9d72-c20410e2c299",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ad33336c-72ac-11f0-a368-c20410e2c299",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad32c468-72ac-11f0-9d72-c20410e2c299",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ad33336c-72ac-11f0-a368-c20410e2c299",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad32c468-72ac-11f0-9d72-c20410e2c299",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ad33336c-72ac-11f0-a368-c20410e2c299",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad32c468-72ac-11f0-9d72-c20410e2c299",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -428,7 +493,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ad33336c-72ac-11f0-a368-c20410e2c299",
+                "name": "HMBLE",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
