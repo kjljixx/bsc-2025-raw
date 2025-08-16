@@ -366,18 +366,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "050af67c-70a7-11f0-b682-c20410e2c299",
                 "name": "SKCalalas SA",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "050a4aa6-70a7-11f0-8c77-c20410e2c299",
                 "name": "UNNAMED F/A",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "050af67c-70a7-11f0-b682-c20410e2c299",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "050a4aa6-70a7-11f0-8c77-c20410e2c299",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "050af67c-70a7-11f0-b682-c20410e2c299",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "050a4aa6-70a7-11f0-8c77-c20410e2c299",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "050af67c-70a7-11f0-b682-c20410e2c299",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "050a4aa6-70a7-11f0-8c77-c20410e2c299",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -428,7 +478,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "050af67c-70a7-11f0-b682-c20410e2c299",
+                "name": "SKCalalas SA",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
