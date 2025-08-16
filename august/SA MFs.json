@@ -281,18 +281,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "050b717e-70a7-11f0-8de3-c20410e2c299",
                 "name": "Fênix",
-                "seed": 4
+                "seed": 4,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "050bd38a-70a7-11f0-b76b-c20410e2c299",
                 "name": "CASA BRAWL",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "050b717e-70a7-11f0-8de3-c20410e2c299",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "050bd38a-70a7-11f0-b76b-c20410e2c299",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "050b717e-70a7-11f0-8de3-c20410e2c299",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "050bd38a-70a7-11f0-b76b-c20410e2c299",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "050b717e-70a7-11f0-8de3-c20410e2c299",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "050bd38a-70a7-11f0-b76b-c20410e2c299",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "050b717e-70a7-11f0-8de3-c20410e2c299",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "050bd38a-70a7-11f0-b76b-c20410e2c299",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -348,7 +413,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "050bd38a-70a7-11f0-b76b-c20410e2c299",
+                "name": "CASA BRAWL",
+                "seed": 5
             },
             "match_games": []
         },
