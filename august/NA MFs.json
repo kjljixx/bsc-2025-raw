@@ -491,18 +491,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "13115370-70b5-11f0-9293-66037d8ec741",
                 "name": "Tribe Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "130fe454-70b5-11f0-9123-66037d8ec741",
                 "name": "Team Elektros",
-                "seed": 4
+                "seed": 4,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "13115370-70b5-11f0-9293-66037d8ec741",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "130fe454-70b5-11f0-9123-66037d8ec741",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "13115370-70b5-11f0-9293-66037d8ec741",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "130fe454-70b5-11f0-9123-66037d8ec741",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "13115370-70b5-11f0-9293-66037d8ec741",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "130fe454-70b5-11f0-9123-66037d8ec741",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "13115370-70b5-11f0-9293-66037d8ec741",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "130fe454-70b5-11f0-9123-66037d8ec741",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -533,7 +598,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "13115370-70b5-11f0-9293-66037d8ec741",
+                "name": "Tribe Gaming",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
